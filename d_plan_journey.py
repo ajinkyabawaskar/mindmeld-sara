@@ -2,31 +2,20 @@ from .root import app
 
 @app.handle(intent = 'confirm_destination')
 def get_destination(request, responder):
-    state = responder.frame.get('destination')
-    # if(state == "DESTINATION_CONFIRMED"):
-    #     responder.slots['destination'] = responder.frame.get('destination')
-    #     responder.reply("Hurrah! Your travel to {destination}, India is planned!")
-    # else:       
-    #     responder.reply("Please select a destination first!")
-    responder.reply("Confirm "+ str(state))
+    if(responder.frame.get('destination')):
+        responder.reply("Would you like to know how to get there?")
+    else:
+        responder.reply("You haven't chose a destination yet. ")
 
 @app.handle(intent = 'confirm_date')
 def set_destination(request, responder):
-    # state = responder.frame.get('destination')
-    # responder.reply("SET "+ str(state))
-    for entity in request.entities:
-        if(entity['type'] == 'sys_time'):
-    #         responder.frame['destination'] = entity['text']
-    #         responder.frame['state'] = "DESTINATION_CONFIRMED"
-            when = entity['text']
-    try:
-        responder.slots['when'] = when
-        responder.reply("Planning journey on {when}!")
-    except NameError:
-        responder.reply("CAn not get when")  
-    #     else:
-    #         responder.frame['state'] = "INITIALISED"
-    #         responder.reply("City not identified.")
+
+    if((len(request.entities) == 1) and request.entities[0]['type']=='sys_time'):
+        responder.slots['when'] = request.entities[0]['text']
+    else:
+        responder.slots['when'] = "Unable to get date"
+
+    responder.reply("Confirming - {when}")
 
 @app.handle(intent = 'plan_route')
 def send_route(request, responder):

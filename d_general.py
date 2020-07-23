@@ -8,8 +8,6 @@ def welcome(request, responder):
     prefix = " I am Sara, your virtual travel assistant! I'm here to help you plan your next visit to India. You can ask me "
     responder.reply(welcomes+prefix+can_ask)
 
-
-
 @app.handle(intent='help')
 def provide_help(request, responder):
     """
@@ -21,7 +19,6 @@ def provide_help(request, responder):
     replies = ["I can help you explore the real India! Try asking me about the best places to visit"]
     responder.reply(replies)
 
-
 @app.handle(intent='start_over')
 def start_over(request, responder):
     """
@@ -32,7 +29,6 @@ def start_over(request, responder):
     replies = ["Ok, let's start over!"]
     responder.reply(replies)
     responder.listen()
-
 
 @app.handle(intent='exit')
 def say_goodbye(request, responder):

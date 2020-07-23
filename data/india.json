@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "question" : "Tell me about India",
+        "answer" : "India, officially the Republic of India, is a country in South Asia. It is the second-most populous country, the seventh-largest country by area, and the most populous democracy in the world."
+    },
+    {
+        "id" : "2",
+        "question" : "Where is India",
+        "answer" :"India is located in southern Asia. It is bordered by the Arabian Sea, Laccadive Sea, and the Bay of Bengal to the south; Bhutan, Nepal, China, and Pakistan to the north; and Bangladesh and Myanmar (Burma) to the east. "
+    },
+    {
+        "id" : "3",
+        "question" : "When to visit India",
+        "answer" : "With a country this size, deciding on when to go to India is important. India’s weather is extremely varied across the different states, so you must take this into account when thinking about the best time to visit."
+    },
+    {
+        "id": "4",
+        "question" : "Why to visit India",
+        "answer" : "Few countries in the world carve such a deep, lasting impression on a traveller as India does. Sitting upon layers upon layers of history, there is perhaps no other country on Earth that is home to such marked contrasts as India is. India overloads the senses with its cacophony of sounds, its vibrant colours and its extreme contradictions. A trip to India is full of the unexpected but one thing’s certain: you won’t return home quite the same after the adventure!"
+    },
+    {
+        "id" : "5",
+        "question" : "How to visit India",
+        "answer" : "You can take a flight to Mumbai (one of the largest cities) or Delhi (the capital city), depending upon where you want to travel. India has great connectivity options like railways and highways to choose from."
+    },
+    {
+        "id": "6",
+        "question" : "Where to visit in India",
+        "answer" : "Delhi - Red Fort, Jama Masjid Mosque & Rajpath, Jaipur - 'Pink City' & 18th century observatory, Goa - Beaches and Old Goa colonial architecture, Agra - Iconic Taj Mahal mausoleum."
+    },
+    {
+        "id" : "7",
+        "question" : "Things to do in India",
+        "answer" : "Explore the temples. Trek in the Himalayas. Seek out an earthly paradise. Ride the rails. Find inner peace. Celebrate the world's most colourful festivals. Sleep under the stars in the Rajasthan desert."
+    },
+    {
+        "id" : "8",
+        "question" : "Food in India",
+        "answer" : "Indian food is different from rest of the world not only in taste but also in cooking methods. It reflects a perfect blend of various cultures and ages. Just like Indian culture, food in India has also been influenced by various civilizations, which have contributed their share in its overall development and the present form. Foods of India are better known for its spiciness. Throughout India, be it North India or South India, spices are used generously in food. But one must not forget that every single spice used in Indian dishes carries some or the other nutritional as well as medicinal properties."
+    }
+]

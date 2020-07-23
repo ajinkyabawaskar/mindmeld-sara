@@ -1,0 +1,7 @@
+# These files are generated automatically upon executing build
+
+# Ignoring cache
+__pycache__/*
+
+# Ignoring the generated pickle files
+.generated/*

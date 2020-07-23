@@ -1,0 +1,504 @@
+﻿﻿Have I booked a hotel yet?
+booked a hotel?
+booked a lodge?
+reservation at hotel?
+reservation at lodge
+Tell me have I booked a hotel yet?
+Can you tell me whether I booked a hotel or not?
+What about my stay?
+where am i going to stay
+where am i going to crash
+where am i going to live
+where is my hotel
+where are we going to stay
+where are we going to live
+where are we going to crash
+where is our hotel
+What about my accomodation ?
+Tell me about my hotel booking status
+Can you tell me about my hotel booking status?
+Have you done hotel booking for me?
+Am I done with the hotel booking?
+Which hotel did I book?
+In which hotel will I be staying?
+Notify me about the hotel booking status
+Tell me where I've booked hotel
+Have I planned my accomodation yet
+Where will i be staying
+Which hotel have I booked
+Have I booked a hotel room  yet?
+Tell me have I booked a hotel room yet?
+Can you tell me whether I booked a hotel room or not?
+What about my stay at hotel 
+Tell me about my hotel room booking status
+Can you tell me about my hotel room booking status?
+Have you done hotel room booking for me?
+Am I done with the hotel room booking?
+Which hotel's room did I book?
+In which hotel room will I be staying?
+Notify me about the hotel room booking status
+Tell me where I've booked hotel room
+Which hotel room have I booked
+Have I booked a home stay yet
+In which home I will be staying
+In whose home will I be staying
+Have you booked the home stay for me
+Which hotel did I choose
+Which hotel have I chosen
+Tell me which hotel have I chosen
+Tell me which hotel did I choose
+Can you tell me which hotel have I chosen
+Can you tell me which hotel did I choose to stay
+I will be staying at which hotel
+I'll be staying at which hotel
+Where am I gonna stay
+In which hotel I am gonna stay
+In which hotel am I going to stay
+Can you tell me in which hotel am I going to stay
+Can you tell me in  which hotel am I gonna stay
+Please tell me where I am going to stay
+Please tell me where am I gonna stay
+tell me in which hotel am I going to stay
+tell me in  which hotel am I gonna stay
+Tell me where I am gonna stay
+Please tell me where am I gonna stay
+Can you tell me where am I gonna stay
+Inform me about my hotel booking status
+Inform me about my hotel room booking
+Inform me about my accomodation planning
+Have I booked a lodge yet?
+Tell me have I booked a lodge yet?
+Can you tell me whether I booked a lodge or not?
+Tell me about my lodge booking status
+Can you tell me about my lodge booking status?
+Have you done lodge booking for me?
+Am I done with the lodge booking?
+Which lodge did I book?
+In which lodge will I be staying?
+Notify me about the lodge booking status
+Tell me where I've booked lodge
+Which lodge have I booked
+Have I booked a homestay yet?
+Tell me have I booked a homestay yet?
+Can you tell me whether I booked a homestay or not?
+Tell me about my homestay booking status
+Can you tell me about my honestay booking status?
+Have you done homestay booking for me?
+Am I done with the homestay booking?
+Which homestay did I book?
+Notify me about the homestay booking status
+Tell me where I've booked homestay
+﻿Have I booked a hotel yet?
+Tell me have I booked a hotel yet?
+Can you tell me whether I booked a hotel or not?
+What about my stay?
+What about my accomodation ?
+Tell me about my hotel booking status
+Can you tell me about my hotel booking status?
+Have you done hotel booking for me?
+Am I done with the hotel booking?
+Which hotel did I book?
+In which hotel will I be staying?
+Notify me about the hotel booking status
+Tell me where I've booked hotel
+Have I planned my accomodation yet
+Where will i be staying
+Which hotel have I booked
+Have I booked a hotel room  yet?
+Tell me have I booked a hotel room yet?
+Can you tell me whether I booked a hotel room or not?
+What about my stay at hotel 
+Tell me about my hotel room booking status
+Can you tell me about my hotel room booking status?
+Have you done hotel room booking for me?
+Am I done with the hotel room booking?
+Which hotel's room did I book?
+In which hotel room will I be staying?
+Notify me about the hotel room booking status
+Tell me where I've booked hotel room
+Which hotel room have I booked
+Have I booked a home stay yet
+In which home I will be staying
+In whose home will I be staying
+Have you booked the home stay for me
+Which hotel did I choose
+Which hotel have I chosen
+Tell me which hotel have I chosen
+Tell me which hotel did I choose
+Can you tell me which hotel have I chosen
+Can you tell me which hotel did I choose to stay
+I will be staying at which hotel
+I'll be staying at which hotel
+Where am I gonna stay
+In which hotel I am gonna stay
+In which hotel am I going to stay
+Can you tell me in which hotel am I going to stay
+Can you tell me in  which hotel am I gonna stay
+Please tell me where I am going to stay
+Please tell me where am I gonna stay
+tell me in which hotel am I going to stay
+tell me in  which hotel am I gonna stay
+Tell me where I am gonna stay
+Please tell me where am I gonna stay
+Can you tell me where am I gonna stay
+Inform me about my hotel booking status
+Inform me about my hotel room booking
+Inform me about my accomodation planning
+Have I booked a lodge yet?
+Tell me have I booked a lodge yet?
+Can you tell me whether I booked a lodge or not?
+Tell me about my lodge booking status
+Can you tell me about my lodge booking status?
+Have you done lodge booking for me?
+Am I done with the lodge booking?
+Which lodge did I book?
+In which lodge will I be staying?
+Notify me about the lodge booking status
+Tell me where I've booked lodge
+Which lodge have I booked
+Have I booked a homestay yet?
+Tell me have I booked a homestay yet?
+Can you tell me whether I booked a homestay or not?
+Tell me about my homestay booking status
+Can you tell me about my honestay booking status?
+Have you done homestay booking for me?
+Am I done with the homestay booking?
+Which homestay did I book?
+Notify me about the homestay booking status
+Tell me where I've booked homestay
+﻿Have I booked a hotel yet?
+Tell me have I booked a hotel yet?
+Can you tell me whether I booked a hotel or not?
+What about my stay?
+What about my accomodation ?
+Tell me about my hotel booking status
+Can you tell me about my hotel booking status?
+Have you done hotel booking for me?
+Am I done with the hotel booking?
+Which hotel did I book?
+In which hotel will I be staying?
+Notify me about the hotel booking status
+Tell me where I've booked hotel
+Have I planned my accomodation yet
+Where will i be staying
+Which hotel have I booked
+Have I booked a hotel room  yet?
+Tell me have I booked a hotel room yet?
+Can you tell me whether I booked a hotel room or not?
+What about my stay at hotel 
+Tell me about my hotel room booking status
+Can you tell me about my hotel room booking status?
+Have you done hotel room booking for me?
+Am I done with the hotel room booking?
+Which hotel's room did I book?
+In which hotel room will I be staying?
+Notify me about the hotel room booking status
+Tell me where I've booked hotel room
+Which hotel room have I booked
+Have I booked a home stay yet
+In which home I will be staying
+In whose home will I be staying
+Have you booked the home stay for me
+Which hotel did I choose
+Which hotel have I chosen
+Tell me which hotel have I chosen
+Tell me which hotel did I choose
+Can you tell me which hotel have I chosen
+Can you tell me which hotel did I choose to stay
+I will be staying at which hotel
+I'll be staying at which hotel
+Where am I gonna stay
+In which hotel I am gonna stay
+In which hotel am I going to stay
+Can you tell me in which hotel am I going to stay
+Can you tell me in  which hotel am I gonna stay
+Please tell me where I am going to stay
+Please tell me where am I gonna stay
+tell me in which hotel am I going to stay
+tell me in  which hotel am I gonna stay
+Tell me where I am gonna stay
+Please tell me where am I gonna stay
+Can you tell me where am I gonna stay
+Inform me about my hotel booking status
+Inform me about my hotel room booking
+Inform me about my accomodation planning
+Have I booked a lodge yet?
+Tell me have I booked a lodge yet?
+Can you tell me whether I booked a lodge or not?
+Tell me about my lodge booking status
+Can you tell me about my lodge booking status?
+Have you done lodge booking for me?
+Am I done with the lodge booking?
+Which lodge did I book?
+In which lodge will I be staying?
+Notify me about the lodge booking status
+Tell me where I've booked lodge
+Which lodge have I booked
+Have I booked a homestay yet?
+Tell me have I booked a homestay yet?
+Can you tell me whether I booked a homestay or not?
+Tell me about my homestay booking status
+Can you tell me about my honestay booking status?
+Have you done homestay booking for me?
+Am I done with the homestay booking?
+Which homestay did I book?
+Notify me about the homestay booking status
+Tell me where I've booked homestay
+﻿Have I booked a hotel yet?
+Tell me have I booked a hotel yet?
+Can you tell me whether I booked a hotel or not?
+What about my stay?
+What about my accomodation ?
+Tell me about my hotel booking status
+Can you tell me about my hotel booking status?
+Have you done hotel booking for me?
+Am I done with the hotel booking?
+Which hotel did I book?
+In which hotel will I be staying?
+Notify me about the hotel booking status
+Tell me where I've booked hotel
+Have I planned my accomodation yet
+Where will i be staying
+Which hotel have I booked
+Have I booked a hotel room  yet?
+Tell me have I booked a hotel room yet?
+Can you tell me whether I booked a hotel room or not?
+What about my stay at hotel 
+Tell me about my hotel room booking status
+Can you tell me about my hotel room booking status?
+Have you done hotel room booking for me?
+Am I done with the hotel room booking?
+Which hotel's room did I book?
+In which hotel room will I be staying?
+Notify me about the hotel room booking status
+Tell me where I've booked hotel room
+Which hotel room have I booked
+Have I booked a home stay yet
+In which home I will be staying
+In whose home will I be staying
+Have you booked the home stay for me
+Which hotel did I choose
+Which hotel have I chosen
+Tell me which hotel have I chosen
+Tell me which hotel did I choose
+Can you tell me which hotel have I chosen
+Can you tell me which hotel did I choose to stay
+I will be staying at which hotel
+I'll be staying at which hotel
+Where am I gonna stay
+In which hotel I am gonna stay
+In which hotel am I going to stay
+Can you tell me in which hotel am I going to stay
+Can you tell me in  which hotel am I gonna stay
+Please tell me where I am going to stay
+Please tell me where am I gonna stay
+tell me in which hotel am I going to stay
+tell me in  which hotel am I gonna stay
+Tell me where I am gonna stay
+Please tell me where am I gonna stay
+Can you tell me where am I gonna stay
+Inform me about my hotel booking status
+Inform me about my hotel room booking
+Inform me about my accomodation planning
+Have I booked a lodge yet?
+Tell me have I booked a lodge yet?
+Can you tell me whether I booked a lodge or not?
+Tell me about my lodge booking status
+Can you tell me about my lodge booking status?
+Have you done lodge booking for me?
+Am I done with the lodge booking?
+Which lodge did I book?
+In which lodge will I be staying?
+Notify me about the lodge booking status
+Tell me where I've booked lodge
+Which lodge have I booked
+Have I booked a homestay yet?
+Tell me have I booked a homestay yet?
+Can you tell me whether I booked a homestay or not?
+Tell me about my homestay booking status
+Can you tell me about my honestay booking status?
+Have you done homestay booking for me?
+Am I done with the homestay booking?
+Which homestay did I book?
+Notify me about the homestay booking status
+Tell me where I've booked homestay
+﻿Have I booked a hotel yet?
+Tell me have I booked a hotel yet?
+Can you tell me whether I booked a hotel or not?
+What about my stay?
+What about my accomodation ?
+Tell me about my hotel booking status
+Can you tell me about my hotel booking status?
+Have you done hotel booking for me?
+Am I done with the hotel booking?
+Which hotel did I book?
+In which hotel will I be staying?
+Notify me about the hotel booking status
+Tell me where I've booked hotel
+Have I planned my accomodation yet
+Where will i be staying
+Which hotel have I booked
+Have I booked a hotel room  yet?
+Tell me have I booked a hotel room yet?
+Can you tell me whether I booked a hotel room or not?
+What about my stay at hotel 
+Tell me about my hotel room booking status
+Can you tell me about my hotel room booking status?
+Have you done hotel room booking for me?
+Am I done with the hotel room booking?
+Which hotel's room did I book?
+In which hotel room will I be staying?
+Notify me about the hotel room booking status
+Tell me where I've booked hotel room
+Which hotel room have I booked
+Have I booked a home stay yet
+In which home I will be staying
+In whose home will I be staying
+Have you booked the home stay for me
+Which hotel did I choose
+Which hotel have I chosen
+Tell me which hotel have I chosen
+Tell me which hotel did I choose
+Can you tell me which hotel have I chosen
+Can you tell me which hotel did I choose to stay
+I will be staying at which hotel
+I'll be staying at which hotel
+Where am I gonna stay
+In which hotel I am gonna stay
+In which hotel am I going to stay
+Can you tell me in which hotel am I going to stay
+Can you tell me in  which hotel am I gonna stay
+Please tell me where I am going to stay
+Please tell me where am I gonna stay
+tell me in which hotel am I going to stay
+tell me in  which hotel am I gonna stay
+Tell me where I am gonna stay
+Please tell me where am I gonna stay
+Can you tell me where am I gonna stay
+Inform me about my hotel booking status
+Inform me about my hotel room booking
+Inform me about my accomodation planning
+Have I booked a lodge yet?
+Tell me have I booked a lodge yet?
+Can you tell me whether I booked a lodge or not?
+Tell me about my lodge booking status
+Can you tell me about my lodge booking status?
+Have you done lodge booking for me?
+Am I done with the lodge booking?
+Which lodge did I book?
+In which lodge will I be staying?
+Notify me about the lodge booking status
+Tell me where I've booked lodge
+Which lodge have I booked
+Have I booked a homestay yet?
+Tell me have I booked a homestay yet?
+Can you tell me whether I booked a homestay or not?
+Tell me about my homestay booking status
+Can you tell me about my honestay booking status?
+Have you done homestay booking for me?
+Am I done with the homestay booking?
+Which homestay did I book?
+Notify me about the homestay booking status
+Tell me where I've booked homestay
+﻿Have I booked a hotel yet?
+Tell me have I booked a hotel yet?
+Can you tell me whether I booked a hotel or not?
+What about my stay?
+What about my accomodation ?
+Tell me about my hotel booking status
+Can you tell me whether I booked a hotel room or not?
+What about my stay at hotel 
+Tell me about my hotel room booking status
+Can you tell me about my hotel room booking status?
+Have you done hotel room booking for me?
+Am I done with the hotel room booking?
+Which hotel's room did I book?
+In which hotel room will I be staying?
+Notify me about the hotel room booking status
+Tell me where I've booked hotel room
+Which hotel room have I booked
+Have I booked a home stay yet
+In which home I will be staying
+In whose home will I be staying
+Have you booked the home stay for me
+Which hotel did I choose
+Which hotel have I chosen
+Tell me which hotel have I chosen
+Tell me which hotel did I choose
+Can you tell me which hotel have I chosen
+Can you tell me which hotel did I choose to stay
+I will be staying at which hotel
+I'll be staying at which hotel
+Where am I gonna stay
+In which hotel I am gonna stay
+In which hotel am I going to stay
+Can you tell me in which hotel am I going to stay
+Can you tell me in  which hotel am I gonna stay
+Please tell me where I am going to stay
+Please tell me where am I gonna stay
+tell me in which hotel am I going to stay
+tell me in  which hotel am I gonna stay
+Tell me where I am gonna stay
+Please tell me where am I gonna stay
+Can you tell me where am I gonna stay
+Inform me about my hotel booking status
+Inform me about my hotel room booking
+Inform me about my accomodation planning
+Have I booked a lodge yet?
+Tell me have I booked a lodge yet?
+Can you tell me whether I booked a lodge or not?
+Tell me about my lodge booking status
+Can you tell me about my lodge booking status?
+Have you done lodge booking for me?
+Am I done with the lodge booking?
+Which lodge did I book?
+In which lodge will I be staying?
+Notify me about the lodge booking status
+Tell me where I've booked lodge
+Which lodge have I booked
+Have I booked a homestay yet?
+Tell me have I booked a homestay yet?
+Can you tell me whether I booked a homestay or not?
+Tell me about my homestay booking status
+Can you tell me about my honestay booking status?
+Have you done homestay booking for me?
+Am I done with the homestay booking?
+Which homestay did I book?
+Notify me about the homestay booking status
+Tell me where I've booked homestay
+﻿Have I booked a hotel yet?
+Tell me have I booked a hotel yet?
+Can you tell me whether I booked a hotel or not?
+What about my stay?
+What about my accomodation ?
+Tell me about my hotel booking status
+Can you tell me about my hotel booking status?
+Have you done hotel booking for me?
+Am I done with the hotel booking?
+Which hotel did I book?
+In which hotel will I be staying?
+Notify me about the hotel booking status
+Tell me where I've booked hotel
+Have I planned my accomodation yet
+Where will i be staying
+Which hotel have I booked
+Have I booked a hotel room  yet?
+Tell me have I booked a hotel room yet?
+Can you tell me whether I booked a hotel room or not?
+What about my stay at hotel 
+Tell me about my hotel room booking status
+Can you tell me about my hotel room booking status?
+Have you done hotel room booking for me?
+Am I done with the hotel room booking?
+Which hotel's room did I book?
+In which hotel room will I be staying?
+Notify me about the hotel room booking status
+Tell me where I've booked hotel room
+Which hotel room have I booked
+Have I booked a home stay yet
+In which home I will be staying
+In whose home will I be staying
+Have you booked the home stay for me
+Which hotel did I choose
+Which hotel have I chosen
+Tell me which hotel have I chosen

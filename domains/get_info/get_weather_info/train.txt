@@ -1,0 +1,64 @@
+how is the weather like in {Howrah|location} {today|sys_time}
+whats the weather in {West Singhbhum|location} {today|sys_time}
+does it rain a lot in {Shahdol|location} {today|sys_time}
+is it very hot in {Cooch Behar|location} {today|sys_time}
+is it cold in {Jhunjhunu|location} {today|sys_time}
+how much does it rain in {South Garo Hills|location} {today|sys_time}
+what seasons are experienced in {Raebareli|location} {today|sys_time}
+is the weather harsh in {Aligarh|location} {today|sys_time}
+temperature in {Banda|location}
+Anybody notice the weather  {today|sys_time}
+Are the roads flooded  {today|sys_time}
+Awful weather  {today|sys_time}, isn’t it?
+Do you know the weather forecast for {today|sys_time}?
+Do I need to carry an umbrella {today|sys_time}?
+Do I need to carry an umbrella  {today|sys_time}?
+How is the weather  {today|sys_time}?
+How cold is it going to get  {today|sys_time}?
+How cold is it going to be  {today|sys_time}?
+How hot is it going to get  {today|sys_time}?
+How hot is it going to be  {today|sys_time}?
+How humid is it going to get  {today|sys_time}?
+How humid is it going to be  {today|sys_time}?
+How rainy is it going to be  {today|sys_time}?
+How rainy is it going to be  {today|sys_time}?
+How’s the weather  {today|sys_time}?
+How's the weather out in the country  {today|sys_time}?
+I wonder if there will be a storm  {today|sys_time}?
+Is it cold outside  {today|sys_time}?
+Is it expected to rain {today|sys_time}?
+Is it expected to snow {today|sys_time}?
+Is it snowing outside {today|sys_time}?
+Is it warm or cold {today|sys_time}?
+Is it windy out {today|sys_time}?
+It is so cloudy  {today|sys_time}, isn’t it?
+It is so sunny  {today|sys_time}, isn’t it?
+Is there much flooding on the roads  {today|sys_time}?
+Lovely day  {today|sys_time}, huh?
+Nice weather  {today|sys_time}, isn’t it?
+So, what will the weather be like  {today|sys_time}?
+Tell me, what is the weather like  {today|sys_time}?
+Terrible weather  {today|sys_time}, isn’t it?
+The forecast  {today|sys_time}?
+What do you think the weather looks like  {today|sys_time}?
+What is the humidity level right now {today|sys_time}?
+What is the temperature outside {today|sys_time}?
+What is the temperature {today|sys_time}?
+What is the weather expected to be like  {today|sys_time}?
+What is the weather forecast saying  {today|sys_time}?
+What is the weather forecast  {today|sys_time}?
+What is the weather  {today|sys_time}?
+What temperature do you think it is  {today|sys_time}?
+What’s it like out there  {today|sys_time}?
+What’s it like out  {today|sys_time}?
+What's the humidity level right now?
+What’s the temperature like out there {today|sys_time}?
+What’s the temperature like  {today|sys_time}?
+What’s the temperature today  {today|sys_time}?
+What’s the temperature {today|sys_time}?
+What’s the weather forecast {today|sys_time}?
+What’s the weather like {today|sys_time}?
+What's the forecast like {today|sys_time}?
+What's the forecast {today|sys_time}?
+What's the weather like  {today|sys_time}?
+Will the weather keep up  {today|sys_time}?

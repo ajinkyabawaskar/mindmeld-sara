@@ -31,4 +31,8 @@ def send_route(request, responder):
         responder.slots['destination'] = destination
         responder.reply("Planning route from {source} to {destination}")
     except NameError:
-        responder.reply("CAn not get route")  
+        responder.reply("Can not get route")  
+
+@app.handle(intent = 'get_ticket_status')
+def send_ticket_status(request, responder):
+    responder.reply("You are asking about your ticket")

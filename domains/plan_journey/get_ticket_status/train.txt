@@ -40,17 +40,273 @@ track my bus
 track my train 
 show booking status
 update pnr status
-update PNR {8975846823|PNR} status
+update PNR {8975846823|sys_number} status
 show my all bookings
 can you tell about my travel bookings
-update me about my journey from {Mumbai|city} to {shegaon|village} 
-check my PNR for travelling to {Mumbai|city}
-can you tell me my flight status to {Indore|city}
-check my PNR from {Mumbai|city} to {shegaon|village} 
-track my train from {Mumbai|city} to {shegaon|village} 
-track my train from {shegaon|village} to {Mumbai|city} 
-check my bus tickets from {shegaon|village} to {Mumbai|city} 
-check my travel bookings for {shegaon|village} to {nandura|village}
+update me about my journey from {Naninital|location} to {South Delhi|location} 
+check my PNR for travelling to {Baroda|location}
+can you tell me my flight status to {Indore|location}
+check my PNR from {Delhi|location} to {Chandigarh|location} 
+track my train from {Banglore|location} to {Akola|location} 
+track my train from {Khandwa|location} to {AKola|location} 
+check my bus tickets from {Varanasi|location} to {Latur|location} 
+check my travel bookings for {Chennai|location} to {nandura|location}
+is my train tickets confirmed?
+is my bus tickets confirmed?
+is my flight tickets confirmed?
+what is my ticket status?
+what is my ticket status
+what is my tkt status
+wht is my tkt status
+wht is my ticket status
+what is my ticket stats
+what's my ticket status
+whats my ticket status
+whats my tkt status
+what's my tkt status?
+ticket status?
+ticket status??
+ticket status
+tkt status?
+tkt status please
+ticket status pls
+tell me my ticket status
+update me about my ticket status
+updt me abt my tkt status
+update me abt tkt sttatus
+update me abt tickt status
+my ticket stats
+my ticket status?
+my tkt status
+updt me about my ticket status
+update me abt my ticket status
+show me my ticket status details
+shw me tkt status
+show me my tkt 
+show tkt status
+ticjet dtl
+ticket dtls
+tckt status dtls
+tell me my ticket status 
+show me my travel booking status
+show me my travel booking status?
+tell me about my ticket bookings.
+tell me abt my ticket bookings.
+tell me about my tkt bookings.
+tell me abt my tkt bookings.
+show my travel booking
+shw my trvl bookings
+show my travel bokings
+show my trvll bookings
+tell me my travel plan details
+tell me my travl pln dtls
+show recent travel booking status
+shw recent travel booking status
+show recnt travel booking status
+show recent travl booking status
+show recnt travl status
+hi show me my travel booking status
+hi show me my travel booking status?
+hi tell me about my ticket bookings.
+hi tell me abt my ticket bookings.
+hii tell me about my tkt bookings.
+hii tell me abt my tkt bookings.
+hi show my travel booking
+hi shw my trvl bookings
+hi show my travel bokings
+hi show my trvll bookings
+hi tell me my travel plan details
+hi tell me my travl pln dtls
+show recent travel booking status
+shw recent travel booking status
+show recnt travel booking status
+show recent travl booking status
+show recnt travl status
+recent travel status
+recnet travl status
+can you share me my travel bookings
+can u share my travel bookings
+can u share my trvl bookings
+share trvl bookings
+whats my journey details
+wht my journey dtls
+hello please tell me about my bookings
+hi show me my travel booking
+hi, what is my ticket status?
+hii what is my ticket status
+hii what is my tkt status
+hii wht is my tkt status
+hii wht is my ticket status
+hii what is my ticket stats
+hii what's my ticket status
+hii whats my ticket status
+hii whats my tkt status
+hii what's my tkt status?
+hello what is my ticket status?
+hello what is my ticket status
+hello what is my tkt status
+hello wht is my tkt status
+hello wht is my ticket status
+hello what is my ticket stats
+hello what's my ticket status
+hello whats my ticket status
+hello whats my tkt status
+hello what's my tkt status?
+hello show me my travel booking status
+hello show me my travel booking status?
+hello tell me about my ticket bookings.
+hello tell me abt my ticket bookings.
+hello tell me about my tkt bookings.
+hello tell me abt my tkt bookings.
+hello show my travel booking
+hello shw my trvl bookings
+hello show my travel bokings
+hello show my trvll bookings
+hello tell me my travel plan details
+hello tell me my travl pln dtls
+hello show recent travel booking status
+hello shw recent travel booking status
+hello show recnt travel booking status
+hello show recent travl booking status
+hello show recnt travl status
+heyy show me my travel booking status
+heyy show me my travel booking status?
+heyy tell me about my ticket bookings.
+heyy tell me abt my ticket bookings.
+heyy tell me about my tkt bookings.
+heyy tell me abt my tkt bookings.
+heyy show my travel booking
+heyy shw my trvl bookings
+heyy show my travel bokings
+heyy show my trvll bookings
+heyy tell me my travel plan details
+heyy tell me my travl pln dtls
+heyy show recent travel booking status
+heyy shw recent travel booking status
+heyy show recnt travel booking status
+heyy show recent travl booking status
+heyy show recnt travl status
+can you show me my travel booking status
+can you show me my travel booking status?
+can you tell me about my ticket bookings.
+can you tell me abt my ticket bookings.
+can you tell me about my tkt bookings.
+can you tell me abt my tkt bookings.
+can you show my travel booking
+can you shw my trvl bookings
+can you show my travel bokings
+can you show my trvll bookings
+can you tell me my travel plan details
+can you tell me my travl pln dtls
+can you show recent travel booking status
+can you shw recent travel booking status
+can you show recnt travel booking status
+can you show recent travl booking status
+can you show recnt travl status
+please show me my travel booking status
+please show me my travel booking status?
+please tell me about my ticket bookings.
+please tell me abt my ticket bookings.
+please tell me about my tkt bookings.
+please tell me abt my tkt bookings.
+please show my travel booking
+please shw my trvl bookings
+please show my travel bokings
+please show my trvll bookings
+please tell me my travel plan details
+please tell me my travl pln dtls
+please show recent travel booking status
+please shw recent travel booking status
+please show recnt travel booking status
+please show recent travl booking status
+please show recnt travl status
+plss show me my travel booking status
+plss show me my travel booking status?
+plss tell me about my ticket bookings.
+plss tell me abt my ticket bookings.
+plss tell me about my tkt bookings.
+plss tell me abt my tkt bookings.
+plss show my travel booking
+plss shw my trvl bookings
+plss show my travel bokings
+plss show my trvll bookings
+plss tell me my travel plan details
+plss tell me my travl pln dtls
+plss show recent travel booking status
+plss shw recent travel booking status
+plss show recnt travel booking status
+plss show recent travl booking status
+plss show recnt travl status
+pls show me my travel booking status
+pls show me my travel booking status?
+pls tell me about my ticket bookings.
+pls tell me abt my ticket bookings.
+pls tell me about my tkt bookings.
+pls tell me abt my tkt bookings.
+pls show my travel booking
+pls shw my trvl bookings
+pls show my travel bokings
+pls show my trvll bookings
+pls tell me my travel plan details
+pls tell me my travl pln dtls
+pls show recent travel booking status
+pls shw recent travel booking status
+pls show recnt travel booking status
+pls show recent travl booking status
+pls show recnt travl status
+what are my travel details
+check my travel status
+check my PNR status
+check my flight details
+what is my flight details
+tell me my travel details
+what is my ticket booking status 
+what are my ticket booking status
+what is my booking status of travel
+show me my journey details
+update me about my travel plan
+show me my travel plan
+details about my travel booking
+check my flight status
+check my bus bookings
+what is booking status of bus
+is my booking cleared
+is my booking confirmed 
+show me my PNR status
+is train ticket cleared
+check my travel reservation
+show my train reservation details
+is my travel got confirmed?
+show my travel reservation
+status of my PNR
+wheather my reservation got cofirmed?
+check my travel details
+show travel details
+flight status
+flight booking status
+bus booking status
+check my train bookings
+track my travel bookings
+show my travel bookings
+tell journey details 
+what is my travel status?
+track my travel details
+track my flight
+track my bus
+track my train 
+show booking status
+update pnr status
+update PNR {8975846823|sys_number} status
+show my all bookings
+can you tell about my travel bookings
+update me about my journey from {North GOa|location} to {South Delhi|location} 
+check my PNR for travelling to {North Delhi|location}
+can you tell me my flight status to {Indore|location}
+check my PNR from {Amravati|location} to {South Delhi|location} 
+track my train from {Hyderabad|location} to {South Delhi|location} 
+track my train from {South Delhi|location} to {Ahmedabad|location} 
+check my bus tickets from {South Delhi|location} to {Aizawl|location} 
+check my travel bookings for {South Delhi|location} to {nandura|location}
 is my train tickets confirmed?
 is my bus tickets confirmed?
 is my flight tickets confirmed?

@@ -43,6 +43,7 @@ hardware_store
 hindu_temple
 home_goods_store
 hospital
+hospitals
 insurance_agency
 jewelry_store
 laundry

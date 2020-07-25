@@ -11,63 +11,63 @@
             "id": "2",
             "cname": "airport",
             "whitelist": [
-                "airport"
+                "airport", "airports"
             ]
         },
         {
             "id": "3",
             "cname": "amusement_park",
             "whitelist": [
-                "amusement_park"
+                "amusement park", "amusement parks"
             ]
         },
         {
             "id": "4",
             "cname": "aquarium",
             "whitelist": [
-                "aquarium"
+                "aquarium" ,"aquariums"
             ]
         },
         {
             "id": "5",
             "cname": "art_gallery",
             "whitelist": [
-                "art_gallery"
+                "art_gallery", "art gallery", "art galleries"
             ]
         },
         {
             "id": "6",
             "cname": "atm",
             "whitelist": [
-                "atm"
+                "atm" , "automated teller machine", "money", "cash", "atms"
             ]
         },
         {
             "id": "7",
             "cname": "bakery",
             "whitelist": [
-                "bakery"
+                "bakery", "cakes", "bakeries", "cookies"
             ]
         },
         {
             "id": "8",
             "cname": "bank",
             "whitelist": [
-                "bank"
+                "bank" ,"banks"
             ]
         },
         {
             "id": "9",
             "cname": "bar",
             "whitelist": [
-                "bar"
+                "bar" ,"alcohol", "bars", "wine bar"
             ]
         },
         {
             "id": "10",
             "cname": "beauty_salon",
             "whitelist": [
-                "beauty_salon"
+                "beauty_salon", "makeup", "make up", "salon", "hair cut"
             ]
         },
         {

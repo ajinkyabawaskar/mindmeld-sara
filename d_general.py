@@ -49,5 +49,3 @@ def say_unsupported(request, responder):
     """
     replies = ["Sorry, I can't answer this right away! My creators are still working on this :)"]
     responder.reply(replies)
-
-

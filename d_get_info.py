@@ -34,3 +34,39 @@ def _fetch_from_kb(responder, location):
     responder.slots['country'] = info['country']
     responder.slots['highlights'] = info['highlights'][0].capitalize() + ", "+ info['highlights'][1].capitalize() + " and "+ info['highlights'][2].capitalize() +"."
     return responder
+    
+    
+    
+@app.dialogue_flow(domain='get_info', intent='get_location_info')
+def send_location_info1(request, responder):
+    active_loc = None
+    loc_entity = next((e for e in request.entities if e['type'] == 'location'), None)
+    if loc_entity:
+        try:
+            loc = app.question_answerer.get(index='loc', id=loc_entity['value']['id'])
+        except TypeError:
+            # failed to resolve entity
+            loc = app.question_answerer.get(index='loc', loc_name=loc_entity['text'])
+        try:
+            active_loc = loc[0]
+            responder.frame['target_loc'] = active_loc
+        except IndexError:
+            # No active store... continue
+            pass
+    elif 'target_loc' in responder.frame:
+        active_loc = responder.frame['target_loc']
+
+    if active_loc:
+        responder.slots['loc_name'] = active_loc['loc_name']
+        responder.reply('Would you like to stay in {loc_name} hotels')
+        return
+
+    #responder.frame['count'] = responder.frame.get('count', 0) + 1
+
+   # if responder.frame['count'] <= 3:
+        #responder.reply('Which store would you like to know about?')
+       # responder.listen()
+    #else:
+        #responder.reply('Sorry I cannot help you. Please try again.')
+        #responder.exit_flow()
+

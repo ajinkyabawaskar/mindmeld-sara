@@ -1,5 +1,6 @@
 from .root import app 
-from .u_here_api import *
+# from sara.utilities.u_foursquare_api import 
+from .utilities.u_here_api import *
 
 @app.handle(intent = 'confirm_destination')
 def get_destination(request, responder):
@@ -47,5 +48,3 @@ def send_route(request, responder):
 @app.handle(intent = 'get_ticket_status')
 def send_ticket_status(request, responder):
     responder.reply("You are asking about your ticket")
-
-

@@ -1,0 +1,34 @@
+{
+    "items": [
+        {
+            "title": "Mumbai, Maharashtra, India",
+            "id": "here:cm:namedplace:22801847",
+            "resultType": "locality",
+            "localityType": "city",
+            "address": {
+                "label": "Mumbai, Maharashtra, India",
+                "countryCode": "IND",
+                "countryName": "India",
+                "state": "Maharashtra",
+                "county": "Mumbai Suburban",
+                "city": "Mumbai"
+            },
+            "position": {
+                "lat": 19.14045,
+                "lng": 72.88234
+            },
+            "mapView": {
+                "west": 72.77589,
+                "south": 18.98917,
+                "east": 72.98453,
+                "north": 19.26932
+            },
+            "scoring": {
+                "queryScore": 1.0,
+                "fieldScore": {
+                    "city": 1.0
+                }
+            }
+        }
+    ]
+}

@@ -1,4 +1,5 @@
 from .root import app 
+from .u_here_api import *
 
 @app.handle(intent = 'confirm_destination')
 def get_destination(request, responder):
@@ -19,7 +20,7 @@ def set_destination(request, responder):
 
 @app.handle(intent = 'plan_route')
 def send_route(request, responder):
-    when = ""
+    
     for entity in request.entities:
         if(entity['type'] == 'location'):
             if(entity['role'] == 'source'):
@@ -27,8 +28,24 @@ def send_route(request, responder):
             if(entity['role']=='destination'):
                 destination = entity['text']
     try:
-        responder.slots['source'] = source
-        responder.slots['destination'] = destination
-        responder.reply("Planning route from {source} to {destination}")
-    except NameError:
-        responder.reply("CAn not get route")  
+        # seeing if source and destination are there in query
+        source = source + " India"
+        destination = destination + " India"
+        source_c = _get_lat_lng(source)
+        destination_c = _get_lat_lng(destination)
+        # try:
+            # seeing if we got the ll
+            
+        responder.slots['a'] = source_c
+        responder.slots['b'] = destination_c
+        responder.reply('{a}{b}')
+    # else
+        # responder.reply("API Error!")
+    except:
+        responder.reply("Source/Destination missing")
+
+@app.handle(intent = 'get_ticket_status')
+def send_ticket_status(request, responder):
+    responder.reply("You are asking about your ticket")
+
+

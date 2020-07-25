@@ -1,6 +1,5 @@
 from .root import app 
-# from sara.utilities.u_foursquare_api import 
-from .utilities.u_here_api import *
+from .utilities.u_here_api import _get_transit_from_name
 
 @app.handle(intent = 'confirm_destination')
 def get_destination(request, responder):
@@ -30,20 +29,15 @@ def send_route(request, responder):
                 destination = entity['text']
     try:
         # seeing if source and destination are there in query
-        source = source + " India"
-        destination = destination + " India"
-        source_c = _get_lat_lng(source)
-        destination_c = _get_lat_lng(destination)
-        # try:
-            # seeing if we got the ll
-            
-        responder.slots['a'] = source_c
-        responder.slots['b'] = destination_c
-        responder.reply('{a}{b}')
-    # else
-        # responder.reply("API Error!")
+        route = _get_transit_from_name(source, destination)
+        if(route != False):
+            responder.slots['directions'] = "\n".join(route)
+        else:
+            responder.slots['directions'] = 'https://www.google.com/maps/dir/'+source+"/"+destination
+
+        responder.reply("Here's what I found: \n{directions}")
     except:
-        responder.reply("Source/Destination missing")
+        responder.reply("Oops! I can't find the locations :(\nCould you try again by including where you are and where you want to go?")
 
 @app.handle(intent = 'get_ticket_status')
 def send_ticket_status(request, responder):

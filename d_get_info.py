@@ -1,10 +1,9 @@
 from .root import app 
-from mindmeld.components import QuestionAnswerer
 
 @app.handle(intent='get_india_info')
 def send_india_info(request, responder):
     query = request.text
-    answers = app.question_answerer.build_search(index='india')
+    answers = app.question_answerer.get(index='india', query_type='text', question=query, answer = query)
     if answers:
         reply = ['Here is the top result:', answers[0]['question'], answers[0]['answer']]
         responder.reply('\n'.join(reply))

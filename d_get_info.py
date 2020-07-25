@@ -21,11 +21,13 @@ def send_location_info(request, responder):
     for entity in request.entities:
         if(entity['type'] == 'location'):
             queried_location = entity['text']
-            responder = _fetch_from_kb(responder, queried_location)
-            responder.frame['destination'] = queried_location
-            responder.reply("{destination}, {country} is known for its {highlights}")
+        if(entity['type'] == 'point_of_interest'):
+            poi = entity['text']
+            # responder = _fetch_from_kb(responder, queried_location)
+            # responder.frame['destination'] = queried_location
+            # responder.reply("{destination}, {country} is known for its {highlights}")
         else:
-            responder.reply("Not sure about your location")
+            responder.reply()
             responder.listen()
 
 def _fetch_from_kb(responder, location):

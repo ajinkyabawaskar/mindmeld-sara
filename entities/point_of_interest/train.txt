@@ -1,9 +1,0 @@
-hotel
-hotels
-restaurant
-lodge
-lodges
-college
-colleges
-museum
-museums

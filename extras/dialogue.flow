@@ -1,0 +1,3 @@
+responder.frame['destination'] = false
+responder.frame['hotel_status'] = false
+responder.frame['ticket_status'] = false

@@ -1,5 +1,5 @@
 why shouldn't i go to {Lawngtlai|location}
-what are the points of attraction in {Debagarh (Deogarh)|location}
+what are the   poi   in {Debagarh (Deogarh)|location}
 things to do in {Dhubri|location}
 things to look for {Khargone (West Nimar)|location}
 can you tell me about things to look for {Navsari|location}
@@ -13,7 +13,7 @@ hows {Tumkur|location}
 how's {Gumla|location}
 do you know about {Kamrup|location}
 please tell me about {Kulgam|location}
-tell about {Sri Muktsar Sahib|location}
+tell about   poi   in {Sri Muktsar Sahib|location}
 can i go to {Nandurbar|location}
 how is {Solan|location} to visit
 tell me something about {Kanshi Ram Nagar|location}
@@ -41,6 +41,7 @@ can you tell me about {Krishna|location}
 tell me more about {Gandhinagar|location}
 tell me about {Panchmahal|location}
 how is {Gaya|location}
+is there   poi   in {Pune|location}
 hows {Hingoli|location}
 how's {Bhadrak|location}
 do you know about {Korba|location}
@@ -127,7 +128,7 @@ why {banglore|location}
 why go {banglore|location}
 why not to go {banglore|location}
 why shouldn't i go to {banglore|location}
-what are the points of attraction in {banglore|location}
+what are the   poi   in {banglore|location}
 things to do in {banglore|location}
 things to look for {banglore|location}
 can you tell me about things to look for {banglore|location}
@@ -283,14 +284,13 @@ Famous places around {Jashpur|location}
 Which is nearest city to {Alirajpur|location}
 Which city is closest to {West Khasi Hills|location}
 Nearest metro city in {Vizianagaram|location}
-Are flights available in {Rajkot|location}
 How to reach nearest city from {Bhavnagar|location} 
 How to make reservations in {Bargarh (Baragarh)|location}
 Is {Mayurbhanj|location} always crowded
 Which month is best to visit {Banswara|location}
 How is the summer season of {Firozpur|location}
 Traditions at {Nellore|location}
-Are there any international restaurants in {Gadchiroli|location}
+Are there any   poi   in {Gadchiroli|location}
 Can I order cabs in {Ghaziabad|location}
 Can I order food {Dhubri|location} online
 What are some good food places in {Sri Muktsar Sahib|location}
@@ -312,7 +312,7 @@ Amazing facts about {Bahraich|location}
 Which is the nearest town to {Jamnagar|location}
 Fun facts about {Jind|location}
 What are your views about {Dibrugarh|location}
-Temples in {Rupnagar|location}
+  poi   in {Rupnagar|location}
 Places to visit in {Bangalore Urban|location} 
 What are some great ideas about {Kandhamal|location}
 Nature in {Jajpur|location}
@@ -320,4 +320,253 @@ Are there forests in {Chandrapur|location}
 What is it like to visit {Theni|location}
 How do I get to {Nalbari|location}
 What is special in {Azamgarh|location}
-How far is {Mumbai|location} from {Nagpur|location} 
+any {fire station|point of interest} recommendations in {Kolkata|location}
+best {locksmith|point of interest} in {Sahibganj|location}
+best {fire station|point of interest} nearest to {Korba|location}
+are there any good {funeral home|point of interest} in {Sonipat|location}
+any {museum|point of interest} recommendations in {Harda|location}
+nearest {pet store|point of interest} in {Singrauli|location}
+{beauty salon|point of interest} in {Tarn Taran|location}
+{post office|point of interest} in {Badgam|location}
+{pharmacy|point of interest} to visit in {Sahibganj|location}
+{meal delivery|point of interest} in {Janjgir-Champa|location}
+are there any good {department store|point of interest} in {Pauri Garhwal|location}
+can you tell me about {taxi stand|point of interest} in {Boudh (Bauda)|location}
+{taxi stand|point of interest} to visit in {Jharsuguda|location}
+nearest {laundry|point of interest} in {Kanyakumari|location}
+suggest me some {travel agency|point of interest} in {Lakhimpur Kheri|location}
+are there any good {atm|point of interest} in {Kadapa|location}
+best {shoe store|point of interest} in {Ujjain|location}
+decent {airport|point of interest} in {Jamnagar|location}
+{art gallery|point of interest} to do in {Ashok Nagar|location}
+do you know about {rv park|point of interest} to do in {Bandipora|location}
+best {electronics store|point of interest} nearest to {Chandel|location}
+{locksmith|point of interest} in {West Singhbhum|location}
+is {Tiruvarur|location} popular for {church|point of interest}
+best {moving company|point of interest} in {Nilgiris|location}
+{hardware store|point of interest} to visit in {Pauri Garhwal|location}
+nearest {cafe|point of interest} in {Bagpat|location}
+is {Chatra|location} popular for {real estate agency|point of interest}
+{taxi stand|point of interest} to do in {Bareilly|location}
+are there any good {art gallery|point of interest} in {Chittoor|location}
+decent {storage|point of interest} in {Parbhani|location}
+good {shoe store|point of interest} in {Anjaw|location}
+nearest {train station|point of interest} in {Lower Subansiri|location}
+good {doctor|point of interest} in {Sangli|location}
+do you know about {gas station|point of interest} to do in {Fatehpur|location}
+good {lodging|point of interest} in {South Tripura|location}
+{painter|point of interest} to do in {Sidhi|location}
+good {local government office|point of interest} in {Garhwa|location}
+good {hospital|point of interest} in {Lalitpur|location}
+{car rental|point of interest} in {Narayanpur|location}
+any {physiotherapist|point of interest} recommendations in {Kozhikode|location}
+is {Meerut|location} popular for {roofing contractor|point of interest}
+any {shopping mall|point of interest} recommendations in {Visakhapatnam|location}
+nearest {atm|point of interest} in {Ghazipur|location}
+best {hardware store|point of interest} in {Rewari|location}
+{police|point of interest} to do in {Meerut|location}
+is {Pratapgarh|location} popular for {gym|point of interest}
+decent {laundry|point of interest} in {Baran|location}
+{jewelry store|point of interest} in {Firozabad|location}
+can you tell me about {zoo|point of interest} in {Shopian|location}
+suggest me some {roofing contractor|point of interest} in {Umaria|location}
+any {transit station|point of interest} recommendations in {Bathinda|location}
+is {Kargil|location} popular for {insurance agency|point of interest}
+can you tell me about {real estate agency|point of interest} in {Auraiya|location}
+is {Jabalpur|location} popular for {car wash|point of interest}
+can you tell me about {dentist|point of interest} in {Nagaur|location}
+is {Dhalai|location} popular for {moving company|point of interest}
+{roofing contractor|point of interest} to do in {Saiha|location}
+do you know about {car repair|point of interest} to do in {West Garo Hills|location}
+nearest {lawyer|point of interest} in {Sangli|location}
+do you know about {painter|point of interest} to do in {Jalgaon|location}
+good {casino|point of interest} in {Jabalpur|location}
+do you know about {subway station|point of interest} to do in {Jhunjhunu|location}
+suggest me some {car rental|point of interest} in {Lalitpur|location}
+best {university|point of interest} in {Imphal West|location}
+is {Mandla|location} popular for {rv park|point of interest}
+decent {jewelry store|point of interest} in {Rohtak|location}
+{hair care|point of interest} in {Ratnagiri|location}
+are there any good {dentist|point of interest} in {Karauli|location}
+{campground|point of interest} in {Ratlam|location}
+suggest me some {convenience store|point of interest} in {West Delhi|location}
+do you know about {meal takeaway|point of interest} to do in {Faridabad|location}
+any {meal delivery|point of interest} recommendations in {Rajsamand|location}
+{florist|point of interest} to visit in {Rajgarh|location}
+{pharmacy|point of interest} in {Fatehpur|location}
+{pet store|point of interest} in {Nalbari|location}
+decent {liquor store|point of interest} in {Ahmednagar|location}
+best {moving company|point of interest} nearest to {Raisen|location}
+best {hardware store|point of interest} in {Deoria|location}
+nearest {train station|point of interest} in {Khammam|location}
+{stadium|point of interest} in {Pithoragarh|location}
+nearest {library|point of interest} in {Leh|location}
+decent {laundry|point of interest} in {Seoni|location}
+{bus station|point of interest} in {Mahamaya Nagar|location}
+good {university|point of interest} in {Singrauli|location}
+best {bakery|point of interest} in {Hooghly|location}
+do you know about {library|point of interest} to do in {Washim|location}
+are there any good {primary school|point of interest} in {Hissar|location}
+are there any good {bicycle store|point of interest} in {Dantewada|location}
+any {cafe|point of interest} recommendations in {Mahbubnagar|location}
+any {jewelry store|point of interest} recommendations in {Shajapur|location}
+{plumber|point of interest} to do in {Chikkaballapur|location}
+best {hair care|point of interest} nearest to {Lohit|location}
+best {dentist|point of interest} nearest to {Lunglei|location}
+{supermarket|point of interest} to do in {Chandrapur|location}
+any {insurance agency|point of interest} recommendations in {Kodagu|location}
+is {Nagaur|location} popular for {campground|point of interest}
+are there any good {book store|point of interest} in {Shajapur|location}
+best {train station|point of interest} nearest to {Kalahandi|location}
+best {rv park|point of interest} in {Surguja|location}
+best {mosque|point of interest} in {North West Delhi|location}
+best {meal takeaway|point of interest} nearest to {Baksa|location}
+is {The Dangs|location} popular for {beauty salon|point of interest}
+nearest {spa|point of interest} in {Nalgonda|location}
+is {Balangir|location} popular for {synagogue|point of interest}
+{spa|point of interest} in {Betul|location}
+do you know about {clothing store|point of interest} to do in {Mahoba|location}
+{train station|point of interest} to visit in {Imphal East|location}
+nearest {pet store|point of interest} in {Firozabad|location}
+is {East Singhbhum|location} popular for {campground|point of interest}
+good {car wash|point of interest} in {Udaipur|location}
+is {Aligarh|location} popular for {car wash|point of interest}
+best {bicycle store|point of interest} nearest to {Lahaul and Spiti|location}
+do you know about {secondary school|point of interest} to do in {Sundergarh|location}
+are there any good {hospital|point of interest} in {Kupwara|location}
+is {Kanshi Ram Nagar|location} popular for {supermarket|point of interest}
+suggest me some {bakery|point of interest} in {Patna|location}
+suggest me some {liquor store|point of interest} in {Baksa|location}
+are there any good {tourist attraction|point of interest} in {Bulandshahr|location}
+{locksmith|point of interest} to visit in {Hanumangarh|location}
+best {jewelry store|point of interest} in {Muzaffarnagar|location}
+nearest {bakery|point of interest} in {Namakkal|location}
+can you tell me about {secondary school|point of interest} in {Anjaw|location}
+{physiotherapist|point of interest} to do in {Rayagada|location}
+any {pharmacy|point of interest} recommendations in {Basti|location}
+{taxi stand|point of interest} to visit in {Rajkot|location}
+is {Darjeeling|location} popular for {aquarium|point of interest}
+good {electronics store|point of interest} in {North West Delhi|location}
+do you know about {embassy|point of interest} to do in {Tirap|location}
+is {Changlang|location} popular for {school|point of interest}
+best {book store|point of interest} in {Farrukhabad|location}
+best {furniture store|point of interest} nearest to {Sahibganj|location}
+best {aquarium|point of interest} nearest to {Bhagalpur|location}
+do you know about {hair care|point of interest} to do in {Kozhikode|location}
+decent {real estate agency|point of interest} in {Bhadrak|location}
+{synagogue|point of interest} to visit in {Anand|location}
+best {bank|point of interest} in {Hooghly|location}
+is {Balaghat|location} popular for {insurance agency|point of interest}
+good {hospital|point of interest} in {Chhatarpur|location}
+any {veterinary care|point of interest} recommendations in {Goalpara|location}
+best {roofing contractor|point of interest} in {Kozhikode|location}
+nearest {locksmith|point of interest} in {Lakhimpur Kheri|location}
+nearest {electrician|point of interest} in {Almora|location}
+is {Hyderabad|location} popular for {bank|point of interest}
+can you tell me about {home goods store|point of interest} in {Maharajganj|location}
+{campground|point of interest} to visit in {Kamrup Metropolitan|location}
+good {jewelry store|point of interest} in {Jabalpur|location}
+{campground|point of interest} to do in {Dhule|location}
+{subway station|point of interest} in {Chamba|location}
+is {Nuapada|location} popular for {pet store|point of interest}
+best {night club|point of interest} nearest to {Gondia|location}
+do you know about {bar|point of interest} to do in {South Sikkim|location}
+{electrician|point of interest} in {Ramabai Nagar (Kanpur Dehat)|location}
+{drugstore|point of interest} to visit in {Bhiwani|location}
+any {gym|point of interest} recommendations in {Saran|location}
+{city hall|point of interest} to visit in {Chandigarh|location}
+decent {light rail station|point of interest} in {Kohima|location}
+{park|point of interest} in {Balasore|location}
+are there any good {pharmacy|point of interest} in {North Tripura|location}
+can you tell me about {laundry|point of interest} in {Mainpuri|location}
+suggest me some {laundry|point of interest} in {Jashpur|location}
+are there any good {mosque|point of interest} in {Gulbarga|location}
+{supermarket|point of interest} in {Upper Siang|location}
+is {Sagar|location} popular for {courthouse|point of interest}
+is {Gandhinagar|location} popular for {book store|point of interest}
+{atm|point of interest} to visit in {Chandigarh|location}
+are there any good {post office|point of interest} in {Dehradun|location}
+is {Datia|location} popular for {funeral home|point of interest}
+best {bakery|point of interest} nearest to {Meerut|location}
+is {Poonch|location} popular for {meal takeaway|point of interest}
+any {moving company|point of interest} recommendations in {Medak|location}
+suggest me some {funeral home|point of interest} in {Kannur|location}
+best {hindu temple|point of interest} in {Sheohar|location}
+is {Lower Subansiri|location} popular for {furniture store|point of interest}
+are there any good {rv park|point of interest} in {Lower Subansiri|location}
+good {moving company|point of interest} in {Churu|location}
+is {Nainital|location} popular for {mosque|point of interest}
+are there any good {cemetery|point of interest} in {Ganderbal|location}
+are there any good {liquor store|point of interest} in {Fatehabad|location}
+good {parking|point of interest} in {Kota|location}
+decent {department store|point of interest} in {Moradabad|location}
+{hair care|point of interest} in {Jorhat|location}
+{jewelry store|point of interest} to do in {Ganderbal|location}
+good {florist|point of interest} in {Karaikal|location}
+best {bank|point of interest} nearest to {Bhilwara|location}
+{university|point of interest} to visit in {South Garo Hills|location}
+can you tell me about {jewelry store|point of interest} in {Mayurbhanj|location}
+are there any good {zoo|point of interest} in {Kohima|location}
+good {mosque|point of interest} in {Chatra|location}
+decent {liquor store|point of interest} in {Jabalpur|location}
+is {Khagaria|location} popular for {supermarket|point of interest}
+is {Debagarh (Deogarh)|location} popular for {school|point of interest}
+are there any good {parking|point of interest} in {Nagaur|location}
+any {home goods store|point of interest} recommendations in {Nagpur|location}
+good {rv park|point of interest} in {Arwal|location}
+are there any good {synagogue|point of interest} in {Shopian|location}
+decent {electronics store|point of interest} in {Mirzapur|location}
+best {meal takeaway|point of interest} nearest to {Dhubri|location}
+can you tell me about {meal takeaway|point of interest} in {Tawang|location}
+{parking|point of interest} to visit in {Karauli|location}
+are there any good {mosque|point of interest} in {Agra|location}
+{aquarium|point of interest} to visit in {Chamarajnagar|location}
+{jewelry store|point of interest} in {Kaithal|location}
+is {Bankura|location} popular for {convenience store|point of interest}
+any {insurance agency|point of interest} recommendations in {Tawang|location}
+is {Kaithal|location} popular for {roofing contractor|point of interest}
+good {light rail station|point of interest} in {Bathinda|location}
+{courthouse|point of interest} to do in {The Dangs|location}
+do you know about {furniture store|point of interest} to do in {Tiruvallur|location}
+are there any good {cemetery|point of interest} in {Rewa|location}
+good {cafe|point of interest} in {Kamrup|location}
+suggest me some {post office|point of interest} in {Sagar|location}
+best {painter|point of interest} nearest to {Dhenkanal|location}
+decent {lawyer|point of interest} in {Garhwa|location}
+good {campground|point of interest} in {Sidhi|location}
+any {car dealer|point of interest} recommendations in {Nawada|location}
+best {city hall|point of interest} in {Jhalawar|location}
+{courthouse|point of interest} in {Bagpat|location}
+suggest me some {amusement park|point of interest} in {Hooghly|location}
+suggest me some {cemetery|point of interest} in {Kushinagar|location}
+{subway station|point of interest} to do in {Surguja|location}
+good {liquor store|point of interest} in {Kanshi Ram Nagar|location}
+do you know about {veterinary care|point of interest} to do in {Idukki|location}
+nearest {courthouse|point of interest} in {Kathua|location}
+good {pharmacy|point of interest} in {Jamnagar|location}
+best {jewelry store|point of interest} nearest to {Tawang|location}
+{accounting|point of interest} to visit in {Ganganagar|location}
+are there any good {hospital|point of interest} in {Senapati|location}
+best {lodging|point of interest} nearest to {Banaskantha|location}
+suggest me some {amusement park|point of interest} in {Sangrur|location}
+{stadium|point of interest} to visit in {Uttarkashi|location}
+{clothing store|point of interest} in {Ariyalur|location}
+is {Dhanbad|location} popular for {rv park|point of interest}
+is {Kishtwar|location} popular for {parking|point of interest}
+suggest me some {transit station|point of interest} in {Ukhrul|location}
+can you tell me about {beauty salon|point of interest} in {Gwalior|location}
+is {Bellary|location} popular for {bowling alley|point of interest}
+is {West Siang|location} popular for {car repair|point of interest}
+is {Mahamaya Nagar|location} popular for {convenience store|point of interest}
+nearest {jewelry store|point of interest} in {Marigaon|location}
+suggest me some {gas station|point of interest} in {Tinsukia|location}
+do you know about {accounting|point of interest} to do in {Ghazipur|location}
+best {locksmith|point of interest} nearest to {Junagadh|location}
+any {veterinary care|point of interest} recommendations in {Munger|location}
+best {plumber|point of interest} nearest to {Sitamarhi|location}
+do you know about {florist|point of interest} to do in {Chikkamagaluru|location}
+best {beauty salon|point of interest} nearest to {Karbi Anglong|location}
+is {Sagar|location} popular for {lodging|point of interest}
+nearest {bowling alley|point of interest} in {Pakur|location}
+is {Barpeta|location} popular for {city hall|point of interest}
+are there any good {post office|point of interest} in {Adilabad|location}

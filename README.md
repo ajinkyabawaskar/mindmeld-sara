@@ -48,7 +48,7 @@ This section includes information about directory structure and file naming conv
 * [MindMeld](http://www.mindmeld.com/) - The Conversational AI platform
 * [Webex](https://developer.webex.com/) - Integrate with Webex Teams
 * [Twilio](https://www.twilio.com/console/sms/whatsapp/learn) - Sandbox for integrating with WhatsApp
-* [HERE] (https://developer.here.com/) - API for fetching location data
+* [HERE](https://developer.here.com/) - API for fetching location data
 
 ## Contributing
 

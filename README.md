@@ -52,7 +52,7 @@ This section includes information about directory structure and file naming conv
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/ajinkyabawaskar/mindmeld-sara/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/ajinkyabawaskar/mindmeld-sara/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 

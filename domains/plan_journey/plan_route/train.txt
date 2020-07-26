@@ -19,7 +19,7 @@ Will I get to {Mehsana|location|destination} from {Bishnupur|location|source}
 Is route available between {Jalpaiguri|location|source} and {Deoghar|location|destination}
 Is {Siwan|location|source} to {Senapati|location|destination} connected
 Is there a route between {Doda|location|source} and {Jhabua|location|destination}
-Are there any routes between {South 24 Parganas|location|source} and {Shahjahanpur|location|destination}
+Are there any routes between {South  Parganas|location|source} and {Shahjahanpur|location|destination}
 How {Lohit|location|source} and {Uttara Kannada|location|destination} is connected
 possible routes available from {Patna|location|source} to {Ujjain|location|destination}
 Possibility of routes from {Valsad|location|source} to {Jamtara|location|destination}
@@ -347,7 +347,7 @@ How to travel by road  between {Sabarkantha|location|source} and {Kushinagar|loc
 Tell me how to travel by road  between {West Champaran|location|source} and {South Garo Hills|location|destination}
 Can I travel by road  between {Harda|location|source} and {Firozpur|location|destination}
 Find me paths to travel by road between  between {Farrukhabad|location|source} and {Sri Muktsar Sahib|location|destination}
-How to travel by road between  between {Nainital|location|source} and {South 24 Parganas|location|destination}
+How to travel by road between  between {Nainital|location|source} and {South  Parganas|location|destination}
 How to get to {Medak|location|destination} from {Koraput|location|source} by road
 Ways of going to {Jaipur|location|destination} from {Belgaum|location|source} by road
 Number of road routes available between {Birbhum|location|source} and {Jaunpur district|location|destination}

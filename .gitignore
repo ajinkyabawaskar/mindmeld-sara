@@ -2,6 +2,7 @@
 
 # Ignoring cache
 __pycache__/*
+utilities/__pycache__/*
 
 # Ignoring the generated pickle files
 .generated/*

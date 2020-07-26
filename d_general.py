@@ -37,6 +37,7 @@ def start_over(request, responder):
 
     if(responder.frame.get('state') == 'confirm_for_local_culture'):
         responder.frame['state'] = 'suggest_hotels'
+        responder.params.target_dialogue_state = 'send_accomodation'
         destination = responder.frame.get('destination')
         hotels = _get_poi_from_name(origin=destination, poi='hotels', limit='3')
         responder.slots['hotels'] = "\n".join(hotels)

@@ -1,4 +1,4 @@
-# mindmeld-sara
+# MindMeld-Sara
 A virtual travel assistant based on MindMeld capabilities, interfaced by Cisco Webex Teams.
 
 ## Getting Started

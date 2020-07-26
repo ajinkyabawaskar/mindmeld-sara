@@ -2,17 +2,31 @@ from .root import app
 
 @app.handle(intent = 'confirm_destination')
 def get_destination(request, responder):
-    if(responder.frame.get('state') == 'ask_local_culture'):
-        responder.slots['destination'] = responder.frame.get['destination']
+
+    if(responder.frame.get('state') == 'ask_user_for_local_culture'):
+        responder.frame['state'] = 'confirm_for_local_culture'
+        responder.slots['destination'] = responder.frame.get('destination').title()
         responder.reply("We believe in a culture of Atithi Devo Bhava. "
                         "For you to explore the life in rural India, we've reached out to some"
                         " folks in villages near {destination} who would like to host you."
-                        "\n Would you like to stay at their place or hotels?")
+                        "\nWould you like to stay at their place or hotels?")
+        return
+
+    if(responder.frame.get('state')=='confirm_for_local_culture'):
+        responder.frame['state'] = 'if_wants_local_stay'
+        responder.reply("Cool! Looking for someone to host you in "+responder.frame.get('destination').title())
+    
+        return
+    
+    if(responder.frame.get('state')=='if_wants_local_stay'):
+        responder.frame['state'] = 'local_accomodation'
+        responder.reply("Your accomodation at Ajinkya's place is confirmed at "+responder.frame.get('destination').title())
+
     else:
         responder.reply("You haven't chose a destination yet. Where would you like to travel?")
-
+    
 @app.handle(intent = 'confirm_date')
-def set_destination(request, responder):
+def set_date(request, responder):
 
     if((len(request.entities) == 1) and request.entities[0]['type']=='sys_time'):
         responder.slots['when'] = request.entities[0]['text']

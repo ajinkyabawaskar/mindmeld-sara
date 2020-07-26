@@ -41,7 +41,7 @@ def send_location_info(request, responder):
             responder.reply("Whoopsie! Couldn't find it in that location! Maybe try again with another? ;)")
 
     elif(origin!='' and poi ==''):
-        responder.frame['state'] = 'ask_local_culture'
+        responder.frame['state'] = 'ask_user_for_local_culture'
         responder.frame['destination'] = origin
         responder.slots['destination'] = origin.title()
         # only with location but no poi
@@ -55,9 +55,10 @@ def send_location_info(request, responder):
         else:
             pass
             # responder.reply("Whoopsie! Couldn't find the location! Maybe try again with another? ;)")
-        responder.reply('Great! Planning travel to {destination}!'
-                        ' Tourists coming here often visit {poi}'
+        responder.reply('Great! Planning travel to {destination}.'
+                        ' Tourists coming here often visit {poi}\n'
                         'Would you like to know how to experience the local culture there?')
+    
     else:
         responder.reply("Whoopsie! Couldn't find the location! Maybe try again with another? ;)")
 

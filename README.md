@@ -11,8 +11,8 @@ Find in-depth installation of `mindmeld` here [Install Mindmeld](https://www.min
 - Verify `elasticsearch` is running in another terminal. 
 - Rename the repository folder `mindmeld-sara` to `sara`
 - Load data to knowledge base by running:
--  `(venv) ~/$ python3.6 -m sara load-kb sara locations sara/data/locations.json`
--  `(venv) ~/$ python3.6 -m sara load-kb sara india sara/data/india.json`
+  - `(venv) ~/$ python3.6 -m sara load-kb sara locations sara/data/locations.json`
+  - `(venv) ~/$ python3.6 -m sara load-kb sara india sara/data/india.json`
 - Train the model by: `(venv) ~/$ python3.6 -m sara build`
 - Open a interactive CLI with chatbot: `(venv) ~/$ python3.6 -m sara converse`
 

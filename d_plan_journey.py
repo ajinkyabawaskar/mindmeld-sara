@@ -2,10 +2,14 @@ from .root import app
 
 @app.handle(intent = 'confirm_destination')
 def get_destination(request, responder):
-    if(responder.frame.get('destination')):
-        responder.reply("Would you like to know how to get there?")
+    if(responder.frame.get('state') == 'ask_local_culture'):
+        responder.slots['destination'] = responder.frame.get['destination']
+        responder.reply("We believe in a culture of Atithi Devo Bhava. "
+                        "For you to explore the life in rural India, we've reached out to some"
+                        " folks in villages near {destination} who would like to host you."
+                        "\n Would you like to stay at their place or hotels?")
     else:
-        responder.reply("You haven't chose a destination yet. ")
+        responder.reply("You haven't chose a destination yet. Where would you like to travel?")
 
 @app.handle(intent = 'confirm_date')
 def set_destination(request, responder):
@@ -42,14 +46,7 @@ def send_route(request, responder):
 def send_ticket_status(request, responder):
     responder.reply("You are asking about your ticket")
 
-@app.handle(intent='confirm_number')
-def print_number(request, responder):
-    for entity in request.entities:
-        if(entity['type'] == 'sys_number'):
-            responder.slots['input'] = entity['value']
-        else:
-            responder.slots['input'] = "NA"
-    responder.reply('{input}')
+
 import requests, json
 apiKey = 'x_QwMrXk6NkNWpdkZzTsEH1JyzETot06I-FNTd4Ur6Y'
 
@@ -192,7 +189,7 @@ def _get_routes_from_name(origin, destination):
                 mode = section['transport']['mode'].title()
                 from_l = origin.title() + " ("+ section['departure']['place']['type'].title()+")"
                 to_l =  destination.title()+ " (" +section['arrival']['place']['type'].title()+")"
-            directions.append(mode+"\n"+from_l+ " to "+to_l)
+            directions.append(mode+" - "+from_l+ " to "+to_l)
         return directions
     except:
         # return (route['notices'][0]['title'])

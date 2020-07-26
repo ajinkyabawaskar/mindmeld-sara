@@ -19,7 +19,7 @@ def send_india_info(request, responder):
 
 @app.handle(intent='get_location_info')
 def send_location_info(request, responder):
-    queried_location = ''
+    origin = ''
     poi = ''
     points_of_interest = False
     
@@ -41,14 +41,23 @@ def send_location_info(request, responder):
             responder.reply("Whoopsie! Couldn't find it in that location! Maybe try again with another? ;)")
 
     elif(origin!='' and poi ==''):
-        #only with location but no poi
+        responder.frame['state'] = 'ask_local_culture'
+        responder.frame['destination'] = origin
+        responder.slots['destination'] = origin.title()
+        # only with location but no poi
         points_of_interest = _get_poi_from_name(origin=origin, limit='1')
         if(points_of_interest != False):    
-            responder.slots['poi'] = "\n".join(points_of_interest)
-            responder.reply("Sorry! I couldn't find that. I found in: "+origin.title()+":\n"+"{poi}")
+            response_poi = "\n".join(points_of_interest)
+            response_poi = response_poi.split("\n")
+            response_poi = response_poi[0][:-13]
+            responder.slots['poi'] = response_poi
+            # responder.reply("Sorry! I couldn't find that. I found in "+origin.title()+":\n"+"{poi}")
         else:
-            responder.reply("Whoopsie! Couldn't find the location! Maybe try again with another? ;)")
-    
+            pass
+            # responder.reply("Whoopsie! Couldn't find the location! Maybe try again with another? ;)")
+        responder.reply('Great! Planning travel to {destination}!'
+                        ' Tourists coming here often visit {poi}'
+                        'Would you like to know how to experience the local culture there?')
     else:
         responder.reply("Whoopsie! Couldn't find the location! Maybe try again with another? ;)")
 

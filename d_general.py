@@ -3,9 +3,11 @@ import random
 
 @app.handle(intent='greet')
 def welcome(request, responder):
-    welcomes = random.choice(["Hi!", "Hello!", "Hey There!", "Yo!", "Heya!", "Howdy?", "Namaste!", "Namaskar!"])
-    can_ask = random.choice(["more about some places to visit.", "about the weather there", "about food and cuisine there", "how to get there", "about the best places to visit"])
-    prefix = " I am Sara, your virtual travel assistant! I'm here to help you plan your next visit to India. You can ask me "
+    responder.frame['state'] = "get_destination_or_preferences"
+    welcomes = random.choice(["Hi!", "Hello!", "Hey There!", "Yo!", "Namaste!", "Namaskar!"])
+    # can_ask = random.choice(["more about some places to visit.", "about food and cuisine.", "directions.", "about the best places to visit"])
+    can_ask = " You can tell me where you want to go or what you want to experience, and I'll find something for you!"
+    prefix = " I am Sara, your virtual travel assistant! I'm here to help you plan your next visit to India."
     responder.reply(welcomes+prefix+can_ask)
 
 @app.handle(intent='help')

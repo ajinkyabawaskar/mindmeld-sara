@@ -1,5 +1,5 @@
-import requests, json
 
+import requests, json
 apiKey = 'x_QwMrXk6NkNWpdkZzTsEH1JyzETot06I-FNTd4Ur6Y'
 
 def _get_transit_from_geocode(origin, destination):
@@ -23,17 +23,20 @@ def _get_geocode(origin, format='ll'):
     geocode_url = 'https://geocode.search.hereapi.com/v1/geocode?apiKey='+apiKey
     geocode_location = '&q='+ origin
     response = requests.get(geocode_url + geocode_location)
-    if(response.status_code == 200):
-        response = response.json()['items'][0]
-        if(format == 'll'):
-            return str(response['position']['lat'])+","+str(response['position']['lng'])
-        elif(format == 'lat'):
-            return str(response['position']['lat'])
-        elif(format == 'lon'):
-            return str(response['position']['lng'])
+    try:
+        if(response.status_code == 200):
+            response = response.json()['items'][0]
+            if(format == 'll'):
+                return str(response['position']['lat'])+","+str(response['position']['lng'])
+            elif(format == 'lat'):
+                return str(response['position']['lat'])
+            elif(format == 'lon'):
+                return str(response['position']['lng'])
+            else:
+                return False
         else:
             return False
-    else:
+    except:
         return False
 
 def _get_poi_from_geocode(origin, poi='tourism', limit='3'):

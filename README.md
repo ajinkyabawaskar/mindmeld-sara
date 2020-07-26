@@ -52,7 +52,7 @@ This section includes information about directory structure and file naming conv
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/ajinkyabawaskar/mindmeld-sara/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
@@ -66,4 +66,4 @@ See also the list of [contributors](https://github.com/ajinkyabawaskar/mindmeld-
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LISCENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/ajinkyabawaskar/mindmeld-sara/blob/master/LISCENCE) file for details

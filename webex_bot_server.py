@@ -20,19 +20,31 @@ class WebexBotServerException(Exception):
     pass
 
 if __name__ == '__main__':
-   # Create web hook here: https://developer.webex.com/docs/api/v1/webhooks/create-a-webhook
-   WEBHOOK_ID = os.environ.get('WEBHOOK_ID')
+        self.webhook_id = Y2lzY29zcGFyazovL3VzL1dFQkhPT0svYWRhMDI5YzYtNzE3Ni00MTc2LTlmMGUtNDhlN2RiOWI1Mjll
+        self.access_token = NGRjZGY1ZDktMTQxZi00OWFkLWI2ZjAtYzg1MDE0ZjFmMjUwOTQxNTQ2MzYtNmY2_PF84_consumer
+        if not nlp:
+            self.nlp = NaturalLanguageProcessor(app_path)
+            self.nlp.load()
+        else:
+            self.nlp = nlp
+        self.conv = Conversation(nlp=self.nlp, app_path=app_path)
 
-   # Create bot access token here: https://developer.webex.com/my-apps/new
-   ACCESS_TOKEN = os.environ.get('BOT_ACCESS_TOKEN')
+        self.logger = logging.getLogger(__name__)
 
-   configure_logs()
-   nlp = NaturalLanguageProcessor('.')
+        if not self.webhook_id:
+            raise WebexBotServerException("WEBHOOK_ID not set")
+        if not self.access_token:
+            raise WebexBotServerException("BOT_ACCESS_TOKEN not set")
+        self.spark_api = CiscoSparkAPI(self.access_token)
+        self.access_token_with_bearer = ACCESS_TOKEN_WITH_BEARER + self.access_token
+        configure_logs()
+        nlp = NaturalLanguageProcessor('.')
 
-   server = WebexBotServer(name=__name__, app_path='.', nlp=nlp, webhook_id=WEBHOOK_ID,
+        server = WebexBotServer(name=__name__, app_path='.', nlp=nlp, webhook_id=WEBHOOK_ID,
                            access_token=ACCESS_TOKEN)
 
-   port_number = 8080
-   print('Running server on port {}...'.format(port_number))
+        port_number = 8080
+        print('Running server on port {}...'.format(port_number))
 
-   server.run(host='localhost', port=port_number)
+        server.run(host='localhost', port=port_number)
+        

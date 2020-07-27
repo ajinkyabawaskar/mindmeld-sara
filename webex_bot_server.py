@@ -1,6 +1,23 @@
 from mindmeld.components import NaturalLanguageProcessor
 from mindmeld.bot import WebexBotServer
 from mindmeld import configure_logs
+from ..components import NaturalLanguageProcessor
+from ..components.dialogue import Conversation
+import json
+import logging
+from ciscosparkapi import CiscoSparkAPI
+from flask import Flask, request
+import requests
+
+CISCO_API_URL = "https://api.ciscospark.com/v1"
+ACCESS_TOKEN_WITH_BEARER = "NTk4N2Q2ZjUtZjkwMi00YzU4LTlmYWItMjJjZWFmZDZmODc4YWZhYzUyYzEtMjdi_PF84_consumer"
+BAD_REQUEST_NAME = "BAD REQUEST"
+BAD_REQUEST_CODE = 400
+APPROVED_REQUEST_NAME = "OK"
+APPROVED_REQUEST_CODE = 200
+
+class WebexBotServerException(Exception):
+    pass
 
 if __name__ == '__main__':
    # Create web hook here: https://developer.webex.com/docs/api/v1/webhooks/create-a-webhook

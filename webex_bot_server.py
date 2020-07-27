@@ -20,6 +20,7 @@ class WebexBotServerException(Exception):
 if __name__ == '__main__':
         self.webhook_id = 'Y2lzY29zcGFyazovL3VzL1dFQkhPT0svYWRhMDI5YzYtNzE3Ni00MTc2LTlmMGUtNDhlN2RiOWI1Mjll'
         self.access_token = 'NGRjZGY1ZDktMTQxZi00OWFkLWI2ZjAtYzg1MDE0ZjFmMjUwOTQxNTQ2MzYtNmY2_PF84_consumer'
+        nlp = NaturalLanguageProcessor('.')
         if not nlp:
             self.nlp = NaturalLanguageProcessor(app_path)
             self.nlp.load()
@@ -36,7 +37,7 @@ if __name__ == '__main__':
         self.spark_api = CiscoSparkAPI(self.access_token)
         self.access_token_with_bearer = ACCESS_TOKEN_WITH_BEARER + self.access_token
         configure_logs()
-        nlp = NaturalLanguageProcessor('.')
+        
 
         server = WebexBotServer(name=__name__, app_path='.', nlp=nlp, webhook_id=WEBHOOK_ID,
                            access_token=ACCESS_TOKEN)

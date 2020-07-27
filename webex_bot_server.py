@@ -12,8 +12,7 @@ if __name__ == '__main__':
    configure_logs()
    nlp = NaturalLanguageProcessor('.')
 
-   server = WebexBotServer(name=__name__, app_path='.', nlp=nlp, webhook_id=WEBHOOK_ID,
-                           access_token=ACCESS_TOKEN)
+   server = WebexBotServer(name=__name__, app_path='.', nlp=nlp, webhook_id=WEBHOOK_ID, access_token=ACCESS_TOKEN)
 
    port_number = 8080
    print('Running server on port {}...'.format(port_number))

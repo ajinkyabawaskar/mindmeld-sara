@@ -1,8 +1,6 @@
 from mindmeld.components import NaturalLanguageProcessor
 from mindmeld.bot import WebexBotServer
 from mindmeld import configure_logs
-from ..components import NaturalLanguageProcessor
-from ..components.dialogue import Conversation
 import json
 import logging
 from ciscosparkapi import CiscoSparkAPI
@@ -20,8 +18,8 @@ class WebexBotServerException(Exception):
     pass
 
 if __name__ == '__main__':
-        self.webhook_id = Y2lzY29zcGFyazovL3VzL1dFQkhPT0svYWRhMDI5YzYtNzE3Ni00MTc2LTlmMGUtNDhlN2RiOWI1Mjll
-        self.access_token = NGRjZGY1ZDktMTQxZi00OWFkLWI2ZjAtYzg1MDE0ZjFmMjUwOTQxNTQ2MzYtNmY2_PF84_consumer
+        self.webhook_id = 'Y2lzY29zcGFyazovL3VzL1dFQkhPT0svYWRhMDI5YzYtNzE3Ni00MTc2LTlmMGUtNDhlN2RiOWI1Mjll'
+        self.access_token = 'NGRjZGY1ZDktMTQxZi00OWFkLWI2ZjAtYzg1MDE0ZjFmMjUwOTQxNTQ2MzYtNmY2_PF84_consumer'
         if not nlp:
             self.nlp = NaturalLanguageProcessor(app_path)
             self.nlp.load()

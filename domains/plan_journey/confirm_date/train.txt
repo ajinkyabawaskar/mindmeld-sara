@@ -420,6 +420,8 @@ on {sunday|sys_time}
 by {monday|sys_time}
 in {January |sys_time}
 in {February |sys_time}
+from {10th June|sys_time} to {23rd July|sys_time}
+between {march|sys_time} to {december|sys_time}
 in {March |sys_time}
 in {April |sys_time}
 in {May |sys_time}
@@ -551,4 +553,6 @@ in {October |sys_time}
 in {November |sys_time}
 in {December |sys_time}
 on {today|sys_time}
-
+from {10th|sys_time} to {23rd|sys_time}
+from {10th|sys_time} to {23|sys_time}
+from {8|sys_time} to {22|sys_time}

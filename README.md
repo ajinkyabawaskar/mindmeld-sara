@@ -22,6 +22,7 @@ Find in-depth installation of `mindmeld` here [Install Mindmeld](https://www.min
 - Load data to knowledge base by running:
   - `(venv) ~/$ python3.6 -m sara load-kb sara locations sara/data/locations.json`
   - `(venv) ~/$ python3.6 -m sara load-kb sara india sara/data/india.json`
+  - `(venv) ~/$ python3.6 -m sara load-kb sara airports sara/data/airports.json`
 - Train the model by: `(venv) ~/$ python3.6 -m sara build`
 - Open a interactive CLI with chatbot: `(venv) ~/$ python3.6 -m sara converse`
 

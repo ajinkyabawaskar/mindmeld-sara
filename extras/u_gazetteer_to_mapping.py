@@ -7,9 +7,9 @@
 """
 import json
 
-with open('gazetteer.txt', 'r+', encoding="utf8") as file1:
+with open('/home/ajinkya/my_mm_workspace/sara/entities/preference/gazetteer.txt', 'r+', encoding="utf8") as file1:
     all_cities = file1.read()
-    file1.close()
+    # file1.close()
 
 all_cities_set = all_cities.split("\n")
 id = 1
@@ -19,12 +19,12 @@ summary['entry']['id'] = {}
 summary['entry']['cname'] = {}
 summary['entry']['whitelist'] = []
 def write(OK):
-    with open("mapping.json", "r+") as file:
+    with open("/home/ajinkya/my_mm_workspace/sara/entities/preference/mapping.json", "r+") as file:
         data = json.load(file)
         data.append(OK)
         file.seek(0)
         json.dump(data, file)
-    file.close()
+    # file.close()
 
 for cname in all_cities_set:
     summary['entry']['id'] = str(id)

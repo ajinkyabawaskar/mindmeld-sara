@@ -1,0 +1,150 @@
+{
+    "entities": [
+        {
+            "id": "1",
+            "cname": "Yoga and Wellness",
+            "whitelist": [
+                "yoga",
+                "spas",
+                "detox therapies",
+                "naturopathy",
+                "Vedanta",
+                "meditation techniques",
+                "ancient of sciences and arts",
+                "mind and body",
+                "peaceful"
+            ]
+        },
+        {
+            "id": "2",
+            "cname": "Ayurveda",
+            "whitelist": [
+                "health",
+                "wellness",
+                "ayurveda",
+                "ayurved",
+                "herbal medicine"
+            ]
+        },
+        {
+            "id": "3",
+            "cname": "Beaches",
+            "whitelist": [
+                "beach",
+                "beaches",
+                "shoreline",
+                "skiing",
+                "scuba diving",
+                "parasailing",
+                "windsurfing"
+            ]
+        },
+        {
+            "id": "4",
+            "cname": "Cathedrals and Basilicas",
+            "whitelist": [
+                "Cathedrals",
+                "basilica",
+                "basilicas",
+                "churches"
+            ]
+        },
+        {
+            "id": "5",
+            "cname": "Forts and Palaces",
+            "whitelist": [
+                "heritage",
+                "forts",
+                "palaces",
+                "maharajas",
+                "architecture",
+                "maharaja"
+            ]
+        },
+        {
+            "id": "6",
+            "cname": "Gandhiji",
+            "whitelist": [
+                "Gandhi",
+                "Gandhiji",
+                "Mahatma"
+            ]
+        },
+        {
+            "id": "7",
+            "cname": "Heritage",
+            "whitelist": [
+                "dynasties",
+                "architecture",
+                "monuments",
+                "arts",
+                "crafts",
+                "cultures",
+                "ancient",
+                "temples"
+            ]
+        },
+        {
+            "id": "8",
+            "cname": "Spiritual",
+            "whitelist": [
+                "spirituality",
+                "spiritual",
+                "hinduism",
+                "islam",
+                "christianity",
+                "buddhism",
+                "sikhism",
+                "jainism"
+            ]
+        },
+        {
+            "id": "9",
+            "cname": "Nature",
+            "whitelist": [
+                "nature",
+                "hills",
+                "mountains",
+                "hill stations",
+                "hill town",
+                "himalayas",
+                "lakes",
+                "valleys"
+            ]
+        },
+        {
+            "id": "10",
+            "cname": "Shopping",
+            "whitelist": [
+                "buys",
+                "shopping",
+                "shop",
+                "buy",
+                "kanchipuram",
+                "jewellery",
+                "brands",
+                "stores",
+                "store",
+                "Benarasee",
+                "retail",
+                "designer"
+            ]
+        },
+        {
+            "id": "11",
+            "cname": "Food and Cuisine",
+            "whitelist": [
+                "food",
+                "eat",
+                "assortment",
+                "spices",
+                "grains",
+                "fruis",
+                "vegetables",
+                "vegetarian",
+                "cuisine",
+                "taste"
+            ]
+        }
+    ]
+}

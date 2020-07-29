@@ -171,3 +171,11 @@ def _get_routes_from_name(origin, destination):
         # return (route['notices'][0]['title'])
         return False
 
+@app.handle(intent='get_head_count')
+def confirm_head_count(request,responder)
+    for entity in request.entities:
+        if(entity['type'] == 'sys_number'):
+            responder.slots['input'] = entity['value']
+        else:
+            responder.slots['input'] = "NA"
+    responder.reply("Number of people confirmed : {input}")

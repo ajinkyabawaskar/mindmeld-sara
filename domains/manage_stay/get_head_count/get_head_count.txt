@@ -1,0 +1,74 @@
+We are {44|sys_number} people
+We are {76|sys_number}
+{29|sys_number} people
+{66|sys_number} persons
+We are a group of {25|sys_number}
+We are a group of {16|sys_number} people 
+We are a group of {50|sys_number} persons
+Our group is of {43|sys_number} people
+Our group consisted of {62|sys_number} people
+Our group has {58|sys_number} people
+Our group has {97|sys_number} people in total
+Our group consists of {79|sys_number} people
+Our group is of {66|sys_number} persons 
+Our group consisted of {2|sys_number} persons
+Our group has {12|sys_number} persons
+Our group has {20|sys_number} persons in total
+Our group consists of {37|sys_number} person
+I am travelling with my family of {60|sys_number}
+There are {92|sys_number} people in my group
+We are a group of {35|sys_number} friends
+I am travelling in a group of {64|sys_number}
+I am travelling with my {37|sys_number} friends
+I am travelling with {42|sys_number} friends of mine
+I am travelling with my {66|sys_number} relatives
+I am travelling with {93|sys_number} relatives of mine
+I will be travelling with a group of {4|sys_number}
+I will be travelling with my family of {91|sys_number}
+I will be travelling with my family of {72|sys_number} people 
+There will be {86|sys_number} people in my group
+I will be travelling with {23|sys_number} relatives of mine
+I will be travelling with my {67|sys_number} relatives
+I will be travelling in a group of {44|sys_number}
+I will be travelling with my {30|sys_number} friends
+I will be travelling with {7|sys_number} friends of mine
+There will be {27|sys_number} people in my group
+In total we will be {58|sys_number}
+In total we are {67|sys_number}
+In total we will be {21|sys_number} people
+In total we are {52|sys_number} people
+In total we will be a group of {9|sys_number}
+In total we will be a group of {74|sys_number} people
+In total we will be a group of {92|sys_number} persons
+We are {19|sys_number} people in total
+{2|sys_number} people in total
+{56|sys_number} persons in total
+We are a group of {35|sys_number} in total
+{33|sys_number} peeps
+{6|sys_number} ppl
+There will be {10|sys_number} people
+There will be {53|sys_number} people in total
+There will be {12|sys_number} persons 
+There will be {46|sys_number} persons in total
+There are {85|sys_number} people
+There are {88|sys_number} people in total
+There are {44|sys_number} persons 
+There are {79|sys_number} persons in total
+In total we will be {43|sys_number}
+In total we are {27|sys_number}
+In total there will be {97|sys_number} people
+In total there are {94|sys_number} people
+In total there will be a group of {49|sys_number}
+In total there will be a group of {52|sys_number} people
+In total there will be a group of {65|sys_number} persons
+There will be {78|sys_number} people on this tour
+In total there will be {34|sys_number} people on this tour
+This tour will have {83|sys_number} people in total
+
+
+
+
+
+
+
+

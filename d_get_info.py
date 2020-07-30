@@ -1,26 +1,10 @@
 from .root import app 
-# from .utilities.u_here_api import _get_poi_from_name
-
-@app.handle(intent='get_india_info')
-def send_india_info(request, responder):
-    query = request.text
-    answers = app.question_answerer.get(index='india', query_type='text', question=query, answer = query)
-    if answers:
-        reply = ['Here is the top result:', answers[0]['question'], answers[0]['answer']]
-        responder.reply('\n'.join(reply))
-    else:
-        responder.reply("I'm sorry, I couldn't find an answer to your question")
-    # if(len(answers)>0):
-    #     responder.slots['answer'] = answers[0]['answer']
-    # else:
-    #     responder.slots['answer'] = "I'm sorry, I couldn't find an answer to your question. Can we try rephrasing?"
-    # responder.reply('{answer}')
-    # responder.reply(request.text)
 
 @app.handle(intent='get_location_info')
 def send_location_info(request, responder):
-    queried_location = ''
+    origin = ''
     poi = ''
+    preference = ''
     points_of_interest = False
     
     # extract entities from query
@@ -29,9 +13,24 @@ def send_location_info(request, responder):
             origin = entity['text']
         if(entity['type'] == 'point_of_interest'):
             poi = entity['text']
-    
-    # get data according to entities present
-    if(origin!='' and poi !=''):
+
+    preference_entity = next((e for e in request.entities if e['type'] == 'preference'), None)
+    if preference_entity:
+        if len(preference_entity['value']) > 0:
+            selected_entity =  app.question_answerer.get(index='preferences', preference=preference_entity['value'][0]['cname'])
+            if (len(selected_entity)>0):
+                recommendations = ''
+                for recommendation in selected_entity[0]['locations']:
+                    recommendations = recommendations + recommendation['name'] + " in " + recommendation['city'] + "\nFind out more: " +recommendation['url'] + "\n"
+                # responder.dynamic_resource['gazetteers'] = {'location': dict((location, 1.0) for location in destination_list)}
+                responder.slots['recommendations'] = (recommendations)
+                reply = [selected_entity[0]['description'], '*Known for '+selected_entity[0]['preference']+'*:\n']
+                responder.reply('\n'.join(reply) + "{recommendations}")
+                responder.reply('Where would you like to go?')
+            else:
+                responder.reply("I'm sorry, I don't have suggestions about "+preference.title())
+
+    elif(origin!='' and poi !=''):
         # with both location and point of interest
         points_of_interest = _get_poi_from_name(origin=origin, poi=poi)
         if(points_of_interest != False):    
@@ -41,13 +40,23 @@ def send_location_info(request, responder):
             responder.reply("Whoopsie! Couldn't find it in that location! Maybe try again with another? ;)")
 
     elif(origin!='' and poi ==''):
-        #only with location but no poi
+        responder.frame['state'] = 'ask_user_for_local_culture'
+        responder.frame['destination'] = origin
+        responder.slots['destination'] = origin.title()
+        # only with location but no poi
         points_of_interest = _get_poi_from_name(origin=origin, limit='1')
         if(points_of_interest != False):    
-            responder.slots['poi'] = "\n".join(points_of_interest)
-            responder.reply("Sorry! I couldn't find that. I found in: "+origin.title()+":\n"+"{poi}")
+            response_poi = "\n".join(points_of_interest)
+            response_poi = response_poi.split("\n")
+            response_poi = response_poi[0][:-13]
+            responder.slots['poi'] = response_poi
+            # responder.reply("Sorry! I couldn't find that. I found in "+origin.title()+":\n"+"{poi}")
         else:
-            responder.reply("Whoopsie! Couldn't find the location! Maybe try again with another? ;)")
+            pass
+            # responder.reply("Whoopsie! Couldn't find the location! Maybe try again with another? ;)")
+        responder.reply('Great! Planning travel to {destination}.'
+                        ' Tourists coming here often visit {poi}\n'
+                        'Would you like to know how to experience the local culture there?')
     
     else:
         responder.reply("Whoopsie! Couldn't find the location! Maybe try again with another? ;)")

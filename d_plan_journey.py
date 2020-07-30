@@ -1,55 +1,115 @@
 from .root import app 
+from mindmeld.core import FormEntity
 
 @app.handle(intent = 'confirm_destination')
 def get_destination(request, responder):
-    if(responder.frame.get('destination')):
-        responder.reply("Would you like to know how to get there?")
-    else:
-        responder.reply("You haven't chose a destination yet. ")
 
+    if(responder.frame.get('state') == 'ask_user_for_local_culture'):
+        responder.frame['state'] = 'confirm_for_local_culture'
+        responder.slots['destination'] = responder.frame.get('destination').title()
+        responder.reply("We believe in a culture of Atithi Devo Bhava. "
+                        "For you to explore the life in rural India, we've reached out to some"
+                        " folks in villages near {destination} who would like to host you."
+                        "\nWould you like to stay at their place or hotels?")
+        return
+
+    if(responder.frame.get('state')=='confirm_for_local_culture'):
+        responder.frame['state'] = 'if_wants_local_stay'
+        responder.reply("Cool! Looking for someone to host you in "+responder.frame.get('destination').title())
+    
+        return
+    
+    if(responder.frame.get('state')=='if_wants_local_stay'):
+        responder.frame['state'] = 'local_accomodation'
+        responder.reply("Your accomodation at Ajinkya's place is confirmed at "+responder.frame.get('destination').title())
+
+    else:
+        responder.reply("You haven't chose a destination yet. Where would you like to travel?")
+    
 @app.handle(intent = 'confirm_date')
-def set_destination(request, responder):
+def set_date(request, responder):
 
     if((len(request.entities) == 1) and request.entities[0]['type']=='sys_time'):
-        responder.slots['when'] = request.entities[0]['text']
+        responder.slots['when'] = request.entities[0]['value']
     else:
         responder.slots['when'] = "Unable to get date"
 
     responder.reply("Confirming - {when}")
 
-@app.handle(intent = 'plan_route')
-def send_route(request, responder):
-    
+#slot filling logic requires a form which has your needed entities for the intent
+dest_form = {
+    "entities": [
+        FormEntity(
+        #specify the entity custom or system
+           entity = 'location',
+           role = 'destination',
+        #the response to prompt the user with if it is missing in the request
+           responses=['Okay, to where?']),
+        FormEntity(
+           entity="location",
+           role="source",
+           responses=["Sure, from where?"]),
+        FormEntity(
+        #specify the entity custom or system
+           entity = 'sys_number',
+        #    role = 'destination',
+        #the response to prompt the user with if it is missing in the request
+           responses=['How many people?'])
+        ],
+     #keys to specify if you want to break out of the slot filling logic
+    'exit_keys' : ['cancel', 'restart', 'exit', 'reset', 'no', 'nevermind', 'stop', 'back', 'help', 'stop it', 'go back'
+            'new task', 'nothing', 'other', 'return'],
+    #a message to prompt the user after exit
+    'exit_msg' : 'A few other sara tasks you can try are, booking hotels, checking ticket status',
+    #the number of max tries for the user to specify the entity
+    'max_retries' : 1
+}
+#the @app.auto_fill decorator indicates it is a dialogue state handler that requires a form and uses the slot filling logic
+@app.auto_fill(intent='plan_route', form = dest_form)
+#Control is passed on to this dialogue state handler one the slot-filling process is completed and all required entities in this form have been obtained.
+def dest_handler(request, responder):
     for entity in request.entities:
-        if(entity['type'] == 'location'):
-            if(entity['role'] == 'source'):
+        if entity["type"] == "location":
+            if entity["role"] == "source":
                 source = entity['text']
-            if(entity['role']=='destination'):
+                responder.slots['source'] = source
+            elif entity["role"] == "destination":
                 destination = entity['text']
-    try:
-        # seeing if source and destination are there in query
-        route = _get_routes_from_name(source, destination)
-        if(route != False):
-            responder.slots['directions'] = "\n".join(route)
-        else:
-            responder.slots['directions'] = 'https://www.google.com/maps/dir/'+source+"/"+destination
+                responder.slots['destination'] = destination
+        elif entity["type"] == 'sys_number':
+            responder.slots['people'] = entity['text']
 
-        responder.reply("Here's what I found: \n{directions}")
+    try:
+        responder.slots['directions'] = 'https://www.google.com/maps/dir/'+source+"/"+destination
     except:
-        responder.reply("Oops! I can't find the locations :(\nCould you try again by including where you are and where you want to go?")
+        responder.slots['directions'] = 'Coming soon'
+    responder.reply("Planning route from {source} to {destination} for {people} people\n {directions}")
+# @app.handle(intent = 'plan_route')
+# def send_route(request, responder):
+    
+#     for entity in request.entities:
+#         if(entity['type'] == 'location'):
+#             if(entity['role'] == 'source'):
+#                 source = entity['text']
+#             if(entity['role']=='destination'):
+#                 destination = entity['text']
+#     try:
+#         # seeing if source and destination are there in query
+#         route = _get_routes_from_name(source, destination)
+#         if(route != False):
+#             responder.slots['directions'] = "\n".join(route)
+#         else:
+#             responder.slots['directions'] = 'https://www.google.com/maps/dir/'+source+"/"+destination
+
+#         responder.reply("Here's what I found: \n{directions}")
+#     except:
+#         responder.reply("Oops! I can't find the locations :(\nCould you try again by including where you are and where you want to go?")
 
 @app.handle(intent = 'get_ticket_status')
 def send_ticket_status(request, responder):
     responder.reply("You are asking about your ticket")
 
-@app.handle(intent='confirm_number')
-def print_number(request, responder):
-    for entity in request.entities:
-        if(entity['type'] == 'sys_number'):
-            responder.slots['input'] = entity['value']
-        else:
-            responder.slots['input'] = "NA"
-    responder.reply('{input}')
+
 import requests, json
 apiKey = 'x_QwMrXk6NkNWpdkZzTsEH1JyzETot06I-FNTd4Ur6Y'
 
@@ -192,7 +252,7 @@ def _get_routes_from_name(origin, destination):
                 mode = section['transport']['mode'].title()
                 from_l = origin.title() + " ("+ section['departure']['place']['type'].title()+")"
                 to_l =  destination.title()+ " (" +section['arrival']['place']['type'].title()+")"
-            directions.append(mode+"\n"+from_l+ " to "+to_l)
+            directions.append(mode+" - "+from_l+ " to "+to_l)
         return directions
     except:
         # return (route['notices'][0]['title'])

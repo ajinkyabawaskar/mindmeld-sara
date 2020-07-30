@@ -1,0 +1,200 @@
+{
+    "entities": [
+        {
+            "id": "1",
+            "cname": "Single room",
+            "whitelist": [
+                "Single room"
+            ]
+        },
+        {
+            "id": "2",
+            "cname": "Double room ",
+            "whitelist": [
+                "Double room "
+            ]
+        },
+        {
+            "id": "3",
+            "cname": "Triple room",
+            "whitelist": [
+                "Triple room"
+            ]
+        },
+        {
+            "id": "4",
+            "cname": "Quad room",
+            "whitelist": [
+                "Quad room"
+            ]
+        },
+        {
+            "id": "5",
+            "cname": "Standard room/studio",
+            "whitelist": [
+                "Standard room/studio"
+            ]
+        },
+        {
+            "id": "6",
+            "cname": "Deluxe room",
+            "whitelist": [
+                "Deluxe room"
+            ]
+        },
+        {
+            "id": "7",
+            "cname": "Joint room",
+            "whitelist": [
+                "Joint room"
+            ]
+        },
+        {
+            "id": "8",
+            "cname": "Twin",
+            "whitelist": [
+                "Twin"
+            ]
+        },
+        {
+            "id": "9",
+            "cname": "Murphy",
+            "whitelist": [
+                "Murphy"
+            ]
+        },
+        {
+            "id": "10",
+            "cname": "Suite",
+            "whitelist": [
+                "Suite"
+            ]
+        },
+        {
+            "id": "11",
+            "cname": "Mini suite",
+            "whitelist": [
+                "Mini suite"
+            ]
+        },
+        {
+            "id": "12",
+            "cname": "Junior suite",
+            "whitelist": [
+                "Junior suite"
+            ]
+        },
+        {
+            "id": "13",
+            "cname": "Master suite",
+            "whitelist": [
+                "Master suite"
+            ]
+        },
+        {
+            "id": "14",
+            "cname": "Apartment style",
+            "whitelist": [
+                "Apartment style"
+            ]
+        },
+        {
+            "id": "15",
+            "cname": "City view or nature view",
+            "whitelist": [
+                "City view or nature view"
+            ]
+        },
+        {
+            "id": "16",
+            "cname": "Kitchen",
+            "whitelist": [
+                "Kitchen"
+            ]
+        },
+        {
+            "id": "17",
+            "cname": "Handicapped accessible",
+            "whitelist": [
+                "Handicapped accessible"
+            ]
+        },
+        {
+            "id": "18",
+            "cname": "Outdoor entrance (cabana or villa)",
+            "whitelist": [
+                "Outdoor entrance (cabana or villa)"
+            ]
+        },
+        {
+            "id": "19",
+            "cname": "Lanai, terrace or balcony",
+            "whitelist": [
+                "Lanai, terrace or balcony"
+            ]
+        },
+        {
+            "id": "20",
+            "cname": "Minibar",
+            "whitelist": [
+                "Minibar"
+            ]
+        },
+        {
+            "id": "21",
+            "cname": "hot tub bath",
+            "whitelist": [
+                "hot tub bath"
+            ]
+        },
+        {
+            "id": "22",
+            "cname": "Pull-out couch",
+            "whitelist": [
+                "Pull-out couch"
+            ]
+        },
+        {
+            "id": "23",
+            "cname": "Business center",
+            "whitelist": [
+                "Business center"
+            ]
+        },
+        {
+            "id": "24",
+            "cname": "Standard suite",
+            "whitelist": [
+                "Standard suite"
+            ]
+        },
+        {
+            "id": "25",
+            "cname": "Executive suite",
+            "whitelist": [
+                "Executive suite"
+            ]
+        },
+        {
+            "id": "26",
+            "cname": "Presidential suite",
+            "whitelist": [
+                "Presidential suite"
+            ]
+        },
+        {
+            "id": "27",
+            "cname": "Penthouse",
+            "whitelist": [
+                "Penthouse"
+            ]
+        },
+        {
+            "id": "28",
+            "cname": "Villa",
+            "whitelist": [
+                "Villa"
+            ]
+        }
+    ]
+}

@@ -2,6 +2,9 @@
 """This module contains a template MindMeld application"""
 from sara.root import app
 # import modules containing dialogue handlers
+import sara.d_general
+import sara.d_travel
+import sara.d_accommodation
 
 __all__ = ['app']
 

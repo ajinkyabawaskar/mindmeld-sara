@@ -1,0 +1,4645 @@
+{
+    "entities": [
+        {
+            "id": "1",
+            "cname": "Adilabad",
+            "whitelist": [
+                "Adilabad"
+            ]
+        },
+        {
+            "id": "2",
+            "cname": "Agra",
+            "whitelist": [
+                "Agra"
+            ]
+        },
+        {
+            "id": "3",
+            "cname": "Ahmedabad",
+            "whitelist": [
+                "Ahmedabad"
+            ]
+        },
+        {
+            "id": "4",
+            "cname": "Ahmedabad",
+            "whitelist": [
+                "Ahmedabad"
+            ]
+        },
+        {
+            "id": "5",
+            "cname": "Ahmednagar",
+            "whitelist": [
+                "Ahmednagar"
+            ]
+        },
+        {
+            "id": "6",
+            "cname": "Aizawl",
+            "whitelist": [
+                "Aizawl"
+            ]
+        },
+        {
+            "id": "7",
+            "cname": "Ajitgarh (mohali)",
+            "whitelist": [
+                "Ajitgarh (mohali)"
+            ]
+        },
+        {
+            "id": "8",
+            "cname": "Ajmer",
+            "whitelist": [
+                "Ajmer"
+            ]
+        },
+        {
+            "id": "9",
+            "cname": "Akola",
+            "whitelist": [
+                "Akola"
+            ]
+        },
+        {
+            "id": "10",
+            "cname": "Alappuzha",
+            "whitelist": [
+                "Alappuzha"
+            ]
+        },
+        {
+            "id": "11",
+            "cname": "Aligarh",
+            "whitelist": [
+                "Aligarh"
+            ]
+        },
+        {
+            "id": "12",
+            "cname": "Alirajpur",
+            "whitelist": [
+                "Alirajpur"
+            ]
+        },
+        {
+            "id": "13",
+            "cname": "Allahabad",
+            "whitelist": [
+                "Allahabad"
+            ]
+        },
+        {
+            "id": "14",
+            "cname": "Almora",
+            "whitelist": [
+                "Almora"
+            ]
+        },
+        {
+            "id": "15",
+            "cname": "Alwar",
+            "whitelist": [
+                "Alwar"
+            ]
+        },
+        {
+            "id": "16",
+            "cname": "Ambala",
+            "whitelist": [
+                "Ambala"
+            ]
+        },
+        {
+            "id": "17",
+            "cname": "Ambedkar nagar",
+            "whitelist": [
+                "Ambedkar nagar"
+            ]
+        },
+        {
+            "id": "18",
+            "cname": "Amravati",
+            "whitelist": [
+                "Amravati"
+            ]
+        },
+        {
+            "id": "19",
+            "cname": "Amreli district",
+            "whitelist": [
+                "Amreli district"
+            ]
+        },
+        {
+            "id": "20",
+            "cname": "Amritsar",
+            "whitelist": [
+                "Amritsar"
+            ]
+        },
+        {
+            "id": "21",
+            "cname": "Amritsar",
+            "whitelist": [
+                "Amritsar"
+            ]
+        },
+        {
+            "id": "22",
+            "cname": "Anand",
+            "whitelist": [
+                "Anand"
+            ]
+        },
+        {
+            "id": "23",
+            "cname": "Anantapur",
+            "whitelist": [
+                "Anantapur"
+            ]
+        },
+        {
+            "id": "24",
+            "cname": "Anantnag",
+            "whitelist": [
+                "Anantnag"
+            ]
+        },
+        {
+            "id": "25",
+            "cname": "Angul",
+            "whitelist": [
+                "Angul"
+            ]
+        },
+        {
+            "id": "26",
+            "cname": "Anjaw",
+            "whitelist": [
+                "Anjaw"
+            ]
+        },
+        {
+            "id": "27",
+            "cname": "Anuppur",
+            "whitelist": [
+                "Anuppur"
+            ]
+        },
+        {
+            "id": "28",
+            "cname": "Araria",
+            "whitelist": [
+                "Araria"
+            ]
+        },
+        {
+            "id": "29",
+            "cname": "Ariyalur",
+            "whitelist": [
+                "Ariyalur"
+            ]
+        },
+        {
+            "id": "30",
+            "cname": "Arwal",
+            "whitelist": [
+                "Arwal"
+            ]
+        },
+        {
+            "id": "31",
+            "cname": "Ashok nagar",
+            "whitelist": [
+                "Ashok nagar"
+            ]
+        },
+        {
+            "id": "32",
+            "cname": "Auraiya",
+            "whitelist": [
+                "Auraiya"
+            ]
+        },
+        {
+            "id": "33",
+            "cname": "Aurangabad",
+            "whitelist": [
+                "Aurangabad"
+            ]
+        },
+        {
+            "id": "34",
+            "cname": "Aurangabad",
+            "whitelist": [
+                "Aurangabad"
+            ]
+        },
+        {
+            "id": "35",
+            "cname": "Azamgarh",
+            "whitelist": [
+                "Azamgarh"
+            ]
+        },
+        {
+            "id": "36",
+            "cname": "Badgam",
+            "whitelist": [
+                "Badgam"
+            ]
+        },
+        {
+            "id": "37",
+            "cname": "Bagalkot",
+            "whitelist": [
+                "Bagalkot"
+            ]
+        },
+        {
+            "id": "38",
+            "cname": "Bageshwar",
+            "whitelist": [
+                "Bageshwar"
+            ]
+        },
+        {
+            "id": "39",
+            "cname": "Bagpat",
+            "whitelist": [
+                "Bagpat"
+            ]
+        },
+        {
+            "id": "40",
+            "cname": "Bahraich",
+            "whitelist": [
+                "Bahraich"
+            ]
+        },
+        {
+            "id": "41",
+            "cname": "Baksa",
+            "whitelist": [
+                "Baksa"
+            ]
+        },
+        {
+            "id": "42",
+            "cname": "Balaghat",
+            "whitelist": [
+                "Balaghat"
+            ]
+        },
+        {
+            "id": "43",
+            "cname": "Balangir",
+            "whitelist": [
+                "Balangir"
+            ]
+        },
+        {
+            "id": "44",
+            "cname": "Balasore",
+            "whitelist": [
+                "Balasore"
+            ]
+        },
+        {
+            "id": "45",
+            "cname": "Ballia",
+            "whitelist": [
+                "Ballia"
+            ]
+        },
+        {
+            "id": "46",
+            "cname": "Balrampur",
+            "whitelist": [
+                "Balrampur"
+            ]
+        },
+        {
+            "id": "47",
+            "cname": "Banaskantha",
+            "whitelist": [
+                "Banaskantha"
+            ]
+        },
+        {
+            "id": "48",
+            "cname": "Banda",
+            "whitelist": [
+                "Banda"
+            ]
+        },
+        {
+            "id": "49",
+            "cname": "Bandipora",
+            "whitelist": [
+                "Bandipora"
+            ]
+        },
+        {
+            "id": "50",
+            "cname": "Bangalore rural",
+            "whitelist": [
+                "Bangalore rural"
+            ]
+        },
+        {
+            "id": "51",
+            "cname": "Bangalore urban",
+            "whitelist": [
+                "Bangalore urban"
+            ]
+        },
+        {
+            "id": "52",
+            "cname": "Banka",
+            "whitelist": [
+                "Banka"
+            ]
+        },
+        {
+            "id": "53",
+            "cname": "Bankura",
+            "whitelist": [
+                "Bankura"
+            ]
+        },
+        {
+            "id": "54",
+            "cname": "Banswara",
+            "whitelist": [
+                "Banswara"
+            ]
+        },
+        {
+            "id": "55",
+            "cname": "Barabanki",
+            "whitelist": [
+                "Barabanki"
+            ]
+        },
+        {
+            "id": "56",
+            "cname": "Baramulla",
+            "whitelist": [
+                "Baramulla"
+            ]
+        },
+        {
+            "id": "57",
+            "cname": "Baran",
+            "whitelist": [
+                "Baran"
+            ]
+        },
+        {
+            "id": "58",
+            "cname": "Bardhaman",
+            "whitelist": [
+                "Bardhaman"
+            ]
+        },
+        {
+            "id": "59",
+            "cname": "Bareilly",
+            "whitelist": [
+                "Bareilly"
+            ]
+        },
+        {
+            "id": "60",
+            "cname": "Bargarh (baragarh)",
+            "whitelist": [
+                "Bargarh (baragarh)"
+            ]
+        },
+        {
+            "id": "61",
+            "cname": "Barmer",
+            "whitelist": [
+                "Barmer"
+            ]
+        },
+        {
+            "id": "62",
+            "cname": "Barnala",
+            "whitelist": [
+                "Barnala"
+            ]
+        },
+        {
+            "id": "63",
+            "cname": "Barpeta",
+            "whitelist": [
+                "Barpeta"
+            ]
+        },
+        {
+            "id": "64",
+            "cname": "Barwani",
+            "whitelist": [
+                "Barwani"
+            ]
+        },
+        {
+            "id": "65",
+            "cname": "Bastar",
+            "whitelist": [
+                "Bastar"
+            ]
+        },
+        {
+            "id": "66",
+            "cname": "Basti",
+            "whitelist": [
+                "Basti"
+            ]
+        },
+        {
+            "id": "67",
+            "cname": "Bathinda",
+            "whitelist": [
+                "Bathinda"
+            ]
+        },
+        {
+            "id": "68",
+            "cname": "Beed",
+            "whitelist": [
+                "Beed"
+            ]
+        },
+        {
+            "id": "69",
+            "cname": "Begusarai",
+            "whitelist": [
+                "Begusarai"
+            ]
+        },
+        {
+            "id": "70",
+            "cname": "Belgaum",
+            "whitelist": [
+                "Belgaum"
+            ]
+        },
+        {
+            "id": "71",
+            "cname": "Bellary",
+            "whitelist": [
+                "Bellary"
+            ]
+        },
+        {
+            "id": "72",
+            "cname": "Bengaluru",
+            "whitelist": [
+                "Bengaluru"
+            ]
+        },
+        {
+            "id": "73",
+            "cname": "Betul",
+            "whitelist": [
+                "Betul"
+            ]
+        },
+        {
+            "id": "74",
+            "cname": "Bhadrak",
+            "whitelist": [
+                "Bhadrak"
+            ]
+        },
+        {
+            "id": "75",
+            "cname": "Bhagalpur",
+            "whitelist": [
+                "Bhagalpur"
+            ]
+        },
+        {
+            "id": "76",
+            "cname": "Bhandara",
+            "whitelist": [
+                "Bhandara"
+            ]
+        },
+        {
+            "id": "77",
+            "cname": "Bharatpur",
+            "whitelist": [
+                "Bharatpur"
+            ]
+        },
+        {
+            "id": "78",
+            "cname": "Bharuch",
+            "whitelist": [
+                "Bharuch"
+            ]
+        },
+        {
+            "id": "79",
+            "cname": "Bhavnagar",
+            "whitelist": [
+                "Bhavnagar"
+            ]
+        },
+        {
+            "id": "80",
+            "cname": "Bhilwara",
+            "whitelist": [
+                "Bhilwara"
+            ]
+        },
+        {
+            "id": "81",
+            "cname": "Bhind",
+            "whitelist": [
+                "Bhind"
+            ]
+        },
+        {
+            "id": "82",
+            "cname": "Bhiwani",
+            "whitelist": [
+                "Bhiwani"
+            ]
+        },
+        {
+            "id": "83",
+            "cname": "Bhojpur",
+            "whitelist": [
+                "Bhojpur"
+            ]
+        },
+        {
+            "id": "84",
+            "cname": "Bhopal",
+            "whitelist": [
+                "Bhopal"
+            ]
+        },
+        {
+            "id": "85",
+            "cname": "Bidar",
+            "whitelist": [
+                "Bidar"
+            ]
+        },
+        {
+            "id": "86",
+            "cname": "Bijapur",
+            "whitelist": [
+                "Bijapur"
+            ]
+        },
+        {
+            "id": "87",
+            "cname": "Bijapur",
+            "whitelist": [
+                "Bijapur"
+            ]
+        },
+        {
+            "id": "88",
+            "cname": "Bijnor",
+            "whitelist": [
+                "Bijnor"
+            ]
+        },
+        {
+            "id": "89",
+            "cname": "Bikaner",
+            "whitelist": [
+                "Bikaner"
+            ]
+        },
+        {
+            "id": "90",
+            "cname": "Bilaspur",
+            "whitelist": [
+                "Bilaspur"
+            ]
+        },
+        {
+            "id": "91",
+            "cname": "Bilaspur",
+            "whitelist": [
+                "Bilaspur"
+            ]
+        },
+        {
+            "id": "92",
+            "cname": "Birbhum",
+            "whitelist": [
+                "Birbhum"
+            ]
+        },
+        {
+            "id": "93",
+            "cname": "Bishnupur",
+            "whitelist": [
+                "Bishnupur"
+            ]
+        },
+        {
+            "id": "94",
+            "cname": "Bokaro",
+            "whitelist": [
+                "Bokaro"
+            ]
+        },
+        {
+            "id": "95",
+            "cname": "Bongaigaon",
+            "whitelist": [
+                "Bongaigaon"
+            ]
+        },
+        {
+            "id": "96",
+            "cname": "Boudh (bauda)",
+            "whitelist": [
+                "Boudh (bauda)"
+            ]
+        },
+        {
+            "id": "97",
+            "cname": "Budaun",
+            "whitelist": [
+                "Budaun"
+            ]
+        },
+        {
+            "id": "98",
+            "cname": "Bulandshahr",
+            "whitelist": [
+                "Bulandshahr"
+            ]
+        },
+        {
+            "id": "99",
+            "cname": "Buldhana",
+            "whitelist": [
+                "Buldhana"
+            ]
+        },
+        {
+            "id": "100",
+            "cname": "Bundi",
+            "whitelist": [
+                "Bundi"
+            ]
+        },
+        {
+            "id": "101",
+            "cname": "Burhanpur",
+            "whitelist": [
+                "Burhanpur"
+            ]
+        },
+        {
+            "id": "102",
+            "cname": "Buxar",
+            "whitelist": [
+                "Buxar"
+            ]
+        },
+        {
+            "id": "103",
+            "cname": "Cachar",
+            "whitelist": [
+                "Cachar"
+            ]
+        },
+        {
+            "id": "104",
+            "cname": "Central delhi",
+            "whitelist": [
+                "Central delhi"
+            ]
+        },
+        {
+            "id": "105",
+            "cname": "Chamarajnagar",
+            "whitelist": [
+                "Chamarajnagar"
+            ]
+        },
+        {
+            "id": "106",
+            "cname": "Chamba",
+            "whitelist": [
+                "Chamba"
+            ]
+        },
+        {
+            "id": "107",
+            "cname": "Chamoli",
+            "whitelist": [
+                "Chamoli"
+            ]
+        },
+        {
+            "id": "108",
+            "cname": "Champawat",
+            "whitelist": [
+                "Champawat"
+            ]
+        },
+        {
+            "id": "109",
+            "cname": "Champhai",
+            "whitelist": [
+                "Champhai"
+            ]
+        },
+        {
+            "id": "110",
+            "cname": "Chandauli",
+            "whitelist": [
+                "Chandauli"
+            ]
+        },
+        {
+            "id": "111",
+            "cname": "Chandel",
+            "whitelist": [
+                "Chandel"
+            ]
+        },
+        {
+            "id": "112",
+            "cname": "Chandigarh",
+            "whitelist": [
+                "Chandigarh"
+            ]
+        },
+        {
+            "id": "113",
+            "cname": "Chandrapur",
+            "whitelist": [
+                "Chandrapur"
+            ]
+        },
+        {
+            "id": "114",
+            "cname": "Changlang",
+            "whitelist": [
+                "Changlang"
+            ]
+        },
+        {
+            "id": "115",
+            "cname": "Chatra",
+            "whitelist": [
+                "Chatra"
+            ]
+        },
+        {
+            "id": "116",
+            "cname": "Chennai",
+            "whitelist": [
+                "Chennai"
+            ]
+        },
+        {
+            "id": "117",
+            "cname": "Chhatarpur",
+            "whitelist": [
+                "Chhatarpur"
+            ]
+        },
+        {
+            "id": "118",
+            "cname": "Chhatrapati shahuji maharaj nagar",
+            "whitelist": [
+                "Chhatrapati shahuji maharaj nagar"
+            ]
+        },
+        {
+            "id": "119",
+            "cname": "Chhindwara",
+            "whitelist": [
+                "Chhindwara"
+            ]
+        },
+        {
+            "id": "120",
+            "cname": "Chikkaballapur",
+            "whitelist": [
+                "Chikkaballapur"
+            ]
+        },
+        {
+            "id": "121",
+            "cname": "Chikkamagaluru",
+            "whitelist": [
+                "Chikkamagaluru"
+            ]
+        },
+        {
+            "id": "122",
+            "cname": "Chirang",
+            "whitelist": [
+                "Chirang"
+            ]
+        },
+        {
+            "id": "123",
+            "cname": "Chitradurga",
+            "whitelist": [
+                "Chitradurga"
+            ]
+        },
+        {
+            "id": "124",
+            "cname": "Chitrakoot",
+            "whitelist": [
+                "Chitrakoot"
+            ]
+        },
+        {
+            "id": "125",
+            "cname": "Chittoor",
+            "whitelist": [
+                "Chittoor"
+            ]
+        },
+        {
+            "id": "126",
+            "cname": "Chittorgarh",
+            "whitelist": [
+                "Chittorgarh"
+            ]
+        },
+        {
+            "id": "127",
+            "cname": "Churachandpur",
+            "whitelist": [
+                "Churachandpur"
+            ]
+        },
+        {
+            "id": "128",
+            "cname": "Churu",
+            "whitelist": [
+                "Churu"
+            ]
+        },
+        {
+            "id": "129",
+            "cname": "Coimbatore",
+            "whitelist": [
+                "Coimbatore"
+            ]
+        },
+        {
+            "id": "130",
+            "cname": "Coimbatore",
+            "whitelist": [
+                "Coimbatore"
+            ]
+        },
+        {
+            "id": "131",
+            "cname": "Cooch behar",
+            "whitelist": [
+                "Cooch behar"
+            ]
+        },
+        {
+            "id": "132",
+            "cname": "Cuddalore",
+            "whitelist": [
+                "Cuddalore"
+            ]
+        },
+        {
+            "id": "133",
+            "cname": "Cuttack",
+            "whitelist": [
+                "Cuttack"
+            ]
+        },
+        {
+            "id": "134",
+            "cname": "Dadra and nagar haveli",
+            "whitelist": [
+                "Dadra and nagar haveli"
+            ]
+        },
+        {
+            "id": "135",
+            "cname": "Dahod",
+            "whitelist": [
+                "Dahod"
+            ]
+        },
+        {
+            "id": "136",
+            "cname": "Dakshin dinajpur",
+            "whitelist": [
+                "Dakshin dinajpur"
+            ]
+        },
+        {
+            "id": "137",
+            "cname": "Dakshina kannada",
+            "whitelist": [
+                "Dakshina kannada"
+            ]
+        },
+        {
+            "id": "138",
+            "cname": "Daman",
+            "whitelist": [
+                "Daman"
+            ]
+        },
+        {
+            "id": "139",
+            "cname": "Damoh",
+            "whitelist": [
+                "Damoh"
+            ]
+        },
+        {
+            "id": "140",
+            "cname": "Dantewada",
+            "whitelist": [
+                "Dantewada"
+            ]
+        },
+        {
+            "id": "141",
+            "cname": "Darbhanga",
+            "whitelist": [
+                "Darbhanga"
+            ]
+        },
+        {
+            "id": "142",
+            "cname": "Darjeeling",
+            "whitelist": [
+                "Darjeeling"
+            ]
+        },
+        {
+            "id": "143",
+            "cname": "Darjeeling",
+            "whitelist": [
+                "Darjeeling"
+            ]
+        },
+        {
+            "id": "144",
+            "cname": "Darrang",
+            "whitelist": [
+                "Darrang"
+            ]
+        },
+        {
+            "id": "145",
+            "cname": "Datia",
+            "whitelist": [
+                "Datia"
+            ]
+        },
+        {
+            "id": "146",
+            "cname": "Dausa",
+            "whitelist": [
+                "Dausa"
+            ]
+        },
+        {
+            "id": "147",
+            "cname": "Davanagere",
+            "whitelist": [
+                "Davanagere"
+            ]
+        },
+        {
+            "id": "148",
+            "cname": "Debagarh (deogarh)",
+            "whitelist": [
+                "Debagarh (deogarh)"
+            ]
+        },
+        {
+            "id": "149",
+            "cname": "Dehradun",
+            "whitelist": [
+                "Dehradun"
+            ]
+        },
+        {
+            "id": "150",
+            "cname": "Delhi",
+            "whitelist": [
+                "Delhi"
+            ]
+        },
+        {
+            "id": "151",
+            "cname": "Deoghar",
+            "whitelist": [
+                "Deoghar"
+            ]
+        },
+        {
+            "id": "152",
+            "cname": "Deoria",
+            "whitelist": [
+                "Deoria"
+            ]
+        },
+        {
+            "id": "153",
+            "cname": "Dewas",
+            "whitelist": [
+                "Dewas"
+            ]
+        },
+        {
+            "id": "154",
+            "cname": "Dhalai",
+            "whitelist": [
+                "Dhalai"
+            ]
+        },
+        {
+            "id": "155",
+            "cname": "Dhamtari",
+            "whitelist": [
+                "Dhamtari"
+            ]
+        },
+        {
+            "id": "156",
+            "cname": "Dhanbad",
+            "whitelist": [
+                "Dhanbad"
+            ]
+        },
+        {
+            "id": "157",
+            "cname": "Dhar",
+            "whitelist": [
+                "Dhar"
+            ]
+        },
+        {
+            "id": "158",
+            "cname": "Dharmapuri",
+            "whitelist": [
+                "Dharmapuri"
+            ]
+        },
+        {
+            "id": "159",
+            "cname": "Dharwad",
+            "whitelist": [
+                "Dharwad"
+            ]
+        },
+        {
+            "id": "160",
+            "cname": "Dhemaji",
+            "whitelist": [
+                "Dhemaji"
+            ]
+        },
+        {
+            "id": "161",
+            "cname": "Dhenkanal",
+            "whitelist": [
+                "Dhenkanal"
+            ]
+        },
+        {
+            "id": "162",
+            "cname": "Dholpur",
+            "whitelist": [
+                "Dholpur"
+            ]
+        },
+        {
+            "id": "163",
+            "cname": "Dhubri",
+            "whitelist": [
+                "Dhubri"
+            ]
+        },
+        {
+            "id": "164",
+            "cname": "Dhule",
+            "whitelist": [
+                "Dhule"
+            ]
+        },
+        {
+            "id": "165",
+            "cname": "Dibang valley",
+            "whitelist": [
+                "Dibang valley"
+            ]
+        },
+        {
+            "id": "166",
+            "cname": "Dibrugarh",
+            "whitelist": [
+                "Dibrugarh"
+            ]
+        },
+        {
+            "id": "167",
+            "cname": "Dima hasao",
+            "whitelist": [
+                "Dima hasao"
+            ]
+        },
+        {
+            "id": "168",
+            "cname": "Dimapur",
+            "whitelist": [
+                "Dimapur"
+            ]
+        },
+        {
+            "id": "169",
+            "cname": "Dindigul",
+            "whitelist": [
+                "Dindigul"
+            ]
+        },
+        {
+            "id": "170",
+            "cname": "Dindori",
+            "whitelist": [
+                "Dindori"
+            ]
+        },
+        {
+            "id": "171",
+            "cname": "Diu",
+            "whitelist": [
+                "Diu"
+            ]
+        },
+        {
+            "id": "172",
+            "cname": "Doda",
+            "whitelist": [
+                "Doda"
+            ]
+        },
+        {
+            "id": "173",
+            "cname": "Dumka",
+            "whitelist": [
+                "Dumka"
+            ]
+        },
+        {
+            "id": "174",
+            "cname": "Dungapur",
+            "whitelist": [
+                "Dungapur"
+            ]
+        },
+        {
+            "id": "175",
+            "cname": "Durg",
+            "whitelist": [
+                "Durg"
+            ]
+        },
+        {
+            "id": "176",
+            "cname": "East champaran",
+            "whitelist": [
+                "East champaran"
+            ]
+        },
+        {
+            "id": "177",
+            "cname": "East delhi",
+            "whitelist": [
+                "East delhi"
+            ]
+        },
+        {
+            "id": "178",
+            "cname": "East garo hills",
+            "whitelist": [
+                "East garo hills"
+            ]
+        },
+        {
+            "id": "179",
+            "cname": "East khasi hills",
+            "whitelist": [
+                "East khasi hills"
+            ]
+        },
+        {
+            "id": "180",
+            "cname": "East siang",
+            "whitelist": [
+                "East siang"
+            ]
+        },
+        {
+            "id": "181",
+            "cname": "East sikkim",
+            "whitelist": [
+                "East sikkim"
+            ]
+        },
+        {
+            "id": "182",
+            "cname": "East singhbhum",
+            "whitelist": [
+                "East singhbhum"
+            ]
+        },
+        {
+            "id": "183",
+            "cname": "Eluru",
+            "whitelist": [
+                "Eluru"
+            ]
+        },
+        {
+            "id": "184",
+            "cname": "Ernakulam",
+            "whitelist": [
+                "Ernakulam"
+            ]
+        },
+        {
+            "id": "185",
+            "cname": "Erode",
+            "whitelist": [
+                "Erode"
+            ]
+        },
+        {
+            "id": "186",
+            "cname": "Etah",
+            "whitelist": [
+                "Etah"
+            ]
+        },
+        {
+            "id": "187",
+            "cname": "Etawah",
+            "whitelist": [
+                "Etawah"
+            ]
+        },
+        {
+            "id": "188",
+            "cname": "Faizabad",
+            "whitelist": [
+                "Faizabad"
+            ]
+        },
+        {
+            "id": "189",
+            "cname": "Faridabad",
+            "whitelist": [
+                "Faridabad"
+            ]
+        },
+        {
+            "id": "190",
+            "cname": "Faridkot",
+            "whitelist": [
+                "Faridkot"
+            ]
+        },
+        {
+            "id": "191",
+            "cname": "Farrukhabad",
+            "whitelist": [
+                "Farrukhabad"
+            ]
+        },
+        {
+            "id": "192",
+            "cname": "Fatehabad",
+            "whitelist": [
+                "Fatehabad"
+            ]
+        },
+        {
+            "id": "193",
+            "cname": "Fatehgarh sahib",
+            "whitelist": [
+                "Fatehgarh sahib"
+            ]
+        },
+        {
+            "id": "194",
+            "cname": "Fatehpur",
+            "whitelist": [
+                "Fatehpur"
+            ]
+        },
+        {
+            "id": "195",
+            "cname": "Fazilka",
+            "whitelist": [
+                "Fazilka"
+            ]
+        },
+        {
+            "id": "196",
+            "cname": "Firozabad",
+            "whitelist": [
+                "Firozabad"
+            ]
+        },
+        {
+            "id": "197",
+            "cname": "Firozpur",
+            "whitelist": [
+                "Firozpur"
+            ]
+        },
+        {
+            "id": "198",
+            "cname": "Gadag",
+            "whitelist": [
+                "Gadag"
+            ]
+        },
+        {
+            "id": "199",
+            "cname": "Gadchiroli",
+            "whitelist": [
+                "Gadchiroli"
+            ]
+        },
+        {
+            "id": "200",
+            "cname": "Gajapati",
+            "whitelist": [
+                "Gajapati"
+            ]
+        },
+        {
+            "id": "201",
+            "cname": "Ganderbal",
+            "whitelist": [
+                "Ganderbal"
+            ]
+        },
+        {
+            "id": "202",
+            "cname": "Gandhinagar",
+            "whitelist": [
+                "Gandhinagar"
+            ]
+        },
+        {
+            "id": "203",
+            "cname": "Ganganagar",
+            "whitelist": [
+                "Ganganagar"
+            ]
+        },
+        {
+            "id": "204",
+            "cname": "Gangtok",
+            "whitelist": [
+                "Gangtok"
+            ]
+        },
+        {
+            "id": "205",
+            "cname": "Ganjam",
+            "whitelist": [
+                "Ganjam"
+            ]
+        },
+        {
+            "id": "206",
+            "cname": "Garhwa",
+            "whitelist": [
+                "Garhwa"
+            ]
+        },
+        {
+            "id": "207",
+            "cname": "Gautam buddh nagar",
+            "whitelist": [
+                "Gautam buddh nagar"
+            ]
+        },
+        {
+            "id": "208",
+            "cname": "Gaya",
+            "whitelist": [
+                "Gaya"
+            ]
+        },
+        {
+            "id": "209",
+            "cname": "Gaya",
+            "whitelist": [
+                "Gaya"
+            ]
+        },
+        {
+            "id": "210",
+            "cname": "Ghaziabad",
+            "whitelist": [
+                "Ghaziabad"
+            ]
+        },
+        {
+            "id": "211",
+            "cname": "Ghazipur",
+            "whitelist": [
+                "Ghazipur"
+            ]
+        },
+        {
+            "id": "212",
+            "cname": "Giridih",
+            "whitelist": [
+                "Giridih"
+            ]
+        },
+        {
+            "id": "213",
+            "cname": "Goalpara",
+            "whitelist": [
+                "Goalpara"
+            ]
+        },
+        {
+            "id": "214",
+            "cname": "Godda",
+            "whitelist": [
+                "Godda"
+            ]
+        },
+        {
+            "id": "215",
+            "cname": "Golaghat",
+            "whitelist": [
+                "Golaghat"
+            ]
+        },
+        {
+            "id": "216",
+            "cname": "Gonda",
+            "whitelist": [
+                "Gonda"
+            ]
+        },
+        {
+            "id": "217",
+            "cname": "Gondia",
+            "whitelist": [
+                "Gondia"
+            ]
+        },
+        {
+            "id": "218",
+            "cname": "Gopalganj",
+            "whitelist": [
+                "Gopalganj"
+            ]
+        },
+        {
+            "id": "219",
+            "cname": "Gorakhpur",
+            "whitelist": [
+                "Gorakhpur"
+            ]
+        },
+        {
+            "id": "220",
+            "cname": "Gulbarga",
+            "whitelist": [
+                "Gulbarga"
+            ]
+        },
+        {
+            "id": "221",
+            "cname": "Gumla",
+            "whitelist": [
+                "Gumla"
+            ]
+        },
+        {
+            "id": "222",
+            "cname": "Guna",
+            "whitelist": [
+                "Guna"
+            ]
+        },
+        {
+            "id": "223",
+            "cname": "Guntur",
+            "whitelist": [
+                "Guntur"
+            ]
+        },
+        {
+            "id": "224",
+            "cname": "Gurdaspur",
+            "whitelist": [
+                "Gurdaspur"
+            ]
+        },
+        {
+            "id": "225",
+            "cname": "Gurgaon",
+            "whitelist": [
+                "Gurgaon"
+            ]
+        },
+        {
+            "id": "226",
+            "cname": "Gwalior",
+            "whitelist": [
+                "Gwalior"
+            ]
+        },
+        {
+            "id": "227",
+            "cname": "Hailakandi",
+            "whitelist": [
+                "Hailakandi"
+            ]
+        },
+        {
+            "id": "228",
+            "cname": "Hamirpur",
+            "whitelist": [
+                "Hamirpur"
+            ]
+        },
+        {
+            "id": "229",
+            "cname": "Hamirpur",
+            "whitelist": [
+                "Hamirpur"
+            ]
+        },
+        {
+            "id": "230",
+            "cname": "Hanumangarh",
+            "whitelist": [
+                "Hanumangarh"
+            ]
+        },
+        {
+            "id": "231",
+            "cname": "Harda",
+            "whitelist": [
+                "Harda"
+            ]
+        },
+        {
+            "id": "232",
+            "cname": "Hardoi",
+            "whitelist": [
+                "Hardoi"
+            ]
+        },
+        {
+            "id": "233",
+            "cname": "Haridwar",
+            "whitelist": [
+                "Haridwar"
+            ]
+        },
+        {
+            "id": "234",
+            "cname": "Haridwar",
+            "whitelist": [
+                "Haridwar"
+            ]
+        },
+        {
+            "id": "235",
+            "cname": "Hassan",
+            "whitelist": [
+                "Hassan"
+            ]
+        },
+        {
+            "id": "236",
+            "cname": "Haveri district",
+            "whitelist": [
+                "Haveri district"
+            ]
+        },
+        {
+            "id": "237",
+            "cname": "Hazaribag",
+            "whitelist": [
+                "Hazaribag"
+            ]
+        },
+        {
+            "id": "238",
+            "cname": "Hingoli",
+            "whitelist": [
+                "Hingoli"
+            ]
+        },
+        {
+            "id": "239",
+            "cname": "Hissar",
+            "whitelist": [
+                "Hissar"
+            ]
+        },
+        {
+            "id": "240",
+            "cname": "Hooghly",
+            "whitelist": [
+                "Hooghly"
+            ]
+        },
+        {
+            "id": "241",
+            "cname": "Hoshangabad",
+            "whitelist": [
+                "Hoshangabad"
+            ]
+        },
+        {
+            "id": "242",
+            "cname": "Hoshiarpur",
+            "whitelist": [
+                "Hoshiarpur"
+            ]
+        },
+        {
+            "id": "243",
+            "cname": "Howrah",
+            "whitelist": [
+                "Howrah"
+            ]
+        },
+        {
+            "id": "244",
+            "cname": "Hyderabad",
+            "whitelist": [
+                "Hyderabad"
+            ]
+        },
+        {
+            "id": "245",
+            "cname": "Hyderabad",
+            "whitelist": [
+                "Hyderabad"
+            ]
+        },
+        {
+            "id": "246",
+            "cname": "Hyderabad",
+            "whitelist": [
+                "Hyderabad"
+            ]
+        },
+        {
+            "id": "247",
+            "cname": "Idukki",
+            "whitelist": [
+                "Idukki"
+            ]
+        },
+        {
+            "id": "248",
+            "cname": "Imphal east",
+            "whitelist": [
+                "Imphal east"
+            ]
+        },
+        {
+            "id": "249",
+            "cname": "Imphal west",
+            "whitelist": [
+                "Imphal west"
+            ]
+        },
+        {
+            "id": "250",
+            "cname": "Indore",
+            "whitelist": [
+                "Indore"
+            ]
+        },
+        {
+            "id": "251",
+            "cname": "Jabalpur",
+            "whitelist": [
+                "Jabalpur"
+            ]
+        },
+        {
+            "id": "252",
+            "cname": "Jagatsinghpur",
+            "whitelist": [
+                "Jagatsinghpur"
+            ]
+        },
+        {
+            "id": "253",
+            "cname": "Jaintia hills",
+            "whitelist": [
+                "Jaintia hills"
+            ]
+        },
+        {
+            "id": "254",
+            "cname": "Jaipur",
+            "whitelist": [
+                "Jaipur"
+            ]
+        },
+        {
+            "id": "255",
+            "cname": "Jaipur",
+            "whitelist": [
+                "Jaipur"
+            ]
+        },
+        {
+            "id": "256",
+            "cname": "Jaisalmer",
+            "whitelist": [
+                "Jaisalmer"
+            ]
+        },
+        {
+            "id": "257",
+            "cname": "Jajpur",
+            "whitelist": [
+                "Jajpur"
+            ]
+        },
+        {
+            "id": "258",
+            "cname": "Jalandhar",
+            "whitelist": [
+                "Jalandhar"
+            ]
+        },
+        {
+            "id": "259",
+            "cname": "Jalaun",
+            "whitelist": [
+                "Jalaun"
+            ]
+        },
+        {
+            "id": "260",
+            "cname": "Jalgaon",
+            "whitelist": [
+                "Jalgaon"
+            ]
+        },
+        {
+            "id": "261",
+            "cname": "Jalna",
+            "whitelist": [
+                "Jalna"
+            ]
+        },
+        {
+            "id": "262",
+            "cname": "Jalore",
+            "whitelist": [
+                "Jalore"
+            ]
+        },
+        {
+            "id": "263",
+            "cname": "Jalpaiguri",
+            "whitelist": [
+                "Jalpaiguri"
+            ]
+        },
+        {
+            "id": "264",
+            "cname": "Jammu",
+            "whitelist": [
+                "Jammu"
+            ]
+        },
+        {
+            "id": "265",
+            "cname": "Jamnagar",
+            "whitelist": [
+                "Jamnagar"
+            ]
+        },
+        {
+            "id": "266",
+            "cname": "Jamtara",
+            "whitelist": [
+                "Jamtara"
+            ]
+        },
+        {
+            "id": "267",
+            "cname": "Jamui",
+            "whitelist": [
+                "Jamui"
+            ]
+        },
+        {
+            "id": "268",
+            "cname": "Janjgir-champa",
+            "whitelist": [
+                "Janjgir-champa"
+            ]
+        },
+        {
+            "id": "269",
+            "cname": "Jashpur",
+            "whitelist": [
+                "Jashpur"
+            ]
+        },
+        {
+            "id": "270",
+            "cname": "Jaunpur district",
+            "whitelist": [
+                "Jaunpur district"
+            ]
+        },
+        {
+            "id": "271",
+            "cname": "Jehanabad",
+            "whitelist": [
+                "Jehanabad"
+            ]
+        },
+        {
+            "id": "272",
+            "cname": "Jhabua",
+            "whitelist": [
+                "Jhabua"
+            ]
+        },
+        {
+            "id": "273",
+            "cname": "Jhajjar",
+            "whitelist": [
+                "Jhajjar"
+            ]
+        },
+        {
+            "id": "274",
+            "cname": "Jhalawar",
+            "whitelist": [
+                "Jhalawar"
+            ]
+        },
+        {
+            "id": "275",
+            "cname": "Jhansi",
+            "whitelist": [
+                "Jhansi"
+            ]
+        },
+        {
+            "id": "276",
+            "cname": "Jharsuguda",
+            "whitelist": [
+                "Jharsuguda"
+            ]
+        },
+        {
+            "id": "277",
+            "cname": "Jhunjhunu",
+            "whitelist": [
+                "Jhunjhunu"
+            ]
+        },
+        {
+            "id": "278",
+            "cname": "Jind",
+            "whitelist": [
+                "Jind"
+            ]
+        },
+        {
+            "id": "279",
+            "cname": "Jodhpur",
+            "whitelist": [
+                "Jodhpur"
+            ]
+        },
+        {
+            "id": "280",
+            "cname": "Jorhat",
+            "whitelist": [
+                "Jorhat"
+            ]
+        },
+        {
+            "id": "281",
+            "cname": "Junagadh",
+            "whitelist": [
+                "Junagadh"
+            ]
+        },
+        {
+            "id": "282",
+            "cname": "Jyotiba phule nagar",
+            "whitelist": [
+                "Jyotiba phule nagar"
+            ]
+        },
+        {
+            "id": "283",
+            "cname": "Kabirdham (formerly kawardha)",
+            "whitelist": [
+                "Kabirdham (formerly kawardha)"
+            ]
+        },
+        {
+            "id": "284",
+            "cname": "Kadapa",
+            "whitelist": [
+                "Kadapa"
+            ]
+        },
+        {
+            "id": "285",
+            "cname": "Kaimur",
+            "whitelist": [
+                "Kaimur"
+            ]
+        },
+        {
+            "id": "286",
+            "cname": "Kaithal",
+            "whitelist": [
+                "Kaithal"
+            ]
+        },
+        {
+            "id": "287",
+            "cname": "Kakinada",
+            "whitelist": [
+                "Kakinada"
+            ]
+        },
+        {
+            "id": "288",
+            "cname": "Kalahandi",
+            "whitelist": [
+                "Kalahandi"
+            ]
+        },
+        {
+            "id": "289",
+            "cname": "Kamrup",
+            "whitelist": [
+                "Kamrup"
+            ]
+        },
+        {
+            "id": "290",
+            "cname": "Kamrup metropolitan",
+            "whitelist": [
+                "Kamrup metropolitan"
+            ]
+        },
+        {
+            "id": "291",
+            "cname": "Kanchipuram",
+            "whitelist": [
+                "Kanchipuram"
+            ]
+        },
+        {
+            "id": "292",
+            "cname": "Kandhamal",
+            "whitelist": [
+                "Kandhamal"
+            ]
+        },
+        {
+            "id": "293",
+            "cname": "Kangra",
+            "whitelist": [
+                "Kangra"
+            ]
+        },
+        {
+            "id": "294",
+            "cname": "Kanker",
+            "whitelist": [
+                "Kanker"
+            ]
+        },
+        {
+            "id": "295",
+            "cname": "Kannauj",
+            "whitelist": [
+                "Kannauj"
+            ]
+        },
+        {
+            "id": "296",
+            "cname": "Kannur",
+            "whitelist": [
+                "Kannur"
+            ]
+        },
+        {
+            "id": "297",
+            "cname": "Kanpur",
+            "whitelist": [
+                "Kanpur"
+            ]
+        },
+        {
+            "id": "298",
+            "cname": "Kanshi ram nagar",
+            "whitelist": [
+                "Kanshi ram nagar"
+            ]
+        },
+        {
+            "id": "299",
+            "cname": "Kanyakumari",
+            "whitelist": [
+                "Kanyakumari"
+            ]
+        },
+        {
+            "id": "300",
+            "cname": "Kapurthala",
+            "whitelist": [
+                "Kapurthala"
+            ]
+        },
+        {
+            "id": "301",
+            "cname": "Karaikal",
+            "whitelist": [
+                "Karaikal"
+            ]
+        },
+        {
+            "id": "302",
+            "cname": "Karauli",
+            "whitelist": [
+                "Karauli"
+            ]
+        },
+        {
+            "id": "303",
+            "cname": "Karbi anglong",
+            "whitelist": [
+                "Karbi anglong"
+            ]
+        },
+        {
+            "id": "304",
+            "cname": "Kargil",
+            "whitelist": [
+                "Kargil"
+            ]
+        },
+        {
+            "id": "305",
+            "cname": "Karimganj",
+            "whitelist": [
+                "Karimganj"
+            ]
+        },
+        {
+            "id": "306",
+            "cname": "Karimnagar",
+            "whitelist": [
+                "Karimnagar"
+            ]
+        },
+        {
+            "id": "307",
+            "cname": "Karnal",
+            "whitelist": [
+                "Karnal"
+            ]
+        },
+        {
+            "id": "308",
+            "cname": "Karur",
+            "whitelist": [
+                "Karur"
+            ]
+        },
+        {
+            "id": "309",
+            "cname": "Kasaragod",
+            "whitelist": [
+                "Kasaragod"
+            ]
+        },
+        {
+            "id": "310",
+            "cname": "Kathua",
+            "whitelist": [
+                "Kathua"
+            ]
+        },
+        {
+            "id": "311",
+            "cname": "Katihar",
+            "whitelist": [
+                "Katihar"
+            ]
+        },
+        {
+            "id": "312",
+            "cname": "Katni",
+            "whitelist": [
+                "Katni"
+            ]
+        },
+        {
+            "id": "313",
+            "cname": "Kausani",
+            "whitelist": [
+                "Kausani"
+            ]
+        },
+        {
+            "id": "314",
+            "cname": "Kaushambi",
+            "whitelist": [
+                "Kaushambi"
+            ]
+        },
+        {
+            "id": "315",
+            "cname": "Kendrapara",
+            "whitelist": [
+                "Kendrapara"
+            ]
+        },
+        {
+            "id": "316",
+            "cname": "Kendujhar (keonjhar)",
+            "whitelist": [
+                "Kendujhar (keonjhar)"
+            ]
+        },
+        {
+            "id": "317",
+            "cname": "Khagaria",
+            "whitelist": [
+                "Khagaria"
+            ]
+        },
+        {
+            "id": "318",
+            "cname": "Khammam",
+            "whitelist": [
+                "Khammam"
+            ]
+        },
+        {
+            "id": "319",
+            "cname": "Khandwa (east nimar)",
+            "whitelist": [
+                "Khandwa (east nimar)"
+            ]
+        },
+        {
+            "id": "320",
+            "cname": "Khargone (west nimar)",
+            "whitelist": [
+                "Khargone (west nimar)"
+            ]
+        },
+        {
+            "id": "321",
+            "cname": "Kheda",
+            "whitelist": [
+                "Kheda"
+            ]
+        },
+        {
+            "id": "322",
+            "cname": "Khordha",
+            "whitelist": [
+                "Khordha"
+            ]
+        },
+        {
+            "id": "323",
+            "cname": "Khowai",
+            "whitelist": [
+                "Khowai"
+            ]
+        },
+        {
+            "id": "324",
+            "cname": "Khunti",
+            "whitelist": [
+                "Khunti"
+            ]
+        },
+        {
+            "id": "325",
+            "cname": "Kinnaur",
+            "whitelist": [
+                "Kinnaur"
+            ]
+        },
+        {
+            "id": "326",
+            "cname": "Kishanganj",
+            "whitelist": [
+                "Kishanganj"
+            ]
+        },
+        {
+            "id": "327",
+            "cname": "Kishtwar",
+            "whitelist": [
+                "Kishtwar"
+            ]
+        },
+        {
+            "id": "328",
+            "cname": "Kochi",
+            "whitelist": [
+                "Kochi"
+            ]
+        },
+        {
+            "id": "329",
+            "cname": "Kodagu",
+            "whitelist": [
+                "Kodagu"
+            ]
+        },
+        {
+            "id": "330",
+            "cname": "Koderma",
+            "whitelist": [
+                "Koderma"
+            ]
+        },
+        {
+            "id": "331",
+            "cname": "Kohima",
+            "whitelist": [
+                "Kohima"
+            ]
+        },
+        {
+            "id": "332",
+            "cname": "Kokrajhar",
+            "whitelist": [
+                "Kokrajhar"
+            ]
+        },
+        {
+            "id": "333",
+            "cname": "Kolar",
+            "whitelist": [
+                "Kolar"
+            ]
+        },
+        {
+            "id": "334",
+            "cname": "Kolasib",
+            "whitelist": [
+                "Kolasib"
+            ]
+        },
+        {
+            "id": "335",
+            "cname": "Kolhapur",
+            "whitelist": [
+                "Kolhapur"
+            ]
+        },
+        {
+            "id": "336",
+            "cname": "Kolkata",
+            "whitelist": [
+                "Kolkata"
+            ]
+        },
+        {
+            "id": "337",
+            "cname": "Kolkata",
+            "whitelist": [
+                "Kolkata"
+            ]
+        },
+        {
+            "id": "338",
+            "cname": "Kollam",
+            "whitelist": [
+                "Kollam"
+            ]
+        },
+        {
+            "id": "339",
+            "cname": "Koppal",
+            "whitelist": [
+                "Koppal"
+            ]
+        },
+        {
+            "id": "340",
+            "cname": "Koraput",
+            "whitelist": [
+                "Koraput"
+            ]
+        },
+        {
+            "id": "341",
+            "cname": "Korba",
+            "whitelist": [
+                "Korba"
+            ]
+        },
+        {
+            "id": "342",
+            "cname": "Koriya",
+            "whitelist": [
+                "Koriya"
+            ]
+        },
+        {
+            "id": "343",
+            "cname": "Kota",
+            "whitelist": [
+                "Kota"
+            ]
+        },
+        {
+            "id": "344",
+            "cname": "Kottayam",
+            "whitelist": [
+                "Kottayam"
+            ]
+        },
+        {
+            "id": "345",
+            "cname": "Kozhikode",
+            "whitelist": [
+                "Kozhikode"
+            ]
+        },
+        {
+            "id": "346",
+            "cname": "Krishna",
+            "whitelist": [
+                "Krishna"
+            ]
+        },
+        {
+            "id": "347",
+            "cname": "Kulgam",
+            "whitelist": [
+                "Kulgam"
+            ]
+        },
+        {
+            "id": "348",
+            "cname": "Kullu",
+            "whitelist": [
+                "Kullu"
+            ]
+        },
+        {
+            "id": "349",
+            "cname": "Kumarakom",
+            "whitelist": [
+                "Kumarakom"
+            ]
+        },
+        {
+            "id": "350",
+            "cname": "Kupwara",
+            "whitelist": [
+                "Kupwara"
+            ]
+        },
+        {
+            "id": "351",
+            "cname": "Kurnool",
+            "whitelist": [
+                "Kurnool"
+            ]
+        },
+        {
+            "id": "352",
+            "cname": "Kurukshetra",
+            "whitelist": [
+                "Kurukshetra"
+            ]
+        },
+        {
+            "id": "353",
+            "cname": "Kurung kumey",
+            "whitelist": [
+                "Kurung kumey"
+            ]
+        },
+        {
+            "id": "354",
+            "cname": "Kushinagar",
+            "whitelist": [
+                "Kushinagar"
+            ]
+        },
+        {
+            "id": "355",
+            "cname": "Kutch",
+            "whitelist": [
+                "Kutch"
+            ]
+        },
+        {
+            "id": "356",
+            "cname": "Lahaul and spiti",
+            "whitelist": [
+                "Lahaul and spiti"
+            ]
+        },
+        {
+            "id": "357",
+            "cname": "Lakhimpur",
+            "whitelist": [
+                "Lakhimpur"
+            ]
+        },
+        {
+            "id": "358",
+            "cname": "Lakhimpur kheri",
+            "whitelist": [
+                "Lakhimpur kheri"
+            ]
+        },
+        {
+            "id": "359",
+            "cname": "Lakhisarai",
+            "whitelist": [
+                "Lakhisarai"
+            ]
+        },
+        {
+            "id": "360",
+            "cname": "Lalitpur",
+            "whitelist": [
+                "Lalitpur"
+            ]
+        },
+        {
+            "id": "361",
+            "cname": "Latehar",
+            "whitelist": [
+                "Latehar"
+            ]
+        },
+        {
+            "id": "362",
+            "cname": "Latur",
+            "whitelist": [
+                "Latur"
+            ]
+        },
+        {
+            "id": "363",
+            "cname": "Lawngtlai",
+            "whitelist": [
+                "Lawngtlai"
+            ]
+        },
+        {
+            "id": "364",
+            "cname": "Leh",
+            "whitelist": [
+                "Leh"
+            ]
+        },
+        {
+            "id": "365",
+            "cname": "Lohardaga",
+            "whitelist": [
+                "Lohardaga"
+            ]
+        },
+        {
+            "id": "366",
+            "cname": "Lohit",
+            "whitelist": [
+                "Lohit"
+            ]
+        },
+        {
+            "id": "367",
+            "cname": "Lower dibang valley",
+            "whitelist": [
+                "Lower dibang valley"
+            ]
+        },
+        {
+            "id": "368",
+            "cname": "Lower subansiri",
+            "whitelist": [
+                "Lower subansiri"
+            ]
+        },
+        {
+            "id": "369",
+            "cname": "Lucknow",
+            "whitelist": [
+                "Lucknow"
+            ]
+        },
+        {
+            "id": "370",
+            "cname": "Lucknow",
+            "whitelist": [
+                "Lucknow"
+            ]
+        },
+        {
+            "id": "371",
+            "cname": "Ludhiana",
+            "whitelist": [
+                "Ludhiana"
+            ]
+        },
+        {
+            "id": "372",
+            "cname": "Lunglei",
+            "whitelist": [
+                "Lunglei"
+            ]
+        },
+        {
+            "id": "373",
+            "cname": "Madhepura",
+            "whitelist": [
+                "Madhepura"
+            ]
+        },
+        {
+            "id": "374",
+            "cname": "Madhubani",
+            "whitelist": [
+                "Madhubani"
+            ]
+        },
+        {
+            "id": "375",
+            "cname": "Madurai",
+            "whitelist": [
+                "Madurai"
+            ]
+        },
+        {
+            "id": "376",
+            "cname": "Mahamaya nagar",
+            "whitelist": [
+                "Mahamaya nagar"
+            ]
+        },
+        {
+            "id": "377",
+            "cname": "Maharajganj",
+            "whitelist": [
+                "Maharajganj"
+            ]
+        },
+        {
+            "id": "378",
+            "cname": "Mahasamund",
+            "whitelist": [
+                "Mahasamund"
+            ]
+        },
+        {
+            "id": "379",
+            "cname": "Mahbubnagar",
+            "whitelist": [
+                "Mahbubnagar"
+            ]
+        },
+        {
+            "id": "380",
+            "cname": "Mahe",
+            "whitelist": [
+                "Mahe"
+            ]
+        },
+        {
+            "id": "381",
+            "cname": "Mahendragarh",
+            "whitelist": [
+                "Mahendragarh"
+            ]
+        },
+        {
+            "id": "382",
+            "cname": "Mahoba",
+            "whitelist": [
+                "Mahoba"
+            ]
+        },
+        {
+            "id": "383",
+            "cname": "Mainpuri",
+            "whitelist": [
+                "Mainpuri"
+            ]
+        },
+        {
+            "id": "384",
+            "cname": "Malappuram",
+            "whitelist": [
+                "Malappuram"
+            ]
+        },
+        {
+            "id": "385",
+            "cname": "Maldah",
+            "whitelist": [
+                "Maldah"
+            ]
+        },
+        {
+            "id": "386",
+            "cname": "Malkangiri",
+            "whitelist": [
+                "Malkangiri"
+            ]
+        },
+        {
+            "id": "387",
+            "cname": "Mamit",
+            "whitelist": [
+                "Mamit"
+            ]
+        },
+        {
+            "id": "388",
+            "cname": "Manali",
+            "whitelist": [
+                "Manali"
+            ]
+        },
+        {
+            "id": "389",
+            "cname": "Mandi",
+            "whitelist": [
+                "Mandi"
+            ]
+        },
+        {
+            "id": "390",
+            "cname": "Mandla",
+            "whitelist": [
+                "Mandla"
+            ]
+        },
+        {
+            "id": "391",
+            "cname": "Mandsaur",
+            "whitelist": [
+                "Mandsaur"
+            ]
+        },
+        {
+            "id": "392",
+            "cname": "Mandya",
+            "whitelist": [
+                "Mandya"
+            ]
+        },
+        {
+            "id": "393",
+            "cname": "Mansa",
+            "whitelist": [
+                "Mansa"
+            ]
+        },
+        {
+            "id": "394",
+            "cname": "Marigaon",
+            "whitelist": [
+                "Marigaon"
+            ]
+        },
+        {
+            "id": "395",
+            "cname": "Mathura",
+            "whitelist": [
+                "Mathura"
+            ]
+        },
+        {
+            "id": "396",
+            "cname": "Mau",
+            "whitelist": [
+                "Mau"
+            ]
+        },
+        {
+            "id": "397",
+            "cname": "Mayurbhanj",
+            "whitelist": [
+                "Mayurbhanj"
+            ]
+        },
+        {
+            "id": "398",
+            "cname": "Medak",
+            "whitelist": [
+                "Medak"
+            ]
+        },
+        {
+            "id": "399",
+            "cname": "Meerut",
+            "whitelist": [
+                "Meerut"
+            ]
+        },
+        {
+            "id": "400",
+            "cname": "Mehsana",
+            "whitelist": [
+                "Mehsana"
+            ]
+        },
+        {
+            "id": "401",
+            "cname": "Mewat",
+            "whitelist": [
+                "Mewat"
+            ]
+        },
+        {
+            "id": "402",
+            "cname": "Mirzapur",
+            "whitelist": [
+                "Mirzapur"
+            ]
+        },
+        {
+            "id": "403",
+            "cname": "Moga",
+            "whitelist": [
+                "Moga"
+            ]
+        },
+        {
+            "id": "404",
+            "cname": "Mokokchung",
+            "whitelist": [
+                "Mokokchung"
+            ]
+        },
+        {
+            "id": "405",
+            "cname": "Mon",
+            "whitelist": [
+                "Mon"
+            ]
+        },
+        {
+            "id": "406",
+            "cname": "Moradabad",
+            "whitelist": [
+                "Moradabad"
+            ]
+        },
+        {
+            "id": "407",
+            "cname": "Morena",
+            "whitelist": [
+                "Morena"
+            ]
+        },
+        {
+            "id": "408",
+            "cname": "Mumbai",
+            "whitelist": [
+                "Mumbai"
+            ]
+        },
+        {
+            "id": "409",
+            "cname": "Mumbai city",
+            "whitelist": [
+                "Mumbai city"
+            ]
+        },
+        {
+            "id": "410",
+            "cname": "Mumbai suburban",
+            "whitelist": [
+                "Mumbai suburban"
+            ]
+        },
+        {
+            "id": "411",
+            "cname": "Munger",
+            "whitelist": [
+                "Munger"
+            ]
+        },
+        {
+            "id": "412",
+            "cname": "Munnar",
+            "whitelist": [
+                "Munnar"
+            ]
+        },
+        {
+            "id": "413",
+            "cname": "Murshidabad",
+            "whitelist": [
+                "Murshidabad"
+            ]
+        },
+        {
+            "id": "414",
+            "cname": "Muzaffarnagar",
+            "whitelist": [
+                "Muzaffarnagar"
+            ]
+        },
+        {
+            "id": "415",
+            "cname": "Muzaffarpur",
+            "whitelist": [
+                "Muzaffarpur"
+            ]
+        },
+        {
+            "id": "416",
+            "cname": "Mysore",
+            "whitelist": [
+                "Mysore"
+            ]
+        },
+        {
+            "id": "417",
+            "cname": "Nabarangpur",
+            "whitelist": [
+                "Nabarangpur"
+            ]
+        },
+        {
+            "id": "418",
+            "cname": "Nadia",
+            "whitelist": [
+                "Nadia"
+            ]
+        },
+        {
+            "id": "419",
+            "cname": "Nagaon",
+            "whitelist": [
+                "Nagaon"
+            ]
+        },
+        {
+            "id": "420",
+            "cname": "Nagapattinam",
+            "whitelist": [
+                "Nagapattinam"
+            ]
+        },
+        {
+            "id": "421",
+            "cname": "Nagaur",
+            "whitelist": [
+                "Nagaur"
+            ]
+        },
+        {
+            "id": "422",
+            "cname": "Nagpur",
+            "whitelist": [
+                "Nagpur"
+            ]
+        },
+        {
+            "id": "423",
+            "cname": "Nainital",
+            "whitelist": [
+                "Nainital"
+            ]
+        },
+        {
+            "id": "424",
+            "cname": "Nalanda",
+            "whitelist": [
+                "Nalanda"
+            ]
+        },
+        {
+            "id": "425",
+            "cname": "Nalbari",
+            "whitelist": [
+                "Nalbari"
+            ]
+        },
+        {
+            "id": "426",
+            "cname": "Nalgonda",
+            "whitelist": [
+                "Nalgonda"
+            ]
+        },
+        {
+            "id": "427",
+            "cname": "Namakkal",
+            "whitelist": [
+                "Namakkal"
+            ]
+        },
+        {
+            "id": "428",
+            "cname": "Nanded",
+            "whitelist": [
+                "Nanded"
+            ]
+        },
+        {
+            "id": "429",
+            "cname": "Nandurbar",
+            "whitelist": [
+                "Nandurbar"
+            ]
+        },
+        {
+            "id": "430",
+            "cname": "Narayanpur",
+            "whitelist": [
+                "Narayanpur"
+            ]
+        },
+        {
+            "id": "431",
+            "cname": "Narmada",
+            "whitelist": [
+                "Narmada"
+            ]
+        },
+        {
+            "id": "432",
+            "cname": "Narsinghpur",
+            "whitelist": [
+                "Narsinghpur"
+            ]
+        },
+        {
+            "id": "433",
+            "cname": "Nashik",
+            "whitelist": [
+                "Nashik"
+            ]
+        },
+        {
+            "id": "434",
+            "cname": "Navsari",
+            "whitelist": [
+                "Navsari"
+            ]
+        },
+        {
+            "id": "435",
+            "cname": "Nawada",
+            "whitelist": [
+                "Nawada"
+            ]
+        },
+        {
+            "id": "436",
+            "cname": "Nawanshahr",
+            "whitelist": [
+                "Nawanshahr"
+            ]
+        },
+        {
+            "id": "437",
+            "cname": "Nayagarh",
+            "whitelist": [
+                "Nayagarh"
+            ]
+        },
+        {
+            "id": "438",
+            "cname": "Neemuch",
+            "whitelist": [
+                "Neemuch"
+            ]
+        },
+        {
+            "id": "439",
+            "cname": "Nellore",
+            "whitelist": [
+                "Nellore"
+            ]
+        },
+        {
+            "id": "440",
+            "cname": "New delhi",
+            "whitelist": [
+                "New delhi"
+            ]
+        },
+        {
+            "id": "441",
+            "cname": "Nilgiris",
+            "whitelist": [
+                "Nilgiris"
+            ]
+        },
+        {
+            "id": "442",
+            "cname": "Nizamabad",
+            "whitelist": [
+                "Nizamabad"
+            ]
+        },
+        {
+            "id": "443",
+            "cname": "North 24 parganas",
+            "whitelist": [
+                "North 24 parganas"
+            ]
+        },
+        {
+            "id": "444",
+            "cname": "North delhi",
+            "whitelist": [
+                "North delhi"
+            ]
+        },
+        {
+            "id": "445",
+            "cname": "North east delhi",
+            "whitelist": [
+                "North east delhi"
+            ]
+        },
+        {
+            "id": "446",
+            "cname": "North goa",
+            "whitelist": [
+                "North goa"
+            ]
+        },
+        {
+            "id": "447",
+            "cname": "North sikkim",
+            "whitelist": [
+                "North sikkim"
+            ]
+        },
+        {
+            "id": "448",
+            "cname": "North tripura",
+            "whitelist": [
+                "North tripura"
+            ]
+        },
+        {
+            "id": "449",
+            "cname": "North west delhi",
+            "whitelist": [
+                "North west delhi"
+            ]
+        },
+        {
+            "id": "450",
+            "cname": "Nuapada",
+            "whitelist": [
+                "Nuapada"
+            ]
+        },
+        {
+            "id": "451",
+            "cname": "Ongole",
+            "whitelist": [
+                "Ongole"
+            ]
+        },
+        {
+            "id": "452",
+            "cname": "Ooty",
+            "whitelist": [
+                "Ooty"
+            ]
+        },
+        {
+            "id": "453",
+            "cname": "Osmanabad",
+            "whitelist": [
+                "Osmanabad"
+            ]
+        },
+        {
+            "id": "454",
+            "cname": "Pakur",
+            "whitelist": [
+                "Pakur"
+            ]
+        },
+        {
+            "id": "455",
+            "cname": "Palakkad",
+            "whitelist": [
+                "Palakkad"
+            ]
+        },
+        {
+            "id": "456",
+            "cname": "Palamu",
+            "whitelist": [
+                "Palamu"
+            ]
+        },
+        {
+            "id": "457",
+            "cname": "Pali",
+            "whitelist": [
+                "Pali"
+            ]
+        },
+        {
+            "id": "458",
+            "cname": "Palwal",
+            "whitelist": [
+                "Palwal"
+            ]
+        },
+        {
+            "id": "459",
+            "cname": "Panchkula",
+            "whitelist": [
+                "Panchkula"
+            ]
+        },
+        {
+            "id": "460",
+            "cname": "Panchmahal",
+            "whitelist": [
+                "Panchmahal"
+            ]
+        },
+        {
+            "id": "461",
+            "cname": "Panchsheel nagar district (hapur)",
+            "whitelist": [
+                "Panchsheel nagar district (hapur)"
+            ]
+        },
+        {
+            "id": "462",
+            "cname": "Panipat",
+            "whitelist": [
+                "Panipat"
+            ]
+        },
+        {
+            "id": "463",
+            "cname": "Panna",
+            "whitelist": [
+                "Panna"
+            ]
+        },
+        {
+            "id": "464",
+            "cname": "Papum pare",
+            "whitelist": [
+                "Papum pare"
+            ]
+        },
+        {
+            "id": "465",
+            "cname": "Parbhani",
+            "whitelist": [
+                "Parbhani"
+            ]
+        },
+        {
+            "id": "466",
+            "cname": "Paschim medinipur",
+            "whitelist": [
+                "Paschim medinipur"
+            ]
+        },
+        {
+            "id": "467",
+            "cname": "Patan",
+            "whitelist": [
+                "Patan"
+            ]
+        },
+        {
+            "id": "468",
+            "cname": "Pathanamthitta",
+            "whitelist": [
+                "Pathanamthitta"
+            ]
+        },
+        {
+            "id": "469",
+            "cname": "Pathankot",
+            "whitelist": [
+                "Pathankot"
+            ]
+        },
+        {
+            "id": "470",
+            "cname": "Patiala",
+            "whitelist": [
+                "Patiala"
+            ]
+        },
+        {
+            "id": "471",
+            "cname": "Patna",
+            "whitelist": [
+                "Patna"
+            ]
+        },
+        {
+            "id": "472",
+            "cname": "Pauri garhwal",
+            "whitelist": [
+                "Pauri garhwal"
+            ]
+        },
+        {
+            "id": "473",
+            "cname": "Perambalur",
+            "whitelist": [
+                "Perambalur"
+            ]
+        },
+        {
+            "id": "474",
+            "cname": "Phek",
+            "whitelist": [
+                "Phek"
+            ]
+        },
+        {
+            "id": "475",
+            "cname": "Pilibhit",
+            "whitelist": [
+                "Pilibhit"
+            ]
+        },
+        {
+            "id": "476",
+            "cname": "Pithoragarh",
+            "whitelist": [
+                "Pithoragarh"
+            ]
+        },
+        {
+            "id": "477",
+            "cname": "Pondicherry",
+            "whitelist": [
+                "Pondicherry"
+            ]
+        },
+        {
+            "id": "478",
+            "cname": "Poonch",
+            "whitelist": [
+                "Poonch"
+            ]
+        },
+        {
+            "id": "479",
+            "cname": "Porbandar",
+            "whitelist": [
+                "Porbandar"
+            ]
+        },
+        {
+            "id": "480",
+            "cname": "Porbandar",
+            "whitelist": [
+                "Porbandar"
+            ]
+        },
+        {
+            "id": "481",
+            "cname": "Pratapgarh",
+            "whitelist": [
+                "Pratapgarh"
+            ]
+        },
+        {
+            "id": "482",
+            "cname": "Pratapgarh",
+            "whitelist": [
+                "Pratapgarh"
+            ]
+        },
+        {
+            "id": "483",
+            "cname": "Pudukkottai",
+            "whitelist": [
+                "Pudukkottai"
+            ]
+        },
+        {
+            "id": "484",
+            "cname": "Pulwama",
+            "whitelist": [
+                "Pulwama"
+            ]
+        },
+        {
+            "id": "485",
+            "cname": "Pune",
+            "whitelist": [
+                "Pune"
+            ]
+        },
+        {
+            "id": "486",
+            "cname": "Purba medinipur",
+            "whitelist": [
+                "Purba medinipur"
+            ]
+        },
+        {
+            "id": "487",
+            "cname": "Puri",
+            "whitelist": [
+                "Puri"
+            ]
+        },
+        {
+            "id": "488",
+            "cname": "Purnia",
+            "whitelist": [
+                "Purnia"
+            ]
+        },
+        {
+            "id": "489",
+            "cname": "Purulia",
+            "whitelist": [
+                "Purulia"
+            ]
+        },
+        {
+            "id": "490",
+            "cname": "Raebareli",
+            "whitelist": [
+                "Raebareli"
+            ]
+        },
+        {
+            "id": "491",
+            "cname": "Raichur",
+            "whitelist": [
+                "Raichur"
+            ]
+        },
+        {
+            "id": "492",
+            "cname": "Raigad",
+            "whitelist": [
+                "Raigad"
+            ]
+        },
+        {
+            "id": "493",
+            "cname": "Raigarh",
+            "whitelist": [
+                "Raigarh"
+            ]
+        },
+        {
+            "id": "494",
+            "cname": "Raipur",
+            "whitelist": [
+                "Raipur"
+            ]
+        },
+        {
+            "id": "495",
+            "cname": "Raisen",
+            "whitelist": [
+                "Raisen"
+            ]
+        },
+        {
+            "id": "496",
+            "cname": "Rajauri",
+            "whitelist": [
+                "Rajauri"
+            ]
+        },
+        {
+            "id": "497",
+            "cname": "Rajgarh",
+            "whitelist": [
+                "Rajgarh"
+            ]
+        },
+        {
+            "id": "498",
+            "cname": "Rajkot",
+            "whitelist": [
+                "Rajkot"
+            ]
+        },
+        {
+            "id": "499",
+            "cname": "Rajnandgaon",
+            "whitelist": [
+                "Rajnandgaon"
+            ]
+        },
+        {
+            "id": "500",
+            "cname": "Rajsamand",
+            "whitelist": [
+                "Rajsamand"
+            ]
+        },
+        {
+            "id": "501",
+            "cname": "Ramabai nagar (kanpur dehat)",
+            "whitelist": [
+                "Ramabai nagar (kanpur dehat)"
+            ]
+        },
+        {
+            "id": "502",
+            "cname": "Ramanagara",
+            "whitelist": [
+                "Ramanagara"
+            ]
+        },
+        {
+            "id": "503",
+            "cname": "Ramanathapuram",
+            "whitelist": [
+                "Ramanathapuram"
+            ]
+        },
+        {
+            "id": "504",
+            "cname": "Ramban",
+            "whitelist": [
+                "Ramban"
+            ]
+        },
+        {
+            "id": "505",
+            "cname": "Ramgarh",
+            "whitelist": [
+                "Ramgarh"
+            ]
+        },
+        {
+            "id": "506",
+            "cname": "Rampur",
+            "whitelist": [
+                "Rampur"
+            ]
+        },
+        {
+            "id": "507",
+            "cname": "Ranchi",
+            "whitelist": [
+                "Ranchi"
+            ]
+        },
+        {
+            "id": "508",
+            "cname": "Ratlam",
+            "whitelist": [
+                "Ratlam"
+            ]
+        },
+        {
+            "id": "509",
+            "cname": "Ratnagiri",
+            "whitelist": [
+                "Ratnagiri"
+            ]
+        },
+        {
+            "id": "510",
+            "cname": "Rayagada",
+            "whitelist": [
+                "Rayagada"
+            ]
+        },
+        {
+            "id": "511",
+            "cname": "Reasi",
+            "whitelist": [
+                "Reasi"
+            ]
+        },
+        {
+            "id": "512",
+            "cname": "Rewa",
+            "whitelist": [
+                "Rewa"
+            ]
+        },
+        {
+            "id": "513",
+            "cname": "Rewari",
+            "whitelist": [
+                "Rewari"
+            ]
+        },
+        {
+            "id": "514",
+            "cname": "Ri bhoi",
+            "whitelist": [
+                "Ri bhoi"
+            ]
+        },
+        {
+            "id": "515",
+            "cname": "Rishikesh",
+            "whitelist": [
+                "Rishikesh"
+            ]
+        },
+        {
+            "id": "516",
+            "cname": "Rohtak",
+            "whitelist": [
+                "Rohtak"
+            ]
+        },
+        {
+            "id": "517",
+            "cname": "Rohtas",
+            "whitelist": [
+                "Rohtas"
+            ]
+        },
+        {
+            "id": "518",
+            "cname": "Rudraprayag",
+            "whitelist": [
+                "Rudraprayag"
+            ]
+        },
+        {
+            "id": "519",
+            "cname": "Rupnagar",
+            "whitelist": [
+                "Rupnagar"
+            ]
+        },
+        {
+            "id": "520",
+            "cname": "Sabarkantha",
+            "whitelist": [
+                "Sabarkantha"
+            ]
+        },
+        {
+            "id": "521",
+            "cname": "Sagar",
+            "whitelist": [
+                "Sagar"
+            ]
+        },
+        {
+            "id": "522",
+            "cname": "Saharanpur",
+            "whitelist": [
+                "Saharanpur"
+            ]
+        },
+        {
+            "id": "523",
+            "cname": "Saharsa",
+            "whitelist": [
+                "Saharsa"
+            ]
+        },
+        {
+            "id": "524",
+            "cname": "Sahibganj",
+            "whitelist": [
+                "Sahibganj"
+            ]
+        },
+        {
+            "id": "525",
+            "cname": "Saiha",
+            "whitelist": [
+                "Saiha"
+            ]
+        },
+        {
+            "id": "526",
+            "cname": "Salem",
+            "whitelist": [
+                "Salem"
+            ]
+        },
+        {
+            "id": "527",
+            "cname": "Samastipur",
+            "whitelist": [
+                "Samastipur"
+            ]
+        },
+        {
+            "id": "528",
+            "cname": "Samba",
+            "whitelist": [
+                "Samba"
+            ]
+        },
+        {
+            "id": "529",
+            "cname": "Sambalpur",
+            "whitelist": [
+                "Sambalpur"
+            ]
+        },
+        {
+            "id": "530",
+            "cname": "Sangli",
+            "whitelist": [
+                "Sangli"
+            ]
+        },
+        {
+            "id": "531",
+            "cname": "Sangrur",
+            "whitelist": [
+                "Sangrur"
+            ]
+        },
+        {
+            "id": "532",
+            "cname": "Sant kabir nagar",
+            "whitelist": [
+                "Sant kabir nagar"
+            ]
+        },
+        {
+            "id": "533",
+            "cname": "Sant ravidas nagar",
+            "whitelist": [
+                "Sant ravidas nagar"
+            ]
+        },
+        {
+            "id": "534",
+            "cname": "Saran",
+            "whitelist": [
+                "Saran"
+            ]
+        },
+        {
+            "id": "535",
+            "cname": "Satara",
+            "whitelist": [
+                "Satara"
+            ]
+        },
+        {
+            "id": "536",
+            "cname": "Satna",
+            "whitelist": [
+                "Satna"
+            ]
+        },
+        {
+            "id": "537",
+            "cname": "Sawai madhopur",
+            "whitelist": [
+                "Sawai madhopur"
+            ]
+        },
+        {
+            "id": "538",
+            "cname": "Sehore",
+            "whitelist": [
+                "Sehore"
+            ]
+        },
+        {
+            "id": "539",
+            "cname": "Senapati",
+            "whitelist": [
+                "Senapati"
+            ]
+        },
+        {
+            "id": "540",
+            "cname": "Seoni",
+            "whitelist": [
+                "Seoni"
+            ]
+        },
+        {
+            "id": "541",
+            "cname": "Seraikela kharsawan",
+            "whitelist": [
+                "Seraikela kharsawan"
+            ]
+        },
+        {
+            "id": "542",
+            "cname": "Serchhip",
+            "whitelist": [
+                "Serchhip"
+            ]
+        },
+        {
+            "id": "543",
+            "cname": "Shahdol",
+            "whitelist": [
+                "Shahdol"
+            ]
+        },
+        {
+            "id": "544",
+            "cname": "Shahjahanpur",
+            "whitelist": [
+                "Shahjahanpur"
+            ]
+        },
+        {
+            "id": "545",
+            "cname": "Shajapur",
+            "whitelist": [
+                "Shajapur"
+            ]
+        },
+        {
+            "id": "546",
+            "cname": "Shamli",
+            "whitelist": [
+                "Shamli"
+            ]
+        },
+        {
+            "id": "547",
+            "cname": "Sheikhpura",
+            "whitelist": [
+                "Sheikhpura"
+            ]
+        },
+        {
+            "id": "548",
+            "cname": "Sheohar",
+            "whitelist": [
+                "Sheohar"
+            ]
+        },
+        {
+            "id": "549",
+            "cname": "Sheopur",
+            "whitelist": [
+                "Sheopur"
+            ]
+        },
+        {
+            "id": "550",
+            "cname": "Shimla",
+            "whitelist": [
+                "Shimla"
+            ]
+        },
+        {
+            "id": "551",
+            "cname": "Shimoga",
+            "whitelist": [
+                "Shimoga"
+            ]
+        },
+        {
+            "id": "552",
+            "cname": "Shivpuri",
+            "whitelist": [
+                "Shivpuri"
+            ]
+        },
+        {
+            "id": "553",
+            "cname": "Shopian",
+            "whitelist": [
+                "Shopian"
+            ]
+        },
+        {
+            "id": "554",
+            "cname": "Shravasti",
+            "whitelist": [
+                "Shravasti"
+            ]
+        },
+        {
+            "id": "555",
+            "cname": "Sibsagar",
+            "whitelist": [
+                "Sibsagar"
+            ]
+        },
+        {
+            "id": "556",
+            "cname": "Siddharthnagar",
+            "whitelist": [
+                "Siddharthnagar"
+            ]
+        },
+        {
+            "id": "557",
+            "cname": "Sidhi",
+            "whitelist": [
+                "Sidhi"
+            ]
+        },
+        {
+            "id": "558",
+            "cname": "Sikar",
+            "whitelist": [
+                "Sikar"
+            ]
+        },
+        {
+            "id": "559",
+            "cname": "Simdega",
+            "whitelist": [
+                "Simdega"
+            ]
+        },
+        {
+            "id": "560",
+            "cname": "Sindhudurg",
+            "whitelist": [
+                "Sindhudurg"
+            ]
+        },
+        {
+            "id": "561",
+            "cname": "Singrauli",
+            "whitelist": [
+                "Singrauli"
+            ]
+        },
+        {
+            "id": "562",
+            "cname": "Sirmaur",
+            "whitelist": [
+                "Sirmaur"
+            ]
+        },
+        {
+            "id": "563",
+            "cname": "Sirohi",
+            "whitelist": [
+                "Sirohi"
+            ]
+        },
+        {
+            "id": "564",
+            "cname": "Sirsa",
+            "whitelist": [
+                "Sirsa"
+            ]
+        },
+        {
+            "id": "565",
+            "cname": "Sitamarhi",
+            "whitelist": [
+                "Sitamarhi"
+            ]
+        },
+        {
+            "id": "566",
+            "cname": "Sitapur",
+            "whitelist": [
+                "Sitapur"
+            ]
+        },
+        {
+            "id": "567",
+            "cname": "Sivaganga",
+            "whitelist": [
+                "Sivaganga"
+            ]
+        },
+        {
+            "id": "568",
+            "cname": "Siwan",
+            "whitelist": [
+                "Siwan"
+            ]
+        },
+        {
+            "id": "569",
+            "cname": "Solan",
+            "whitelist": [
+                "Solan"
+            ]
+        },
+        {
+            "id": "570",
+            "cname": "Solapur",
+            "whitelist": [
+                "Solapur"
+            ]
+        },
+        {
+            "id": "571",
+            "cname": "Sonbhadra",
+            "whitelist": [
+                "Sonbhadra"
+            ]
+        },
+        {
+            "id": "572",
+            "cname": "Sonipat",
+            "whitelist": [
+                "Sonipat"
+            ]
+        },
+        {
+            "id": "573",
+            "cname": "Sonitpur",
+            "whitelist": [
+                "Sonitpur"
+            ]
+        },
+        {
+            "id": "574",
+            "cname": "South 24 parganas",
+            "whitelist": [
+                "South 24 parganas"
+            ]
+        },
+        {
+            "id": "575",
+            "cname": "South delhi",
+            "whitelist": [
+                "South delhi"
+            ]
+        },
+        {
+            "id": "576",
+            "cname": "South garo hills",
+            "whitelist": [
+                "South garo hills"
+            ]
+        },
+        {
+            "id": "577",
+            "cname": "South goa",
+            "whitelist": [
+                "South goa"
+            ]
+        },
+        {
+            "id": "578",
+            "cname": "South sikkim",
+            "whitelist": [
+                "South sikkim"
+            ]
+        },
+        {
+            "id": "579",
+            "cname": "South tripura",
+            "whitelist": [
+                "South tripura"
+            ]
+        },
+        {
+            "id": "580",
+            "cname": "South west delhi",
+            "whitelist": [
+                "South west delhi"
+            ]
+        },
+        {
+            "id": "581",
+            "cname": "Sri muktsar sahib",
+            "whitelist": [
+                "Sri muktsar sahib"
+            ]
+        },
+        {
+            "id": "582",
+            "cname": "Srikakulam",
+            "whitelist": [
+                "Srikakulam"
+            ]
+        },
+        {
+            "id": "583",
+            "cname": "Srinagar",
+            "whitelist": [
+                "Srinagar"
+            ]
+        },
+        {
+            "id": "584",
+            "cname": "Subarnapur (sonepur)",
+            "whitelist": [
+                "Subarnapur (sonepur)"
+            ]
+        },
+        {
+            "id": "585",
+            "cname": "Sultanpur",
+            "whitelist": [
+                "Sultanpur"
+            ]
+        },
+        {
+            "id": "586",
+            "cname": "Sundergarh",
+            "whitelist": [
+                "Sundergarh"
+            ]
+        },
+        {
+            "id": "587",
+            "cname": "Supaul",
+            "whitelist": [
+                "Supaul"
+            ]
+        },
+        {
+            "id": "588",
+            "cname": "Surat",
+            "whitelist": [
+                "Surat"
+            ]
+        },
+        {
+            "id": "589",
+            "cname": "Surendranagar",
+            "whitelist": [
+                "Surendranagar"
+            ]
+        },
+        {
+            "id": "590",
+            "cname": "Surguja",
+            "whitelist": [
+                "Surguja"
+            ]
+        },
+        {
+            "id": "591",
+            "cname": "Tamenglong",
+            "whitelist": [
+                "Tamenglong"
+            ]
+        },
+        {
+            "id": "592",
+            "cname": "Tarkarli",
+            "whitelist": [
+                "Tarkarli"
+            ]
+        },
+        {
+            "id": "593",
+            "cname": "Tarn taran",
+            "whitelist": [
+                "Tarn taran"
+            ]
+        },
+        {
+            "id": "594",
+            "cname": "Tawang",
+            "whitelist": [
+                "Tawang"
+            ]
+        },
+        {
+            "id": "595",
+            "cname": "Tawang",
+            "whitelist": [
+                "Tawang"
+            ]
+        },
+        {
+            "id": "596",
+            "cname": "Tehri garhwal",
+            "whitelist": [
+                "Tehri garhwal"
+            ]
+        },
+        {
+            "id": "597",
+            "cname": "Thane",
+            "whitelist": [
+                "Thane"
+            ]
+        },
+        {
+            "id": "598",
+            "cname": "Thanjavur",
+            "whitelist": [
+                "Thanjavur"
+            ]
+        },
+        {
+            "id": "599",
+            "cname": "The dangs",
+            "whitelist": [
+                "The dangs"
+            ]
+        },
+        {
+            "id": "600",
+            "cname": "Theni",
+            "whitelist": [
+                "Theni"
+            ]
+        },
+        {
+            "id": "601",
+            "cname": "Thiruvananthapuram",
+            "whitelist": [
+                "Thiruvananthapuram"
+            ]
+        },
+        {
+            "id": "602",
+            "cname": "Thiruvananthapuram",
+            "whitelist": [
+                "Thiruvananthapuram"
+            ]
+        },
+        {
+            "id": "603",
+            "cname": "Thoothukudi",
+            "whitelist": [
+                "Thoothukudi"
+            ]
+        },
+        {
+            "id": "604",
+            "cname": "Thoubal",
+            "whitelist": [
+                "Thoubal"
+            ]
+        },
+        {
+            "id": "605",
+            "cname": "Thrissur",
+            "whitelist": [
+                "Thrissur"
+            ]
+        },
+        {
+            "id": "606",
+            "cname": "Tikamgarh",
+            "whitelist": [
+                "Tikamgarh"
+            ]
+        },
+        {
+            "id": "607",
+            "cname": "Tinsukia",
+            "whitelist": [
+                "Tinsukia"
+            ]
+        },
+        {
+            "id": "608",
+            "cname": "Tirap",
+            "whitelist": [
+                "Tirap"
+            ]
+        },
+        {
+            "id": "609",
+            "cname": "Tiruchirappalli",
+            "whitelist": [
+                "Tiruchirappalli"
+            ]
+        },
+        {
+            "id": "610",
+            "cname": "Tirunelveli",
+            "whitelist": [
+                "Tirunelveli"
+            ]
+        },
+        {
+            "id": "611",
+            "cname": "Tirupur",
+            "whitelist": [
+                "Tirupur"
+            ]
+        },
+        {
+            "id": "612",
+            "cname": "Tiruvallur",
+            "whitelist": [
+                "Tiruvallur"
+            ]
+        },
+        {
+            "id": "613",
+            "cname": "Tiruvannamalai",
+            "whitelist": [
+                "Tiruvannamalai"
+            ]
+        },
+        {
+            "id": "614",
+            "cname": "Tiruvarur",
+            "whitelist": [
+                "Tiruvarur"
+            ]
+        },
+        {
+            "id": "615",
+            "cname": "Tonk",
+            "whitelist": [
+                "Tonk"
+            ]
+        },
+        {
+            "id": "616",
+            "cname": "Tuensang",
+            "whitelist": [
+                "Tuensang"
+            ]
+        },
+        {
+            "id": "617",
+            "cname": "Tumkur",
+            "whitelist": [
+                "Tumkur"
+            ]
+        },
+        {
+            "id": "618",
+            "cname": "Udaipur",
+            "whitelist": [
+                "Udaipur"
+            ]
+        },
+        {
+            "id": "619",
+            "cname": "Udalguri",
+            "whitelist": [
+                "Udalguri"
+            ]
+        },
+        {
+            "id": "620",
+            "cname": "Udham singh nagar",
+            "whitelist": [
+                "Udham singh nagar"
+            ]
+        },
+        {
+            "id": "621",
+            "cname": "Udhampur",
+            "whitelist": [
+                "Udhampur"
+            ]
+        },
+        {
+            "id": "622",
+            "cname": "Udupi",
+            "whitelist": [
+                "Udupi"
+            ]
+        },
+        {
+            "id": "623",
+            "cname": "Ujjain",
+            "whitelist": [
+                "Ujjain"
+            ]
+        },
+        {
+            "id": "624",
+            "cname": "Ukhrul",
+            "whitelist": [
+                "Ukhrul"
+            ]
+        },
+        {
+            "id": "625",
+            "cname": "Umaria",
+            "whitelist": [
+                "Umaria"
+            ]
+        },
+        {
+            "id": "626",
+            "cname": "Una",
+            "whitelist": [
+                "Una"
+            ]
+        },
+        {
+            "id": "627",
+            "cname": "Unnao",
+            "whitelist": [
+                "Unnao"
+            ]
+        },
+        {
+            "id": "628",
+            "cname": "Upper siang",
+            "whitelist": [
+                "Upper siang"
+            ]
+        },
+        {
+            "id": "629",
+            "cname": "Upper subansiri",
+            "whitelist": [
+                "Upper subansiri"
+            ]
+        },
+        {
+            "id": "630",
+            "cname": "Uttar dinajpur",
+            "whitelist": [
+                "Uttar dinajpur"
+            ]
+        },
+        {
+            "id": "631",
+            "cname": "Uttara kannada",
+            "whitelist": [
+                "Uttara kannada"
+            ]
+        },
+        {
+            "id": "632",
+            "cname": "Uttarkashi",
+            "whitelist": [
+                "Uttarkashi"
+            ]
+        },
+        {
+            "id": "633",
+            "cname": "Vadodara",
+            "whitelist": [
+                "Vadodara"
+            ]
+        },
+        {
+            "id": "634",
+            "cname": "Vaishali",
+            "whitelist": [
+                "Vaishali"
+            ]
+        },
+        {
+            "id": "635",
+            "cname": "Valsad",
+            "whitelist": [
+                "Valsad"
+            ]
+        },
+        {
+            "id": "636",
+            "cname": "Varanasi",
+            "whitelist": [
+                "Varanasi"
+            ]
+        },
+        {
+            "id": "637",
+            "cname": "Varanasi",
+            "whitelist": [
+                "Varanasi"
+            ]
+        },
+        {
+            "id": "638",
+            "cname": "Vellore",
+            "whitelist": [
+                "Vellore"
+            ]
+        },
+        {
+            "id": "639",
+            "cname": "Vidisha",
+            "whitelist": [
+                "Vidisha"
+            ]
+        },
+        {
+            "id": "640",
+            "cname": "Viluppuram",
+            "whitelist": [
+                "Viluppuram"
+            ]
+        },
+        {
+            "id": "641",
+            "cname": "Virudhunagar",
+            "whitelist": [
+                "Virudhunagar"
+            ]
+        },
+        {
+            "id": "642",
+            "cname": "Visakhapatnam",
+            "whitelist": [
+                "Visakhapatnam"
+            ]
+        },
+        {
+            "id": "643",
+            "cname": "Vizianagaram",
+            "whitelist": [
+                "Vizianagaram"
+            ]
+        },
+        {
+            "id": "644",
+            "cname": "Vyara",
+            "whitelist": [
+                "Vyara"
+            ]
+        },
+        {
+            "id": "645",
+            "cname": "Warangal",
+            "whitelist": [
+                "Warangal"
+            ]
+        },
+        {
+            "id": "646",
+            "cname": "Wardha",
+            "whitelist": [
+                "Wardha"
+            ]
+        },
+        {
+            "id": "647",
+            "cname": "Washim",
+            "whitelist": [
+                "Washim"
+            ]
+        },
+        {
+            "id": "648",
+            "cname": "Wayanad",
+            "whitelist": [
+                "Wayanad"
+            ]
+        },
+        {
+            "id": "649",
+            "cname": "West champaran",
+            "whitelist": [
+                "West champaran"
+            ]
+        },
+        {
+            "id": "650",
+            "cname": "West delhi",
+            "whitelist": [
+                "West delhi"
+            ]
+        },
+        {
+            "id": "651",
+            "cname": "West garo hills",
+            "whitelist": [
+                "West garo hills"
+            ]
+        },
+        {
+            "id": "652",
+            "cname": "West kameng",
+            "whitelist": [
+                "West kameng"
+            ]
+        },
+        {
+            "id": "653",
+            "cname": "West khasi hills",
+            "whitelist": [
+                "West khasi hills"
+            ]
+        },
+        {
+            "id": "654",
+            "cname": "West siang",
+            "whitelist": [
+                "West siang"
+            ]
+        },
+        {
+            "id": "655",
+            "cname": "West sikkim",
+            "whitelist": [
+                "West sikkim"
+            ]
+        },
+        {
+            "id": "656",
+            "cname": "West singhbhum",
+            "whitelist": [
+                "West singhbhum"
+            ]
+        },
+        {
+            "id": "657",
+            "cname": "West tripura",
+            "whitelist": [
+                "West tripura"
+            ]
+        },
+        {
+            "id": "658",
+            "cname": "Wokha",
+            "whitelist": [
+                "Wokha"
+            ]
+        },
+        {
+            "id": "659",
+            "cname": "Yadgir",
+            "whitelist": [
+                "Yadgir"
+            ]
+        },
+        {
+            "id": "660",
+            "cname": "Yamuna nagar",
+            "whitelist": [
+                "Yamuna nagar"
+            ]
+        },
+        {
+            "id": "661",
+            "cname": "Yanam",
+            "whitelist": [
+                "Yanam"
+            ]
+        },
+        {
+            "id": "662",
+            "cname": "Yavatmal",
+            "whitelist": [
+                "Yavatmal"
+            ]
+        },
+        {
+            "id": "663",
+            "cname": "Zunheboto",
+            "whitelist": [
+                "Zunheboto"
+            ]
+        }
+    ]
+}

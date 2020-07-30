@@ -1,0 +1,36 @@
+{
+    "entities": [
+        {
+            "id": "1",
+            "cname": "First Class",
+            "whitelist": [
+                "First",
+                "First class"
+            ]
+        },
+        {
+            "id": "2",
+            "cname": "Economy",
+            "whitelist": [
+                "Economy",
+                "Eco"
+            ]
+        },
+        {
+            "id": "3",
+            "cname": "Premium Economy",
+            "whitelist": [
+                "Premium",
+                "Premium economy"
+            ]
+        },
+        {
+            "id": "5",
+            "cname": "Business",
+            "whitelist": [
+                "Business",
+                "Executive"
+            ]
+        }
+    ]
+}

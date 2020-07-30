@@ -1,0 +1,151 @@
+{
+    "entities": [
+        {
+            "id": "1",
+            "cname": "Kovalam Beach",
+            "whitelist": [
+                "Kovalam Beach"
+            ]
+        },
+        {
+            "id": "2",
+            "cname": "Anjuna Beach",
+            "whitelist": [
+                "Anjuna Beach"
+            ]
+        },
+        {
+            "id": "3",
+            "cname": "Vagator Beach",
+            "whitelist": [
+                "Vagator Beach"
+            ]
+        },
+        {
+            "id": "4",
+            "cname": "Kolva Beach",
+            "whitelist": [
+                "Kolva Beach"
+            ]
+        },
+        {
+            "id": "5",
+            "cname": "Basilica of Bom Jesus",
+            "whitelist": [
+                "Basilica of Bom Jesus"
+            ]
+        },
+        {
+            "id": "6",
+            "cname": "Milagres Church",
+            "whitelist": [
+                "Milagres Church"
+            ]
+        },
+        {
+            "id": "7",
+            "cname": "St James Church",
+            "whitelist": [
+                "St James Church"
+            ]
+        },
+        {
+            "id": "8",
+            "cname": "Our lady of Immaculate Conception Church",
+            "whitelist": [
+                "Our lady of Immaculate Conception Church"
+            ]
+        },
+        {
+            "id": "9",
+            "cname": "Se Cathedral",
+            "whitelist": [
+                "Se Cathedral"
+            ]
+        },
+        {
+            "id": "10",
+            "cname": "Amber fort",
+            "whitelist": [
+                "Amber fort"
+            ]
+        },
+        {
+            "id": "11",
+            "cname": "agra fort",
+            "whitelist": [
+                "agra fort"
+            ]
+        },
+        {
+            "id": "12",
+            "cname": "kumbhalgarh fort",
+            "whitelist": [
+                "kumbhalgarh fort"
+            ]
+        },
+        {
+            "id": "13",
+            "cname": "Jaisalmer fort",
+            "whitelist": [
+                "Jaisalmer fort"
+            ]
+        },
+        {
+            "id": "14",
+            "cname": "city palace",
+            "whitelist": [
+                "city palace"
+            ]
+        },
+        {
+            "id": "15",
+            "cname": "National Salt Satyagarh Memorial",
+            "whitelist": [
+                "National Salt Satyagarh Memorial"
+            ]
+        },
+        {
+            "id": "16",
+            "cname": "Taj Mahal",
+            "whitelist": [
+                "Taj Mahal"
+            ]
+        },
+        {
+            "id": "17",
+            "cname": "Red fort",
+            "whitelist": [
+                "Red fort"
+            ]
+        },
+        {
+            "id": "18",
+            "cname": "Qutub minar",
+            "whitelist": [
+                "Qutub minar"
+            ]
+        },
+        {
+            "id": "19",
+            "cname": "Humayun's tome",
+            "whitelist": [
+                "Humayun's tome"
+            ]
+        },
+        {
+            "id": "20",
+            "cname": "kedarnath",
+            "whitelist": [
+                "kedarnath"
+            ]
+        },
+        {
+            "id": "21",
+            "cname": "Badrinath",
+            "whitelist": [
+                "Badrinath"
+            ]
+        }
+    ]
+}

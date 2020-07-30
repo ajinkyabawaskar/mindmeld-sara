@@ -175,7 +175,9 @@ def _get_routes_from_name(origin, destination):
 def confirm_head_count(request,responder):
     for entity in request.entities:
         if(entity['type'] == 'sys_number'):
-            responder.slots['headcount'] = entity['text']
-        else:
-            responder.slots['headcount'] = "NA"
+            headcount=entity['text']
+    if( headcount):
+        responder.slots['headcount'] = headcount
+    else:
+        responder.slots['headcount'] = "NA"
     responder.reply("Number of people confirmed : {headcount}")

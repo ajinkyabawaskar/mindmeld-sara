@@ -173,7 +173,6 @@ def _get_routes_from_name(origin, destination):
 
 @app.handle(intent='get_head_count')
 def confirm_head_count(request,responder):
-    origin = ""
     for entity in request.entities:
         if(entity['type'] == 'sys_number'):
             responder.slots['headcount'] = entity['text']

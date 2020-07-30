@@ -22,9 +22,11 @@ def send_location_info(request, responder):
                 recommendations = ''
                 for recommendation in selected_entity[0]['locations']:
                     recommendations = recommendations + recommendation['name'] + " in " + recommendation['city'] + "\nFind out more: " +recommendation['url'] + "\n"
+                # responder.dynamic_resource['gazetteers'] = {'location': dict((location, 1.0) for location in destination_list)}
                 responder.slots['recommendations'] = (recommendations)
                 reply = [selected_entity[0]['description'], '*Known for '+selected_entity[0]['preference']+'*:\n']
                 responder.reply('\n'.join(reply) + "{recommendations}")
+                responder.reply('Where would you like to go?')
             else:
                 responder.reply("I'm sorry, I don't have suggestions about "+preference.title())
 

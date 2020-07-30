@@ -171,13 +171,13 @@ possible routes available from {Srikakulam|location|source} to {Faridabad|locati
 Possibility of routes from {Dhule|location|source} to {Kanpur|location|destination}
 means of getting to {Jaunpur district|location|destination} from {Alwar|location|source}
 ways to travel between {Dhanbad|location|destination} and {Guna|location|source}
-how to travel to {Washim|location|destination} from {Etah|location|source}
-Can I travel to {Doda|location|destination} from {Barabanki|location|source}
+how to travel to {Washim|location|destination} from {Etah|location|source} for {3|sys_number} person
+Can I travel to {city palace|tourist_attraction|destination} from {Barabanki|location|source}
 is travelling to {Koderma|location|destination} possible from {Seraikela Kharsawan|location|source}
 travel routes from {Janjgir-Champa|location|source} to {Pondicherry|location|destination}
 How do I travel from {Bellary|location|source} to {Uttar Dinajpur|location|destination}
 travelling from {Bhiwani|location|source} to {West Siang|location|destination}.Suggest routes.
-I want to go to {Dharmapuri|location|destination} from {Mainpuri|location|source}
+I want to go to {Dharmapuri|location|destination} from {Mainpuri|location|source} 
 I wanna travel to {North Tripura|location|destination} from {Bulandshahr|location|source}
 {Bhopal|location|source} to {Harda|location|destination} routes
 {Pithoragarh|location|source} to {Sultanpur|location|destination} ways 
@@ -185,10 +185,10 @@ I wanna travel to {North Tripura|location|destination} from {Bulandshahr|locatio
 will I be able to go to {Kendujhar (Keonjhar)|location|destination} from {Lunglei|location|source}
 road to {Pathanamthitta|location|destination} from {Belgaum|location|source}
 Paths from {Khagaria|location|source} to {Darjeeling|location|destination}
-Suggest paths from {Vidisha|location|source} to {Jalore|location|destination}
+Suggest paths from {Vidisha|location|source} to {taj mahal|tourist_attraction|destination} for {3|sys_number} people
 Is there any path from {Theni|location|source} to {Raigarh|location|destination}
 Tell me all the routes from {Dehradun|location|source} to {Phek|location|destination}
-Show me routes from {Lohardaga|location|source} to {Shahdol|location|destination}
+Show me routes from {taj mahal|tourist_attraction|source} to {Shahdol|location|destination} for {3|sys_number}
 May I know the paths to {Bhandara|location|destination} from {Wayanad|location|source}
 What are the facilities to travel  between {Gadag|location|source} and {Baksa|location|destination}
 What are the ways to travel from {Upper Subansiri|location|source} to {Tawang|location|destination}
@@ -197,4 +197,4 @@ Is there a road between {Nagaur|location|source} and {Khandwa (East Nimar)|locat
 Facilities for travelling by road  between {Koderma|location|source} and {Thiruvananthapuram|location|destination}
 Road routes  between {Sidhi|location|source} and {Guna|location|destination}
 Is there a way by road  between {Eluru|location|source} and {Sangrur|location|destination}
-How to travel by road  between {Ongole|location|source} and {Sonipat|location|destination}
+How to travel by road  between {red fort|tourist_attraction|source} and {Sonipat|location|destination}

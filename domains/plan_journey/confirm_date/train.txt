@@ -5,7 +5,7 @@ by {next month|sys_time}
 by {monday|sys_time}
 on {tuesday|sys_time}
 by {wednesday|sys_time}
-by {thursday|sys_time}
+by {thursdayon n|sys_time}
 on {friday|sys_time}
 by {saturday|sys_time}
 on {sunday|sys_time}

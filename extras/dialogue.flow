@@ -1,3 +1,0 @@
-responder.frame['state']
-    get_destination_or_preference => User is expected to enter their destination_or_preference
-    possible_destination => A location user queried about.

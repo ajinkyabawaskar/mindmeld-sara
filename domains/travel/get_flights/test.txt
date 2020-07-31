@@ -1,5 +1,28 @@
 get flight
 are there any flights
+I want to go by flight
+Will I find a flight
+are there any flights for {88|sys_number} people
+Suggest flights for {7|sys_number} people
 flights for {4|sys_number} persons
 flights arriving {monday|sys_time|arrival}
+Flights  arriving {today|sys_time|arrival}
+Find flights arriving {saturday|sys_time|arrival}
 flights leaving {friday|sys_time|departure}
+Check flights departing {tuesday|sys_time|departure}
+are there any flights departing {monday|sys_time|departure}
+check flights
+flights {today|sys_time|departing}
+check {business|flight_class} seats for {4|sys_number} 
+check {business|flight_class} seats for {4|sys_number} from {mumbai|location}
+Please find flights arriving {sunday|sys_time|arrival} for {16|sys_number}  people
+Get flights for me arriving {tuesday|sys_time|arrival} for {17|sys_number}  people
+Check flights leaving {monday|sys_time|departure} for {24|sys_number}  people
+are there any flights leaving {sunday|sys_time|departure} for {40|sys_number}  people
+Suggest me a flight from {Kannur|location|source} to {Kargil|location|destination} arriving on {monday|sys_time|arrival}
+How to travel by flights  between {Neemuch|location|source} and {Lakhimpur Kheri|location|destination}
+Tell me how to travel by flights  between {Yadgir|location|source} and {Raisen|location|destination}
+Can I travel by flights  between {Kalahandi|location|source} and {Mahendragarh|location|destination}
+Can I travel by flights  between {Kalahandi|location|source} and {Mahendragarh|location|destination} departing {sunday|sys_time|departure} and arriving {saturday|sys_time|arrival}  for {68|sys_number}  people
+Is there any flights available between {Wayanad|location|source} and {Bangalore Urban|location|destination} departing {sunday|sys_time|departure} and arriving {thursday|sys_time|arrival}  for {15|sys_number}  people
+Can I take a domestic flight from {Khandwa (East Nimar)|location|source} to {Balaghat|location|destination} departing {friday|sys_time|departure} and arriving {saturday|sys_time|arrival}  for {61|sys_number}  people

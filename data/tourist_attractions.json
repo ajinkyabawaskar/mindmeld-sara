@@ -1,0 +1,290 @@
+[
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/thiruvananthapuram/kovalam-beach.html",
+        "city": "Kovalam, Kerala",
+        "id": "1",
+        "name": "Kovalam Beach"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/goa/anjuna-beach.html",
+        "city": "Goa",
+        "id": "2",
+        "name": "Anjuna Beach"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/kolhapur/tarkarli.html",
+        "city": "Tarkarli, Maharashtra",
+        "id": "3",
+        "name": "Tarkarli"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/goa/vagator-beach.html",
+        "city": "Goa",
+        "id": "4",
+        "name": "Vagator Beach"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/goa/colva-beach.html",
+        "city": "Goa",
+        "id": "5",
+        "name": "Kolva Beach"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/goa/basilica-of-bom-jesus.html",
+        "city": "Bainguinim, Goa",
+        "id": "6",
+        "name": "Basilica of Bom Jesus"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/mangalore/milagres-church.html",
+        "city": "Santhekatte, Karnataka",
+        "id": "7",
+        "name": "Milagres Church"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/delhi/st-james-church.html",
+        "city": "Delhi",
+        "id": "8",
+        "name": "St James Church"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/goa/our-lady-of-immaculate-conception-church.html",
+        "city": "Panaji, Goa",
+        "id": "9",
+        "name": "Our lady of Immaculate Conception Church"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/goa/se-cathedral.html",
+        "city": "Velha, Goa",
+        "id": "10",
+        "name": "Se Cathedral"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/jaipur/amber-fort.html",
+        "city": "Jaipur, Rajasthan",
+        "id": "11",
+        "name": "Amber Fort"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/agra/agra-fort.html",
+        "city": "Rakabganj, Agra, Uttar Pradesh",
+        "id": "12",
+        "name": "Agra Fort"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/kumbalgarh/kumbhalgarh-fort.html",
+        "city": "Kumbhalgarh, Rajasthan",
+        "id": "13",
+        "name": "Kumbhalgarh Fort"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/jaisalmer/jaisalmer-fort.html",
+        "city": "Jaisalmer, Rajasthan",
+        "id": "14",
+        "name": "Jaisalmer Fort"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/jaipur/city-palace.html",
+        "city": "Jaipur, Rajasthan",
+        "id": "15",
+        "name": "City Palace"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/porbandar.html",
+        "city": "Porbandar, Gujarat",
+        "id": "16",
+        "name": "Porbandar"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/ahmedabad.html",
+        "city": "Ahmedabad, Gujarat",
+        "id": "17",
+        "name": "Ahmedabad"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/surat/national-salt-satyagraha-memorial.html",
+        "city": "Dandi, Gujarat",
+        "id": "18",
+        "name": "National Salt Satyagarh Memorial"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/mumbai.html",
+        "city": "Mumbai, Maharashtra",
+        "id": "19",
+        "name": "Mumbai"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/jaipur/city-palace.html",
+        "city": "Kausani, Uttarakhand",
+        "id": "20",
+        "name": "Kausani"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/agra/taj-mahal.html",
+        "city": "Agra, Uttar Pradesh",
+        "id": "21",
+        "name": "Taj Mahal"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/ahmedabad.html",
+        "city": "New Delhi",
+        "id": "22",
+        "name": "Red Fort"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/delhi/qutub-minar.html",
+        "city": "New Delhi",
+        "id": "23",
+        "name": "Qutub Minar"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/delhi/humayuns-tomb1.html",
+        "city": "New Delhi",
+        "id": "24",
+        "name": "Humayun's Tome"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/gaya/attractions.html?type=spiritual",
+        "city": "Gaya, Bihar",
+        "id": "25",
+        "name": "Gaya"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/varanasi/attractions.html?type=spiritual",
+        "city": "Varanasi, Uttar Pradesh",
+        "id": "26",
+        "name": "Varanasi"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/haridwar/attractions.html?type=spiritual",
+        "city": "Haridwar, Uttarakhand",
+        "id": "27",
+        "name": "Haridwar"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/amritsar/attractions.html?type=spiritual",
+        "city": "Amritsar, Punjab",
+        "id": "28",
+        "name": "Amritsar"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/kedarnath/attractions.html?type=spiritual",
+        "city": "Kedarnath, Uttarakhand",
+        "id": "29",
+        "name": "Kedarnath"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/thiruvananthapuram/attractions.html?type=spiritual",
+        "city": "Thiruvananthapuram, Kerala",
+        "id": "30",
+        "name": "Thiruvananthapuram"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/badrinath/attractions.html?type=spiritual",
+        "city": "Badrinath, Uttarakhand",
+        "id": "31",
+        "name": "Badrinath"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/tawang/attractions.html?type=nature",
+        "city": "Tawang, Arunachal Pradesh",
+        "id": "32",
+        "name": "Tawang"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/darjeeling/attractions.html?type=nature",
+        "city": "Darjeeling, West Bengal",
+        "id": "33",
+        "name": "Darjeeling"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/manali/attractions.html?type=nature",
+        "city": "Manali, Himachal Pradesh",
+        "id": "34",
+        "name": "Manali"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/munnar/attractions.html?type=nature",
+        "city": "Munnar, Kerala",
+        "id": "35",
+        "name": "Munnar"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/ooty/attractions.html?type=nature",
+        "city": "Ooty, Tamil Nadu",
+        "id": "36",
+        "name": "Ooty"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/ooty/attractions.html?type=nature",
+        "city": "Gangtok, Sikkim",
+        "id": "37",
+        "name": "Gangtok"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/agra.html",
+        "city": "Agra, Uttar Pradesh",
+        "id": "38",
+        "name": "Agra"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/jaipur.html",
+        "city": "Jaipur, Rajasthan",
+        "id": "39",
+        "name": "Jaipur"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/amritsar.html",
+        "city": "Amritsar, Punjab",
+        "id": "40",
+        "name": "Amritsar"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/varanasi.html",
+        "city": "Varanasi, Uttar Pradesh",
+        "id": "41",
+        "name": "Varanasi"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/mumbai/attractions.html?type=food-and-cuisine",
+        "city": "Mumbai, Maharashtra",
+        "id": "42",
+        "name": "Mumbai"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/delhi/attractions.html?type=food-and-cuisine",
+        "city": "Delhi",
+        "id": "43",
+        "name": "Delhi"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/hyderabad/attractions.html?type=food-and-cuisine",
+        "city": "Hyderabad, Telangana",
+        "id": "44",
+        "name": "Hyderabad"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/lucknow/attractions.html?type=food-and-cuisine",
+        "city": "Lucknow, Uttar Pradesh",
+        "id": "45",
+        "name": "Lucknow"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/amritsar/attractions.html?type=food-and-cuisine",
+        "city": "Amritsar, Punjab",
+        "id": "46",
+        "name": "Amritsar"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/kolkata/attractions.html?type=food-and-cuisine",
+        "city": "Kolkata, West Bengal",
+        "id": "47",
+        "name": "Kolkata"
+    },
+    {
+        "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/chennai/attractions.html?type=food-and-cuisine",
+        "city": "Chennai, Tamil Nadu",
+        "id": "48",
+        "name": "Chennai"
+    }
+]

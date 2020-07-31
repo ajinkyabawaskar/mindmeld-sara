@@ -53,95 +53,63 @@ Please find flights arriving {sunday|sys_time|arrival}
 Get flights for me arriving {sunday|sys_time|arrival}
 Get flights for me arriving {today|sys_time|arrival}
 flights {today|sys_time|departing}
-Check flights leaving {thursday|sys_time|departure}
-are there any flights leaving {thursday|sys_time|departure}
-Suggest flights leaving {saturday|sys_time|departure}
-Please find flights leaving {thursday|sys_time|departure}
-Tell me about flights leaving {thursday|sys_time|departure}
-Is it possible to get flight leaving {thursday|sys_time|departure}
-Is there any flight leaving {monday|sys_time|departure}
-I want to go by flight leaving {sunday|sys_time|departure}
-Will I find a flight leaving {friday|sys_time|departure}
-Suggest me flights leaving {sunday|sys_time|departure}
-Get flights leaving {friday|sys_time|departure}
-Can I get a flight leaving {monday|sys_time|departure}
-Flights  leaving {thursday|sys_time|departure}
-Find flights leaving {tuesday|sys_time|departure}
-Please find flights leaving {friday|sys_time|departure}
-Get flights for me leaving {friday|sys_time|departure}
-Check flights departing {tuesday|sys_time|departure}
-are there any flights departing {monday|sys_time|departure}
-Suggest flights departing {friday|sys_time|departure}
-Please find flights departing {thursday|sys_time|departure}
-Tell me about flights departing {sunday|sys_time|departure}
-Is it possible to get flight departing {wednesday|sys_time|departure}
-Is there any flight departing {monday|sys_time|departure}
-I want to go by flight departing {monday|sys_time|departure}
-Will I find a flight departing {tuesday|sys_time|departure}
-Suggest me flights departing {monday|sys_time|departure}
-Get flights departing {friday|sys_time|departure}
-Can I get a flight departing {wednesday|sys_time|departure}
-Flights  departing {thursday|sys_time|departure}
-Find flights departing {sunday|sys_time|departure}
-Please find flights departing {sunday|sys_time|departure}
-Get flights for me departing {saturday|sys_time|departure}
-flights arriving {sunday|sys_time|arrival}  for {64|sys_number}  people
-flights leaving {wednesday|sys_time|departure} for {36|sys_number}  people
-Check flights  arriving {wednesday|sys_time|arrival} for {66|sys_number}  people
-are there any flights  arriving {tuesday|sys_time|arrival} for {12|sys_number}  people
-Suggest flights  arriving {saturday|sys_time|arrival} for {76|sys_number}  people
-Please find flights  arriving {saturday|sys_time|arrival} for {76|sys_number}  people
-Tell me about flights  arriving {thursday|sys_time|arrival} for {43|sys_number}  people
-Is it possible to get flight  arriving {sunday|sys_time|arrival} for {81|sys_number}  people
-Is there any flight  arriving {tuesday|sys_time|arrival} for {54|sys_number}  people
-I want to go by flight  arriving {saturday|sys_time|arrival} for {19|sys_number}  people
-Will I find a flight   arriving {saturday|sys_time|arrival} for {64|sys_number}  people
-Suggest me flights  arriving {saturday|sys_time|arrival} for {44|sys_number}  people
-Get flights  arriving {tuesday|sys_time|arrival} for {93|sys_number}  people
-Can I get a flight  arriving {thursday|sys_time|arrival} for {21|sys_number}  people
-Flights  arriving {saturday|sys_time|arrival} for {49|sys_number}  people
-Find flights arriving {thursday|sys_time|arrival} for {91|sys_number}  people
-Please find flights arriving {sunday|sys_time|arrival} for {16|sys_number}  people
-Get flights for me arriving {tuesday|sys_time|arrival} for {17|sys_number}  people
-Check flights leaving {monday|sys_time|departure} for {24|sys_number}  people
-are there any flights leaving {sunday|sys_time|departure} for {40|sys_number}  people
-Suggest flights leaving {sunday|sys_time|departure} for {81|sys_number}  people
-Please find flights leaving {saturday|sys_time|departure} for {72|sys_number}  people
-Tell me about flights leaving {monday|sys_time|departure} for {58|sys_number}  people
-Is it possible to get flight leaving {monday|sys_time|departure} for {15|sys_number}  people
-Is there any flight leaving {sunday|sys_time|departure} for {11|sys_number}  people
-I want to go by flight leaving {monday|sys_time|departure} for {98|sys_number}  people
-Will I find a flight leaving {sunday|sys_time|departure} for {13|sys_number}  people
-Suggest me flights leaving {monday|sys_time|departure} for {93|sys_number}  people
-Get flights leaving {saturday|sys_time|departure} for {12|sys_number}  people
-Can I get a flight leaving {friday|sys_time|departure} for {46|sys_number}  people
-Flights  leaving {sunday|sys_time|departure} for {66|sys_number}  people
-Find flights leaving {sunday|sys_time|departure} for {90|sys_number}  people
-Please find flights leaving {wednesday|sys_time|departure} for {41|sys_number}  people
-Get flights for me leaving {wednesday|sys_time|departure} for {52|sys_number}  people
-Check flights departing {monday|sys_time|departure} for {9|sys_number}  people
-are there any flights departing {sunday|sys_time|departure} for {6|sys_number}  people
-Suggest flights departing {friday|sys_time|departure} for {52|sys_number}  people
-Please find flights departing {monday|sys_time|departure} for {27|sys_number}  people
-Tell me about flights departing {thursday|sys_time|departure} for {35|sys_number}  people
-Is it possible to get flight departing {wednesday|sys_time|departure} for {96|sys_number}  people
-Is there any flight departing {monday|sys_time|departure} for {1|sys_number}  people
-I want to go by flight departing {thursday|sys_time|departure} for {56|sys_number}  people
-Will I find a flight departing {friday|sys_time|departure} for {12|sys_number}  people
-Suggest me flights departing {thursday|sys_time|departure} for {42|sys_number}  people
-Get flights departing {friday|sys_time|departure} for {26|sys_number}  people
-Can I get a flight departing {sunday|sys_time|departure} for {74|sys_number}  people
-Flights  departing {tuesday|sys_time|departure} for {32|sys_number}  people
-Find flights departing {saturday|sys_time|departure} for {48|sys_number}  people
-Please find flights departing {thursday|sys_time|departure} for {63|sys_number}  people
-Get flights for me departing {wednesday|sys_time|departure} for {12|sys_number}  people
+check {business|flight_class} seats for {4|sys_number} 
+check {business|flight_class} seats for {4|sys_number} from {mumbai|location}
+Suggest me a flight from {Kannur|location|source} to {Kargil|location|destination} arriving on {monday|sys_time|arrival}
+Please suggest me a route from {Udalguri|location|source} to {Sundergarh|location|destination}
+please suggest me a way from {Jajpur|location|source} to {Fatehpur|location|destination}
+Can you suggest me a route from {Ramabai Nagar (Kanpur Dehat)|location|source} to {Gadag|location|destination}
+how to get to {Surat|location|destination} from {Jajpur|location|source}
+how to go to {Tikamgarh|location|destination} from {Kurung Kumey|location|source}
+routes from {Imphal West|location|source} to {Khunti|location|destination}
+route {Bhavnagar|location|source} to {Gwalior|location|destination}
+ways to go to {Ri Bhoi|location|destination} from {Jharsuguda|location|source}
+find me route from {Ramabai Nagar (Kanpur Dehat)|location|source} to {Mandya|location|destination}
+Can I go to {Tirap|location|destination} from {Karaikal|location|source}
+How to get to {Dholpur|location|destination} from {Mandya|location|source}
+route to {Hyderabad|location|destination} from {Banswara|location|source}
+Is it possible to go to {Jaisalmer|location|source} to {Panchsheel Nagar district (Hapur)|location|destination}
+What is the best route from {Tamenglong|location|source} to {Chittoor|location|destination}
+Is going to {Gadchiroli|location|destination} from {Katihar|location|source} possible
+How will I go to {Raigarh|location|destination} from {Farrukhabad|location|source}
+Will I get to {Mehsana|location|destination} from {Bishnupur|location|source}
+Is route available between {Jalpaiguri|location|source} and {Deoghar|location|destination}
+Is {Siwan|location|source} to {Senapati|location|destination} connected
+Is there a route between {Doda|location|source} and {Jhabua|location|destination}
+Are there any routes between {South  Parganas|location|source} and {Shahjahanpur|location|destination}
+How {Lohit|location|source} and {Uttara Kannada|location|destination} is connected
+possible routes available from {Patna|location|source} to {Ujjain|location|destination} departing {monday|sys_time|departure}
+Possibility of routes from {Valsad|location|source} to {Jamtara|location|destination}
+means of getting to {Raebareli|location|destination} from {Ongole|location|source}
+ways to travel between {Purnia|location|destination} and {Fatehgarh Sahib|location|source}
+how to travel to {Seoni|location|destination} from {Namakkal|location|source}
+Can I travel to {Virudhunagar|location|destination} from {Imphal West|location|source}
+is travelling to {Ramban|location|destination} possible from {Hyderabad|location|source}
+travel routes from {Rudraprayag|location|source} to {Godda|location|destination}
+How do I travel from {Ukhrul|location|source} to {Durg|location|destination}
+travelling from {Murshidabad|location|source} to {Ariyalur|location|destination}.Suggest routes.
+I want to go to {Pratapgarh|location|destination} from {South Tripura|location|source}
+I wanna travel to {Shajapur|location|destination} from {Mokokchung|location|source}
+{Bijapur|location|source} to {Thrissur|location|destination} routes
+{Theni|location|source} to {Jagatsinghpur|location|destination} ways 
+{Bijapur|location|source} to {Palamu|location|destination} travel ways
+will I be able to go to {Chhindwara|location|destination} from {Bhopal|location|source}
+flights to {Rampur|location|destination} from {Faizabad|location|source}
+Paths from {Erode|location|source} to {Churachandpur|location|destination}
+Suggest paths from {Madurai|location|source} to {Jyotiba Phule Nagar|location|destination}
+Is there any path from {Sheopur|location|source} to {Ajmer|location|destination}
+all the routes from {Tirupur|location|source} to {Damoh|location|destination}
+Show me routes from {Dhamtari|location|source} to {Kota|location|destination}
+May I know the paths to {Tamenglong|location|destination} from {Shajapur|location|source}
+What are the facilities to travel  between {Chhindwara|location|source} and {South Sikkim|location|destination}
+What are the ways to travel from {Hamirpur|location|source} to {Lucknow|location|destination}
 Is flights available from {Shamli|location|source} to {Shravasti|location|destination}
 Is there a flights between {Idukki|location|source} and {Lower Subansiri|location|destination}
 Facilities for travelling by flights  between {Lakhimpur|location|source} and {Marigaon|location|destination}
 flightss  between {Chatra|location|source} and {Thanjavur|location|destination}
 Is there a way by flights  between {Muzaffarnagar|location|source} and {North Sikkim|location|destination}
 How to travel by flights  between {Neemuch|location|source} and {Lakhimpur Kheri|location|destination}
-Tell me how to travel by flights  between {Yadgir|location|source} and {Raisen|location|destination}
+how to travel by flights  between {Yadgir|location|source} and {Raisen|location|destination}
 Can I travel by flights  between {Kalahandi|location|source} and {Mahendragarh|location|destination}
 Is there any flights available between {Wayanad|location|source} and {Bangalore Urban|location|destination}
 Can I take a domestic flight from {Khandwa (East Nimar)|location|source} to {Balaghat|location|destination}
@@ -154,38 +122,81 @@ Is there a flight between {Kanchipuram|location|source} and {Dharwad|location|de
 Facilities for travelling by flight  between {Hingoli|location|source} and {Erode|location|destination}
 departure  between {Gadag|location|source} and {Anand|location|destination}
 Is there a way by flight  between {East Sikkim|location|source} and {Palakkad|location|destination}
-Is there a way by flights  between {Muzaffarnagar|location|source} and {North Sikkim|location|destination}  for {79|sys_number}  people
-How to travel by flights  between {Neemuch|location|source} and {Lakhimpur Kheri|location|destination} for {54|sys_number}  people
-Tell me how to travel by flights  between {Yadgir|location|source} and {Raisen|location|destination} for {82|sys_number}  people
-Can I travel by flights  between {Kalahandi|location|source} and {Mahendragarh|location|destination} for {10|sys_number}  people
-Is there any flights available between {Wayanad|location|source} and {Bangalore Urban|location|destination} for {20|sys_number}  people
-Can I take a domestic flight from {Khandwa (East Nimar)|location|source} to {Balaghat|location|destination} for {63|sys_number}  people
-Is domestic flight available from {Kannauj|location|source} to {Dhemaji|location|destination} for {27|sys_number}  people
-Will I get a plane from {Solapur|location|source} to {Kurukshetra|location|destination}  for {3|sys_number}  people
-How to get a plane from from {Lucknow|location|source} to {Chandigarh|location|destination} departing {saturday|sys_time|departure}
-Possibility of plane from {Garhwa|location|source} to {Aizawl|location|destination} departing {tuesday|sys_time|departure}
-Is departures available from {Bhojpur|location|source} to {Chamarajnagar|location|destination} departing {wednesday|sys_time|departure}
-Is there a flight between {Kanchipuram|location|source} and {Dharwad|location|destination} departing {friday|sys_time|departure}
-Facilities for travelling by flight  between {Hingoli|location|source} and {Erode|location|destination} departing {thursday|sys_time|departure}
-departure  between {Gadag|location|source} and {Anand|location|destination} departing {saturday|sys_time|departure}
-Is there a way by flight  between {East Sikkim|location|source} and {Palakkad|location|destination} departing {wednesday|sys_time|departure} arriving {saturday|sys_time|arrival}
-Is flights available from {Shamli|location|source} to {Shravasti|location|destination} arriving {saturday|sys_time|arrival}
-Is there a flights between {Idukki|location|source} and {Lower Subansiri|location|destination} arriving {monday|sys_time|arrival}
-Facilities for travelling by flights  between {Lakhimpur|location|source} and {Marigaon|location|destination} arriving {saturday|sys_time|arrival}
-flightss  between {Chatra|location|source} and {Thanjavur|location|destination} arriving {sunday|sys_time|arrival}
-Is there a way by flights  between {Muzaffarnagar|location|source} and {North Sikkim|location|destination} arriving {tuesday|sys_time|arrival}
-How to travel by flights  between {Neemuch|location|source} and {Lakhimpur Kheri|location|destination} arriving {friday|sys_time|arrival}
-Is flight available from {Shamli|location|source} to {Shravasti|location|destination} departing {sunday|sys_time|departure} and arriving {tuesday|sys_time|arrival}  for {76|sys_number}  people
-Is there a flights between {Idukki|location|source} and {Lower Subansiri|location|destination} departing {friday|sys_time|departure} and arriving {wednesday|sys_time|arrival}  for {5|sys_number}  people
-Facilities for travelling by flights  between {Lakhimpur|location|source} and {Marigaon|location|destination} departing {monday|sys_time|departure} and arriving {sunday|sys_time|arrival}  for {55|sys_number}  people
-flights  between {Chatra|location|source} and {Thanjavur|location|destination}
-Is there a way by flights  between {Muzaffarnagar|location|source} and {North Sikkim|location|destination} departing {thursday|sys_time|departure} and arriving {sunday|sys_time|arrival}  for {55|sys_number}  people
-How to travel by flights  between {Neemuch|location|source} and {Lakhimpur Kheri|location|destination} departing {monday|sys_time|departure} and arriving {monday|sys_time|arrival}  for {41|sys_number}  people
-Tell me how to travel by flights  between {Yadgir|location|source} and {Raisen|location|destination}  departing {friday|sys_time|departure} and arriving {saturday|sys_time|arrival}  for {19|sys_number}  people
-Can I travel by flights  between {Kalahandi|location|source} and {Mahendragarh|location|destination} departing {sunday|sys_time|departure} and arriving {saturday|sys_time|arrival}  for {68|sys_number}  people
-Is there any flights available between {Wayanad|location|source} and {Bangalore Urban|location|destination} departing {sunday|sys_time|departure} and arriving {thursday|sys_time|arrival}  for {15|sys_number}  people
-Can I take a domestic flight from {Khandwa (East Nimar)|location|source} to {Balaghat|location|destination} departing {friday|sys_time|departure} and arriving {saturday|sys_time|arrival}  for {61|sys_number}  people
-Is domestic flight available from {Kannauj|location|source} to {Dhemaji|location|destination} departing {thursday|sys_time|departure} and arriving {tuesday|sys_time|arrival}  for {61|sys_number}  people
-Will I get a plane from {Solapur|location|source} to {Kurukshetra|location|destination} departing {saturday|sys_time|departure} and arriving {thursday|sys_time|arrival}  for {52|sys_number}  people
-How to get a plane from from {Lucknow|location|source} to {Chandigarh|location|destination} departing {wednesday|sys_time|departure} and arriving {tuesday|sys_time|arrival}  for {88|sys_number}  people
-Possibility of plane from {Garhwa|location|source} to {Aizawl|location|destination} departing {tuesday|sys_time|departure} and arriving {saturday|sys_time|arrival}  for {60|sys_number}  people
+How to travel by flight  between {West Khasi Hills|location|source} and {Barwani|location|destination}
+how to travel by flight  between {Dakshina Kannada|location|source} and {Krishna|location|destination}
+Can I travel by flight  between {Baran|location|source} and {Hooghly|location|destination}
+Is there a way by flight  between {Adilabad|location|source} and {Nalgonda|location|destination}
+How to travel by flight  between {Bilaspur|location|source} and {West Singhbhum|location|destination}
+how to travel by flight  between {Dibang Valley|location|source} and {Pulwama|location|destination}
+Can I travel by flight  between {Bhiwani|location|source} and {Lunglei|location|destination}
+How to travel by flight between  between {Kargil|location|source} and {Betul|location|destination}
+How to get to {Karur|location|destination} from {Gaya|location|source} by flight 
+Ways of going to {Pithoragarh|location|destination} from {Rupnagar|location|source} by flight 
+Number of flight routes available between {Thiruvananthapuram|location|source} and {Kabirdham (formerly Kawardha)|location|destination}
+Is there any air route available between {Aligarh|location|source} and {Kulgam|location|destination}
+Can I take a airline from {Ernakulam|location|source} to {Sri Muktsar Sahib|location|destination}
+Is airline available from {Howrah|location|source} to {Bilaspur|location|destination}
+Will I get a airline from {Dimapur|location|source} to {Bellary|location|destination}
+How to get a airline from from {Chamarajnagar|location|source} to {Kheda|location|destination}
+Possibility of airline from {Bangalore Rural|location|source} to {Vizianagaram|location|destination}
+Is flight route available from {Fatehgarh Sahib|location|source} to {Srinagar|location|destination}
+Is there a flight between {Anand|location|source} and {Nizamabad|location|destination}
+Facilities for travelling by flight  between {Ganjam|location|source} and {South Sikkim|location|destination}
+flight routes  between {South West Delhi|location|source} and {Dhemaji|location|destination}
+Is there a way by flight  between {Vadodara|location|source} and {Ashok Nagar|location|destination}
+Number of arrivalss available between {Pauri Garhwal|location|source} and {Navsari|location|destination}
+Is there any departures available between {Idukki|location|source} and {Hanumangarh|location|destination}
+Suggest me a route from {Chhindwara|location|source} to {Sitapur|location|destination}
+Please suggest me a route from {Aurangabad|location|source} to {Raichur|location|destination}
+please suggest me a way from {Yanam|location|source} to {Paschim Medinipur|location|destination}
+Can you suggest me a route from {Wardha|location|source} to {Fatehpur|location|destination}
+how to get to {Varanasi|location|destination} from {Tehri Garhwal|location|source}
+how to go to {Serchhip|location|destination} from {Siwan|location|source}
+routes from {Mathura|location|source} to {Dhamtari|location|destination}
+route {Dadra and Nagar Haveli|location|source} to {Alappuzha|location|destination}
+ways to go to {Kannauj|location|destination} from {Bhopal|location|source}
+find me route from {Khandwa (East Nimar)|location|source} to {Hissar|location|destination}
+Can I go to {Bijapur|location|destination} from {Khandwa (East Nimar)|location|source}
+How to get to {Nainital|location|destination} from {Serchhip|location|source}
+route to {Nagpur|location|destination} from {Etawah|location|source}
+Is it possible to go to {Kanyakumari|location|source} to {Wokha|location|destination}
+What is the best route from {Kandhamal|location|source} to {Birbhum|location|destination}
+Is going to {Shimla|location|destination} from {Aurangabad|location|source} possible
+How will I go to {Seoni|location|destination} from {Fatehgarh Sahib|location|source}
+Will I get to {Sonbhadra|location|destination} from {Morena|location|source}
+Is route available between {Chamba|location|source} and {Dhalai|location|destination}
+Is {Kaimur|location|source} to {Latehar|location|destination} connected
+Is there a route between {Jammu|location|source} and {Sant Kabir Nagar|location|destination}
+Are there any routes between {Gadag|location|source} and {Osmanabad|location|destination}
+How {Katni|location|source} and {Thrissur|location|destination} is connected
+possible routes available from {Srikakulam|location|source} to {Faridabad|location|destination}
+Possibility of routes from {Dhule|location|source} to {Kanpur|location|destination}
+means of getting to {Jaunpur district|location|destination} from {Alwar|location|source}
+ways to travel between {Dhanbad|location|destination} and {Guna|location|source}
+how to travel to {Washim|location|destination} from {Etah|location|source} for {3|sys_number} person
+Can I travel to {city palace|tourist_attraction|destination} from {Barabanki|location|source}
+is travelling to {Koderma|location|destination} possible from {Seraikela Kharsawan|location|source}
+travel routes from {Janjgir-Champa|location|source} to {Pondicherry|location|destination}
+How do I travel from {Bellary|location|source} to {Uttar Dinajpur|location|destination}
+travelling from {Bhiwani|location|source} to {West Siang|location|destination}.Suggest routes.
+I want to go to {Dharmapuri|location|destination} from {Mainpuri|location|source} 
+I wanna travel to {North Tripura|location|destination} from {Bulandshahr|location|source}
+{Bhopal|location|source} to {Harda|location|destination} routes
+{Pithoragarh|location|source} to {Sultanpur|location|destination} ways 
+{Anantapur|location|source} to {Pulwama|location|destination} travel ways
+will I be able to go to {Kendujhar (Keonjhar)|location|destination} from {Lunglei|location|source}
+flights to {Pathanamthitta|location|destination} from {Belgaum|location|source}
+Paths from {Khagaria|location|source} to {Darjeeling|location|destination}
+Suggest paths from {Vidisha|location|source} to {taj mahal|tourist_attraction|destination} for {3|sys_number} people
+Is there any path from {Theni|location|source} to {Raigarh|location|destination}
+all the routes from {Dehradun|location|source} to {Phek|location|destination}
+Show me routes from {taj mahal|tourist_attraction|source} to {Shahdol|location|destination} for {3|sys_number}
+May I know the paths to {Bhandara|location|destination} from {Wayanad|location|source}
+What are the facilities to travel  between {Gadag|location|source} and {Baksa|location|destination}
+What are the ways to travel from {Upper Subansiri|location|source} to {Tawang|location|destination}
+Is flights available from {Chhatarpur|location|source} to {Ahmednagar|location|destination}
+Is there a flights between {Nagaur|location|source} and {Khandwa (East Nimar)|location|destination}
+Facilities for travelling by flights  between {Koderma|location|source} and {Thiruvananthapuram|location|destination}
+flightss  between {Sidhi|location|source} and {Guna|location|destination}
+Is there a way by flights  between {Eluru|location|source} and {Sangrur|location|destination}
+How to travel by flights  between {red fort|tourist_attraction|source} and {Sonipat|location|destination}

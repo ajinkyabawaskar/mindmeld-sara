@@ -68,7 +68,7 @@ Recommend me a {penthouse|room_type} at best price
 Reccomend me a hotel room with best price and discount in {Chamba|location}
 Can you suggest me a good hotel to stay with family in {Kottayam|location} 
 Can you suggest me some budget hotels in {Sangrur|location} for {8|sys_number}?
-Cheap hotel room in {Solapur|location} from{monday|sys_time|checkin}
+Cheap hotel room in {Solapur|location} from {monday|sys_time|checkin}
 Which hotel should I prefer staying in {Porbandar|location}
 Can you tell me which hotel should I prefer for staying in {Banglore|location} for {20|sys_number} people
 Can you help me find out a hotel in {Chennai|location} for three people

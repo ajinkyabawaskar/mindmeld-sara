@@ -3,7 +3,9 @@ import random
 
 @app.handle(intent='greet')
 def welcome(request, responder):
-    responder.reply("Hi, I am Sara!")
+    responder.reply("Hi, I am Sara! Your virtual travel assistant. I can help you "
+    "find a hotel, check fights or you can tell me what you're intrested in "
+    "and I'll recommend you places to visit in India!")
 
 @app.handle(intent='confirm')
 def confirm_action(request, responder):

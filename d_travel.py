@@ -1,8 +1,41 @@
 from .root import app 
 
+# @app.auto_fill(FormEntity flightEntity)
 @app.handle(intent='get_flights')
 def send_flights(request, responder):
-    responder.reply("Sending flights!")
+    for entity in request.entities:
+        if entity['type'] == 'location':
+            if entity['role'] == 'source':
+                source_entity = entity
+            if entity['role'] == 'destination':
+                destination_entity = entity
+
+        if entity['type'] == 'flight_class':
+            flight_class_entity = entity
+
+        if entity['type'] == 'sys_number':
+            no_of_ppl = entity
+
+        if entity['type'] == 'sys_time':
+            if entity['role'] == 'arrival':
+                arrival_entity = entity
+            if entity['role'] == 'departure':
+                departure_entity = entity
+    try:
+        source = source_entity['value'][0]['cname']
+        destination = destination_entity['value'][0]['cname']
+        seats = no_of_ppl['value'][0]['value']
+        arrival = arrival_entity['value'][0]['value']
+        # call an api for availability and pricing...
+        # url = 'myacademic.space/flights/?apiKey=ykb234v2hg4vmh2gvm242&source='+source
+        # url = url + '&destination='+destination+'&flight_class='+flight_class+'
+        #  source, destination, flight_class, seats, arrival, departure
+        responder.reply("{airline} flight number {flight_number}"
+        " flies from {departure_time}, {airport_name}"
+        " to {airport_name} lands by {arrival_time}"
+        "{class_available} class is available for {seats} people.")
+    except:
+        responder.reply("Sending flights ....zoooooo...")
 
 
 @app.handle(intent='get_recommendations')

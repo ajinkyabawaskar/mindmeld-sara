@@ -13,7 +13,8 @@
             "cname": "Economy",
             "whitelist": [
                 "Economy",
-                "Eco"
+                "Eco",
+                "Economy class"
             ]
         },
         {
@@ -29,7 +30,9 @@
             "cname": "Business",
             "whitelist": [
                 "Business",
-                "Executive"
+                "Executive",
+                "Business class",
+                "Executive class"
             ]
         }
     ]

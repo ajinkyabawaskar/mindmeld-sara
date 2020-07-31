@@ -1,0 +1,5 @@
+get flight
+are there any flights
+flights for {4|sys_number} persons
+flights arriving {monday|sys_time|arrival}
+flights leaving {friday|sys_time|departure}

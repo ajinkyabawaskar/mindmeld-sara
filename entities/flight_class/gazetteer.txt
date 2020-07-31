@@ -1,8 +1,11 @@
 First
 First class
 Economy
+Economy class
 Eco
 Premium
 Premium economy
 Business
+Business class
 Executive
+Executive class

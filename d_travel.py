@@ -32,7 +32,7 @@ def send_flights(request, responder):
         #  source, destination, flight_class, seats, arrival, departure
         responder.reply("flights from {source} to {destinatiion}")
     except:
-        responder.reply("Sending flights ....zoooooo...")
+        responder.reply("Sending flights")
 
 
 @app.handle(intent='get_recommendations')

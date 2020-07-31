@@ -30,13 +30,9 @@ def send_flights(request, responder):
         # url = 'myacademic.space/flights/?apiKey=ykb234v2hg4vmh2gvm242&source='+source
         # url = url + '&destination='+destination+'&flight_class='+flight_class+'
         #  source, destination, flight_class, seats, arrival, departure
-        # responder.reply("{airline} flight number {flight_number}"
-        # " flies from {departure_time}, {airport_name}"
-        # " to {airport_name} lands by {arrival_time}"
-        # "{class_available} class is available for {seats} people.")
-        responder.reply('{source}')
+        responder.reply("flights from {source} to {destinatiion}")
     except:
-        responder.reply("Sending flights ....zoooooo...")
+        responder.reply("Sending flights")
 
 
 @app.handle(intent='get_recommendations')

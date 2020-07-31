@@ -23,6 +23,8 @@ def send_flights(request, responder):
                 departure_entity = entity
     source = source_entity['value'][0]['cname']
     destination = destination_entity['value'][0]['cname']
+    responder.slots['source'] = source
+    responder.slots['destination'] = destination
         # seats = no_of_ppl['value'][0]['value']
         # arrival = arrival_entity['value'][0]['value']
         # call an api for availability and pricing...

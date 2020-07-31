@@ -6,7 +6,7 @@ Suggest me a flight from {Kannur|location|source} to {Kargil|location|destinatio
 Please suggest me a route from {Udalguri|location|source} to {Sundergarh|location|destination}
 please suggest me a way from {Jajpur|location|source} to {Fatehpur|location|destination}
 Can you suggest me a route from {Ramabai Nagar (Kanpur Dehat)|location|source} to {Gadag|location|destination}
-Tell me how to get to {Surat|location|destination} from {Jajpur|location|source}
+how to get to {Surat|location|destination} from {Jajpur|location|source}
 how to go to {Tikamgarh|location|destination} from {Kurung Kumey|location|source}
 routes from {Imphal West|location|source} to {Khunti|location|destination}
 route {Bhavnagar|location|source} to {Gwalior|location|destination}
@@ -45,7 +45,7 @@ flights to {Rampur|location|destination} from {Faizabad|location|source}
 Paths from {Erode|location|source} to {Churachandpur|location|destination}
 Suggest paths from {Madurai|location|source} to {Jyotiba Phule Nagar|location|destination}
 Is there any path from {Sheopur|location|source} to {Ajmer|location|destination}
-Tell me all the routes from {Tirupur|location|source} to {Damoh|location|destination}
+all the routes from {Tirupur|location|source} to {Damoh|location|destination}
 Show me routes from {Dhamtari|location|source} to {Kota|location|destination}
 May I know the paths to {Tamenglong|location|destination} from {Shajapur|location|source}
 What are the facilities to travel  between {Chhindwara|location|source} and {South Sikkim|location|destination}
@@ -56,7 +56,7 @@ Facilities for travelling by flights  between {Lakhimpur|location|source} and {M
 flightss  between {Chatra|location|source} and {Thanjavur|location|destination}
 Is there a way by flights  between {Muzaffarnagar|location|source} and {North Sikkim|location|destination}
 How to travel by flights  between {Neemuch|location|source} and {Lakhimpur Kheri|location|destination}
-Tell me how to travel by flights  between {Yadgir|location|source} and {Raisen|location|destination}
+how to travel by flights  between {Yadgir|location|source} and {Raisen|location|destination}
 Can I travel by flights  between {Kalahandi|location|source} and {Mahendragarh|location|destination}
 Find me paths to travel by flights between  between {Chamarajnagar|location|source} and {Uttarkashi|location|destination}
 How to travel by flights between  between {Faizabad|location|source} and {South West Delhi|location|destination}
@@ -75,11 +75,11 @@ Facilities for travelling by flight  between {Hingoli|location|source} and {Erod
 departure  between {Gadag|location|source} and {Anand|location|destination}
 Is there a way by flight  between {East Sikkim|location|source} and {Palakkad|location|destination}
 How to travel by flight  between {West Khasi Hills|location|source} and {Barwani|location|destination}
-Tell me how to travel by flight  between {Dakshina Kannada|location|source} and {Krishna|location|destination}
+how to travel by flight  between {Dakshina Kannada|location|source} and {Krishna|location|destination}
 Can I travel by flight  between {Baran|location|source} and {Hooghly|location|destination}
 Is there a way by flight  between {Adilabad|location|source} and {Nalgonda|location|destination}
 How to travel by flight  between {Bilaspur|location|source} and {West Singhbhum|location|destination}
-Tell me how to travel by flight  between {Dibang Valley|location|source} and {Pulwama|location|destination}
+how to travel by flight  between {Dibang Valley|location|source} and {Pulwama|location|destination}
 Can I travel by flight  between {Bhiwani|location|source} and {Lunglei|location|destination}
 How to travel by flight between  between {Kargil|location|source} and {Betul|location|destination}
 How to get to {Karur|location|destination} from {Gaya|location|source} by flight 
@@ -102,7 +102,7 @@ Suggest me a route from {Chhindwara|location|source} to {Sitapur|location|destin
 Please suggest me a route from {Aurangabad|location|source} to {Raichur|location|destination}
 please suggest me a way from {Yanam|location|source} to {Paschim Medinipur|location|destination}
 Can you suggest me a route from {Wardha|location|source} to {Fatehpur|location|destination}
-Tell me how to get to {Varanasi|location|destination} from {Tehri Garhwal|location|source}
+how to get to {Varanasi|location|destination} from {Tehri Garhwal|location|source}
 how to go to {Serchhip|location|destination} from {Siwan|location|source}
 routes from {Mathura|location|source} to {Dhamtari|location|destination}
 route {Dadra and Nagar Haveli|location|source} to {Alappuzha|location|destination}
@@ -141,7 +141,7 @@ flights to {Pathanamthitta|location|destination} from {Belgaum|location|source}
 Paths from {Khagaria|location|source} to {Darjeeling|location|destination}
 Suggest paths from {Vidisha|location|source} to {taj mahal|tourist_attraction|destination} for {3|sys_number} people
 Is there any path from {Theni|location|source} to {Raigarh|location|destination}
-Tell me all the routes from {Dehradun|location|source} to {Phek|location|destination}
+all the routes from {Dehradun|location|source} to {Phek|location|destination}
 Show me routes from {taj mahal|tourist_attraction|source} to {Shahdol|location|destination} for {3|sys_number}
 May I know the paths to {Bhandara|location|destination} from {Wayanad|location|source}
 What are the facilities to travel  between {Gadag|location|source} and {Baksa|location|destination}

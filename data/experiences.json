@@ -1,0 +1,369 @@
+[
+    {
+        "id": "1",
+        "experiences": "Yoga and Wellness",
+        "description": "India's sun-kissed coastlines, peace-permeated hill stations and breezy riversides offer a host of nutritious food, spas, yoga, detox therapies, Ayurveda, naturopathy, Vedanta and meditation techniques, retrieved and curated from the most ancient of sciences and arts. With innumerable ways to keep both the mind and body aligned, peaceful and in perfect health, the country is the perfect stopover to holiday at a softer pace.",
+        "locations": [
+            {
+                "name": "Rishikesh",
+                "city": "Rishikesh, Uttarakhand",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/rishikesh/attractions.html?type=yoga-wellness"
+            },
+            {
+                "name": "Bengaluru",
+                "city": "Bengaluru, Karnataka",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/bengaluru/attractions.html?type=yoga-wellness"
+            },
+            {
+                "name": "Kochi",
+                "city": "Kochi, Kerala",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/kochi/attractions.html?type=yoga-wellness"
+            },
+            {
+                "name": "Coimbatore",
+                "city": "Coimbatore, Tamil Nadu",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/coimbatore/attractions.html?type=yoga-wellness"
+            },
+            {
+                "name": "Kumarakom",
+                "city": "Kumarakom, Kerala",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/kumarakom/attractions.html?type=yoga-wellness"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "experiences": "Ayurveda",
+        "description": "Commonly referred to as the science of life, the practice of Ayurveda is as old as time itself. It is believed that Ayurveda, which originated in India, was passed down from the gods to the sages. Brahma, who is one-third of the Trinity is believed to have formulated this ancient science. Based on traditional Hindu medicine systems, the idea behind it is to procure a balance in the body systems through yogic breathing, herbal treatments and diets.",
+        "locations": [
+            {
+                "name": "Rishikesh",
+                "city": "Rishikesh, Uttarakhand",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/rishikesh/attractions.html?type=yoga-wellness"
+            },
+            {
+                "name": "Bengaluru",
+                "city": "Bengaluru, Karnataka",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/bengaluru/attractions.html?type=yoga-wellness"
+            },
+            {
+                "name": "Kochi",
+                "city": "Kochi, Kerala",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/kochi/attractions.html?type=yoga-wellness"
+            },
+            {
+                "name": "Coimbatore",
+                "city": "Coimbatore, Tamil Nadu",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/coimbatore/attractions.html?type=yoga-wellness"
+            },
+            {
+                "name": "Kumarakom",
+                "city": "Kumarakom, Kerala",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/kumarakom/attractions.html?type=yoga-wellness"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "experiences": "Beaches",
+        "description": "India's shorelines are endowed with a glorious beauty that is reflected in its undulating golden beaches that make for an ideal vantage point to watch the sun dipping into the sea. Beaches stroke both the eastern and western coasts of the Indian peninsula. They also act as sentinels of the rich cultural heritage of India and host many temples, memorials and monuments. Several beaches in the country are sites of adventure sports like skiing, scuba diving, parasailing and windsurfing. India's coastal line lures many migratory birds and aquatic life to come and nestle on the sun-kissed shores.",
+        "locations": [
+            {
+                "name": "Kovalam Beach",
+                "city": "Kovalam, Kerala",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/thiruvananthapuram/kovalam-beach.html"
+            },
+            {
+                "name": "Anjuna Beach",
+                "city": "Goa",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/goa/anjuna-beach.html"
+            },
+            {
+                "name": "Tarkarli",
+                "city": "Tarkarli, Maharashtra",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/kolhapur/tarkarli.html"
+            },
+            {
+                "name": "Vagator Beach",
+                "city": "Goa",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/goa/vagator-beach.html"
+            },
+            {
+                "name": "Kolva Beach",
+                "city": "Goa",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/goa/colva-beach.html"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "experiences": "Cathedrals and Basilicas",
+        "description": "India boasts many architectural marvels, including cathedrals and basilicas that are recognised the world over for their beauty.",
+        "locations": [
+            {
+                "name": "Basilica of Bom Jesus",
+                "city": "Bainguinim, Goa",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/goa/basilica-of-bom-jesus.html"
+            },
+            {
+                "name": "Milagres Church",
+                "city": "Santhekatte, Karnataka",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/mangalore/milagres-church.html"
+            },
+            {
+                "name": "St James Church",
+                "city": "Delhi",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/delhi/st-james-church.html"
+            },
+            {
+                "name": "Our lady of Immaculate Conception Church",
+                "city": "Panaji, Goa",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/goa/our-lady-of-immaculate-conception-church.html"
+            },
+            {
+                "name": "Se Cathedral",
+                "city": "Velha, Goa",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/goa/se-cathedral.html"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "experiences": "Forts and Palaces",
+        "description": "India is blessed with heritage riches and a regal lineage. Vestiges of Indian royalty can be felt in the various forts and palaces speckled across the country. From hill forts in Rajasthan to formidable fortifications in Gwalior, Golconda and Delhi, the history of India stands tall and proud, housed inside these marvellous structures. To experience how the royalty lived in the past, several of these palace-turned heritage hotels are a must-visit. Visiting these forts and palaces is the best way to uncover a real treasure of Indian history. These serve as great reminders of the bygone eras, mystical kingdoms and their rulers.",
+        "locations": [
+            {
+                "name": "Amber Fort",
+                "city": "Jaipur, Rajasthan",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/jaipur/amber-fort.html"
+            },
+            {
+                "name": "Agra Fort",
+                "city": "Rakabganj, Agra, Uttar Pradesh",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/agra/agra-fort.html"
+            },
+            {
+                "name": "Kumbhalgarh Fort",
+                "city": "Kumbhalgarh, Rajasthan",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/kumbalgarh/kumbhalgarh-fort.html"
+            },
+            {
+                "name": "Jaisalmer Fort",
+                "city": "Jaisalmer, Rajasthan",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/jaisalmer/jaisalmer-fort.html"
+            },
+            {
+                "name": "City Palace",
+                "city": "Jaipur, Rajasthan",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/jaipur/city-palace.html"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "experiences": "Gandhiji",
+        "description": "The legacy of Mahatma Gandhi, the Father of the Nation, is perfectly preserved in India. From various museums and memorials to Gandhiji's ashram, there are various stopovers in the country that testify of the great life of the leader. His philosophies of truth and non-violence inspire millions and many people trace his footsteps by visiting the various monuments dedicated to him. Gandhiji's contribution to human development is far too great and varied to have been forgotten or overlooked. The world today recognises him as a far more compelling social innovator than humanity ever realised.",
+        "locations": [
+            {
+                "name": "Porbandar",
+                "city": "Porbandar, Gujarat",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/porbandar.html"
+            },
+            {
+                "name": "Ahmedabad",
+                "city": "Ahmedabad, Gujarat",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/ahmedabad.html"
+            },
+            {
+                "name": "National Salt Satyagarh Memorial",
+                "city": "Dandi, Gujarat",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/surat/national-salt-satyagraha-memorial.html"
+            },
+            {
+                "name": "Mumbai",
+                "city": "Mumbai, Maharashtra",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/mumbai.html"
+            },
+            {
+                "name": "Kausani",
+                "city": "Kausani, Uttarakhand",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/jaipur/city-palace.html"
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "experiences": "Heritage",
+        "description": "A land resounding with the riches and glories of opulent dynasties, powerful rulers, flourishing civilisations and profound history, India has a splendid heritage that is reflected in its architecture, monuments, arts, crafts, cultures and even religions. While formidable forts, ancient temples and grand palaces testify of the grandeur of times gone by, the various museums and galleries scattered across the country act as inventories of India's seamless past. Such is the magnificence of the structures in the country that UNESCO has identified several of them as heritage sites.",
+        "locations": [
+            {
+                "name": "Taj Mahal",
+                "city": "Agra, Uttar Pradesh",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/agra/taj-mahal.html"
+            },
+            {
+                "name": "Red Fort",
+                "city": "New Delhi",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/ahmedabad.html"
+            },
+            {
+                "name": "Qutub Minar",
+                "city": "New Delhi",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/delhi/qutub-minar.html"
+            },
+            {
+                "name": "Humayun's Tome",
+                "city": "New Delhi",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/delhi/humayuns-tomb1.html"
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "experiences": "Spiritual",
+        "description": "India is its billion people. And it is safe to say that these people define what spirituality in India is. The most prominent religions in the country are Hinduism, Islam, Christianity, Buddhism, Sikhism and Jainism. Apart from these there are several other schools of thoughts. The country is filled with many spiritual destinations which should not be missed by anyone looking for the true Indian experience. These are open and welcome to everyone.",
+        "locations": [
+            {
+                "name": "Gaya",
+                "city": "Gaya, Bihar",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/gaya/attractions.html?type=spiritual"
+            },
+            {
+                "name": "Varanasi",
+                "city": "Varanasi, Uttar Pradesh",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/varanasi/attractions.html?type=spiritual"
+            },
+            {
+                "name": "Haridwar",
+                "city": "Haridwar, Uttarakhand",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/haridwar/attractions.html?type=spiritual"
+            },
+            {
+                "name": "Amritsar",
+                "city": "Amritsar, Punjab",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/amritsar/attractions.html?type=spiritual"
+            },
+            {
+                "name": "Kedarnath",
+                "city": "Kedarnath, Uttarakhand",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/kedarnath/attractions.html?type=spiritual"
+            },
+            {
+                "name": "Thiruvananthapuram",
+                "city": "Thiruvananthapuram, Kerala",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/thiruvananthapuram/attractions.html?type=spiritual"
+            },
+            {
+                "name": "Badrinath",
+                "city": "Badrinath, Uttarakhand",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/badrinath/attractions.html?type=spiritual"
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "experiences": "Nature",
+        "description": "From hauntingly beautiful snowy escapades to lush forests and hills of rolling green, from the endless golden beaches to the sapphire and emerald lakes embedded in the landscape, the natural beauty of the Indian subcontinent is unparalleled. The unspoilt and unexplored terrains of the country leave one in awe of their breathtaking splendour. Moreover, the differences and contrasts of one region from another accentuate the appeal of these landscapes - be it the frigid cold deserts of Leh that call to the soul-searcher in you or the sun-drenched mystique desert dunes of Rajasthan that take you back to the times of royals. Starting from the snow-capped Himalayas in the north, traversing the deserts of Rajasthan, crossing the lush forests of Madhya Pradesh and then sailing in the expansive backwaters of Kerala, and finally diving into the pristine waters of the Andaman and Nicobar Islands, the journey is full of adventurous highlands and serene plains and lowlands. A land boasting a diverse variety of flora and fauna, India is also home to many national parks, wildlife sanctuaries, tiger reserves and biosphere reserves, which offer enchanting wildlife sightings.",
+        "locations": [
+            {
+                "name": "Tawang",
+                "city": "Tawang, Arunachal Pradesh",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/tawang/attractions.html?type=nature"
+            },
+            {
+                "name": "Darjeeling",
+                "city": "Darjeeling, West Bengal",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/darjeeling/attractions.html?type=nature"
+            },
+            {
+                "name": "Manali",
+                "city": "Manali, Himachal Pradesh",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/manali/attractions.html?type=nature"
+            },
+            {
+                "name": "Munnar",
+                "city": "Munnar, Kerala",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/munnar/attractions.html?type=nature"
+            },
+            {
+                "name": "Ooty",
+                "city": "Ooty, Tamil Nadu",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/ooty/attractions.html?type=nature"
+            },
+            {
+                "name": "Gangtok",
+                "city": "Gangtok, Sikkim",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/ooty/attractions.html?type=nature"
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "experiences": "Shopping",
+        "description": "India is a dream destination for shopaholics as colours, cultures and curious buys greet you at every turn. From shopping for jewellery in the bustling streets of Jaipur, in Rajasthan, to heritage weaves from Kashmir, Kanchipuram (Tamil Nadu) and Varanasi (Uttar Pradesh), there's much on offer. Moreover, high-end brands, plush malls and swanky stores provide a retail therapy that would leave any shopping enthusiast ecstatic. So whether you're weaving through the lanes of Varanasi looking for premium Benarasee sarees, or stopping at designer stores in Delhi, Mumbai and Bengaluru, India delights you every time.",
+        "locations": [
+            {
+                "name": "Agra",
+                "city": "Agra, Uttar Pradesh",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/agra.html"
+            },
+            {
+                "name": "Jaipur",
+                "city": "Jaipur, Rajasthan",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/jaipur.html"
+            },
+            {
+                "name": "Amritsar",
+                "city": "Amritsar, Punjab",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/amritsar.html"
+            },
+            {
+                "name": "Varanasi",
+                "city": "Varanasi, Uttar Pradesh",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/varanasi.html"
+            }
+        ]
+    },
+    {
+        "id": "11",
+        "experiences": "Food and Cuisine",
+        "description": "Known for its diversity that varies with every region, state, community, culture and even religion, food in India is a vibrant assortment of uncountable dishes. It is distinctly characterised by the subtle and sophisticated use of spices, grains, fruits and vegetables that are all grown in the country. Home to people of many religions who come from a plethora of cultural backgrounds, the food culture of the country has been influenced by all of them, including foreigners.",
+        "locations": [
+            {
+                "name": "Mumbai",
+                "city": "Mumbai, Maharashtra",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/mumbai/attractions.html?type=food-and-cuisine"
+            },
+            {
+                "name": "Delhi",
+                "city": "Delhi",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/delhi/attractions.html?type=food-and-cuisine"
+            },
+            {
+                "name": "Hyderabad",
+                "city": "Hyderabad, Telangana",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/hyderabad/attractions.html?type=food-and-cuisine"
+            },
+            {
+                "name": "Lucknow",
+                "city": "Lucknow, Uttar Pradesh",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/lucknow/attractions.html?type=food-and-cuisine"
+            },
+            {
+                "name": "Amritsar",
+                "city": "Amritsar, Punjab",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/amritsar/attractions.html?type=food-and-cuisine"
+            },
+            {
+                "name": "Kolkata",
+                "city": "Kolkata, West Bengal",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/kolkata/attractions.html?type=food-and-cuisine"
+            },
+            {
+                "name": "Chennai",
+                "city": "Chennai, Tamil Nadu",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/chennai/attractions.html?type=food-and-cuisine"
+            }
+        ]
+    }
+]

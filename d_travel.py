@@ -40,4 +40,11 @@ def send_flights(request, responder):
 
 @app.handle(intent='get_recommendations')
 def send_recommendations(request, responder):
-    responder.reply("Recommending..")
+    for entity in request.entities:
+        if entity['type'] == 'experiences':
+            experience = entity
+    try:
+        responder.slots['exp'] = experience
+        responder.reply('{exp}')
+    except:
+        responder.reply("Recommending..")

@@ -21,15 +21,10 @@ def send_flights(request, responder):
                 arrival_entity = entity
             if entity['role'] == 'departure':
                 departure_entity = entity
+
     source = source_entity['value'][0]['cname']
     destination = destination_entity['value'][0]['cname']
-    seats = no_of_ppl['value'][0]['value']
-    arrival = arrival_entity['value'][0]['value']
-    
-    responder.slots['source'] = source
-    responder.slots['destination'] = destination
-    responder.slots['seats'] = seats 
-    responder.slots['arrival'] = arrival
+ 
         # call an api for availability and pricing...
         # url = 'myacademic.space/flights/?apiKey=ykb234v2hg4vmh2gvm242&source='+source
         # url = url + '&destination='+destination+'&flight_class='+flight_class+'

@@ -1,6 +1,6 @@
 Can you find me a hotel in {Nawada|location}
 Any place to stay in {Hoshangabad|location}
-Any hotel in {Nabarangpur|location}
+{New Star Hotel|hotel} in {Nabarangpur|location}
 Any lodge in {Mahendragarh|location}
 Hotel in {Vizianagaram|location}
 Lodge in {Alwar|location}?
@@ -47,15 +47,16 @@ Give me list of luxury hotels in {South Tripura|location}
 Give me some information about five star hotels in {Kakinada|location}
 Give me some information about luxury hotels in {Pithoragarh|location}
 Help me find the best luxury hotel in {Chhindwara|location} 
-Where to stay in {Mahe|location} for two days
+Where to stay in {Mahe|location} from {today|sys_time|checkin} to {saturday|sys_time|checkout}
 Where to stay in {Bhopal|location}
 Help me find a right stay in {Mahoba|location}
-Home stay in {Dewas|location}
-Can you help me find a place to stay in {Fatehabad|location}
+Home stay in {Dewas|location} for {7|sys_number}
+Can you help me find a place to stay in {Fatehabad|location} for {4|sys_number}
 Can you help me find a perfect place to stay in {Jamnagar|location} 
 Help me with hotel booking in {Reasi |location}
 Can you help me with hotel booking in {Katihar|location} 
 In which hotel should I stay in {Koppal|location}
+{single room|room_type} in {Red Apple Resorts|hotel} at {Nagpur|location} for {3|sys_number}
 Where is it possible to book rooms at the best price in  {Bhandara|location}
 Find a {Executive suite|room_type} at best price in {Hyderabad|location}
 Find me a {Executive suite|room_type} with best price and discounts in {Cachar|location}
@@ -66,12 +67,12 @@ Suggest me a {penthouse|room_type} with best price and discount in {Panchkula|lo
 Recommend me a {penthouse|room_type} at best price 
 Reccomend me a hotel room with best price and discount in {Chamba|location}
 Can you suggest me a good hotel to stay with family in {Kottayam|location} 
-Can you suggest me some budget hotels in {Sangrur|location}?
-Cheap hotel room in {Solapur|location} 
+Can you suggest me some budget hotels in {Sangrur|location} for {8|sys_number}?
+Cheap hotel room in {Solapur|location} from{monday|sys_time|checkin}
 Which hotel should I prefer staying in {Porbandar|location}
-Can you tell me which hotel should I prefer for staying in {Banglore|location} for 3 people
+Can you tell me which hotel should I prefer for staying in {Banglore|location} for {20|sys_number} people
 Can you help me find out a hotel in {Chennai|location} for three people
-Can you help me choose the best hotel in {Jaunpur district|location} for three people 
+Can you help me choose the best hotel in {Jaunpur district|location} for {6|sys_number} people 
 Can you suggest me which hotel should I prefer for staying in {Jind|location} for three people 
 Can you recommend me which hotel should I prefer for staying in {Maharajganj|location} for three people 
  Recommend me some hotel options in {Idukki|location}
@@ -88,9 +89,9 @@ Check hotel availability in {Mumbai |location}
 Please check hotel room availability in {Pune |location}
 Provide details about hotels in {Kullu|location}
 Can you check hotel room availability in {Senapati |location}
-How much a stay in {Lucknow|location}cost
+How much a stay in {Lucknow|location} cost for {5|sys_number} from {monday|sys_time|checkin}
 Check reviews of hotels in {Tirupur|location}
-Please let me know about room availability in {Mandla|location}
+Please let me know about room availability in {Mandla|location} on {25 January|sys_time|checkin}
 Can you help me with hotel room booking in {Mahbubnagar |location}
 Check room availability and price in {Lakhimpur|location}hotels
 Suggest hotels location in the best areas of {Lalitpur|location}
@@ -99,7 +100,7 @@ Suggest me some famous hotels in {Serchhip|location}
 Recommend me some famous hotels in {Boudh (Bauda)|location}
 Which is the most famous hotel in {Hanumangarh|location}
 Can you tell me which is the most famous hotel in {Bishnupur|location}
-I want to book {double room|room_type}
+I want to book {double room|room_type} in {Shiva Guest House|hotel} for {6|sys_number} persons
 Famous hotels in {Churu|location}
 Most popular hotel in {Shajapur|location}
 Can you suggest me few popular hotels in {Sheopur |location}
@@ -107,7 +108,7 @@ Please suggest me few popular hotels of {Jagatsinghpur|location}
 Recommend me a few popular hotels of {Firozpur |location}
 Which is the most popular place to stay in {Seraikela Kharsawan|location}
 Which is the most popular hotel in {Ashok Nagar|location}
-Finest hotel in {Rajkot|location}
+Finest {Shukrana Resort|hotel} in {Rajkot|location}
 Which is the finest hotel in {Coimbatore|location}
 What five star hotel in {Kishtwar|location}have nice view
 Suggest me some hotels in {Gumla|location}with nice view
@@ -118,6 +119,9 @@ Any place to stay in {delhi|location}
 Any hotel in {delhi|location}
 Any lodge in {delhi|location}
 Hotel in {delhi|location}
+Find a hotel for {3|sys_number}
+Hotels availability on {monday|sys_time|checkin}
+Hotels availability on {monday|sys_time|checkin} to {tuesday|sys_time|checkout}
 Lodge in {delhi|location}?
 What about my accomodation in {delhi|location}
 Stay options in {delhi|location}
@@ -127,7 +131,7 @@ Where to stay in {delhi|location}
 Help me plan my accommodation during my tour to {delhi|location}
 Help me plan my stay at {delhi|location}
 Which is the best hotel in {delhi|location}
-Best place to stay in {delhi|location}
+Best place to stay in {delhi|location} in {december|sys_time|checkin}
 Can you tell me about the best place to stay in {delhi|location}
 Find  a hotel in {delhi|location}
 Find me a homestay in {delhi|location}

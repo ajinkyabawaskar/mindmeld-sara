@@ -6,7 +6,7 @@ def welcome(request, responder):
     responder.reply("Hi, I am Sara!")
 
 @app.handle(intent='confirm')
-def welcome(request, responder):
+def confirm_action(request, responder):
     responder.reply("Confirmed!")
 
 @app.handle(intent='help')

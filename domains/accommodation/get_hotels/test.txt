@@ -12,3 +12,6 @@ Recommend me a good hotel in {ahmedabad|location}
 Recommend me a nice place to stay in {north goa|location}
 Find me a hotel in {mumbai|location}
 hotels in {new delhi|location}
+{novotel juhu|hotel} in {mumbai|location}
+{presidential suite|room_type} for {4|sys_number} people in {new delhi|location}
+{single room|room_type} from {monday|sys_time|checkin} to {saturday|sys_time|checkout}

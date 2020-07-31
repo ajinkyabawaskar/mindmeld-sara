@@ -1,0 +1,4882 @@
+[
+    {
+        "hotels": [
+            "Hotel Shri Dhan-Laxmi",
+            "Shri Dhanalaxmi Hotel",
+            "Shri Gayathri-Adilabad"
+        ],
+        "city": "Adilabad",
+        "id": "1"
+    },
+    {
+        "city": "Agra",
+        "id": "2",
+        "hotels": [
+            "Optimum Sheela Inn",
+            "Gokul Restaurant",
+            "Hotel Girnar"
+        ]
+    },
+    {
+        "hotels": [
+            "The Fern Hotel",
+            "The Coffee Shop",
+            "Tandoor Tadka Chai",
+            "The Fern Hotel",
+            "The Coffee Shop",
+            "Tandoor Tadka Chai",
+            "Galaxy Cinema"
+        ],
+        "id": "3",
+        "city": "Ahmedabad"
+    },
+    {
+        "id": "4",
+        "city": "Ahmedabad",
+        "hotels": [
+            "The Fern Hotel",
+            "The Coffee Shop",
+            "Tandoor Tadka Chai",
+            "The Fern Hotel",
+            "The Coffee Shop",
+            "Tandoor Tadka Chai",
+            "Galaxy Cinema"
+        ]
+    },
+    {
+        "hotels": [
+            "Smiley Event & Entertainment",
+            "Feroz Cake N Bake",
+            "Pancham Garden & Juice Bar"
+        ],
+        "city": "Ahmednagar",
+        "id": "5"
+    },
+    {
+        "city": "Aizawl",
+        "id": "6",
+        "hotels": [
+            "ZRS Homestay",
+            "David's Hotel Clover",
+            "PB Lodge"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "7",
+        "city": "Ajitgarh (mohali)"
+    },
+    {
+        "id": "8",
+        "city": "Ajmer",
+        "hotels": [
+            "Goyal",
+            "Oyo 18609 Hotel Deepak Inn",
+            "Resort in Ajmer Rajasthan,Stay in Ajmer,Rajasthan"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Maifil",
+            "The Grand Jalsa,Ridhora",
+            "Shravani Dhaba"
+        ],
+        "city": "Akola",
+        "id": "9"
+    },
+    {
+        "city": "Alappuzha",
+        "id": "10",
+        "hotels": [
+            "Royale Park Restaurant",
+            "Sheiks Junction"
+        ]
+    },
+    {
+        "hotels": [
+            "Viceroy-Gandhi Park",
+            "Hotel Akash Deep",
+            "Hotel Charan"
+        ],
+        "id": "11",
+        "city": "Aligarh"
+    },
+    {
+        "id": "12",
+        "city": "Alirajpur",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Allahabad",
+        "id": "13"
+    },
+    {
+        "city": "Almora",
+        "id": "14",
+        "hotels": [
+            "Maa Anand Mayee Guest House",
+            "Uttrakhand Chef.S Hotel Line",
+            "Kafal Buransh,Manila"
+        ]
+    },
+    {
+        "hotels": [
+            "Baba Hotel & Restaurant",
+            "Royal Rajvilas Alwar",
+            "The Gandharva Retreat"
+        ],
+        "id": "15",
+        "city": "Alwar"
+    },
+    {
+        "id": "16",
+        "city": "Ambala",
+        "hotels": [
+            "Kingfisher Resort Ambala",
+            "Red Apple Resorts",
+            "Amrapali"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Ambedkar nagar",
+        "id": "17"
+    },
+    {
+        "city": "Amravati",
+        "id": "18",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "19",
+        "city": "Amreli district"
+    },
+    {
+        "id": "20",
+        "city": "Amritsar",
+        "hotels": [
+            "Shukrana Resort",
+            "Hotel Oscar",
+            "Virdi House",
+            "Shukrana Resort",
+            "Hotel Oscar",
+            "Virdi House"
+        ]
+    },
+    {
+        "hotels": [
+            "Shukrana Resort",
+            "Hotel Oscar",
+            "Virdi House",
+            "Shukrana Resort",
+            "Hotel Oscar",
+            "Virdi House"
+        ],
+        "city": "Amritsar",
+        "id": "21"
+    },
+    {
+        "city": "Anand",
+        "id": "22",
+        "hotels": [
+            "Green Chilli Cafe",
+            "Čhîlli Đînner A.C Restaurant",
+            "Hotel Nasib"
+        ]
+    },
+    {
+        "hotels": [
+            "Suraj Grand Anantapur",
+            "Chiru",
+            "Hy-Way Lounge"
+        ],
+        "id": "23",
+        "city": "Anantapur"
+    },
+    {
+        "id": "24",
+        "city": "Anantnag",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Angul",
+        "id": "25"
+    },
+    {
+        "city": "Anjaw",
+        "id": "26",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "27",
+        "city": "Anuppur"
+    },
+    {
+        "id": "28",
+        "city": "Araria",
+        "hotels": [
+            "Hotel Jaiswal-Phed Colony",
+            "Hotel Yuvraj-Phed Colony",
+            "Hotel Panar"
+        ]
+    },
+    {
+        "hotels": [
+            "Travellers Bungalow",
+            "Arihant Hotel",
+            "Wishal Lodge"
+        ],
+        "city": "Ariyalur",
+        "id": "29"
+    },
+    {
+        "city": "Arwal",
+        "id": "30",
+        "hotels": [
+            "Hari Om"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "31",
+        "city": "Ashok nagar"
+    },
+    {
+        "id": "32",
+        "city": "Auraiya",
+        "hotels": [
+            "Kamla Lodge",
+            "Mangla Palace",
+            "Adarsh Hotel"
+        ]
+    },
+    {
+        "hotels": [
+            "7 Apple Aurangabad",
+            "Cafe Bits N Bites",
+            "Hotel Dhanshree",
+            "7 Apple Aurangabad",
+            "Cafe Bits N Bites",
+            "Hotel Dhanshree"
+        ],
+        "city": "Aurangabad",
+        "id": "33"
+    },
+    {
+        "city": "Aurangabad",
+        "id": "34",
+        "hotels": [
+            "7 Apple Aurangabad",
+            "Cafe Bits N Bites",
+            "Hotel Dhanshree",
+            "7 Apple Aurangabad",
+            "Cafe Bits N Bites",
+            "Hotel Dhanshree"
+        ]
+    },
+    {
+        "hotels": [
+            "Arjun Hotel",
+            "Sarswati Hotel-State Highway 66",
+            "Udayam Hotel"
+        ],
+        "id": "35",
+        "city": "Azamgarh"
+    },
+    {
+        "id": "36",
+        "city": "Badgam",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "V S R-Andhra Restaurant",
+            "Hotel Shiva Sangam Residency",
+            "Hotel Haripriya International"
+        ],
+        "city": "Bagalkot",
+        "id": "37"
+    },
+    {
+        "city": "Bageshwar",
+        "id": "38",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "39",
+        "city": "Bagpat"
+    },
+    {
+        "id": "40",
+        "city": "Bahraich",
+        "hotels": [
+            "Hotel Crown Plaza Inn",
+            "MDC Farms",
+            "होटल आराधना"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Baksa",
+        "id": "41"
+    },
+    {
+        "city": "Balaghat",
+        "id": "42",
+        "hotels": [
+            "Hotel Midtown Balaghat",
+            "कृष्णा होटल-बस स्टैंड",
+            "होटल शक्ति-बस स्टैंड"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "43",
+        "city": "Balangir"
+    },
+    {
+        "id": "44",
+        "city": "Balasore",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Ballia",
+        "id": "45"
+    },
+    {
+        "city": "Balrampur",
+        "id": "46",
+        "hotels": [
+            "अजमेरी होटल-बिरबनी",
+            "Hotel Prashant Palace",
+            "अजमेरी लॉज"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "47",
+        "city": "Banaskantha"
+    },
+    {
+        "id": "48",
+        "city": "Banda",
+        "hotels": [
+            "Grand Darbar",
+            "Hotel SS Residency",
+            "Hotel Gurudev Palace"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Bandipora",
+        "id": "49"
+    },
+    {
+        "city": "Bangalore rural",
+        "id": "50",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "51",
+        "city": "Bangalore urban"
+    },
+    {
+        "id": "52",
+        "city": "Banka",
+        "hotels": [
+            "Hotel Gitanjali",
+            "Hotel Krishna International",
+            "होटल महेंद्र-बंका"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Bankura",
+        "id": "53"
+    },
+    {
+        "city": "Banswara",
+        "id": "54",
+        "hotels": [
+            "Gopi Restaurant",
+            "Leo Prime",
+            "Hotel Alankar"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "55",
+        "city": "Barabanki"
+    },
+    {
+        "id": "56",
+        "city": "Baramulla",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Hotel Citycenter Baran Rajsthan.",
+            "Hotel the Surya, Baran",
+            "Hinglaaj Hotel"
+        ],
+        "city": "Baran",
+        "id": "57"
+    },
+    {
+        "city": "Bardhaman",
+        "id": "58",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Hotel Khanna",
+            "Krishna Residency",
+            "Hotel Dev Bhoomi"
+        ],
+        "id": "59",
+        "city": "Bareilly"
+    },
+    {
+        "id": "60",
+        "city": "Bargarh (baragarh)",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Raj Hotel",
+            "होटल रॉयल इन-बीएसएनएल कॉलोनी",
+            "Hotel Jatin"
+        ],
+        "city": "Barmer",
+        "id": "61"
+    },
+    {
+        "city": "Barnala",
+        "id": "62",
+        "hotels": [
+            "Mehfil Hotel Restro Bar",
+            "Green Restaurant",
+            "K.S Fast Food and Rest"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "63",
+        "city": "Barpeta"
+    },
+    {
+        "id": "64",
+        "city": "Barwani",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Sanjay Hotel-Bastar",
+            "Hotel Vikram-Bastar",
+            "Srivani Hotel-Sonarpal"
+        ],
+        "city": "Bastar",
+        "id": "65"
+    },
+    {
+        "city": "Basti",
+        "id": "66",
+        "hotels": [
+            "Jagadesh Hotel",
+            "Hotel Shivay Palace",
+            "होटल हरिशचंद्र पैलेस"
+        ]
+    },
+    {
+        "hotels": [
+            "Apna Ghar Tiffin Centre",
+            "Pahwa Palace and Cattering",
+            "New Punjabi Dhaba"
+        ],
+        "id": "67",
+        "city": "Bathinda"
+    },
+    {
+        "id": "68",
+        "city": "Beed",
+        "hotels": [
+            "Kamdhenu Bhojanalaya Beed",
+            "Raba Hotel-Vidya Nagar",
+            "Nag Hotel-Vidya Nagar"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Begusarai",
+        "id": "69"
+    },
+    {
+        "city": "Belgaum",
+        "id": "70",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "71",
+        "city": "Bellary"
+    },
+    {
+        "id": "72",
+        "city": "Bengaluru",
+        "hotels": [
+            "The Chevron Brigade Hotel",
+            "16 Square-Ashoknagar",
+            "Hotel 16 Sqaure",
+            "The Leela Palace Bengaluru",
+            "Empire Restaurant",
+            "Park Avenue",
+            "Farm House Near Bangalore",
+            "Vinayak Guest House",
+            "Maple Express Hotel",
+            "Oyo Rooms RT Nagar Main Road",
+            "Hotel Sarovar Grand",
+            "Nandini Palace"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Kantishiva",
+            "Ratan Praghya Dharmshala",
+            "Hotel IC Inn"
+        ],
+        "city": "Betul",
+        "id": "73"
+    },
+    {
+        "city": "Bhadrak",
+        "id": "74",
+        "hotels": [
+            "Bira Muslim Hotel-Patana Sahi",
+            "Dada Hotel",
+            "Hotel"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Yuvraj",
+            "Food Plaza - A Family Restaurant & Marriage Garden",
+            "Hotel Sadbhawna"
+        ],
+        "id": "75",
+        "city": "Bhagalpur"
+    },
+    {
+        "id": "76",
+        "city": "Bhandara",
+        "hotels": [
+            "Yash Camping Bhandardara",
+            "Hotel Oms Royal Plaza",
+            "D.M.Hotal and Family Restorant"
+        ]
+    },
+    {
+        "hotels": [
+            "Bharatpurwings",
+            "Royal Guest House, Bharatpur",
+            "Oyo 30150 Hotel Goyal"
+        ],
+        "city": "Bharatpur",
+        "id": "77"
+    },
+    {
+        "city": "Bharuch",
+        "id": "78",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "79",
+        "city": "Bhavnagar"
+    },
+    {
+        "id": "80",
+        "city": "Bhilwara",
+        "hotels": [
+            "Hotel 8 PM",
+            "Sohasti Vatika",
+            "Shrilok Heritage Resort & Club",
+            "Handi Resort Mandal",
+            "Tonkarwar Fort",
+            "Haripriya Hotel"
+        ]
+    },
+    {
+        "hotels": [
+            "राजू होटल",
+            "अमित होटल",
+            "राधिका होटल"
+        ],
+        "city": "Bhind",
+        "id": "81"
+    },
+    {
+        "city": "Bhiwani",
+        "id": "82",
+        "hotels": [
+            "Bansal Guesthouse",
+            "Utsav Banquet & Motel",
+            "Natraj-MC Colony"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "83",
+        "city": "Bhojpur"
+    },
+    {
+        "id": "84",
+        "city": "Bhopal",
+        "hotels": [
+            "The Majestic Suites",
+            "Golden Treat Bhopal",
+            "Hotel Wind N Waves Bhopal- MP Tourism"
+        ]
+    },
+    {
+        "hotels": [
+            "The Park Pizza & Burger Corner",
+            "New Jai Bhavani Hotel",
+            "Military Hotel"
+        ],
+        "city": "Bidar",
+        "id": "85"
+    },
+    {
+        "city": "Bijapur",
+        "id": "86",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "87",
+        "city": "Bijapur"
+    },
+    {
+        "id": "88",
+        "city": "Bijnor",
+        "hotels": [
+            "Hotel Park Residency",
+            "होटल नेहा हॉल अनमोल-परमारगंज",
+            "होटल अनमोल-परमारगंज"
+        ]
+    },
+    {
+        "hotels": [
+            "The Lallgarh Palace-A Heritage Hotel, Bikaner, Rajasthan, India",
+            "Music Addicted Pihu’S Cafe",
+            "The Lallgarh Palace-A Heritage Hotel Bikaner Rajasthan India"
+        ],
+        "city": "Bikaner",
+        "id": "89"
+    },
+    {
+        "city": "Bilaspur",
+        "id": "90",
+        "hotels": [
+            "Tha Centre Lounge",
+            "The Aananda Imperial Hotel",
+            "Hotel Jaybee Inn",
+            "Tha Centre Lounge",
+            "The Aananda Imperial Hotel",
+            "Hotel Jaybee Inn",
+            "Surinder Singh Charak",
+            "Khalsa Hotel Sweets & Restaurant"
+        ]
+    },
+    {
+        "hotels": [
+            "Tha Centre Lounge",
+            "The Aananda Imperial Hotel",
+            "Hotel Jaybee Inn",
+            "Tha Centre Lounge",
+            "The Aananda Imperial Hotel",
+            "Hotel Jaybee Inn",
+            "Surinder Singh Charak",
+            "Khalsa Hotel Sweets & Restaurant"
+        ],
+        "id": "91",
+        "city": "Bilaspur"
+    },
+    {
+        "id": "92",
+        "city": "Birbhum",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Sonia Hotel",
+            "Sharha Hotel",
+            "Tourist Centre"
+        ],
+        "city": "Bishnupur",
+        "id": "93"
+    },
+    {
+        "city": "Bokaro",
+        "id": "94",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "95",
+        "city": "Bongaigaon"
+    },
+    {
+        "id": "96",
+        "city": "Boudh (bauda)",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Budaun",
+        "id": "97"
+    },
+    {
+        "city": "Bulandshahr",
+        "id": "98",
+        "hotels": [
+            "इट वेल होटल-देवपुरी-II",
+            "Gulsan Hotel",
+            "चुनमुन होटल-देवपुरी-आईआई"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "99",
+        "city": "Buldhana"
+    },
+    {
+        "id": "100",
+        "city": "Bundi",
+        "hotels": [
+            "Hotel.",
+            "The Hadoti Palace, Bundi (Rajasthan)",
+            "Kasera Paradise Hotel in Bundi, Rajasthan"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Padmalaya",
+            "Shri Maya Hotel-Sindhi Basti",
+            "श्री माया होटल-सिंधी बस्ती"
+        ],
+        "city": "Burhanpur",
+        "id": "101"
+    },
+    {
+        "city": "Buxar",
+        "id": "102",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "103",
+        "city": "Cachar"
+    },
+    {
+        "id": "104",
+        "city": "Central delhi",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Chamarajnagar",
+        "id": "105"
+    },
+    {
+        "city": "Chamba",
+        "id": "106",
+        "hotels": [
+            "The Shiva Lodge",
+            "Bittu Rajpoot",
+            "RK Hotel Tissa"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Inder Palace",
+            "MR. Vijay Pal",
+            "Standard Room in Badrianth"
+        ],
+        "id": "107",
+        "city": "Chamoli"
+    },
+    {
+        "id": "108",
+        "city": "Champawat",
+        "hotels": [
+            "Hotel Mount View",
+            "Hotel Rajatdeep",
+            "Hotel Lakshvila Resort"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Champhai",
+        "id": "109"
+    },
+    {
+        "city": "Chandauli",
+        "id": "110",
+        "hotels": [
+            "Spot on 65926 Shri Paramhans Upwan",
+            "Hotel Suryam"
+        ]
+    },
+    {
+        "hotels": [
+            "Liimkhu Inn & Restaurant",
+            "Hatneichong Hotel Groceries"
+        ],
+        "id": "111",
+        "city": "Chandel"
+    },
+    {
+        "id": "112",
+        "city": "Chandigarh",
+        "hotels": [
+            "Youth Hostel, Chandigarh",
+            "Hotel Mohali Sec.70",
+            "Royal Palm"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel LOTUS",
+            "United-21 Tiger Camp Resort, Tadoba",
+            "Akska's Homestay & Budget Hotel"
+        ],
+        "city": "Chandrapur",
+        "id": "113"
+    },
+    {
+        "city": "Changlang",
+        "id": "114",
+        "hotels": [
+            "Ziro Palace Inn"
+        ]
+    },
+    {
+        "hotels": [
+            "Angels Residency",
+            "श्री नारायण स्वीट्स",
+            "होटल रंगीला"
+        ],
+        "id": "115",
+        "city": "Chatra"
+    },
+    {
+        "id": "116",
+        "city": "Chennai",
+        "hotels": [
+            "Vetrivel",
+            "Mon Repos - Kodaikanal",
+            "Green Thumb Resort Ecr"
+        ]
+    },
+    {
+        "hotels": [
+            "Raksha Girls Hostel",
+            "Hotel Parmanand and Madhur Restaurant",
+            "Dhubela Resort",
+            "Hotel Jai Delux"
+        ],
+        "city": "Chhatarpur",
+        "id": "117"
+    },
+    {
+        "city": "Chhatrapati shahuji maharaj nagar",
+        "id": "118",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "सूरज होटल",
+            "Shagun 2018 Jewellery & Fashion Exhibition Chhindwara",
+            "Hotel Apni Rasoi"
+        ],
+        "id": "119",
+        "city": "Chhindwara"
+    },
+    {
+        "id": "120",
+        "city": "Chikkaballapur",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Chikkamagaluru",
+        "id": "121"
+    },
+    {
+        "city": "Chirang",
+        "id": "122",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "JCR Pizza Corner",
+            "Siddesh Yadav Siddu",
+            "Shri Sai Sagar Benne Dose Hotel - Chitradurga"
+        ],
+        "id": "123",
+        "city": "Chitradurga"
+    },
+    {
+        "id": "124",
+        "city": "Chitrakoot",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Kaka Hotel",
+            "Vignesh-Chittoor",
+            "Uk Kabab Centre"
+        ],
+        "city": "Chittoor",
+        "id": "125"
+    },
+    {
+        "city": "Chittorgarh",
+        "id": "126",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "127",
+        "city": "Churachandpur"
+    },
+    {
+        "id": "128",
+        "city": "Churu",
+        "hotels": [
+            "Hotel Krishna $ Restaurant",
+            "Mukesh Tiger Abvp",
+            "Namdev Dharamshala"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Ganga",
+            "Hotel Junior Kuppanna",
+            "Rathna Residency-Coimbatore",
+            "Hotel Ganga",
+            "Hotel Junior Kuppanna",
+            "Rathna Residency-Coimbatore"
+        ],
+        "city": "Coimbatore",
+        "id": "129"
+    },
+    {
+        "city": "Coimbatore",
+        "id": "130",
+        "hotels": [
+            "Hotel Ganga",
+            "Hotel Junior Kuppanna",
+            "Rathna Residency-Coimbatore",
+            "Hotel Ganga",
+            "Hotel Junior Kuppanna",
+            "Rathna Residency-Coimbatore"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "131",
+        "city": "Cooch behar"
+    },
+    {
+        "id": "132",
+        "city": "Cuddalore",
+        "hotels": [
+            "Crazy Icecream & Pizza.",
+            "Hotel Raj Residency",
+            "Hotel Maharaja"
+        ]
+    },
+    {
+        "hotels": [
+            "Shree Aurobindo Bhawan-Cuttack",
+            "Shri Aravind Bhawan",
+            "Hotel Ashoka-Cuttack"
+        ],
+        "city": "Cuttack",
+        "id": "133"
+    },
+    {
+        "city": "Dadra and nagar haveli",
+        "id": "134",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Hotel Rama",
+            "Sunni Muslim Musafir Khana-Dahod",
+            "Get Food on Laxmi Hotel"
+        ],
+        "id": "135",
+        "city": "Dahod"
+    },
+    {
+        "id": "136",
+        "city": "Dakshin dinajpur",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Dakshina kannada",
+        "id": "137"
+    },
+    {
+        "city": "Daman",
+        "id": "138",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Hotel Indra Palace",
+            "Hotel Maharaja Palace",
+            "होटल लांग एडीए-नूरी नगर"
+        ],
+        "id": "139",
+        "city": "Damoh"
+    },
+    {
+        "id": "140",
+        "city": "Dantewada",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Leipese Canteen",
+            "Scoop's & Smile",
+            "Hotel Bhajgovind"
+        ],
+        "city": "Darbhanga",
+        "id": "141"
+    },
+    {
+        "city": "Darjeeling",
+        "id": "142",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "143",
+        "city": "Darjeeling"
+    },
+    {
+        "id": "144",
+        "city": "Darrang",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Datia",
+        "id": "145"
+    },
+    {
+        "city": "Dausa",
+        "id": "146",
+        "hotels": [
+            "होटल जय आंबे",
+            "प्रिंस होटल-पॉवर हाउस कॉलोनी",
+            "रामदेव रेसवाल-पॉवर हाउस कॉलोनी"
+        ]
+    },
+    {
+        "hotels": [
+            "Madhu Hotel",
+            "Hotel Amazon Kitchen",
+            "Hotel Pancharatna Davangere"
+        ],
+        "id": "147",
+        "city": "Davanagere"
+    },
+    {
+        "id": "148",
+        "city": "Debagarh (deogarh)",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Eco Mountain Resort",
+            "Hotel Eena Meena Deeka",
+            "Rampine"
+        ],
+        "city": "Dehradun",
+        "id": "149"
+    },
+    {
+        "city": "Delhi",
+        "id": "150",
+        "hotels": [
+            "Hotel Royal Castle Grand",
+            "Sanjoy Lodge",
+            "Mister and Art House",
+            "Radisson Blu Hotel",
+            "Stay Inn Residency",
+            "Stay Inn-Bhairav Enclave"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Baidyanath",
+            "Manpasand Hotel",
+            "Tarashish Hotel"
+        ],
+        "id": "151",
+        "city": "Deoghar"
+    },
+    {
+        "id": "152",
+        "city": "Deoria",
+        "hotels": [
+            "Yamini Hotel",
+            "Ramayan Hotel-Civil Line Road",
+            "Satya Hotel"
+        ]
+    },
+    {
+        "hotels": [
+            "होटल सुरिया",
+            "श्री तेरा बहादुर",
+            "निर्मल होटल-जवाहर नगर"
+        ],
+        "city": "Dewas",
+        "id": "153"
+    },
+    {
+        "city": "Dhalai",
+        "id": "154",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Shree Bhagwani Hindu Hotel",
+            "Hotel Imperial",
+            "Kamal Hotel"
+        ],
+        "id": "155",
+        "city": "Dhamtari"
+    },
+    {
+        "id": "156",
+        "city": "Dhanbad",
+        "hotels": [
+            "Hotel Siddhi Vinayak",
+            "Sahayogi Restaurant",
+            "Hotel A One"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Patel",
+            "Hotel Utsav Inn",
+            "Hotel City Heart"
+        ],
+        "city": "Dhar",
+        "id": "157"
+    },
+    {
+        "city": "Dharmapuri",
+        "id": "158",
+        "hotels": [
+            "JB Cottage Hogenakkal",
+            "Sri Rang Hotel",
+            "Sri Vinayagan Hotel"
+        ]
+    },
+    {
+        "hotels": [
+            "Herbal Tea Adda",
+            "The S Cafe",
+            "Hotel Bharat Palace"
+        ],
+        "id": "159",
+        "city": "Dharwad"
+    },
+    {
+        "id": "160",
+        "city": "Dhemaji",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Dhenkanal",
+        "id": "161"
+    },
+    {
+        "city": "Dholpur",
+        "id": "162",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "163",
+        "city": "Dhubri"
+    },
+    {
+        "id": "164",
+        "city": "Dhule",
+        "hotels": [
+            "Spice Treat Food Mall",
+            "Hotel Krishnai",
+            "Pritam's Icecream Parlour"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Dibang valley",
+        "id": "165"
+    },
+    {
+        "city": "Dibrugarh",
+        "id": "166",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "167",
+        "city": "Dima hasao"
+    },
+    {
+        "id": "168",
+        "city": "Dimapur",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Dindigul Sun Biriyani",
+            "Hotel Shrii Saravanabavan",
+            "Jams"
+        ],
+        "city": "Dindigul",
+        "id": "169"
+    },
+    {
+        "city": "Dindori",
+        "id": "170",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Bharat Hotel-Fudam",
+            "Hotel Kohinoor-Diu",
+            "Hotel Kohinoor"
+        ],
+        "id": "171",
+        "city": "Diu"
+    },
+    {
+        "id": "172",
+        "city": "Doda",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Anand Hotel",
+            "होटल साकेत",
+            "Narayani Hotel"
+        ],
+        "city": "Dumka",
+        "id": "173"
+    },
+    {
+        "city": "Dungapur",
+        "id": "174",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "होटल कुणाल",
+            "Milan Hotel & Nasta Center",
+            "होटल पायल"
+        ],
+        "id": "175",
+        "city": "Durg"
+    },
+    {
+        "id": "176",
+        "city": "East champaran",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "East delhi",
+        "id": "177"
+    },
+    {
+        "city": "East garo hills",
+        "id": "178",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "179",
+        "city": "East khasi hills"
+    },
+    {
+        "id": "180",
+        "city": "East siang",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "East sikkim",
+        "id": "181"
+    },
+    {
+        "city": "East singhbhum",
+        "id": "182",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Alankar Lodge",
+            "Ramanjaneya-Eluru",
+            "Hotel Madhu Chandra"
+        ],
+        "id": "183",
+        "city": "Eluru"
+    },
+    {
+        "id": "184",
+        "city": "Ernakulam",
+        "hotels": [
+            "Vinayaka",
+            "VG Hotels",
+            "Buger King Kochi"
+        ]
+    },
+    {
+        "hotels": [
+            "Taj Hotel Erode",
+            "Moonwalk Resorts",
+            "Hotel J Maariot"
+        ],
+        "city": "Erode",
+        "id": "185"
+    },
+    {
+        "city": "Etah",
+        "id": "186",
+        "hotels": [
+            "Rameshwaram Hotel & Restaurant",
+            "रवि शेरेटन होटल-शांति नगर",
+            "होटल इन्द्रप्रस्थ"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Amar Aashiyana & Shikhar Restaurant",
+            "Hotel Chaudhary Palace,Etawah",
+            "होटल प्रिंस-पंजाबी कॉलोनी"
+        ],
+        "id": "187",
+        "city": "Etawah"
+    },
+    {
+        "id": "188",
+        "city": "Faizabad",
+        "hotels": [
+            "Hotel Krishna Palace, Faizabad",
+            "Lalli Devi Guest House",
+            "Hotel Rudra India"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel New",
+            "Sogarwal PG Accommodation Faridabad",
+            "15/16 Ram Dwara Road"
+        ],
+        "city": "Faridabad",
+        "id": "189"
+    },
+    {
+        "city": "Faridkot",
+        "id": "190",
+        "hotels": [
+            "Train Hotel-Fridkot",
+            "Taj Palace-Faridkot",
+            "Hotel Thump Plaza-Dogar Basti"
+        ]
+    },
+    {
+        "hotels": [
+            "Narayan Hotel-Railway Road",
+            "Hotel Taj Palace-Farrukhabad",
+            "Oyo 29309 Hotel Taj Palace"
+        ],
+        "id": "191",
+        "city": "Farrukhabad"
+    },
+    {
+        "id": "192",
+        "city": "Fatehabad",
+        "hotels": [
+            "Hotel Aroma",
+            "Gulshan Hotel",
+            "Hotel Tushar"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Fatehgarh sahib",
+        "id": "193"
+    },
+    {
+        "city": "Fatehpur",
+        "id": "194",
+        "hotels": [
+            "Millennium Hotel & Restaurant",
+            "Hotel Green Haveli & Restaurant",
+            "पुष्पराज होटल"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Gulamrg",
+            "Hotel Paradiso",
+            "Tara Palace-Civil Line"
+        ],
+        "id": "195",
+        "city": "Fazilka"
+    },
+    {
+        "id": "196",
+        "city": "Firozabad",
+        "hotels": [
+            "Rameshwaram Resort",
+            "होटल गर्ग",
+            "Hotel Monark Firozabad"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Firozpur",
+        "id": "197"
+    },
+    {
+        "city": "Gadag",
+        "id": "198",
+        "hotels": [
+            "Nisarga Vegetarian Family Garden Restaurant",
+            "Lazeez Biryani Paradise Hotel",
+            "Hotel Punya Bhoomi"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "199",
+        "city": "Gadchiroli"
+    },
+    {
+        "id": "200",
+        "city": "Gajapati",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Ganderbal",
+        "id": "201"
+    },
+    {
+        "city": "Gandhinagar",
+        "id": "202",
+        "hotels": [
+            "Hotel Waterlily",
+            "Avkar Garden Hotel Balva",
+            "Venubharti-the Grace of Dance"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "203",
+        "city": "Ganganagar"
+    },
+    {
+        "id": "204",
+        "city": "Gangtok",
+        "hotels": [
+            "New Hotel Sikkim",
+            "Hotel 100 Petals",
+            "Hotel Helia",
+            "New Hotel Sikkim",
+            "Hotel 100 Petals",
+            "Hotel Helia",
+            "New Hotel Sikkim",
+            "Hotel 100 Petals",
+            "Hotel Helia",
+            "New Hotel Sikkim",
+            "Hotel 100 Petals",
+            "Hotel Helia"
+        ]
+    },
+    {
+        "hotels": [
+            "Panthnivas"
+        ],
+        "city": "Ganjam",
+        "id": "205"
+    },
+    {
+        "city": "Garhwa",
+        "id": "206",
+        "hotels": [
+            "Hotel Green Palace",
+            "Hotel Gulab",
+            "Hotel Raj"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "207",
+        "city": "Gautam buddh nagar"
+    },
+    {
+        "id": "208",
+        "city": "Gaya",
+        "hotels": [
+            "Sukhdeo Clarks Inn",
+            "Shri Vishnu Regency",
+            "The Olive Restaurant, Bodhgaya",
+            "Sukhdeo Clarks Inn",
+            "Shri Vishnu Regency",
+            "The Olive Restaurant, Bodhgaya"
+        ]
+    },
+    {
+        "hotels": [
+            "Sukhdeo Clarks Inn",
+            "Shri Vishnu Regency",
+            "The Olive Restaurant, Bodhgaya",
+            "Sukhdeo Clarks Inn",
+            "Shri Vishnu Regency",
+            "The Olive Restaurant, Bodhgaya"
+        ],
+        "city": "Gaya",
+        "id": "209"
+    },
+    {
+        "city": "Ghaziabad",
+        "id": "210",
+        "hotels": [
+            "Jogendra Hotel",
+            "Gandhi Poori Vala Gandhi Sweets",
+            "Royal King",
+            "Shri Drona Hotel",
+            "Shiv Hotel",
+            "कृष्णा होटल",
+            "Oyo 12123 Hotel Sweet Dreams"
+        ]
+    },
+    {
+        "hotels": [
+            "Surendra Hotel",
+            "Naaaz Hotel",
+            "Hotel Atithi"
+        ],
+        "id": "211",
+        "city": "Ghazipur"
+    },
+    {
+        "id": "212",
+        "city": "Giridih",
+        "hotels": [
+            "Shri Ashok Hotel",
+            "Hotel Bevakuf No 1",
+            "Shri Bewakuf Hotel"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Goalpara",
+        "id": "213"
+    },
+    {
+        "city": "Godda",
+        "id": "214",
+        "hotels": [
+            "Karuna Rest House",
+            "Hotel Kumar International",
+            "होटल कुमार इंटरनैशनल"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "215",
+        "city": "Golaghat"
+    },
+    {
+        "id": "216",
+        "city": "Gonda",
+        "hotels": [
+            "Hotel Amarwati Inn",
+            "Sharma-Jankinagar Village",
+            "Kanta Hotel"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Rainbow Gondia",
+            "Kamakshi Hotel-Sindhi Colony",
+            "Shyam Hotel"
+        ],
+        "city": "Gondia",
+        "id": "217"
+    },
+    {
+        "city": "Gopalganj",
+        "id": "218",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Hotel Park Regency",
+            "Hotel Clarks Grand-Civil Lines",
+            "Maha Laxmi Guest House, 'A' Grade Guest House."
+        ],
+        "id": "219",
+        "city": "Gorakhpur"
+    },
+    {
+        "id": "220",
+        "city": "Gulbarga",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "होटल राज पैलेस",
+            "राज-गुमला",
+            "Hotel Raj Palace"
+        ],
+        "city": "Gumla",
+        "id": "221"
+    },
+    {
+        "city": "Guna",
+        "id": "222",
+        "hotels": [
+            "Park View Ashoka Hotel & Restaurant",
+            "Rishi Kewat",
+            "Hotel G.K"
+        ]
+    },
+    {
+        "hotels": [
+            "Bismillah Biryani Point",
+            "Acr Restaurant",
+            "Abid Biryani Hotel"
+        ],
+        "id": "223",
+        "city": "Guntur"
+    },
+    {
+        "id": "224",
+        "city": "Gurdaspur",
+        "hotels": [
+            "The New Treat Hotel",
+            "Hotel Golden Palm",
+            "Sindhi Hotel"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Gurgaon",
+        "id": "225"
+    },
+    {
+        "city": "Gwalior",
+        "id": "226",
+        "hotels": [
+            "Central Park Hotel",
+            "Spectrum",
+            "The Ved Mantra"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "227",
+        "city": "Hailakandi"
+    },
+    {
+        "id": "228",
+        "city": "Hamirpur",
+        "hotels": [
+            "Raj Hotel",
+            "Golden City Plaza",
+            "Hotel Parkash-Hamirpur",
+            "Raj Hotel",
+            "Golden City Plaza",
+            "Hotel Parkash-Hamirpur",
+            "Hulasis Hotel",
+            "हरी होटल-हमीरपुर",
+            "Uncle Hotel"
+        ]
+    },
+    {
+        "hotels": [
+            "Raj Hotel",
+            "Golden City Plaza",
+            "Hotel Parkash-Hamirpur",
+            "Raj Hotel",
+            "Golden City Plaza",
+            "Hotel Parkash-Hamirpur",
+            "Hulasis Hotel",
+            "हरी होटल-हमीरपुर",
+            "Uncle Hotel"
+        ],
+        "city": "Hamirpur",
+        "id": "229"
+    },
+    {
+        "city": "Hanumangarh",
+        "id": "230",
+        "hotels": [
+            "Nanda Hotel",
+            "Minikhsi Sweet Corner",
+            "Rani Bhatiyani Sweets"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Radhe Krishna",
+            "Guru Kripa Boys Hostel",
+            "Hotel Mourya Inn"
+        ],
+        "id": "231",
+        "city": "Harda"
+    },
+    {
+        "id": "232",
+        "city": "Hardoi",
+        "hotels": [
+            "Chand Hotel",
+            "Kailash Hotel",
+            "Haji Hotel-Ghantaghar Road"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel in Haridwar",
+            "Uttrakhandi Hotelear",
+            "Havngo",
+            "Hotel in Haridwar",
+            "Uttrakhandi Hotelear",
+            "Havngo"
+        ],
+        "city": "Haridwar",
+        "id": "233"
+    },
+    {
+        "city": "Haridwar",
+        "id": "234",
+        "hotels": [
+            "Hotel in Haridwar",
+            "Uttrakhandi Hotelear",
+            "Havngo",
+            "Hotel in Haridwar",
+            "Uttrakhandi Hotelear",
+            "Havngo"
+        ]
+    },
+    {
+        "hotels": [
+            "Eka Resort",
+            "Biryani Palace",
+            "The Ashhok Hassan"
+        ],
+        "id": "235",
+        "city": "Hassan"
+    },
+    {
+        "id": "236",
+        "city": "Haveri district",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Hazaribag",
+        "id": "237"
+    },
+    {
+        "city": "Hingoli",
+        "id": "238",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "239",
+        "city": "Hissar"
+    },
+    {
+        "id": "240",
+        "city": "Hooghly",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Sky Rooftop Cafe & Restaurant",
+            "New Arabian Knights Veg & Non Veg Restaurant",
+            "Hotel G.R.V Hoshangabad"
+        ],
+        "city": "Hoshangabad",
+        "id": "241"
+    },
+    {
+        "city": "Hoshiarpur",
+        "id": "242",
+        "hotels": [
+            "Hotel Amber Bar & Restaurant",
+            "Tara Hotel",
+            "Tara Hotel."
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "243",
+        "city": "Howrah"
+    },
+    {
+        "id": "244",
+        "city": "Hyderabad",
+        "hotels": [
+            "Holiday Inn Express Hyderabad Hitec City",
+            "Mayura Lodge",
+            "Amber Garden",
+            "Holiday Inn Express Hyderabad Hitec City",
+            "Mayura Lodge",
+            "Amber Garden",
+            "Holiday Inn Express Hyderabad Hitec City",
+            "Mayura Lodge",
+            "Amber Garden"
+        ]
+    },
+    {
+        "hotels": [
+            "Holiday Inn Express Hyderabad Hitec City",
+            "Mayura Lodge",
+            "Amber Garden",
+            "Holiday Inn Express Hyderabad Hitec City",
+            "Mayura Lodge",
+            "Amber Garden",
+            "Holiday Inn Express Hyderabad Hitec City",
+            "Mayura Lodge",
+            "Amber Garden"
+        ],
+        "city": "Hyderabad",
+        "id": "245"
+    },
+    {
+        "city": "Hyderabad",
+        "id": "246",
+        "hotels": [
+            "Holiday Inn Express Hyderabad Hitec City",
+            "Mayura Lodge",
+            "Amber Garden",
+            "Holiday Inn Express Hyderabad Hitec City",
+            "Mayura Lodge",
+            "Amber Garden",
+            "Holiday Inn Express Hyderabad Hitec City",
+            "Mayura Lodge",
+            "Amber Garden"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "247",
+        "city": "Idukki"
+    },
+    {
+        "id": "248",
+        "city": "Imphal east",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Imphal west",
+        "id": "249"
+    },
+    {
+        "city": "Indore",
+        "id": "250",
+        "hotels": [
+            "होटल अलिफ",
+            "Sayaji Hotel Indore",
+            "The Underworld Pub Lounge",
+            "Pantra, Mushapur, Haripal, Hooghly",
+            "Hotel Shivrattan",
+            "Hotal Shivrattan"
+        ]
+    },
+    {
+        "hotels": [
+            "Samdareeya Mall",
+            "Hotel Jabali Palace, Jabalpur, Madhya Pradesh, India",
+            "Hotel India",
+            "Guru Simar Lodge",
+            "Radhika Palace the Marriage Garden",
+            "Blue Cheese Inn"
+        ],
+        "id": "251",
+        "city": "Jabalpur"
+    },
+    {
+        "id": "252",
+        "city": "Jagatsinghpur",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Jaintia hills",
+        "id": "253"
+    },
+    {
+        "city": "Jaipur",
+        "id": "254",
+        "hotels": [
+            "A V Exotica Club and Resort",
+            "Virendra Singh",
+            "Joystel Jaipur - Hotel Pink Palace",
+            "A V Exotica Club and Resort",
+            "Virendra Singh",
+            "Joystel Jaipur - Hotel Pink Palace"
+        ]
+    },
+    {
+        "hotels": [
+            "A V Exotica Club and Resort",
+            "Virendra Singh",
+            "Joystel Jaipur - Hotel Pink Palace",
+            "A V Exotica Club and Resort",
+            "Virendra Singh",
+            "Joystel Jaipur - Hotel Pink Palace"
+        ],
+        "id": "255",
+        "city": "Jaipur"
+    },
+    {
+        "id": "256",
+        "city": "Jaisalmer",
+        "hotels": [
+            "Fort Rajwada",
+            "Rajasthan Adventures Resort",
+            "Golden Sunrise"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Jajpur",
+        "id": "257"
+    },
+    {
+        "city": "Jalandhar",
+        "id": "258",
+        "hotels": [
+            "Prince Hotel",
+            "Hotel Ranvir Classic",
+            "Hotel Mariton"
+        ]
+    },
+    {
+        "hotels": [
+            "Krishna Hotel"
+        ],
+        "id": "259",
+        "city": "Jalaun"
+    },
+    {
+        "id": "260",
+        "city": "Jalgaon",
+        "hotels": [
+            "Diamond Lodge Jalgaon Jamod",
+            "Hotel Rupali",
+            "Hotel New Shalimar"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Mamadevi",
+            "Hotel Shivneri",
+            "Gori Lodging"
+        ],
+        "city": "Jalna",
+        "id": "261"
+    },
+    {
+        "city": "Jalore",
+        "id": "262",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "263",
+        "city": "Jalpaiguri"
+    },
+    {
+        "id": "264",
+        "city": "Jammu",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Hotel Celebration",
+            "The Hotel Jamnagar",
+            "Maldhari Caterers Rajubhai Bharavad"
+        ],
+        "city": "Jamnagar",
+        "id": "265"
+    },
+    {
+        "city": "Jamtara",
+        "id": "266",
+        "hotels": [
+            "होटल चंदन",
+            "Prabhat Inn",
+            "Utsav Landmark Hotel"
+        ]
+    },
+    {
+        "hotels": [
+            "Hari Om Dhabha",
+            "Hotel Galaxy",
+            "Hotel Khushi Atithi Grih"
+        ],
+        "id": "267",
+        "city": "Jamui"
+    },
+    {
+        "id": "268",
+        "city": "Janjgir-champa",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Jashpur",
+        "id": "269"
+    },
+    {
+        "city": "Jaunpur district",
+        "id": "270",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "271",
+        "city": "Jehanabad"
+    },
+    {
+        "id": "272",
+        "city": "Jhabua",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Happy Hotel",
+            "Hotel Bharat Regency",
+            "Ishwar-Jhajjar"
+        ],
+        "city": "Jhajjar",
+        "id": "273"
+    },
+    {
+        "city": "Jhalawar",
+        "id": "274",
+        "hotels": [
+            "Dwarka Hotel",
+            "Piyush",
+            "Daawat Hotel"
+        ]
+    },
+    {
+        "hotels": [
+            "Prince Hotel",
+            "Geeta Hotel",
+            "Hotel Highway"
+        ],
+        "id": "275",
+        "city": "Jhansi"
+    },
+    {
+        "id": "276",
+        "city": "Jharsuguda",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Hotel Mid Town",
+            "Shekhwati Resort and Bar",
+            "Shekhawati Heritage Walk"
+        ],
+        "city": "Jhunjhunu",
+        "id": "277"
+    },
+    {
+        "city": "Jind",
+        "id": "278",
+        "hotels": [
+            "Bhikaji Gama Palace",
+            "Bulbul Tourist Complex",
+            "Bansal P.G."
+        ]
+    },
+    {
+        "hotels": [
+            "Regal Hotel",
+            "Hotel Chandra Inn",
+            "Al Haq Laziz Restourant"
+        ],
+        "id": "279",
+        "city": "Jodhpur"
+    },
+    {
+        "id": "280",
+        "city": "Jorhat",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Junagadh",
+        "id": "281"
+    },
+    {
+        "city": "Jyotiba phule nagar",
+        "id": "282",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "283",
+        "city": "Kabirdham (formerly kawardha)"
+    },
+    {
+        "id": "284",
+        "city": "Kadapa",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Kaimur",
+        "id": "285"
+    },
+    {
+        "city": "Kaithal",
+        "id": "286",
+        "hotels": [
+            "Park View Lodge",
+            "Capital Kitchen Kaithal",
+            "Sonu Monu da Dhaba"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Bhimas",
+            "Guntur Hotel",
+            "Nakshatra Banquets"
+        ],
+        "id": "287",
+        "city": "Kakinada"
+    },
+    {
+        "id": "288",
+        "city": "Kalahandi",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Kamrup",
+        "id": "289"
+    },
+    {
+        "city": "Kamrup metropolitan",
+        "id": "290",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "291",
+        "city": "Kanchipuram"
+    },
+    {
+        "id": "292",
+        "city": "Kandhamal",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Laj Hotel",
+            "Rahul P. G for Girls",
+            "Hotel Brijeshwari-Kangra"
+        ],
+        "city": "Kangra",
+        "id": "293"
+    },
+    {
+        "city": "Kanker",
+        "id": "294",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "295",
+        "city": "Kannauj"
+    },
+    {
+        "id": "296",
+        "city": "Kannur",
+        "hotels": [
+            "Royal Sangamam",
+            "Paithal Village",
+            "Paithal Valley Homestay"
+        ]
+    },
+    {
+        "hotels": [
+            "Diamond Restaurant",
+            "Hotel Rajputana Palace and Restaurant",
+            "Hotel Solitaire Inn"
+        ],
+        "city": "Kanpur",
+        "id": "297"
+    },
+    {
+        "city": "Kanshi ram nagar",
+        "id": "298",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "299",
+        "city": "Kanyakumari"
+    },
+    {
+        "id": "300",
+        "city": "Kapurthala",
+        "hotels": [
+            "Swan Hotel",
+            "Shivan Hotel",
+            "Dawat Food Point&Cattering"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Karaikal",
+        "id": "301"
+    },
+    {
+        "city": "Karauli",
+        "id": "302",
+        "hotels": [
+            "Kankoriya Haveli",
+            "Bhanwar Vilas Palace",
+            "Hotel Ram Vilas Palace"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "303",
+        "city": "Karbi anglong"
+    },
+    {
+        "id": "304",
+        "city": "Kargil",
+        "hotels": [
+            "Hotel Royal Gasho",
+            "Hotel Kargil Heights",
+            "Hotel Suru View"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Karimganj",
+        "id": "305"
+    },
+    {
+        "city": "Karimnagar",
+        "id": "306",
+        "hotels": [
+            "Hotel Maitri",
+            "New Lokhy Lodge",
+            "Hotel Anmol"
+        ]
+    },
+    {
+        "hotels": [
+            "होटल पोरदाज",
+            "MK Brothers Fast Food",
+            "Nature Fresh Live Fruit Ice Cream Rolls"
+        ],
+        "id": "307",
+        "city": "Karnal"
+    },
+    {
+        "id": "308",
+        "city": "Karur",
+        "hotels": [
+            "Hotel Valluvar",
+            "Sri Palaniappa Lodge",
+            "Pl. A. Residency"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Kasaragod",
+        "id": "309"
+    },
+    {
+        "city": "Kathua",
+        "id": "310",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Hotel Jay",
+            "Hotel Rajasthan, Katihar",
+            "होटल राजीव"
+        ],
+        "id": "311",
+        "city": "Katihar"
+    },
+    {
+        "id": "312",
+        "city": "Katni",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Kausani",
+        "id": "313"
+    },
+    {
+        "city": "Kaushambi",
+        "id": "314",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "315",
+        "city": "Kendrapara"
+    },
+    {
+        "id": "316",
+        "city": "Kendujhar (keonjhar)",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Khagaria",
+        "id": "317"
+    },
+    {
+        "city": "Khammam",
+        "id": "318",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "319",
+        "city": "Khandwa (east nimar)"
+    },
+    {
+        "id": "320",
+        "city": "Khargone (west nimar)",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Hotel Sammati",
+            "Piyush Palace Hotel",
+            "Niru Hotel"
+        ],
+        "city": "Kheda",
+        "id": "321"
+    },
+    {
+        "city": "Khordha",
+        "id": "322",
+        "hotels": [
+            "Paika-Khordha",
+            "Hotel Suryamukhi",
+            "Supreme-Khordha"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "323",
+        "city": "Khowai"
+    },
+    {
+        "id": "324",
+        "city": "Khunti",
+        "hotels": [
+            "Vijay Hotel-Jannat Gannar",
+            "Prakash Hotel-Jannat Gannar",
+            "Pankaj Line Hotel"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Kinnaur",
+        "id": "325"
+    },
+    {
+        "city": "Kishanganj",
+        "id": "326",
+        "hotels": [
+            "Hotel Daftari Palace",
+            "Sinha Sweets Corner",
+            "Hotel Shaheen-Line Mohalla"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "327",
+        "city": "Kishtwar"
+    },
+    {
+        "id": "328",
+        "city": "Kochi",
+        "hotels": [
+            "Cherai Beach",
+            "Cherai Beach",
+            "Anchor Inn",
+            "Broad Bean Resorts and Hotels",
+            "Lamaisondesamis",
+            "Cherai Beach",
+            "Cherai Beach"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Kodagu",
+        "id": "329"
+    },
+    {
+        "city": "Koderma",
+        "id": "330",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "The Penthouse",
+            "2k Hotel",
+            "Hotel Fira-Forest Colony"
+        ],
+        "id": "331",
+        "city": "Kohima"
+    },
+    {
+        "id": "332",
+        "city": "Kokrajhar",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Sai Nandhini A/C Lodge",
+            "Chikbun Juice Point",
+            "Prasanth Reddy Lodge"
+        ],
+        "city": "Kolar",
+        "id": "333"
+    },
+    {
+        "city": "Kolasib",
+        "id": "334",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "करवीर मिसळ",
+            "करवीर मिसळ",
+            "Stonarc Hotels"
+        ],
+        "id": "335",
+        "city": "Kolhapur"
+    },
+    {
+        "id": "336",
+        "city": "Kolkata",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Kolkata",
+        "id": "337"
+    },
+    {
+        "city": "Kollam",
+        "id": "338",
+        "hotels": [
+            "Red Stars Vasupuram",
+            "Island Retreat Resort Kollam",
+            "Munroe Drive Inn Island Resort"
+        ]
+    },
+    {
+        "hotels": [
+            "Kuteera Family Restaurant",
+            "Manik Residency",
+            "Shri Banashankari Hotel"
+        ],
+        "id": "339",
+        "city": "Koppal"
+    },
+    {
+        "id": "340",
+        "city": "Koraput",
+        "hotels": [
+            "Ambica Heavens Hotel",
+            "Atithi Bhawan Hotel",
+            "Raj Residency Koraput"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Top in Town",
+            "J.B Hotel",
+            "Hotel Aashirwad Inn"
+        ],
+        "city": "Korba",
+        "id": "341"
+    },
+    {
+        "city": "Koriya",
+        "id": "342",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Hotel G-20",
+            "Premier Hotel",
+            "Ansh Residency"
+        ],
+        "id": "343",
+        "city": "Kota"
+    },
+    {
+        "id": "344",
+        "city": "Kottayam",
+        "hotels": [
+            "Mali International",
+            "Anjali Hotel",
+            "Thomman's Farm Stay"
+        ]
+    },
+    {
+        "hotels": [
+            "Malabar Palace",
+            "Ammaayees Restaurant",
+            "Shalimar Restaurant"
+        ],
+        "city": "Kozhikode",
+        "id": "345"
+    },
+    {
+        "city": "Krishna",
+        "id": "346",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "347",
+        "city": "Kulgam"
+    },
+    {
+        "id": "348",
+        "city": "Kullu",
+        "hotels": [
+            "Third Eye Guest House and Restaurant",
+            "Sailors Homestay",
+            "Veer Guest Housel"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Kumarakom",
+        "id": "349"
+    },
+    {
+        "city": "Kupwara",
+        "id": "350",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Babar Hotel",
+            "Honey Hostel",
+            "Hotel Athidhi Grand"
+        ],
+        "id": "351",
+        "city": "Kurnool"
+    },
+    {
+        "id": "352",
+        "city": "Kurukshetra",
+        "hotels": [
+            "Hotel Almond Leaf",
+            "The Celestial Beats by 4kd Hotels",
+            "Hotel Sky"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Kurung kumey",
+        "id": "353"
+    },
+    {
+        "city": "Kushinagar",
+        "id": "354",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "355",
+        "city": "Kutch"
+    },
+    {
+        "id": "356",
+        "city": "Lahaul and spiti",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Hotel the Elite Inn",
+            "Hari Shagun LMP",
+            "Hotel Landmark Royale",
+            "Hotel the Elite Inn",
+            "Hari Shagun LMP",
+            "Hotel Landmark Royale"
+        ],
+        "city": "Lakhimpur",
+        "id": "357"
+    },
+    {
+        "city": "Lakhimpur kheri",
+        "id": "358",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "359",
+        "city": "Lakhisarai"
+    },
+    {
+        "id": "360",
+        "city": "Lalitpur",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Blue Marine Resort",
+            "होटल रवि",
+            "Parisadan-Latehar"
+        ],
+        "city": "Latehar",
+        "id": "361"
+    },
+    {
+        "city": "Latur",
+        "id": "362",
+        "hotels": [
+            "Hotel the Cruise",
+            "Ambika Hotel-Ganj Golai",
+            "Shivneri Hotel"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel George,Lawngtlai"
+        ],
+        "id": "363",
+        "city": "Lawngtlai"
+    },
+    {
+        "id": "364",
+        "city": "Leh",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Hazid Bhojnalaya Hotel-Bara Talab",
+            "Baba Tea",
+            "Verma Hotel-Power Ganj Chowk"
+        ],
+        "city": "Lohardaga",
+        "id": "365"
+    },
+    {
+        "city": "Lohit",
+        "id": "366",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "367",
+        "city": "Lower dibang valley"
+    },
+    {
+        "id": "368",
+        "city": "Lower subansiri",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Arshi Hotel",
+            "Hotel Pal Avadh",
+            "Hotel Kanha Inn",
+            "Arshi Hotel",
+            "Hotel Pal Avadh",
+            "Hotel Kanha Inn"
+        ],
+        "city": "Lucknow",
+        "id": "369"
+    },
+    {
+        "city": "Lucknow",
+        "id": "370",
+        "hotels": [
+            "Arshi Hotel",
+            "Hotel Pal Avadh",
+            "Hotel Kanha Inn",
+            "Arshi Hotel",
+            "Hotel Pal Avadh",
+            "Hotel Kanha Inn"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Gulmor, Ludhiana, Punjab, India",
+            "Hotel Gulmor",
+            "Rare Eastern Dining"
+        ],
+        "id": "371",
+        "city": "Ludhiana"
+    },
+    {
+        "id": "372",
+        "city": "Lunglei",
+        "hotels": [
+            "Hotel Elite",
+            "The Hotel Alabasta"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Maheshwari",
+            "Yadav Line Hotel,Madhepura",
+            "Vaishnav Amrit Hotel Madhepura"
+        ],
+        "city": "Madhepura",
+        "id": "373"
+    },
+    {
+        "city": "Madhubani",
+        "id": "374",
+        "hotels": [
+            "Hotel Raj Vilas",
+            "Hotel Rahul",
+            "Hotel DG"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Annamalai International",
+            "Hotel Ashok Bhavan",
+            "Hotel John's"
+        ],
+        "id": "375",
+        "city": "Madurai"
+    },
+    {
+        "id": "376",
+        "city": "Mahamaya nagar",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "प्रकाश होटल-अनरुतिया",
+            "भोला होटल-अनरुतिया",
+            "प्रकाश होटल"
+        ],
+        "city": "Maharajganj",
+        "id": "377"
+    },
+    {
+        "city": "Mahasamund",
+        "id": "378",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Grand Sithara Hotel",
+            "Hotel Paradise",
+            "Hotel Prashanth"
+        ],
+        "id": "379",
+        "city": "Mahbubnagar"
+    },
+    {
+        "id": "380",
+        "city": "Mahe",
+        "hotels": [
+            "Mahe Residency",
+            "Hotel Arena",
+            "Arena Lodge"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Royal Palace,Mahendergarh",
+            "Saini Hotel",
+            "यादव होटल-बिजली बोर्ड कॉलोनी"
+        ],
+        "city": "Mahendragarh",
+        "id": "381"
+    },
+    {
+        "city": "Mahoba",
+        "id": "382",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Kareem Hotel-Dharau",
+            "करीम होटल-धरुआ",
+            "चिश्ती होटल-धरुआ"
+        ],
+        "id": "383",
+        "city": "Mainpuri"
+    },
+    {
+        "id": "384",
+        "city": "Malappuram",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Maldah",
+        "id": "385"
+    },
+    {
+        "city": "Malkangiri",
+        "id": "386",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "387",
+        "city": "Mamit"
+    },
+    {
+        "id": "388",
+        "city": "Manali",
+        "hotels": [
+            "Himachal Heights - Gsa Hospitality",
+            "Hotel Valley of Gods",
+            "Snow Heaven Resort Manali"
+        ]
+    },
+    {
+        "hotels": [
+            "Meadows Camps by Varun - Parashar Lake",
+            "Sharma Home Stay Sarkidhar Rewalsar",
+            "Shankhyan Fast Food at Mini Market Nerchowk"
+        ],
+        "city": "Mandi",
+        "id": "389"
+    },
+    {
+        "city": "Mandla",
+        "id": "390",
+        "hotels": [
+            "यादव होटल",
+            "Pearl Residency Mandla",
+            "RK Hotel"
+        ]
+    },
+    {
+        "hotels": [
+            "City Crown",
+            "New Banjari Balaji Restourent & Dhaba",
+            "Hotel Baser Villa"
+        ],
+        "id": "391",
+        "city": "Mandsaur"
+    },
+    {
+        "id": "392",
+        "city": "Mandya",
+        "hotels": [
+            "Bluelagoon",
+            "Visharadh-Subhash Nagar",
+            "Shivapriya Lodge"
+        ]
+    },
+    {
+        "hotels": [
+            "Celebration Hotel & Restaurant",
+            "Gupta Hotel",
+            "City View Celebration Hotel"
+        ],
+        "city": "Mansa",
+        "id": "393"
+    },
+    {
+        "city": "Marigaon",
+        "id": "394",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Ganga Palace",
+            "Surya Prakash",
+            "Subhadra Guest House"
+        ],
+        "id": "395",
+        "city": "Mathura"
+    },
+    {
+        "id": "396",
+        "city": "Mau",
+        "hotels": [
+            "Sharda Hotel"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Mayurbhanj",
+        "id": "397"
+    },
+    {
+        "city": "Medak",
+        "id": "398",
+        "hotels": [
+            "Haritha Medak Fort",
+            "Boo Star Lodge",
+            "Hotel Annapurna"
+        ]
+    },
+    {
+        "hotels": [
+            "Shri Neelkanth Bhawan",
+            "Gurjar",
+            "Missionaries of Charity Home for the Sick & Dying Destitute"
+        ],
+        "id": "399",
+        "city": "Meerut"
+    },
+    {
+        "id": "400",
+        "city": "Mehsana",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Mewat",
+        "id": "401"
+    },
+    {
+        "city": "Mirzapur",
+        "id": "402",
+        "hotels": [
+            "Hotel Ok",
+            "Hotel Shyam Utsav",
+            "Akash Kumar"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Navdeep",
+            "English Mantra Charik .Moga",
+            "Bizz the Hotel"
+        ],
+        "id": "403",
+        "city": "Moga"
+    },
+    {
+        "id": "404",
+        "city": "Mokokchung",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Mon",
+        "id": "405"
+    },
+    {
+        "city": "Moradabad",
+        "id": "406",
+        "hotels": [
+            "Hotel Regal",
+            "Jabbar Sweets",
+            "Hostel Premier League,Iftmu Moradabad"
+        ]
+    },
+    {
+        "hotels": [
+            "TR Puram AB Road Morena - MP",
+            "Shreearyaarestaurant",
+            "Shehnai Resort & Garden"
+        ],
+        "id": "407",
+        "city": "Morena"
+    },
+    {
+        "id": "408",
+        "city": "Mumbai",
+        "hotels": [
+            "Aarey Guest House",
+            "Ontime Apartment",
+            "Palms Hotel",
+            "NOVOTEL-JUHU",
+            "Aver Hotel",
+            "Sea Princess Juhu",
+            "Aarey Guest House",
+            "Ontime Apartment",
+            "Palms Hotel"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Mumbai city",
+        "id": "409"
+    },
+    {
+        "city": "Mumbai suburban",
+        "id": "410",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Fitness Hotel-Munger",
+            "होटल नमिता-मुंगेर",
+            "द सेंटर पॉइंट होटल"
+        ],
+        "id": "411",
+        "city": "Munger"
+    },
+    {
+        "id": "412",
+        "city": "Munnar",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Murshidabad",
+        "id": "413"
+    },
+    {
+        "city": "Muzaffarnagar",
+        "id": "414",
+        "hotels": [
+            "कृष्णा वैष्णो होटल-सिविल लाइन नॉर्थ",
+            "Satish Vaishno Hotel",
+            "Hotel Omega"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Destiny",
+            "Hotel Maurya Residency",
+            "The K. Paradise Family Restaurant - Fully A/C"
+        ],
+        "id": "415",
+        "city": "Muzaffarpur"
+    },
+    {
+        "id": "416",
+        "city": "Mysore",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Nabarangpur",
+        "id": "417"
+    },
+    {
+        "city": "Nadia",
+        "id": "418",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "419",
+        "city": "Nagaon"
+    },
+    {
+        "id": "420",
+        "city": "Nagapattinam",
+        "hotels": [
+            "Shri Nivas Residency",
+            "Laahithri Hotel",
+            "Hotelchella"
+        ]
+    },
+    {
+        "hotels": [
+            "Sujan Hotel",
+            "Raj Palace",
+            "Desert Tour Travels & Services"
+        ],
+        "city": "Nagaur",
+        "id": "421"
+    },
+    {
+        "city": "Nagpur",
+        "id": "422",
+        "hotels": [
+            "Jai Maa Sharda Sweet's & Namkeen",
+            "Sizzler Biryani House",
+            "Shelter",
+            "Hotel Tuli International",
+            "Hotel Lb",
+            "Pride Hotel"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Landmark",
+            "The Burans",
+            "Mountain Bike Rally Nainital"
+        ],
+        "id": "423",
+        "city": "Nainital"
+    },
+    {
+        "id": "424",
+        "city": "Nalanda",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Nalbari",
+        "id": "425"
+    },
+    {
+        "city": "Nalgonda",
+        "id": "426",
+        "hotels": [
+            "Savera Hotel Lodge & Banquet Hall at Nalgonda",
+            "Reddy Restaurant.",
+            "Arunadhalam Hotel"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "427",
+        "city": "Namakkal"
+    },
+    {
+        "id": "428",
+        "city": "Nanded",
+        "hotels": [
+            "Hotel City Pride",
+            "Hotel Aditi",
+            "Hotel Shivtara Lodging"
+        ]
+    },
+    {
+        "hotels": [
+            "Gujrat Farsan & Sweets Mart",
+            "SB - Vegetarian Kitchen",
+            "Hotel Jalgaon Bharit Center"
+        ],
+        "city": "Nandurbar",
+        "id": "429"
+    },
+    {
+        "city": "Narayanpur",
+        "id": "430",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "431",
+        "city": "Narmada"
+    },
+    {
+        "id": "432",
+        "city": "Narsinghpur",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Hotel Kaveri",
+            "Nasik Homestays",
+            "Hotel Big Boss"
+        ],
+        "city": "Nashik",
+        "id": "433"
+    },
+    {
+        "city": "Navsari",
+        "id": "434",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Hotel Park",
+            "Hotel Sarada",
+            "Hotel Krishna Palace"
+        ],
+        "id": "435",
+        "city": "Nawada"
+    },
+    {
+        "id": "436",
+        "city": "Nawanshahr",
+        "hotels": [
+            "Prince Hotel & Restaurant",
+            "Janpath Hotel",
+            "Kuldeep Resort",
+            "Kumar Hotel-Satguru Nagar",
+            "Welcome Hotel N Beer Bar",
+            "Hotel Shine Star"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Sai Krupa",
+            "Pooja-Nayagarh"
+        ],
+        "city": "Nayagarh",
+        "id": "437"
+    },
+    {
+        "city": "Neemuch",
+        "id": "438",
+        "hotels": [
+            "Govindam Hotel Neemuch MP",
+            "राजा पॉइंट-सेमाली चौधरी",
+            "होटल श्री गणेश-सेमाली चौधरी"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "439",
+        "city": "Nellore"
+    },
+    {
+        "id": "440",
+        "city": "New delhi",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Nilgiris",
+        "id": "441"
+    },
+    {
+        "city": "Nizamabad",
+        "id": "442",
+        "hotels": [
+            "Hotel New Jubilee",
+            "Jubilee-Nizamabad",
+            "Hotel Gulzar"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "443",
+        "city": "North 24 parganas"
+    },
+    {
+        "id": "444",
+        "city": "North delhi",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "North east delhi",
+        "id": "445"
+    },
+    {
+        "city": "North goa",
+        "id": "446",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "447",
+        "city": "North sikkim"
+    },
+    {
+        "id": "448",
+        "city": "North tripura",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "North west delhi",
+        "id": "449"
+    },
+    {
+        "city": "Nuapada",
+        "id": "450",
+        "hotels": [
+            "Deepak Hotel",
+            "Hotel Adyaasha"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "451",
+        "city": "Ongole"
+    },
+    {
+        "id": "452",
+        "city": "Ooty",
+        "hotels": [
+            "Hotel Lakeview",
+            "Gem Park-Ooty",
+            "Wild Horizon",
+            "Gem Park-Ooty",
+            "Hotel Lakeview",
+            "Bouganvilla"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Osmanabad",
+        "id": "453"
+    },
+    {
+        "city": "Pakur",
+        "id": "454",
+        "hotels": [
+            "होटल मधुवन",
+            "Hotel Relax",
+            "Hotel Royal Residency"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Indraprastha",
+            "Kalpan-Sultanpet",
+            "Treetop Resort"
+        ],
+        "id": "455",
+        "city": "Palakkad"
+    },
+    {
+        "id": "456",
+        "city": "Palamu",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Sirvi Kissan Hostal Pali",
+            "Laxmi Telor Rajpurohit Hostal Kepas Pali",
+            "Hotel Rajputana Heights"
+        ],
+        "city": "Pali",
+        "id": "457"
+    },
+    {
+        "city": "Palwal",
+        "id": "458",
+        "hotels": [
+            "Jat Dharamshala Palwal",
+            "Shivam Vaishno Dhaba",
+            "Rahul-Krishna Colony"
+        ]
+    },
+    {
+        "hotels": [
+            "Kuldeep K",
+            "Una smart Mandarin",
+            "Red Bishop Tourist Complex-Sec 1 Panchkula"
+        ],
+        "id": "459",
+        "city": "Panchkula"
+    },
+    {
+        "id": "460",
+        "city": "Panchmahal",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Panchsheel nagar district (hapur)",
+        "id": "461"
+    },
+    {
+        "city": "Panipat",
+        "id": "462",
+        "hotels": [
+            "Hotel Nestway",
+            "Hotel Green Inn",
+            "Hotel Pearl Plaza-Gt Road Panipat"
+        ]
+    },
+    {
+        "hotels": [
+            "Mohan Rajvilas Hotel",
+            "Emerald Hotel",
+            "Hotel Mohan Raj Vilas"
+        ],
+        "id": "463",
+        "city": "Panna"
+    },
+    {
+        "id": "464",
+        "city": "Papum pare",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Dhan Laxmi Inn",
+            "Annapurna Family Restourant",
+            "Shegoan Kachori"
+        ],
+        "city": "Parbhani",
+        "id": "465"
+    },
+    {
+        "city": "Paschim medinipur",
+        "id": "466",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Hotel Blue Galaxy",
+            "Hotel Harshid Kathiyavadi Patan",
+            "Shubham Plaza & Residency"
+        ],
+        "id": "467",
+        "city": "Patan"
+    },
+    {
+        "id": "468",
+        "city": "Pathanamthitta",
+        "hotels": [
+            "Jungle Resorts",
+            "Rayhan Food Court",
+            "Cafe Kudumbashree Park Inn Food Court Pathanmthitta"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Pathankot",
+        "id": "469"
+    },
+    {
+        "city": "Patiala",
+        "id": "470",
+        "hotels": [
+            "Hotel Flyover Classic",
+            "Manu Dairy and Sweets",
+            "Hostel-J After-Mess"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Ganpati",
+            "Hotel Santosh",
+            "Sai Guest House"
+        ],
+        "id": "471",
+        "city": "Patna"
+    },
+    {
+        "id": "472",
+        "city": "Pauri garhwal",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Perambalur",
+        "id": "473"
+    },
+    {
+        "city": "Phek",
+        "id": "474",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Ramesh Hotel-Station Road",
+            "Rajput's Resort",
+            "Hotel Santosh"
+        ],
+        "id": "475",
+        "city": "Pilibhit"
+    },
+    {
+        "id": "476",
+        "city": "Pithoragarh",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Pondicherry",
+        "id": "477"
+    },
+    {
+        "city": "Poonch",
+        "id": "478",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Hotel Balaji Palace",
+            "Deluxe",
+            "Kaveri",
+            "Hotel Balaji Palace",
+            "Deluxe",
+            "Kaveri"
+        ],
+        "id": "479",
+        "city": "Porbandar"
+    },
+    {
+        "id": "480",
+        "city": "Porbandar",
+        "hotels": [
+            "Hotel Balaji Palace",
+            "Deluxe",
+            "Kaveri",
+            "Hotel Balaji Palace",
+            "Deluxe",
+            "Kaveri"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Vivek",
+            "Vaishnavi Hotel",
+            "Hotel Jashan",
+            "Hotel Vivek",
+            "Vaishnavi Hotel",
+            "Hotel Jashan"
+        ],
+        "city": "Pratapgarh",
+        "id": "481"
+    },
+    {
+        "city": "Pratapgarh",
+        "id": "482",
+        "hotels": [
+            "Hotel Vivek",
+            "Vaishnavi Hotel",
+            "Hotel Jashan",
+            "Hotel Vivek",
+            "Vaishnavi Hotel",
+            "Hotel Jashan"
+        ]
+    },
+    {
+        "hotels": [
+            "Suryakumar Hotel",
+            "Amman",
+            "Hotel Namnadu"
+        ],
+        "id": "483",
+        "city": "Pudukkottai"
+    },
+    {
+        "id": "484",
+        "city": "Pulwama",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "SK Hotel",
+            "Kanak Veg",
+            "Ghadge Botanical Garden"
+        ],
+        "city": "Pune",
+        "id": "485"
+    },
+    {
+        "city": "Purba medinipur",
+        "id": "486",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Hotel Holiday Resort",
+            "Puri Dham Lodge",
+            "Hotel New Shreeram Palsce - Puri"
+        ],
+        "id": "487",
+        "city": "Puri"
+    },
+    {
+        "id": "488",
+        "city": "Purnia",
+        "hotels": [
+            "Hotel Shine",
+            "Hotel Aditya"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Purulia",
+        "id": "489"
+    },
+    {
+        "city": "Raebareli",
+        "id": "490",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Ambresh",
+            "Ramu Bhai Chat Bhandar, Raichur",
+            "Santoshi Sarovar"
+        ],
+        "id": "491",
+        "city": "Raichur"
+    },
+    {
+        "id": "492",
+        "city": "Raigad",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Hotel Shri Tara",
+            "Gangaur Sweets",
+            "Bluebay 02 Bhitarkanika Gupti"
+        ],
+        "city": "Raigarh",
+        "id": "493"
+    },
+    {
+        "city": "Raipur",
+        "id": "494",
+        "hotels": [
+            "Hotel Vinar-M G Road",
+            "Khetan Hotel",
+            "J K Raj Hotel"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "495",
+        "city": "Raisen"
+    },
+    {
+        "id": "496",
+        "city": "Rajauri",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "शिव कृपा होटल एंड रेस्टोरेंट",
+            "Pankaj Hotel",
+            "Rajasthani Non Veg Hotel-Patayari Dungari"
+        ],
+        "city": "Rajgarh",
+        "id": "497"
+    },
+    {
+        "city": "Rajkot",
+        "id": "498",
+        "hotels": [
+            "Hotel Bhabha",
+            "Gaytri Vetetabal",
+            "Hotel Ashwin"
+        ]
+    },
+    {
+        "hotels": [
+            "गुप्ता मिष्ठान भंडार, गोलबाजार, राजनाँदगाँव.",
+            "Hotel Ansari Family Restraint",
+            "Amora Hotels"
+        ],
+        "id": "499",
+        "city": "Rajnandgaon"
+    },
+    {
+        "id": "500",
+        "city": "Rajsamand",
+        "hotels": [
+            "होटल राजमहल",
+            "Hotel Hilend",
+            "Hotel Maharani-Palace"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Ramabai nagar (kanpur dehat)",
+        "id": "501"
+    },
+    {
+        "city": "Ramanagara",
+        "id": "502",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Mukhesh Hotel",
+            "Hotel Kalaiselvi-Ramanathapuram",
+            "Hotel Arokya"
+        ],
+        "id": "503",
+        "city": "Ramanathapuram"
+    },
+    {
+        "id": "504",
+        "city": "Ramban",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Hotel Blue Diamond",
+            "होटल ऐनी",
+            "The Bungalows Snow View"
+        ],
+        "city": "Ramgarh",
+        "id": "505"
+    },
+    {
+        "city": "Rampur",
+        "id": "506",
+        "hotels": [
+            "Relax Hotel Rampur",
+            "Hotel Paradise",
+            "Hotel Arsh Palace"
+        ]
+    },
+    {
+        "hotels": [
+            "Redsion Hotel",
+            "Hotel Aditya",
+            "Sant Josef Palana Ghar",
+            "Chai 69",
+            "New Raj Residency",
+            "Budget Hotel / Guest House / Dharamshala,Ranchi"
+        ],
+        "id": "507",
+        "city": "Ranchi"
+    },
+    {
+        "id": "508",
+        "city": "Ratlam",
+        "hotels": [
+            "Sethiya Marriage Garden, Ratlam",
+            "Hotel Shri Palace & Restaurant",
+            "Hotel Gaurav"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Rajeshvari-Ratnagiri",
+            "Suriya Hotel-Ratnagiri",
+            "Hotel Audubar-Ratnagiri"
+        ],
+        "city": "Ratnagiri",
+        "id": "509"
+    },
+    {
+        "city": "Rayagada",
+        "id": "510",
+        "hotels": [
+            "Xtaylish King Allu Arjun",
+            "Hotel Maruti",
+            "Raj Bhavan-Rayagada"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "511",
+        "city": "Reasi"
+    },
+    {
+        "id": "512",
+        "city": "Rewa",
+        "hotels": [
+            "Maa Ki Rasoi",
+            "Pr Mall",
+            "Hotel Sakshi & Restaurant"
+        ]
+    },
+    {
+        "hotels": [
+            "Rohan Hotel & Restaurant",
+            "Hotel Shagun",
+            "Shri Krishna Guest House"
+        ],
+        "city": "Rewari",
+        "id": "513"
+    },
+    {
+        "city": "Ri bhoi",
+        "id": "514",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Laxman Jhula",
+            "Rafting",
+            "Elephant Brook Resorts"
+        ],
+        "id": "515",
+        "city": "Rishikesh"
+    },
+    {
+        "id": "516",
+        "city": "Rohtak",
+        "hotels": [
+            "Payal Garden",
+            "Hotel_ishaan",
+            "Hotel Karan and Banquet Hall, Rohtak"
+        ]
+    },
+    {
+        "hotels": [
+            "होटल बुद्ध विहार-रोहतास"
+        ],
+        "city": "Rohtas",
+        "id": "517"
+    },
+    {
+        "city": "Rudraprayag",
+        "id": "518",
+        "hotels": [
+            "Ganga Darshan Lodge",
+            "Sheetal Resort",
+            "सुंदर-रुद्रप्रयाग"
+        ]
+    },
+    {
+        "hotels": [
+            "SM Resort",
+            "Hotel City Heart-Rupnagar",
+            "Hotel City Heart-Rupnagar"
+        ],
+        "id": "519",
+        "city": "Rupnagar"
+    },
+    {
+        "id": "520",
+        "city": "Sabarkantha",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Dubey Dhaba Baheriya",
+            "Hotel Mangalam, Sagar",
+            "Shri Rajbhog"
+        ],
+        "city": "Sagar",
+        "id": "521"
+    },
+    {
+        "city": "Saharanpur",
+        "id": "522",
+        "hotels": [
+            "Hotel the Taj",
+            "Lee Bariksha",
+            "होटल बत्रा"
+        ]
+    },
+    {
+        "hotels": [
+            "Akashdeep",
+            "The Pearl International Ac Banquet Hall & Ac Rooms Naya Bazar Saharsa",
+            "Hotel Ankit Lodge-Shardha Nagar"
+        ],
+        "id": "523",
+        "city": "Saharsa"
+    },
+    {
+        "id": "524",
+        "city": "Sahibganj",
+        "hotels": [
+            "Celebration Palace",
+            "Hotel Akash Ganga-Sahibganj",
+            "Hotel White House"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Saiha",
+        "id": "525"
+    },
+    {
+        "city": "Salem",
+        "id": "526",
+        "hotels": [
+            "Grand Hotel in Salem",
+            "Kathmandu To You",
+            "Alibi Inn"
+        ]
+    },
+    {
+        "hotels": [
+            "Adore Cosmetics & Gift House",
+            "Hotel Aamna Vihar International & Vivah Bhawan",
+            "Hotel Double Tree Delu",
+            "Capital O 33479 Hotel Double Tree Deluxe"
+        ],
+        "id": "527",
+        "city": "Samastipur"
+    },
+    {
+        "id": "528",
+        "city": "Samba",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Singh Hotel",
+            "Cheers",
+            "Hotel Parida-Modipada"
+        ],
+        "city": "Sambalpur",
+        "id": "529"
+    },
+    {
+        "city": "Sangli",
+        "id": "530",
+        "hotels": [
+            "Hotel Ambassador",
+            "Hotel Govind-Nishant Colony",
+            "The Silver Spoon Sangli"
+        ]
+    },
+    {
+        "hotels": [
+            "The Classic",
+            "Eating Mall",
+            "Hotel Eating Mall-Tapostan Nagar"
+        ],
+        "id": "531",
+        "city": "Sangrur"
+    },
+    {
+        "id": "532",
+        "city": "Sant kabir nagar",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Sant ravidas nagar",
+        "id": "533"
+    },
+    {
+        "city": "Saran",
+        "id": "534",
+        "hotels": [
+            "Tenotel",
+            "Première Classe Saran"
+        ]
+    },
+    {
+        "hotels": [
+            "Sahyadri Pushp",
+            "Hotel Parijat Chinese & Icecream Parlour",
+            "Abhi's Cafe"
+        ],
+        "id": "535",
+        "city": "Satara"
+    },
+    {
+        "id": "536",
+        "city": "Satna",
+        "hotels": [
+            "Uma Club & Resorts",
+            "Spark Hotel",
+            "City Park Resort"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Sawai madhopur",
+        "id": "537"
+    },
+    {
+        "city": "Sehore",
+        "id": "538",
+        "hotels": [
+            "Graces Resort",
+            "Hotel Parvati Palace",
+            "होटल एवरग्रीन रेस्टोरेंट"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "539",
+        "city": "Senapati"
+    },
+    {
+        "id": "540",
+        "city": "Seoni",
+        "hotels": [
+            "Royal Jungle Resort & Spa",
+            "होटल शिवानी",
+            "कृष्णा होटल-आधुनिक कॉलोनी"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Seraikela kharsawan",
+        "id": "541"
+    },
+    {
+        "city": "Serchhip",
+        "id": "542",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "543",
+        "city": "Shahdol"
+    },
+    {
+        "id": "544",
+        "city": "Shahjahanpur",
+        "hotels": [
+            "Aashirvaad Sai",
+            "All Is Well Hotel and Restaurant",
+            "Irooz Hotel"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Shajapur",
+        "id": "545"
+    },
+    {
+        "city": "Shamli",
+        "id": "546",
+        "hotels": [
+            "Dadu Ram Bhavan",
+            "Raja Rani",
+            "Chandra Palace"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Dewansu"
+        ],
+        "id": "547",
+        "city": "Sheikhpura"
+    },
+    {
+        "id": "548",
+        "city": "Sheohar",
+        "hotels": [
+            "District Guest House",
+            "होटल बिहार-शिवहर",
+            "Hotel Aap Ka."
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel City Palace Sheopur",
+            "Hotel Priyal",
+            "होटल जय श्री पैलेस"
+        ],
+        "city": "Sheopur",
+        "id": "549"
+    },
+    {
+        "city": "Shimla",
+        "id": "550",
+        "hotels": [
+            "Hotel Prashant",
+            "Mahaveer",
+            "The Northern Retreat Resort"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "551",
+        "city": "Shimoga"
+    },
+    {
+        "id": "552",
+        "city": "Shivpuri",
+        "hotels": [
+            "Lap Himalayas",
+            "Apna Sukhsagar Hotel",
+            "दिनेश होटल-आदर्श नगर"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Shopian",
+        "id": "553"
+    },
+    {
+        "city": "Shravasti",
+        "id": "554",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "555",
+        "city": "Sibsagar"
+    },
+    {
+        "id": "556",
+        "city": "Siddharthnagar",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Sidhi",
+        "id": "557"
+    },
+    {
+        "city": "Sikar",
+        "id": "558",
+        "hotels": [
+            "Narendra Satyam",
+            "Nukkad the Tea House&Fast Food",
+            "Hotel Park Lane & Marriage Garden"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "559",
+        "city": "Simdega"
+    },
+    {
+        "id": "560",
+        "city": "Sindhudurg",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Singrauli",
+        "id": "561"
+    },
+    {
+        "city": "Sirmaur",
+        "id": "562",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Hotel Airline Sirohi",
+            "Jhora Magra",
+            "Ajanta-Shanti Nagar"
+        ],
+        "id": "563",
+        "city": "Sirohi"
+    },
+    {
+        "id": "564",
+        "city": "Sirsa",
+        "hotels": [
+            "Krishana Sweets .Kuttawadh",
+            "Shivdei Resorts Sirsa",
+            "Yummy Food Kitchen"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Ctr",
+            "Shri Sai Palace",
+            "Hotel Ram Janki"
+        ],
+        "city": "Sitamarhi",
+        "id": "565"
+    },
+    {
+        "city": "Sitapur",
+        "id": "566",
+        "hotels": [
+            "Raghuveer Kripa Banquet Hall",
+            "The Vishwanath Palace",
+            "होटल टूरिस्ट-बास विकास कॉलोनी"
+        ]
+    },
+    {
+        "hotels": [
+            "Jansi Hotel",
+            "Bala Hotel",
+            "Hotel Ariyaas-Sivagangai"
+        ],
+        "id": "567",
+        "city": "Sivaganga"
+    },
+    {
+        "id": "568",
+        "city": "Siwan",
+        "hotels": [
+            "Ashish Lodge Panchmandira Siwan",
+            "Oyo 41017 Hotel Shri Nandan",
+            "Hotel Shri Nandan"
+        ]
+    },
+    {
+        "hotels": [
+            "Sona Guest House",
+            "3iditos Dhaba",
+            "Ambika Hotel-Solan"
+        ],
+        "city": "Solan",
+        "id": "569"
+    },
+    {
+        "city": "Solapur",
+        "id": "570",
+        "hotels": [
+            "Rudra Hotel",
+            "Bawarchi Tadka Taste Ka",
+            "Hotel Bhaijaan Solapur"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "571",
+        "city": "Sonbhadra"
+    },
+    {
+        "id": "572",
+        "city": "Sonipat",
+        "hotels": [
+            "Shri Ganga Palace-Kot Mohalla",
+            "Oyo 30895 Taj Regency",
+            "Laxmi Guest House-Batra Colony"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Sonitpur",
+        "id": "573"
+    },
+    {
+        "city": "South 24 parganas",
+        "id": "574",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "575",
+        "city": "South delhi"
+    },
+    {
+        "id": "576",
+        "city": "South garo hills",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "South goa",
+        "id": "577"
+    },
+    {
+        "city": "South sikkim",
+        "id": "578",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "579",
+        "city": "South tripura"
+    },
+    {
+        "id": "580",
+        "city": "South west delhi",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Sri muktsar sahib",
+        "id": "581"
+    },
+    {
+        "city": "Srikakulam",
+        "id": "582",
+        "hotels": [
+            "NSR Residency",
+            "Shri Rama Lodge",
+            "A Convention Center & Hotel"
+        ]
+    },
+    {
+        "hotels": [
+            "Shreeyantra Tapu Resort Srinagar Garhwal",
+            "Batku Sheraton",
+            "Hotel the Montreal"
+        ],
+        "id": "583",
+        "city": "Srinagar"
+    },
+    {
+        "id": "584",
+        "city": "Subarnapur (sonepur)",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "सुल्तानपुर, उत्तर प्रदेश",
+            "Sultanpur Hotel Sanjay Deluxe",
+            "Siva Krupa Hotel"
+        ],
+        "city": "Sultanpur",
+        "id": "585"
+    },
+    {
+        "city": "Sundergarh",
+        "id": "586",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Hotel R. K. Palace",
+            "Hotel Aloka-Mahavir Chowk",
+            "Hotel Alankar-Mahavir Chowk"
+        ],
+        "id": "587",
+        "city": "Supaul"
+    },
+    {
+        "id": "588",
+        "city": "Surat",
+        "hotels": [
+            "Wedding Wows",
+            "Hari Om Dhosa",
+            "Indian Sandwich"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Surendranagar",
+        "id": "589"
+    },
+    {
+        "city": "Surguja",
+        "id": "590",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "591",
+        "city": "Tamenglong"
+    },
+    {
+        "id": "592",
+        "city": "Tarkarli",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Tarn taran",
+        "id": "593"
+    },
+    {
+        "city": "Tawang",
+        "id": "594",
+        "hotels": [
+            "De Azna Conference Centre & Banquet",
+            "Ruang Sutera Calan",
+            "De Azna Conference Centre & Banquet",
+            "Ruang Sutera Calan"
+        ]
+    },
+    {
+        "hotels": [
+            "De Azna Conference Centre & Banquet",
+            "Ruang Sutera Calan",
+            "De Azna Conference Centre & Banquet",
+            "Ruang Sutera Calan"
+        ],
+        "id": "595",
+        "city": "Tawang"
+    },
+    {
+        "id": "596",
+        "city": "Tehri garhwal",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "United-21",
+            "Ocean Hills Pereira Farms",
+            "Ocean Hills Pereira Farms"
+        ],
+        "city": "Thane",
+        "id": "597"
+    },
+    {
+        "city": "Thanjavur",
+        "id": "598",
+        "hotels": [
+            "Abi's Inn",
+            "Hotel Tamilnadu",
+            "Malar-Needhi Nagar"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "599",
+        "city": "The dangs"
+    },
+    {
+        "id": "600",
+        "city": "Theni",
+        "hotels": [
+            "Hotel Western Gatz",
+            "Hotel Annamalai Veg-Non Veg & Chinese Restaurant Theni",
+            "Theni New Pandian Hotel"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel White Dammar",
+            "Oyo Premium Pappanamcode",
+            "KG Lodge",
+            "Hotel Horizon",
+            "Devu's Residency, Thiruvanathapuram",
+            "Mascot Hotel-Trivandrum Life",
+            "Hotel Horizon",
+            "Devu's Residency, Thiruvanathapuram",
+            "Mascot Hotel-Trivandrum Life"
+        ],
+        "city": "Thiruvananthapuram",
+        "id": "601"
+    },
+    {
+        "city": "Thiruvananthapuram",
+        "id": "602",
+        "hotels": [
+            "Hotel White Dammar",
+            "Oyo Premium Pappanamcode",
+            "KG Lodge",
+            "Hotel Horizon",
+            "Devu's Residency, Thiruvanathapuram",
+            "Mascot Hotel-Trivandrum Life",
+            "Hotel Horizon",
+            "Devu's Residency, Thiruvanathapuram",
+            "Mascot Hotel-Trivandrum Life"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "603",
+        "city": "Thoothukudi"
+    },
+    {
+        "id": "604",
+        "city": "Thoubal",
+        "hotels": [
+            "Pujari Hotel",
+            "Asha Hotel"
+        ]
+    },
+    {
+        "hotels": [
+            "Diplomat-Koorkenchery",
+            "Rachana Hotels",
+            "River Woods Resort"
+        ],
+        "city": "Thrissur",
+        "id": "605"
+    },
+    {
+        "city": "Tikamgarh",
+        "id": "606",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "607",
+        "city": "Tinsukia"
+    },
+    {
+        "id": "608",
+        "city": "Tirap",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "The Pannai House",
+            "No Hotel",
+            "Hotel Diamond"
+        ],
+        "city": "Tiruchirappalli",
+        "id": "609"
+    },
+    {
+        "city": "Tirunelveli",
+        "id": "610",
+        "hotels": [
+            "Hotel Baskar Lodge",
+            "Sophia Inn",
+            "Hotels Gangaa"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "611",
+        "city": "Tirupur"
+    },
+    {
+        "id": "612",
+        "city": "Tiruvallur",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Vijayaa Residency Tiruvannamalai",
+            "Thiru Peace Village Family Guesthouse and Cafe",
+            "Aakash Temple View"
+        ],
+        "city": "Tiruvannamalai",
+        "id": "613"
+    },
+    {
+        "city": "Tiruvarur",
+        "id": "614",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Al-Back Hotel Tonk",
+            "Hotel Jeevan Sathi Tonk",
+            "Jai Ambika Hotel"
+        ],
+        "id": "615",
+        "city": "Tonk"
+    },
+    {
+        "id": "616",
+        "city": "Tuensang",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Tumkur",
+        "id": "617"
+    },
+    {
+        "city": "Udaipur",
+        "id": "618",
+        "hotels": [
+            "Hotel Street, Bapu Bazar, Surajpole, Udaipur 313001, India",
+            "Hotel Royal Dezire",
+            "Maangarh Resort by Mahi Vantra"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "619",
+        "city": "Udalguri"
+    },
+    {
+        "id": "620",
+        "city": "Udham singh nagar",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Udhampur",
+        "id": "621"
+    },
+    {
+        "city": "Udupi",
+        "id": "622",
+        "hotels": [
+            "Pingara- Veg & Nonveg Multi Cuisine Family Restaurant",
+            "Century Comforts Private Limited",
+            "Kediyoor Hotels Private Limited"
+        ]
+    },
+    {
+        "hotels": [
+            "भीविश्राम होटल",
+            "Hotel A One",
+            "The Grand Hotel-Freeganj"
+        ],
+        "id": "623",
+        "city": "Ujjain"
+    },
+    {
+        "id": "624",
+        "city": "Ukhrul",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Umaria",
+        "id": "625"
+    },
+    {
+        "city": "Una",
+        "id": "626",
+        "hotels": [
+            "Hotel Green Palace",
+            "Hotel Maya Deluxe",
+            "Hotel Ganga Lodge-Kriniala"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel New Green Palace",
+            "होटल ग्रीन पैलेस",
+            "न्यू होटल ग्रीन प्लाजा-शाहगंज"
+        ],
+        "id": "627",
+        "city": "Unnao"
+    },
+    {
+        "id": "628",
+        "city": "Upper siang",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "Upper subansiri",
+        "id": "629"
+    },
+    {
+        "city": "Uttar dinajpur",
+        "id": "630",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "631",
+        "city": "Uttara kannada"
+    },
+    {
+        "id": "632",
+        "city": "Uttarkashi",
+        "hotels": [
+            "होटल लक्ष्मी पैलेस",
+            "Gangotri Yatra",
+            "Durga Resort Synachatti"
+        ]
+    },
+    {
+        "hotels": [
+            "Grand Mercure Vadodara Surya Palace",
+            "The Gateway Hotel",
+            "Welcomhotel Vadodara"
+        ],
+        "city": "Vadodara",
+        "id": "633"
+    },
+    {
+        "city": "Vaishali",
+        "id": "634",
+        "hotels": [
+            "The Vaishali Residency",
+            "The Vaishali Residency"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Tithal",
+            "Hotel Tithal",
+            "Hotel Tithal"
+        ],
+        "id": "635",
+        "city": "Valsad"
+    },
+    {
+        "id": "636",
+        "city": "Varanasi",
+        "hotels": [
+            "होटल रिवातस",
+            "पूजा गेस्ट हाउस",
+            "काशी अन्नपूर्णा पेइंग गेस्ट हाउस",
+            "होटल रिवातस",
+            "पूजा गेस्ट हाउस",
+            "काशी अन्नपूर्णा पेइंग गेस्ट हाउस"
+        ]
+    },
+    {
+        "hotels": [
+            "होटल रिवातस",
+            "पूजा गेस्ट हाउस",
+            "काशी अन्नपूर्णा पेइंग गेस्ट हाउस",
+            "होटल रिवातस",
+            "पूजा गेस्ट हाउस",
+            "काशी अन्नपूर्णा पेइंग गेस्ट हाउस"
+        ],
+        "city": "Varanasi",
+        "id": "637"
+    },
+    {
+        "city": "Vellore",
+        "id": "638",
+        "hotels": [
+            "Darling Residency",
+            "Yelagirikumar",
+            "Hotel Parampara - Vellore"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Aamantran",
+            "Hotel Grand Ashok",
+            "अरहान होटल-बाल विहार"
+        ],
+        "id": "639",
+        "city": "Vidisha"
+    },
+    {
+        "id": "640",
+        "city": "Viluppuram",
+        "hotels": [
+            "Devi Hotel",
+            "Achi-Shanmugapuram",
+            "Hotel al-Buhari Brothers"
+        ]
+    },
+    {
+        "hotels": [],
+        "city": "Virudhunagar",
+        "id": "641"
+    },
+    {
+        "city": "Visakhapatnam",
+        "id": "642",
+        "hotels": [
+            "Temple Entrance",
+            "Temple Entrance",
+            "Hotel Naidu Grand",
+            "Happy Sun Resort"
+        ]
+    },
+    {
+        "hotels": [
+            "Hotel Amrutha Vizianagaram",
+            "Chick Blast&Milkshake Buffin",
+            "Shri Geetha Krishna Bhavan"
+        ],
+        "id": "643",
+        "city": "Vizianagaram"
+    },
+    {
+        "id": "644",
+        "city": "Vyara",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Alpha",
+            "Mubarak Hotel",
+            "Qadeeria Hotel"
+        ],
+        "city": "Warangal",
+        "id": "645"
+    },
+    {
+        "city": "Wardha",
+        "id": "646",
+        "hotels": [
+            "Bor Wildlife Ashram",
+            "Bor Tiger Resort",
+            "Silver Spoon Family Garden Restaurant"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "647",
+        "city": "Washim"
+    },
+    {
+        "id": "648",
+        "city": "Wayanad",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "West champaran",
+        "id": "649"
+    },
+    {
+        "city": "West delhi",
+        "id": "650",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "651",
+        "city": "West garo hills"
+    },
+    {
+        "id": "652",
+        "city": "West kameng",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "West khasi hills",
+        "id": "653"
+    },
+    {
+        "city": "West siang",
+        "id": "654",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "id": "655",
+        "city": "West sikkim"
+    },
+    {
+        "id": "656",
+        "city": "West singhbhum",
+        "hotels": []
+    },
+    {
+        "hotels": [],
+        "city": "West tripura",
+        "id": "657"
+    },
+    {
+        "city": "Wokha",
+        "id": "658",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "SLV Lodging & Boarding",
+            "Tariq Hotel",
+            "Lan Anu Leyar Metharuc Girls Hostel"
+        ],
+        "id": "659",
+        "city": "Yadgir"
+    },
+    {
+        "id": "660",
+        "city": "Yamuna nagar",
+        "hotels": []
+    },
+    {
+        "hotels": [
+            "Hotel Shri Krishna Bypass Road Yanam",
+            "Shanmukha Family Restaurant Yanam"
+        ],
+        "city": "Yanam",
+        "id": "661"
+    },
+    {
+        "city": "Yavatmal",
+        "id": "662",
+        "hotels": [
+            "Red Food Restaurant",
+            "Palash Inn",
+            "Hotel Sadanand-Tarapur"
+        ]
+    },
+    {
+        "hotels": [],
+        "id": "663",
+        "city": "Zunheboto"
+    }
+]

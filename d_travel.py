@@ -30,7 +30,7 @@ def send_flights(request, responder):
         # url = 'myacademic.space/flights/?apiKey=ykb234v2hg4vmh2gvm242&source='+source
         # url = url + '&destination='+destination+'&flight_class='+flight_class+'
         #  source, destination, flight_class, seats, arrival, departure
-        responder.reply("flights from {source} to {destinatiion}")
+        responder.reply("flights from {source} to {destination}")
     except:
         responder.reply("Sending flights")
 

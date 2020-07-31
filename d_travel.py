@@ -29,12 +29,12 @@ def send_flights(request, responder):
     responder.slots['destination'] = destination
     responder.slots['seats'] = seats
     responder.slots['arrival'] = arrival
-        # 
+    responder.slots['departure'] = departure 
         # call an api for availability and pricing...
         # url = 'myacademic.space/flights/?apiKey=ykb234v2hg4vmh2gvm242&source='+source
         # url = url + '&destination='+destination+'&flight_class='+flight_class+'
         #  source, destination, flight_class, seats, arrival, departure
-    responder.reply("flights from {source} to {destination} for {seats} people arriving at {arrival}")
+    responder.reply("flights from {source} to {destination} for {seats} people departing at {departure} and arriving at {arrival}")
 
 
 @app.handle(intent='get_recommendations')

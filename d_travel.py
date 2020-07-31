@@ -21,6 +21,7 @@ def send_flights(request, responder):
                 arrival_entity = entity
             if entity['role'] == 'departure':
                 departure_entity = entity
+                
     source = source_entity['value'][0]['cname']
     destination = destination_entity['value'][0]['cname']
     seats = no_of_ppl['value'][0]['value']

@@ -9,7 +9,40 @@ def welcome(request, responder):
 
 @app.handle(intent='confirm')
 def confirm_action(request, responder):
-    responder.reply("Confirmed!")
+    try:
+        if responder.frame.get('expecting_homestay_preference'):
+            try:
+                responder.frame['expecting_homestay_preference'] = False
+                homestays = responder.frame.get('homestays')
+                responder.slots['name'] = homestays['name']
+                responder.slots['address'] = homestays['address']
+                responder.slots['type'] = homestays['type']
+                responder.slots['people'] = homestays['people']
+                responder.slots['amenities'] = homestays['amenities']
+                responder.slots['checkin'] = homestays['checkin']
+                responder.slots['checkout'] = homestays['checkout']
+                responder.slots['amount'] = homestays['amount']
+                responder.reply("Great! {name} has a {type} property that can accomodate"
+                                " {people} people, and has {amenities}. It is available between"
+                                " {checkin} and {checkout}. Would you like to book for {amount}?")
+                responder.frame['expecting_homestay_confirmation'] = True
+            except:
+                responder.frame['expecting_homestay_preference'] = True
+                responder.reply('Oops! Can you try again?')
+
+        elif responder.frame.get('expecting_homestay_confirmation'):
+            try:
+                responder.frame['expecting_homestay_confirmation'] = False
+                homestay = responder.frame.get('homestays')
+                responder.slots['name'] = homestay['name']
+                responder.slots['homestay_id'] = homestay['homestay_id']
+                responder.reply("Your homestay with {name} has been confirmed! Find invoice here:"
+                " https://myacademic.space/invoices?homestay_id={homestay_id}B")
+            except:
+                responder.frame['expecting_homestay_confirmation'] = True
+                responder.reply("Oops! Can you try again?")
+    except:
+        responder.reply("Confirmed!")
 
 @app.handle(intent='help')
 def provide_help(request, responder):
@@ -28,9 +61,25 @@ def say_goodbye(request, responder):
     When the user ends a conversation, clear the dialogue frame and say goodbye.
     """
     # Clear the dialogue frame to start afresh for the next user request.
-    responder.frame = {}
-    # Respond with a random selection from one of the canned "goodbye" responses.
-    responder.reply(['Bye!', 'Goodbye!', 'Have a nice day.', 'See you later.'])
+    # responder.frame = {}
+    
+    if (responder.frame.get('expecting_homestay_preference') or responder.frame.get('expecting_homestay_confirmation')):
+        destination = responder.frame.get('destination')
+        responder.slots['destination'] = destination
+        try:
+            hotels = app.question_answerer.get(index='locations', query_type='text', city=destination)
+            try:
+                responder.frame['hotels'] = hotels
+                responder.slots['hotels'] =", ".join(hotels[0]['hotels'])
+                responder.reply("Here are some hotels at {destination}- {hotels}\nWhere would you like to book?")
+            except:
+                responder.reply("Sorry! Couldn't find hotels at {destination}")
+        except:
+            responder.reply("I couldn't find ant hotels at {destination}")
+        # responder.reply(['Bye!', 'Goodbye!', 'Have a nice day.', 'See you later.'])
+    else:
+        # Respond with a random selection from one of the canned "goodbye" responses.
+        responder.reply(['Bye!', 'Goodbye!', 'Have a nice day.', 'See you later.'])
     
 @app.handle(intent='unsupported')
 def say_unsupported(request, responder):

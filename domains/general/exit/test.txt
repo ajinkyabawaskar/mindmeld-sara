@@ -1,4 +1,9 @@
 abort
+cancel
+no
+none
+nothing
+nada
 all done
 Alright, gotta go
 Alright, I think that wraps it up.

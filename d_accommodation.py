@@ -1,7 +1,83 @@
-from .root import app 
+from .root import app
+from mindmeld.core import FormEntity
+import requests
+
+hotel_form = {
+    "entities": [
+        # FormEntity(
+        #    entity = 'location',
+        #    responses=['Where will you be visiting?']),
+        FormEntity(
+           entity="hotel",
+           responses=["Where would you like to book?"]),
+        FormEntity(
+           entity="room_type",
+           responses=["Sure. What kind of rooms are you looking for? Like single room, suite, studio or villa"]),
+        FormEntity(
+           entity="sys_number",
+           responses=["Cool. How many rooms do you want to book?"]),
+        FormEntity(
+           entity="sys_time",
+           role="checkin",
+           responses=["Okay. When will you be checking in the hotel?"]),
+        FormEntity(
+           entity = 'sys_time',
+           role = 'checkout',
+           responses=['And when will you be checking out?'])
+        ],
+     #keys to specify if you want to break out of the slot filling logic
+    'exit_keys' : ['cancel', 'restart', 'exit', 'reset', 'no', 'nevermind', 'stop', 'back', 'help', 'stop it', 'go back'
+            'new task', 'nothing', 'other', 'return'],
+    #a message to prompt the user after exit
+    'exit_msg' : 'A few other sara tasks you can try are, booking hotels, checking ticket status',
+    #the number of max tries for the user to specify the entity
+    'max_retries' : 2
+}
 
 @app.handle(intent='get_hotels')
-def send_hotels(request, responder):
+def get_hotels(request, responder):
+    for entity in request.entities:
+        if entity['type'] == 'location':
+            location_entity = entity    
+    try:
+        if len(location_entity['value'])>0:   
+            location = location_entity['value'][0]['cname']
+            responder.frame['destination'] = location
+            responder.slots['destination'] = location
+            homestays_url = 'https://myacademic.space/homestays/?apiKey=761b43d33fc96a69e58d0f281eb68742&location='+location
+            response = requests.get(homestays_url)
+            if(response.status_code == 200):
+                homestays = response.json()
+                if homestays['status']:
+                    responder.frame['homestays'] = homestays['response'][0]
+                    responder.reply('Cool. We have partnered with some folks from {destination} who would like to host tourists like you so you get the closest local experience. Would you like to know more?')
+                    responder.frame['expecting_homestay_preference'] = True
+                    # request.allowed_intents=['confirm','exit']
+                else:
+                    hotels = app.question_answerer.get(index='locations', query_type='text', city=location)
+                    try:
+                        responder.frame['hotels'] = hotels
+                        responder.slots['hotels'] =", ".join(hotels[0]['hotels'])
+                        responder.reply("Here are some hotels at {destination}- {hotels}\nWhere would you like to book?")
+                        # request.target_dialogue_state = 'get_availability'
+                    except:
+                        responder.reply("Sorry! Couldn't find hotels at {destination}")
+            else:
+                hotels = app.question_answerer.get(index='locations', query_type='text', city=location)
+                try:
+                    responder.frame['hotels'] = hotels
+                    responder.slots['hotels'] =", ".join(hotels[0]['hotels'])
+                    responder.reply("Here are some hotels at {destination}- {hotels}\nWhere would you like to book?")
+                    # request.target_dialogue_state = 'get_availability'
+                except:
+                    responder.reply("Sorry! Couldn't find hotels at {destination}")
+        else:
+            responder.reply("Couln't get that location. Maybe try a nearby city?")
+    except:
+        responder.reply('Sure. Where would you like to look for hotels?')
+                
+@app.auto_fill(intent='get_hotels', form = hotel_form, has_entity='hotel')
+def get_availability(request, responder):
     for entity in request.entities:
         if entity['type'] == 'location':
             location_entity = entity
@@ -18,49 +94,45 @@ def send_hotels(request, responder):
     """
     Getting hotels from location name
     """
-    # try:
-    #     if len(location_entity['value'])>0:
-    #         location = location_entity['value'][0]['cname']
-    #         hotels = app.question_answerer.get(index='locations', query_type='text', city=location)
-    #         try:
-    #             responder.slots['location'] =", ".join(hotels[0]['hotels'])
-    #         except:
-    #             responder.slots['location'] = " found but no hotel"
-    # except:
-    #     responder.slots['location'] = "No Location"
     try:
-        responder.slots['location'] = location_entity['value'][0]['cname']
+        hotel_name = hotel_name_entity['value'][0]['cname']
+        room_type = room_type_entity['value'][0]['cname']
+        try:
+            rooms = no_of_ppl['value'][0]['value']
+        except:
+            rooms = 1
+        try:
+            checkin = checkin_entity_role['value'][0]['value']
+        except:
+            from datetime import datetime
+            date = datetime.now().isoformat()
+            checkin = str(date)
+        try:
+            checkout = checkout_entity_role['value'][0]['value']
+        except:
+            from datetime import datetime
+            date = datetime.now().isoformat()
+            checkout = str(date)
+        try:
+            hotel = app.question_answerer.get(index='hotels', query_type='text', title=hotel_name)[0]
+            location = hotel['address']['label']
+        except:
+            location = location_entity['value'][0]['cname']
+        
+        # url1 = 'https://myacademic.space/availability/?apiKey=761b43d33fc96a69e58d0f281eb68742'
+        # url2 = '&location='+location+'&hotel='+hotel_name+'&type='+room_type+'&people='+str(rooms)
+        # url3 = '&checkin='+checkin+'&checkout='+checkout
+        # booking = requests.get(url1+url2+url3)
+        # if booking:
+        #     avails = booking.json()
+        #     if avails['status'] == True:
+        #         plans= avails['response'][0]
+        #         responder.slots['avail'] = plans['available']
+        #         responder.slots['room_type'] = room_type
+        #         responder.slots['hotel_name'] = hotel_name
+        #         responder.slots['amount'] = plans['amount']
+        #         responder.reply('{avail} {room_type} available in {hotel_name} for {amount} each room.')
+        # else:
+        #     responder.reply("Failed to fetch hotel availability. Please try again later.")
     except:
-        responder.slots['location'] = "No location"
-    try:
-        responder.slots['room_type'] = room_type_entity['value'][0]['cname']
-    except:
-        responder.slots['room_type'] = "No Room Type"
-    
-    try:
-        responder.slots['no_of_ppl'] = no_of_ppl['value'][0]['value']
-    except:
-        responder.slots['no_of_ppl'] = "No headcount"
-
-    try:
-        responder.slots['hotel_name_entity'] = hotel_name_entity['value'][0]['cname']
-    except:
-        responder.slots['hotel_name_entity'] = "No Hotel name"
-    
-    try:
-        responder.slots['checkin_entity_role'] = checkin_entity_role['value'][0]['value']
-    except:
-        responder.slots['checkin_entity_role'] = "No checkin"
-    
-    try:
-        responder.slots['checkout_entity_role'] = checkout_entity_role['value'][0]['value']
-    except:
-        responder.slots['checkout_entity_role'] = "No checkout"
-
-    responder.reply("Location - {location}\n"
-                    "room_type - {room_type}\n"
-                    "no_of_ppl - {no_of_ppl}\n"
-                    "hotel_name_entity - {hotel_name_entity}\n"
-                    "checkin_entity_role - {checkin_entity_role}\n"
-                    "checkout_entity_role - {checkout_entity_role}")
-
+        responder.reply('Something went wrong while fetching availability. Try again.')

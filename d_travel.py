@@ -23,7 +23,7 @@ def send_flights(request, responder):
                 departure_entity = entity
              
     source = source_entity['value'][0]['cname']
-    # destination = destination_entity['value'][0]['cname']
+    destination = destination_entity['value'][0]['cname']
     # seats = no_of_ppl['value'][0]['value']
     # departure = departure_entity['value'][0]['value']
     # arrival = arrival_entity['value'][0]['value']
@@ -33,7 +33,10 @@ def send_flights(request, responder):
         responder.slots['source'] = source
     except:
         responder.slots['source'] = "no source found"
-    # responder.slots['destination'] = destination
+    try:
+        responder.slots['destination'] = destination
+    except:
+        responder.slots['destination'] = "no destination found"
     # responder.slots['seats'] = seats
     # responder.slots['departure'] = departure
     # responder.slots['arrival'] = arrival
@@ -42,7 +45,7 @@ def send_flights(request, responder):
         # url = 'myacademic.space/flights/?apiKey=ykb234v2hg4vmh2gvm242&source='+source
         # url = url + '&destination='+destination+'&flight_class='+flight_class+'
         #  source, destination, flight_class, seats, arrival, departure
-    responder.reply("flights from {source}")
+    responder.reply("flights from {source} to {destination}")
 
 
 @app.handle(intent='get_recommendations')

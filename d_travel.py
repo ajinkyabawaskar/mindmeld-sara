@@ -21,15 +21,22 @@ def send_flights(request, responder):
                 arrival_entity = entity
             if entity['role'] == 'departure':
                 departure_entity = entity
-                
+    try:           
+        responder.slots['source'] = source_entity
+    except:
+        responder.slots['source'] = "No Source"
+    try:
+        responder.slots['destination'] = destination_entity
+    except:
+        responder.slots['destination'] = "No destination"
+    # try:
+    #     responder.slots['seats'] = seats
+    # try:
+    #     responder.slots['departure'] = departure
     source = source_entity['value'][0]['cname']
     destination = destination_entity['value'][0]['cname']
     seats = no_of_ppl['value'][0]['value']
     departure = departure_entity['value'][0]['value']
-    responder.slots['source'] = source
-    responder.slots['destination'] = destination
-    responder.slots['seats'] = seats
-    responder.slots['departure'] = departure
         # call an api for availability and pricing...
         # url = 'myacademic.space/flights/?apiKey=ykb234v2hg4vmh2gvm242&source='+source
         # url = url + '&destination='+destination+'&flight_class='+flight_class+'
@@ -39,11 +46,22 @@ def send_flights(request, responder):
 
 @app.handle(intent='get_recommendations')
 def send_recommendations(request, responder):
-    for entity in request.entities:
-        if entity['type'] == 'experiences':
-            experience = entity
     try:
-        responder.slots['exp'] = experience
-        responder.reply('{exp}')
+            
+        for entity in request.entities:
+            if entity['type'] == 'experiences':
+                experience = entity
+            if entity['type'] == 'tourist_attractions':
+                tourist_attractions = entity
+        try:
+            responder.slots['exp'] = experience
+        except:
+            responder.slots['exp'] = "No EXP"
+        try:
+            responder.slots['ta'] = tourist_attractions
+        except:
+            responder.slots['ta'] = "No TA"
+        
+        responder.reply('{exp}\n{ta}')
     except:
         responder.reply("Recommending..")

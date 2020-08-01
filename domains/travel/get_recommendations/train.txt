@@ -78,44 +78,44 @@ about {nature|experiences}
 {meditation techniques|experiences} in india
 I want to explore {scuba diving|experiences}
 I want to experience {Christianity|experiences}
-Where can i find {kedarnath|tourist_attractions} in india
-Which places have best {Anjuna Beach|tourist_attractions} in India 
-Places known for {Anjuna Beach|tourist_attractions} in india
-{National Salt Satyagarh Memorial|tourist_attractions} worth visiting in india
-Which places are known for {agra fort|tourist_attractions} in india
-Best {Jaisalmer fort|tourist_attractions} in india
-{Anjuna Beach|tourist_attractions} in india
-Oldest {Red fort|tourist_attractions} in india
-Most popular {Basilica of Bom Jesus|tourist_attractions} in india
-Most significant {Basilica of Bom Jesus|tourist_attractions} in india
-{Red fort|tourist_attractions} with historical significance 
-{Anjuna Beach|tourist_attractions} with historical importance 
-{St James Church|tourist_attractions} with historical importance in india 
-Few popular {Qutub minar|tourist_attractions} in india
-Some popular {Se Cathedral|tourist_attractions} in india
-{kumbhalgarh fort|tourist_attractions} worth visiting in india 
-{Amber fort|tourist_attractions} of great importance in india
-Best {Humayun's tome|tourist_attractions} of india
-Beautiful {Qutub minar|tourist_attractions} in india
-Indian {agra fort|tourist_attractions}
-Popular {city palace|tourist_attractions}
-Significant {Taj Mahal|tourist_attractions} 
-Suggest me few popular {kumbhalgarh fort|tourist_attractions} in india
-Suggest some popular {St James Church|tourist_attractions} in india
-Suggest some {Milagres Church|tourist_attractions} worth visiting in india 
-Suggets {Vagator Beach|tourist_attractions} importance in india
-Suggest best {Qutub minar|tourist_attractions} of india
-Suggest beautiful {Kovalam Beach|tourist_attractions} in india
-Suggest Indian {Humayun's tome|tourist_attractions}
-Suggest popular {National Salt Satyagarh Memorial|tourist_attractions}
-Suggest significant  {Basilica of Bom Jesus|tourist_attractions} 
-Recommend few popular {Vagator Beach|tourist_attractions} in india
-Recommend Suggest some popular {kedarnath|tourist_attractions} in india
-Recommend Suggest some {Our lady of Immaculate Conception Church|tourist_attractions} worth visiting in india 
-Recommend  {Se Cathedral|tourist_attractions} importance in india
-Recommend best {Se Cathedral|tourist_attractions} of india
-Recommend  beautiful {St James Church|tourist_attractions} in india
-recommend Indian {kumbhalgarh fort|tourist_attractions}
-Recommend popular {St James Church|tourist_attractions}
-Recommend significant  {Taj Mahal|tourist_attractions} 
+Where can i find {kedarnath|tourist_attraction} in india
+Which places have best {Anjuna Beach|tourist_attraction} in India 
+Places known for {Anjuna Beach|tourist_attraction} in india
+{National Salt Satyagarh Memorial|tourist_attraction} worth visiting in india
+Which places are known for {agra fort|tourist_attraction} in india
+Best {Jaisalmer fort|tourist_attraction} in india
+{Anjuna Beach|tourist_attraction} in india
+Oldest {Red fort|tourist_attraction} in india
+Most popular {Basilica of Bom Jesus|tourist_attraction} in india
+Most significant {Basilica of Bom Jesus|tourist_attraction} in india
+{Red fort|tourist_attraction} with historical significance 
+{Anjuna Beach|tourist_attraction} with historical importance 
+{St James Church|tourist_attraction} with historical importance in india 
+Few popular {Qutub minar|tourist_attraction} in india
+Some popular {Se Cathedral|tourist_attraction} in india
+{kumbhalgarh fort|tourist_attraction} worth visiting in india 
+{Amber fort|tourist_attraction} of great importance in india
+Best {Humayun's tome|tourist_attraction} of india
+Beautiful {Qutub minar|tourist_attraction} in india
+Indian {agra fort|tourist_attraction}
+Popular {city palace|tourist_attraction}
+Significant {Taj Mahal|tourist_attraction} 
+Suggest me few popular {kumbhalgarh fort|tourist_attraction} in india
+Suggest some popular {St James Church|tourist_attraction} in india
+Suggest some {Milagres Church|tourist_attraction} worth visiting in india 
+Suggets {Vagator Beach|tourist_attraction} importance in india
+Suggest best {Qutub minar|tourist_attraction} of india
+Suggest beautiful {Kovalam Beach|tourist_attraction} in india
+Suggest Indian {Humayun's tome|tourist_attraction}
+Suggest popular {National Salt Satyagarh Memorial|tourist_attraction}
+Suggest significant  {Basilica of Bom Jesus|tourist_attraction} 
+Recommend few popular {Vagator Beach|tourist_attraction} in india
+Recommend Suggest some popular {kedarnath|tourist_attraction} in india
+Recommend Suggest some {Our lady of Immaculate Conception Church|tourist_attraction} worth visiting in india 
+Recommend  {Se Cathedral|tourist_attraction} importance in india
+Recommend best {Se Cathedral|tourist_attraction} of india
+Recommend  beautiful {St James Church|tourist_attraction} in india
+recommend Indian {kumbhalgarh fort|tourist_attraction}
+Recommend popular {St James Church|tourist_attraction}
+Recommend significant  {Taj Mahal|tourist_attraction} 
 

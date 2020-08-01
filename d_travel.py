@@ -122,7 +122,7 @@ def send_flights(request, responder):
     # except:
     #     responder.slots['response'] = "no data found"
         #  source, destination, flight_class, seats, arrival, departure
-    responder.reply("{response}")
+    # responder.reply("{response}")
 
 @app.handle(intent='get_recommendations')
 def send_recommendations(request, responder):

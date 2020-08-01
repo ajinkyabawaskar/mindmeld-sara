@@ -24,9 +24,9 @@ def send_flights(request, responder):
                 
     source = source_entity['value'][0]['cname']
     destination = destination_entity['value'][0]['cname']
-    flightclass = flight_class_entity['value'][0]['cname']
     seats = no_of_ppl['value'][0]['value']
     departure = departure_entity['value'][0]['value']
+    flightclass = flight_class_entity['value'][0]['cname']
     # arrival = arrival_entity['value'][0]['value']
 
     responder.slots['source'] = source

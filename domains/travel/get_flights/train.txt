@@ -12,6 +12,7 @@ Get flights
 Can I get a flight
 Flights 
 Find flights
+get me {4|sys_number} flights from {Bhojpur|location|source} to {Chamarajnagar|location|destination}
 Please find flights in {Economy|flight_class}
 Get flights for me in {business|flight_class}
 flights for {4|sys_number} persons

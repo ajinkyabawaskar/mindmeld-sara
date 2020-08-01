@@ -62,39 +62,53 @@ def send_flights(request, responder):
         source = source_entity['value'][0]['cname']
         responder.slots['source'] = source
     except:
+        source = "not defined"
         responder.slots['source'] = "no source found"
     try:
         destination = destination_entity['value'][0]['cname']
         responder.slots['destination'] = destination
     except:
+        destination = "not defined"
         responder.slots['destination'] = "no destination found"
     try:
         seats = no_of_ppl['value'][0]['value']
         responder.slots['seats'] = str(seats)
+        responder.frame['seats'] = str(seats)
     except:
         responder.slots['seats'] = "no seats specified"
+        responder.frame['seats'] = "no seats specified"
     try:
         departure = departure_entity['value'][0]['value']
         responder.slots['departure'] = departure
+        responder.frame['departure'] = departure
     except:
         responder.slots['departure'] = "no departure found"
+        responder.frame['departure'] = "no departure found"
     try:
         arrival = arrival_entity['value'][0]['value']
         responder.slots['arrival'] = arrival
+        responder.frame['arrival'] = departure
     except:
         responder.slots['arrival'] = "no arrival found"
+        responder.frame['arrival'] = "no arrival found"
     try:
         flightclass = flight_class_entity['value'][0]['cname']
         responder.slots['flightclass'] = flightclass
+        responder.frame['flightclass'] = departure
     except:
         responder.slots['flightclass'] = "no flightclass found"
+        responder.frame['flightclass'] = "no flightclass found"
 
         # call an api for availability and pricing...
-        # url = 'myacademic.space/flights/?apiKey=ykb234v2hg4vmh2gvm242&source='+source
-        # url = url + '&destination='+destination+'&flight_class='+flight_class+'
+    try:
+        flight_url = 'https://myacademic.space/flights/?apiKey=761b43d33fc96a69e58d0f281eb68742'
+        flight_url = flight_url + '&destination='+destination+'&source='+source
+        response = requests.get(flight_url)
+        responder.slots['response'] = response
+    except:
+        responder.slots['response'] = "no data found"
         #  source, destination, flight_class, seats, arrival, departure
-    responder.reply("flights from {source} to {destination} for {seats} people arriving on {arrival} and departing on {departure} by {flightclass}")
-
+    responder.reply("{response}")
 
 @app.handle(intent='get_recommendations')
 def send_recommendations(request, responder):

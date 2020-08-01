@@ -135,7 +135,7 @@ def get_availability(request, responder):
                 available_rooms = response.json()['response']
                 display = ''
                 for a_room in available_rooms:
-                    display= display+'\n'+str(a_room['available'])+ ' ' +a_room['room_type']+'s for INR '+str(a_room['amount'])+ ' each'
+                    display= display+'\n'+str(a_room['available'])+ ' ' +a_room['room_type']+'s for ₹ '+str(a_room['amount'])+ ' each'
                 responder.slots['available_rooms'] = display
                 responder.reply('Sure. {hotel_name} has {available_rooms}\nWould you like to know anything else?')
             else:

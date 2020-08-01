@@ -23,11 +23,11 @@ def send_flights(request, responder):
                 departure_entity = entity
              
     source = source_entity['value'][0]['cname']
-    destination = destination_entity['value'][0]['cname']
-    seats = no_of_ppl['value'][0]['value']
-    departure = departure_entity['value'][0]['value']
-    arrival = arrival_entity['value'][0]['value']
-    flightclass = flight_class_entity['value'][0]['cname']
+    # destination = destination_entity['value'][0]['cname']
+    # seats = no_of_ppl['value'][0]['value']
+    # departure = departure_entity['value'][0]['value']
+    # arrival = arrival_entity['value'][0]['value']
+    # flightclass = flight_class_entity['value'][0]['cname']
     
     try:
         responder.slots['source'] = source

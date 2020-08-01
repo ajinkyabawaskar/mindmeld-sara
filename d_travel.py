@@ -46,7 +46,7 @@ def send_flights(request, responder):
         arrival = arrival_entity['value'][0]['value']
         responder.slots['arrival'] = arrival
     except:
-        responder.slots['arrival'] = "no source found"
+        responder.slots['arrival'] = "no arrival found"
     try:
         flightclass = flight_class_entity['value'][0]['cname']
         responder.slots['flightclass'] = flightclass

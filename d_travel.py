@@ -104,9 +104,9 @@ def send_flights(request, responder):
     flight_url = flight_url + '&destination='+destination+'&source='+source
     response = requests.get(flight_url)
     if response.status_code == 200:
-        availability = response.json()['status']
+        availability = response.json()
         if availability:
-            available_flights = response.json()['response']
+            available_flights = availability
             display = ' '
             responder.slots['source_airport'] = available_flights['source']['airport']
             responder.slots['destination_airport'] = available_flights['destination']['airport']

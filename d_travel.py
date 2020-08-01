@@ -21,35 +21,34 @@ def send_flights(request, responder):
                 arrival_entity = entity
             if entity['role'] == 'departure':
                 departure_entity = entity
-             
-    source = source_entity['value'][0]['cname']
-    destination = destination_entity['value'][0]['cname']
-    seats = no_of_ppl['value'][0]['value']
-    departure = departure_entity['value'][0]['value']
-    arrival = arrival_entity['value'][0]['value']
-    flightclass = flight_class_entity['value'][0]['cname']
     
     try:
+        source = source_entity['value'][0]['cname']
         responder.slots['source'] = source
     except:
         responder.slots['source'] = "no source found"
     try:
+        destination = destination_entity['value'][0]['cname']
         responder.slots['destination'] = destination
     except:
         responder.slots['destination'] = "no destination found"
     try:
+        seats = no_of_ppl['value'][0]['value']
         responder.slots['seats'] = seats
     except:
         responder.slots['seats'] = "no seats specified"
     try:
+        departure = departure_entity['value'][0]['value']
         responder.slots['departure'] = departure
     except:
         responder.slots['departure'] = "no departure found"
     try:
-       responder.slots['arrival'] = arrival
+        arrival = arrival_entity['value'][0]['value']
+        responder.slots['arrival'] = arrival
     except:
         responder.slots['arrival'] = "no source found"
     try:
+        flightclass = flight_class_entity['value'][0]['cname']
         responder.slots['flightclass'] = flightclass
     except:
         responder.slots['flightclass'] = "no flightclass found"

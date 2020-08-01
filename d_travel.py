@@ -100,28 +100,27 @@ def send_flights(request, responder):
         responder.frame['flightclass'] = "no flightclass found"
 
         # call an api for availability and pricing...
-    try:
-        flight_url = 'https://myacademic.space/flights/?apiKey=761b43d33fc96a69e58d0f281eb68742'
-        flight_url = flight_url + '&destination='+destination+'&source='+source
-        response = requests.get(flight_url)
-        if response.status_code == 200:
-            availability = response.json()['status']
-            if availability:
-                available_flights = response.json()['response']
-                display = ' '
-                responder.slots['source_airport'] = available_flights['source']['airport']
-                responder.slots['destination_airport'] = available_flights['destination']['airport']
-                for a_flight in available_flights['flight']:
-                    display = display+'\n'+'Departs '+a_flight['departure_time'][12:]+' · '+a_flight['airline']+' · ₹ '+str(a_flight['price'])
-                responder.slots['flights'] = display
-                responder.reply('Here you go: {source_airport} - {destination_airport}{flights}\nWould you like to know anything else?')
-            else:
-                responder.reply("There are no flights available at the given location. Please try again with differnt location.")
+    flight_url = 'https://myacademic.space/flights/?apiKey=761b43d33fc96a69e58d0f281eb68742'
+    flight_url = flight_url + '&destination='+destination+'&source='+source
+    response = requests.get(flight_url)
+    if response.status_code == 200:
+        availability = response.json()['status']
+        if availability:
+            available_flights = response.json()['response']
+            display = ' '
+            responder.slots['source_airport'] = available_flights['source']['airport']
+            responder.slots['destination_airport'] = available_flights['destination']['airport']
+            for a_flight in available_flights['flight']:
+                display = display+'\n'+'Departs '+a_flight['departure_time'][12:]+' · '+a_flight['airline']+' · ₹ '+str(a_flight['price'])
+            responder.slots['flights'] = display
+            responder.reply('Here you go: {source_airport} - {destination_airport}{flights}\nWould you like to know anything else?')
         else:
-            responder.reply("I couldn't check the availability. Please try again after some time.")
+            responder.reply("There are no flights available at the given location. Please try again with differnt location.")
+    else:
+        responder.reply("I couldn't check the availability. Please try again after some time.")
 
-    except:
-        responder.slots['response'] = "no data found"
+    # except:
+    #     responder.slots['response'] = "no data found"
         #  source, destination, flight_class, seats, arrival, departure
     responder.reply("{response}")
 

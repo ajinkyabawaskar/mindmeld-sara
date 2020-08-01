@@ -79,8 +79,7 @@ def get_hotels(request, responder):
 @app.auto_fill(intent='get_hotels', form = hotel_form, has_entity='hotel')
 def get_availability(request, responder):
     for entity in request.entities:
-        if entity['type'] == 'location':
-            location_entity = entity
+        
         if entity['type'] == 'room_type':
             room_type_entity = entity
         if entity['type'] == 'sys_number':
@@ -91,9 +90,7 @@ def get_availability(request, responder):
             checkin_entity_role = entity
         if entity['type'] == 'sys_time' and entity['role'] == 'checkout':
             checkout_entity_role = entity
-    """
-    Getting hotels from location name
-    """
+
     try:
         hotel_name = hotel_name_entity['value'][0]['cname']
         room_type = room_type_entity['value'][0]['cname']
@@ -117,22 +114,33 @@ def get_availability(request, responder):
             hotel = app.question_answerer.get(index='hotels', query_type='text', title=hotel_name)[0]
             location = hotel['address']['label']
         except:
-            location = location_entity['value'][0]['cname']
-        
-        # url1 = 'https://myacademic.space/availability/?apiKey=761b43d33fc96a69e58d0f281eb68742'
-        # url2 = '&location='+location+'&hotel='+hotel_name+'&type='+room_type+'&people='+str(rooms)
-        # url3 = '&checkin='+checkin+'&checkout='+checkout
-        # booking = requests.get(url1+url2+url3)
-        # if booking:
-        #     avails = booking.json()
-        #     if avails['status'] == True:
-        #         plans= avails['response'][0]
-        #         responder.slots['avail'] = plans['available']
-        #         responder.slots['room_type'] = room_type
-        #         responder.slots['hotel_name'] = hotel_name
-        #         responder.slots['amount'] = plans['amount']
-        #         responder.reply('{avail} {room_type} available in {hotel_name} for {amount} each room.')
-        # else:
-        #     responder.reply("Failed to fetch hotel availability. Please try again later.")
+            location = "India"
+
+        responder.slots['location'] = location
+        responder.slots['room_type'] = room_type
+        responder.slots['rooms'] = rooms
+        responder.slots['hotel_name'] = hotel_name
+        responder.slots['checkin'] = checkin
+        responder.slots['checkout'] = checkout
+
+        url1 = 'https://myacademic.space/availability/?apiKey=761b43d33fc96a69e58d0f281eb68742'
+        url2 = '&location='+location+'&hotel='+hotel_name+'&type='+room_type+'&people='+str(rooms)
+        url3 = '&checkin='+checkin+'&checkout='+checkout
+        availability_url = url1+url2+url3
+
+        response = requests.get(availability_url)
+        if response.status_code == 200:
+            availability = response.json()['status']
+            if availability:
+                available_rooms = response.json()['response']
+                display = ''
+                for a_room in available_rooms:
+                    display= display+'\n'+str(a_room['available'])+ ' ' +a_room['room_type']+'s for INR '+str(a_room['amount'])+ ' each'
+                responder.slots['available_rooms'] = display
+                responder.reply('Sure. {hotel_name} has {available_rooms}\nWould you like to know anything else?')
+            else:
+                responder.reply("My booking guy couldn't proceed with your booking. Please try again with differnt hotel")
+        else:
+            responder.reply("The guy who informs me on availability is lost. Please try again after he comes back!")
     except:
         responder.reply('Something went wrong while fetching availability. Try again.')

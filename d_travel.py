@@ -26,15 +26,18 @@ def send_flights(request, responder):
     destination = destination_entity['value'][0]['cname']
     no_of_ppl = no_of_ppl['value'][0]['value']
     arrival = arrival_entity['value'][0]['value']
+    departure = departure_entity['value'][0]['value']
     responder.slots['source'] = source
     responder.slots['destination'] = destination
     responder.slots['seats'] = no_of_ppl
     responder.slots['arrival'] = arrival
+    responder.slots['departure'] = departure
+    
         # call an api for availability and pricing...
         # url = 'myacademic.space/flights/?apiKey=ykb234v2hg4vmh2gvm242&source='+source
         # url = url + '&destination='+destination+'&flight_class='+flight_class+'
         #  source, destination, flight_class, seats, arrival, departure
-    responder.reply("flights from {source} to {destination} for {seats} people arriving at {arrival}")
+    responder.reply("flights from {source} to {destination} departing on {departure} and arriving at {arrival} for {seats} people")
 
 
 @app.handle(intent='get_recommendations')

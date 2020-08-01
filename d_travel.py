@@ -1,7 +1,45 @@
 from .root import app 
+from mindmeld.core import FormEntity
+import requests
 
-# @app.auto_fill(FormEntity flightEntity)
-@app.handle(intent='get_flights')
+flight_form = {
+    "entities": [
+        # FormEntity(
+        #    entity = 'location',
+        #    responses=['Where will you be visiting?']),
+        FormEntity(
+           entity="location",
+           role = 'source',
+           responses=["Where will you be boarding from?"]),
+        FormEntity(
+           entity="location",
+           role = 'destination',
+           responses=["Awesome! Where will you be landing?"]),
+        FormEntity(
+           entity="sys_number",
+           responses=["Cool. How many seats do you want to book?"]),
+        FormEntity(
+           entity = 'flight_class',
+           responses=['By which class would you like to fly?']),
+        FormEntity(
+           entity="sys_time",
+           role="arrival",
+           responses=["Okay. By when would you like to reach?"]),
+        FormEntity(
+           entity = 'sys_time',
+           role = 'departure',
+           responses=['And when will you be departing?'])
+        ],
+     #keys to specify if you want to break out of the slot filling logic
+    'exit_keys' : ['cancel', 'restart', 'exit', 'reset', 'no', 'nevermind', 'stop', 'back', 'help', 'stop it', 'go back'
+            'new task', 'nothing', 'other', 'return'],
+    #a message to prompt the user after exit
+    'exit_msg' : 'A few other sara tasks you can try are, booking hotels, checking ticket status',
+    #the number of max tries for the user to specify the entity
+    'max_retries' : 2
+}
+# @app.handle(intent='get_flights')
+@app.auto_fill(intent='get_flights',form=flight_form)
 def send_flights(request, responder):
     for entity in request.entities:
         if entity['type'] == 'location':

@@ -42,11 +42,10 @@ flight_form = {
 @app.auto_fill(intent='get_flights',form=flight_form)
 def send_flights(request, responder):
     for entity in request.entities:
-        if entity['type'] == 'location':
-            if entity['role'] == 'source':
-                source_entity = entity
-            if entity['role'] == 'destination':
-                destination_entity = entity
+        if entity['type'] == 'location' and entity['role'] == 'source':
+            source_entity = entity
+        if entity['type'] == 'location' and entity['role'] == 'destination':
+            destination_entity = entity
 
         if entity['type'] == 'flight_class':
             flight_class_entity = entity
@@ -54,12 +53,11 @@ def send_flights(request, responder):
         if entity['type'] == 'sys_number':
             no_of_ppl = entity
 
-        if entity['type'] == 'sys_time':
-            if entity['role'] == 'arrival':
-                arrival_entity = entity
-            if entity['role'] == 'departure':
-                departure_entity = entity
-    
+        if entity['type'] == 'sys_time' and entity['role'] == 'arrival':
+            arrival_entity = entity
+        if entity['type'] == 'sys_time'and entity['role'] == 'departure':
+            departure_entity = entity
+            
     try:
         source = source_entity['value'][0]['cname']
         responder.slots['source'] = source
@@ -72,7 +70,7 @@ def send_flights(request, responder):
         responder.slots['destination'] = "no destination found"
     try:
         seats = no_of_ppl['value'][0]['value']
-        responder.slots['seats'] = seats
+        responder.slots['seats'] = str(seats)
     except:
         responder.slots['seats'] = "no seats specified"
     try:

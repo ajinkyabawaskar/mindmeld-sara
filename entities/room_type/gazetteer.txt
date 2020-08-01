@@ -1,13 +1,35 @@
 Single room
+Single rooms
+Single
+Singles
 Double room 
+Double rooms
+Double
+Doubles
 Triple room
+Triple rooms
+Triple
+Triples
 Quad room
-Standard room/studio
+Quad rooms
+Quad
+Quads
+Standard room
+Standard rooms
+studio
 Deluxe room
+Deluxe rooms
+Deluxe
 Joint room
+Joint rooms
+Joint
+Joints
 Twin
+Twins
 Murphy
+Murphies
 Suite
+Suites
 Mini suite
 Junior suite
 Master suite
@@ -22,7 +44,12 @@ hot tub bath
 Pull-out couch
 Business center
 Standard suite
+Standard suites
 Executive suite
+Executive suites
 Presidential suite
+Presidential suites
 Penthouse
+Penthouses
 Villa
+Villas

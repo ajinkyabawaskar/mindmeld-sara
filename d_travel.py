@@ -62,11 +62,22 @@ def send_flights(request, responder):
 
 @app.handle(intent='get_recommendations')
 def send_recommendations(request, responder):
-    for entity in request.entities:
-        if entity['type'] == 'experiences':
-            experience = entity
     try:
-        responder.slots['exp'] = experience
-        responder.reply('{exp}')
+            
+        for entity in request.entities:
+            if entity['type'] == 'experiences':
+                experience = entity
+            if entity['type'] == 'tourist_attractions':
+                tourist_attractions = entity
+        try:
+            responder.slots['exp'] = experience
+        except:
+            responder.slots['exp'] = "No EXP"
+        try:
+            responder.slots['ta'] = tourist_attractions
+        except:
+            responder.slots['ta'] = "No TA"
+        
+        responder.reply('{exp}\n{ta}')
     except:
         responder.reply("Recommending..")

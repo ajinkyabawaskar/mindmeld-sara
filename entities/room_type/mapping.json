@@ -4,91 +4,110 @@
             "id": "1",
             "cname": "Single room",
             "whitelist": [
-                "Single room"
+                "Single room",
+                "Single",
+                "Single rooms"
             ]
         },
         {
             "id": "2",
             "cname": "Double room ",
             "whitelist": [
-                "Double room "
+                "Double room",
+                "Doubles",
+                "Double rooms"
             ]
         },
         {
             "id": "3",
             "cname": "Triple room",
             "whitelist": [
-                "Triple room"
+                "Triple room",
+                "Triples",
+                "Triple rooms"
             ]
         },
         {
             "id": "4",
             "cname": "Quad room",
             "whitelist": [
-                "Quad room"
+                "Quad room",
+                "Quads",
+                "Quad rooms"
             ]
         },
         {
             "id": "5",
-            "cname": "Standard room/studio",
+            "cname": "Standard room",
             "whitelist": [
-                "Standard room/studio"
+                "Standard room",
+                "studio"
             ]
         },
         {
             "id": "6",
             "cname": "Deluxe room",
             "whitelist": [
-                "Deluxe room"
+                "Deluxe room",
+                "Deluxe rooms",
+                "Deluxe"
             ]
         },
         {
             "id": "7",
             "cname": "Joint room",
             "whitelist": [
-                "Joint room"
+                "Joint room",
+                "Joint rooms",
+                "joints"
             ]
         },
         {
             "id": "8",
             "cname": "Twin",
             "whitelist": [
-                "Twin"
+                "Twin",
+                "Twins"
             ]
         },
         {
             "id": "9",
             "cname": "Murphy",
             "whitelist": [
-                "Murphy"
+                "Murphy",
+                "Murphies"
             ]
         },
         {
             "id": "10",
             "cname": "Suite",
             "whitelist": [
-                "Suite"
+                "Suite",
+                "Suites"
             ]
         },
         {
             "id": "11",
             "cname": "Mini suite",
             "whitelist": [
-                "Mini suite"
+                "Mini suite",
+                "Mini suites"
             ]
         },
         {
             "id": "12",
             "cname": "Junior suite",
             "whitelist": [
-                "Junior suite"
+                "Junior suite",
+                "Junior suites"
             ]
         },
         {
             "id": "13",
             "cname": "Master suite",
             "whitelist": [
-                "Master suite"
+                "Master suite",
+                "Master suites"
             ]
         },
         {
@@ -165,35 +184,40 @@
             "id": "24",
             "cname": "Standard suite",
             "whitelist": [
-                "Standard suite"
+                "Standard suite",
+                "Standard suites"
             ]
         },
         {
             "id": "25",
             "cname": "Executive suite",
             "whitelist": [
-                "Executive suite"
+                "Executive suite",
+                "Executive suites"
             ]
         },
         {
             "id": "26",
             "cname": "Presidential suite",
             "whitelist": [
-                "Presidential suite"
+                "Presidential suite",
+                "Presidential suites"
             ]
         },
         {
             "id": "27",
             "cname": "Penthouse",
             "whitelist": [
-                "Penthouse"
+                "Penthouse",
+                "Penthouses"
             ]
         },
         {
             "id": "28",
             "cname": "Villa",
             "whitelist": [
-                "Villa"
+                "Villa",
+                "Villas"
             ]
         }
     ]

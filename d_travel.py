@@ -25,7 +25,7 @@ def send_flights(request, responder):
     source = source_entity['value'][0]['cname']
     destination = destination_entity['value'][0]['cname']
     seats = no_of_ppl['value'][0]['value']
-    # departure = departure_entity['value'][0]['value']
+    departure = departure_entity['value'][0]['value']
     # arrival = arrival_entity['value'][0]['value']
     # flightclass = flight_class_entity['value'][0]['cname']
     
@@ -41,8 +41,12 @@ def send_flights(request, responder):
         responder.slots['seats'] = seats
     except:
         responder.slots['seats'] = "no seats specified"
+    try:
+        responder.slots['departure'] = departure
+    except:
+        responder.slots['departure'] = "no departure found"
 
-    # responder.slots['seats'] = seats
+
     # responder.slots['departure'] = departure
     # responder.slots['arrival'] = arrival
     # # responder.slots['flightclass'] = flightclass
@@ -50,7 +54,7 @@ def send_flights(request, responder):
         # url = 'myacademic.space/flights/?apiKey=ykb234v2hg4vmh2gvm242&source='+source
         # url = url + '&destination='+destination+'&flight_class='+flight_class+'
         #  source, destination, flight_class, seats, arrival, departure
-    responder.reply("flights from {source} to {destination} for {seats} people")
+    responder.reply("flights from {source} to {destination} for {seats} people departing on {departure}")
 
 
 @app.handle(intent='get_recommendations')

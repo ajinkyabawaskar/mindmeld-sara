@@ -49,6 +49,10 @@ Goodbye
 abort
 thanks for everything
 exit
+no
+Nothing
+none
+neither
 Ok, that was great, gotta go now!
 bye-bye
 Lets close this

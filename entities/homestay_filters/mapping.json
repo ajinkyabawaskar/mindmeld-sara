@@ -1,0 +1,101 @@
+{
+	"entities": [
+		{
+			"id" : "1",
+			"cname": "newest",
+			"whitelist": [
+				"newest",
+				"recent",
+				"last",
+				"new",
+				"newer",
+				"newest",
+				"most recent",
+				"most recently added",
+				"what's new"
+			]
+		},
+		{
+			"id" : "2",
+			"cname": "Oldest",
+			"whitelist": [
+				"old",
+				"first",
+				"older",
+				"old classic",
+				"classic",
+				"classics",
+				"in chronological order",
+				"earliest"
+			]
+		},
+		{
+			"id" : "3",
+			"cname": "Popular",
+			"whitelist": [
+				"hot",
+				"most popular",
+				"popular",
+				"hottest",
+				"highest grossing",
+				"top",
+				"top grossing",
+				"most successful",
+				"successful"
+			]
+		},
+		{
+			"id" : "3a",
+			"cname" : "most reviewed",
+			"whitelist" : [
+				"most reviewed",
+				"most viewed",
+				"highest rated",
+				"highly rated",
+				"high ratings",
+				"top rated",
+				"best",
+				"great",
+				"best rated",
+				"top-rated",
+				"best-rated",
+				"best reviewed",
+				"good reviews",
+				"good review"
+			]
+		},
+		{
+			"id" : "4",
+			"cname": "worst",
+			"whitelist": [
+				"worst rated",
+				"lowest rated",
+				"least favorite"
+			]
+		},
+		{
+			"id" : "5",
+			"cname": "Budget",
+			"whitelist": [
+				"budget",
+				"pocket friendly"
+			]
+		},
+		{
+			"id" : "6",
+			"cname": "couple friendly",
+			"whitelist": [
+				"couple",
+				"couple friendly"
+			]
+		},
+		{
+			"id" : "7",
+			"cname": "luxury",
+			"whitelist": [
+				"luxury",
+				"expensive"
+			]
+		}
+	]
+}

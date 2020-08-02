@@ -23,10 +23,10 @@ def confirm_action(request, responder):
                 responder.slots['checkout'] = homestays['checkout']
                 responder.slots['amount'] = homestays['amount']
                 responder.slots['contact'] = homestays['contact']
-                responder.slots['images'] = ", ".join(homestays['url'])
+                responder.slots['images'] = homestays['url']
                 responder.reply("Great! {name} has a {type} property that can accomodate"
                                 " {people} people, and has {amenities}. It is available between"
-                                " {checkin} and {checkout}.\nContact: {contact} Images: {images}. Would you like to book for {amount}?")
+                                " {checkin} and {checkout}. Contact:{contact}  Images: {images}.\n Would you like to book for {amount}?")
                 responder.frame['expecting_homestay_confirmation'] = True
             except:
                 responder.frame['expecting_homestay_preference'] = True
@@ -39,13 +39,14 @@ def confirm_action(request, responder):
                 responder.slots['name'] = homestay['name']
                 responder.slots['homestay_id'] = homestay['homestay_id']
                 try:
+                    import requests
                     url = "https://myacademic.space/book-homestay/?apiKey=761b43d33fc96a69e58d0f281eb68742&homestay_id="+homestay['homestay_id']
                     response = requests.get(url)
                     if response.status_code == 200:
                         response = response.json()
-                        responder.slots['password'] = response['password']
+                    responder.slots['password'] = response['password']
                 except:
-                    responder.slots['password'] = 'uyv232bj23nk'
+                    responder.slots['password'] = 'afuy232vv'
                 responder.reply("Your homestay with {name} has been confirmed! Find your password protected invoice here:"
                 " https://myacademic.space/invoices/?homestay_id={homestay_id}B and password is {password}")
             except:
@@ -81,7 +82,7 @@ def say_goodbye(request, responder):
             try:
                 responder.frame['hotels'] = hotels
                 responder.slots['hotels'] =", ".join(hotels[0]['hotels'])
-                responder.reply("Here are some hotels at {destination}- {hotels}\nWhere would you like to book?")
+                responder.reply("Here are some{filter}hotels at {destination}- {hotels}\nWhere would you like to book?")
             except:
                 responder.reply("Sorry! Couldn't find hotels at {destination}")
         except:

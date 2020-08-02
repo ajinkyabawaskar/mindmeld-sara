@@ -37,7 +37,7 @@ class WhatsappBotServer:
         else:
             self.client = client
 
-            
+
         @self.app.route("/", methods=["POST"])
         def handle_message():  # pylint: disable=unused-variable
             incoming_msg = request.values.get('Body', '').lower()
@@ -48,11 +48,6 @@ class WhatsappBotServer:
             if incoming_msg == "test media":
                 # creating rest client instance
                 try:
-                    # try:
-                    #     client = Client(os.environ['TWILIO_ACCOUNT_SID'], os.environ['TWILIO_AUTH_TOKEN'])
-                    # except   
-                    #     msg.body("client nai bani")                            
-                    #     return str(resp)   
                     # this is the Twilio sandbox testing number
                     from_whatsapp_number='whatsapp:+14155238886'
                     # replace this number with your personal WhatsApp Messaging number
@@ -70,7 +65,8 @@ class WhatsappBotServer:
                         return str(resp)                     
 
                     msg.body("did everything but no reply")                            
-                    return str(resp)                                                           
+                    msg.media_url("https://pbs.twimg.com/profile_images/1274045729170808833/2vT239Ac_400x400.jpg")
+                    return resp                                                           
                 except:
                     msg.body("We understood test media but error aa gaya")                    
                     return str(resp)

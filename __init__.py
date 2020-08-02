@@ -5,6 +5,7 @@ from sara.root import app
 import sara.d_general
 import sara.d_travel
 import sara.d_accommodation
+import sara.d_recommendation
 
 __all__ = ['app']
 

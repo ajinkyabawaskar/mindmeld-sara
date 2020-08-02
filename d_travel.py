@@ -44,24 +44,78 @@ def send_flights(request, responder):
     responder.reply("flights from {source} to {destination} for {seats} people departing at {departure}")
 
 
+# @app.handle(intent='get_recommendations')
+# def send_recommendations(request, responder):
+    # try:
+            
+    #     for entity in request.entities:
+    #         if entity['type'] == 'experiences':
+    #             experience = entity
+    #         if entity['type'] == 'tourist_attractions':
+    #             tourist_attractions = entity
+    #     try:
+    #         responder.slots['exp'] = experience
+    #     except:
+    #         responder.slots['exp'] = "No EXP"
+    #     try:
+    #         responder.slots['ta'] = tourist_attractions
+    #     except:
+    #         responder.slots['ta'] = "No TA"
+        
+    #     responder.reply('{exp}\n{ta}')
+    # except:
+    #     responder.reply("Recommending..")
+
 @app.handle(intent='get_recommendations')
 def send_recommendations(request, responder):
-    try:
-            
+    try:    
         for entity in request.entities:
             if entity['type'] == 'experiences':
-                experience = entity
-            if entity['type'] == 'tourist_attractions':
+                experiences_entity = entity
+                try:
+                    responder.slots['experiences'] = experiences_entity
+                except:
+                    responder.slots['experiences'] = "No Experiences"
+
+                try:
+            	     if len(experiences_entity['value'])>0:   
+                        experiences = experiences_entity['value'][0]['cname']
+                        responder.frame['experiences'] = experiences
+                        responder.slots['experiences'] = experiences
+                        experiences = app.question_answerer.get(index='experiences', query_type='text', experiences=experiences)
+                        try:
+                            responder.frame['experiences'] = experiences
+                            responder.slots['descriptions'] =experiences[0]['description']
+                            try:
+                                city = experiences[0]['location']
+                                responder.slots['cities'] = city[0]['city']
+                                responder.reply("{descriptions}, {cities} you can visit")
+                            except:
+                                responder.reply("{descriptions}")
+                        except:
+                            responder.reply("error fetching experiences from knowledgebase")
+                except:
+                    responder.reply("No descriptiom found")
+            elif entity['type'] == 'tourist_attractions':
                 tourist_attractions = entity
-        try:
-            responder.slots['exp'] = experience
-        except:
-            responder.slots['exp'] = "No EXP"
-        try:
-            responder.slots['ta'] = tourist_attractions
-        except:
-            responder.slots['ta'] = "No TA"
-        
-        responder.reply('{exp}\n{ta}')
+                try:
+                    responder.slots['tourist_attractions'] = tourist_attractions
+                except:
+                    responder.slots['tourist_attractions'] = "No Tourist Attractions"
+                try:
+            	     if len(tourist_attractions['value'])>0:   
+                        tourist_attractions = tourist_attractions['value'][0]['cname']
+                        responder.frame['tourist_attractions'] = tourist_attractions
+                        responder.slots['tourist_attractions'] = tourist_attractions
+                        tourist_attractions = app.question_answerer.get(index='tourist_attractions', query_type='text', name=tourist_attractions)
+                        try:
+                            responder.frame['tourist_attractions'] = tourist_attractions
+                            responder.slots['citiess'] =tourist_attractions[0]['city']    
+                            responder.reply("{cities} you can visit")
+                        except:
+                            responder.reply("cities not found")
+                except:
+                    responder.reply("tourist attraction is not found, please try again")
+                                                                                        
     except:
-        responder.reply("Recommending..")
+        responder.reply("please try later") 

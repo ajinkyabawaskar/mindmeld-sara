@@ -788,7 +788,14 @@
     {
         "id": "104",
         "city": "Central delhi",
-        "hotels": []
+        "hotels": [
+            "Hotel Royal Castle Grand",
+            "Sanjoy Lodge",
+            "Mister and Art House",
+            "Radisson Blu Hotel",
+            "Stay Inn Residency",
+            "Stay Inn-Bhairav Enclave"
+        ]
     },
     {
         "hotels": [],
@@ -1313,7 +1320,14 @@
         "hotels": []
     },
     {
-        "hotels": [],
+        "hotels": [
+            "Hotel Royal Castle Grand",
+            "Sanjoy Lodge",
+            "Mister and Art House",
+            "Radisson Blu Hotel",
+            "Stay Inn Residency",
+            "Stay Inn-Bhairav Enclave"
+        ],
         "city": "East delhi",
         "id": "177"
     },
@@ -3272,7 +3286,14 @@
     {
         "id": "440",
         "city": "New delhi",
-        "hotels": []
+        "hotels": [
+            "Hotel Royal Castle Grand",
+            "Sanjoy Lodge",
+            "Mister and Art House",
+            "Radisson Blu Hotel",
+            "Stay Inn Residency",
+            "Stay Inn-Bhairav Enclave"
+        ]
     },
     {
         "hotels": [],
@@ -3296,10 +3317,24 @@
     {
         "id": "444",
         "city": "North delhi",
-        "hotels": []
+        "hotels": [
+            "Hotel Royal Castle Grand",
+            "Sanjoy Lodge",
+            "Mister and Art House",
+            "Radisson Blu Hotel",
+            "Stay Inn Residency",
+            "Stay Inn-Bhairav Enclave"
+        ]
     },
     {
-        "hotels": [],
+        "hotels": [
+            "Hotel Royal Castle Grand",
+            "Sanjoy Lodge",
+            "Mister and Art House",
+            "Radisson Blu Hotel",
+            "Stay Inn Residency",
+            "Stay Inn-Bhairav Enclave"
+        ],
         "city": "North east delhi",
         "id": "445"
     },
@@ -3319,7 +3354,14 @@
         "hotels": []
     },
     {
-        "hotels": [],
+        "hotels": [
+            "Hotel Royal Castle Grand",
+            "Sanjoy Lodge",
+            "Mister and Art House",
+            "Radisson Blu Hotel",
+            "Stay Inn Residency",
+            "Stay Inn-Bhairav Enclave"
+        ],
         "city": "North west delhi",
         "id": "449"
     },
@@ -4261,7 +4303,14 @@
         "hotels": []
     },
     {
-        "hotels": [],
+        "hotels": [
+            "Hotel Royal Castle Grand",
+            "Sanjoy Lodge",
+            "Mister and Art House",
+            "Radisson Blu Hotel",
+            "Stay Inn Residency",
+            "Stay Inn-Bhairav Enclave"
+        ],
         "id": "575",
         "city": "South delhi"
     },
@@ -4288,7 +4337,14 @@
     {
         "id": "580",
         "city": "South west delhi",
-        "hotels": []
+        "hotels": [
+            "Hotel Royal Castle Grand",
+            "Sanjoy Lodge",
+            "Mister and Art House",
+            "Radisson Blu Hotel",
+            "Stay Inn Residency",
+            "Stay Inn-Bhairav Enclave"
+        ]
     },
     {
         "hotels": [],
@@ -4801,7 +4857,14 @@
     {
         "city": "West delhi",
         "id": "650",
-        "hotels": []
+        "hotels": [
+            "Hotel Royal Castle Grand",
+            "Sanjoy Lodge",
+            "Mister and Art House",
+            "Radisson Blu Hotel",
+            "Stay Inn Residency",
+            "Stay Inn-Bhairav Enclave"
+        ]
     },
     {
         "hotels": [],

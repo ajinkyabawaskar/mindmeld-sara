@@ -1,4 +1,5 @@
 import logging
+import os
 
 from flask import Flask, request
 from twilio.twiml.messaging_response import MessagingResponse
@@ -53,8 +54,11 @@ class WhatsappBotServer:
                             media_url='https://pbs.twimg.com/profile_images/1274045729170808833/2vT239Ac_400x400.jpg',
                             from_=from_whatsapp_number,
                             to=to_whatsapp_number)
+                    msg.body("did everything but no reply")                            
+                    return str(resp)                                                           
                 except:
                     msg.body("We understood test media but error aa gaya")                    
+                    return str(resp)
             else:
                 response_text = self.conv.say(incoming_msg)[0]
                 msg.body(response_text) 

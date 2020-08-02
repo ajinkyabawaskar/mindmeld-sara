@@ -56,6 +56,7 @@ Check flights leaving {thursday|sys_time|departure} in {business|flight_class}
 are there any flights leaving {thursday|sys_time|departure}
 Suggest flights leaving {saturday|sys_time|departure}
 Please find flights leaving {thursday|sys_time|departure}
+suggest flights from {pune|location|source} {today|sys_time|departure} 
 Tell me about flights leaving {thursday|sys_time|departure}
 Is it possible to get flight leaving {thursday|sys_time|departure}
 Is there any flight leaving {monday|sys_time|departure}

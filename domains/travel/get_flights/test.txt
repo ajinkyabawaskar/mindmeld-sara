@@ -26,3 +26,4 @@ Can I travel by flights  between {Kalahandi|location|source} and {Mahendragarh|l
 Can I travel by flights  between {Kalahandi|location|source} and {Mahendragarh|location|destination} departing {sunday|sys_time|departure} and arriving {saturday|sys_time|arrival}  for {68|sys_number}  people
 Is there any flights available between {Wayanad|location|source} and {Bangalore Urban|location|destination} departing {sunday|sys_time|departure} and arriving {thursday|sys_time|arrival}  for {15|sys_number}  people
 Can I take a domestic flight from {Khandwa (East Nimar)|location|source} to {Balaghat|location|destination} departing {friday|sys_time|departure} and arriving {saturday|sys_time|arrival}  for {61|sys_number}  people
+suggest flights from {pune|location|source} {today|sys_time|departure} 

@@ -4,8 +4,9 @@ import random
 @app.handle(intent='greet')
 def welcome(request, responder):
     responder.reply("Hi, I am Sara! Your virtual travel assistant. I can help you "
-    "find a hotel, check fights or you can tell me what you're intrested in "
-    "and I'll recommend you places to visit in India!")
+    "plan your next visit to India 😍\n"
+    "You can tell me what places to go, or tell me what you want to experience, and I'll tell you about the places."
+    " I can also check flight and hotel availability for you.")
 
 @app.handle(intent='confirm')
 def confirm_action(request, responder):
@@ -63,7 +64,7 @@ def provide_help(request, responder):
     # Respond with examples demonstrating how the user can order food from different restaurants.
     # For simplicity, we have a fixed set of demonstrative queries here, but they could also be
     # randomly sampled from a pool of example queries each time.
-    replies = ["I can help you explore the real India! Try asking me about the best places to visit"]
+    replies = ["You can ask me to check flights for you.", "You can ask me to find hotels for you.", "You can tell me what your interests are and I can suggest you places to visit."]
     responder.reply(replies)
 
 @app.handle(intent='exit')
@@ -76,21 +77,26 @@ def say_goodbye(request, responder):
     
     if (responder.frame.get('expecting_homestay_preference') or responder.frame.get('expecting_homestay_confirmation')):
         destination = responder.frame.get('destination')
+        try:
+            filter2 = responder.frame.get('filter')
+            responder.slots['filter'] = filter2
+        except:
+            responder.slots['filter'] = ' '
+
         responder.slots['destination'] = destination
         try:
             hotels = app.question_answerer.get(index='locations', query_type='text', city=destination)
             try:
                 responder.frame['hotels'] = hotels
                 responder.slots['hotels'] =", ".join(hotels[0]['hotels'])
-                responder.reply("Here are some{filter}hotels at {destination}- {hotels}\nWhere would you like to book?")
+                responder.reply("Here are some{filter}hotels at {destination}- {hotels}\n🏨 Where would you like to book?")
             except:
-                responder.reply("Sorry! Couldn't find hotels at {destination}")
+                responder.reply("Sorry! There are no hotels at {destination} that I know of. 😪")
         except:
-            responder.reply("I couldn't find ant hotels at {destination}")
-        # responder.reply(['Bye!', 'Goodbye!', 'Have a nice day.', 'See you later.'])
+            responder.reply("I couldn't find any hotels at {destination}. 😪")
     else:
         # Respond with a random selection from one of the canned "goodbye" responses.
-        responder.reply(['Bye!', 'Goodbye!', 'Have a nice day.', 'See you later.'])
+        responder.reply(['Bye! 👋', 'Goodbye! 👋', 'Have a nice day. 👋', 'See you later. 👋'])
     
 @app.handle(intent='unsupported')
 def say_unsupported(request, responder):
@@ -98,5 +104,5 @@ def say_unsupported(request, responder):
     When the user asks an unrelated question, convey the lack of understanding for the requested
     information and prompt to return to food ordering.
     """
-    replies = ["Sorry, I can't answer this right away! My creators are still working on this :)"]
+    replies = ["Sorry, I couldn't understand it. 😢"]
     responder.reply(replies)

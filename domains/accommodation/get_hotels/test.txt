@@ -15,3 +15,19 @@ hotels in {new delhi|location}
 {novotel juhu|hotel} in {mumbai|location}
 {presidential suite|room_type} for {4|sys_number} people in {new delhi|location}
 {single room|room_type} from {monday|sys_time|checkin} to {saturday|sys_time|checkout}
+Suite|room_type} for {2|sys_number|headcount} in {Amber Garden|hotel_name}
+{villa|room_type} for {2|sys_number|headcount} in {Aarey Guest House|hotel_name}
+{Suite|room_type} for {2|sys_number|headcount} in {Shelter|hotel_name}
+rooms for {2|sys_number|headcount} in {Aarey Guest House|hotel_name}
+{2|sys_number|room_count} {villa|room_type} in {Amber Garden|hotel_name}
+{Sanjoy Lodge|hotel_name} availability of rooms
+rooms for {2|sys_number|headcount} in {Palms Hotel|hotel_name}
+{Triple room|room_type} for {2|sys_number|headcount} in {Pride Hotel|hotel_name}
+find me {2|sys_number|room_count} {villa|room_type} in {Akola|location}
+find me {3|sys_number|room_count} {Suite|room_type} in {Akola|location} for {3|sys_number|headcount} in {Hotel Lb|hotel_name}
+find me {4|sys_number|room_count} {Triple room|room_type} near {red fort|tourist_attraction} for {3|sys_number|headcount}
+{5|sys_number|room_count} {deluxe suite|room_type} near {qutub minar|tourist_attraction}
+{deluxe suite|room_type} in {Kanak Veg|hotel_name}
+{7|sys_number|room_count} {deluxe suite|room_type} near {qutub minar|tourist_attraction} for {45|sys_number|headcount}
+{deluxe suite|room_type} near {qutub minar|tourist_attraction} for {45|sys_number|headcount}
+What about my accomodation in {pune|location}

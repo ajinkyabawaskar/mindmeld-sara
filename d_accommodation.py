@@ -43,7 +43,17 @@ hotel_form = {
 def get_hotels(request, responder):
     for entity in request.entities:
         if entity['type'] == 'location':
-            location_entity = entity    
+            location_entity = entity
+        if entity['type']  == 'homestay_filters':
+            homestay_entity = entity
+        # partial entities
+        # frame
+    try:
+        responder.slots['filter'] = ' '+homestay_entity['value'][0]['cname']+' '
+        responder.frame['filter'] = ' '+homestay_entity['value'][0]['cname']+' '
+    except:
+        responder.slots['filter'] = ' '
+        responder.frame['filter'] = ' '
     try:
         if len(location_entity['value'])>0:   
             location = location_entity['value'][0]['cname']
@@ -55,6 +65,7 @@ def get_hotels(request, responder):
                 homestays = response.json()
                 if homestays['status']:
                     responder.frame['homestays'] = homestays['response'][0]
+                    responder.frame['homestays'] = homestays['response'][0]
                     responder.reply('Cool. We have partnered with some folks from {destination} who would like to host tourists like you so you get the closest local experience. Would you like to know more?')
                     responder.frame['expecting_homestay_preference'] = True
                     # request.allowed_intents=['confirm','exit']
@@ -63,7 +74,7 @@ def get_hotels(request, responder):
                     try:
                         responder.frame['hotels'] = hotels
                         responder.slots['hotels'] =", ".join(hotels[0]['hotels'])
-                        responder.reply("Here are some hotels at {destination}- {hotels}\nWhere would you like to book?")
+                        responder.reply("Here are some{filter}hotels at {destination}- {hotels}\nWhere would you like to book?")
                         # request.target_dialogue_state = 'get_availability'
                     except:
                         responder.reply("Sorry! Couldn't find hotels at {destination}")
@@ -72,7 +83,7 @@ def get_hotels(request, responder):
                 try:
                     responder.frame['hotels'] = hotels
                     responder.slots['hotels'] =", ".join(hotels[0]['hotels'])
-                    responder.reply("Here are some hotels at {destination}- {hotels}\nWhere would you like to book?")
+                    responder.reply("Here are some{filter}hotels at {destination}- {hotels}\nWhere would you like to book?")
                     # request.target_dialogue_state = 'get_availability'
                 except:
                     responder.reply("Sorry! Couldn't find hotels at {destination}")

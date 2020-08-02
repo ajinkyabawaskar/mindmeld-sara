@@ -4,20 +4,42 @@ Any place to stay in {Hoshangabad|location}
 Any lodge in {Mahendragarh|location}
 Hotel in {Vizianagaram|location}
 Lodge in {Alwar|location}?
+Hotel for {2|sys_number|headcount} in {Kaushambi|location}
+{Suite|room_type} for {2|sys_number|headcount} in {Ontime Apartment|hotel_name}
+{2|sys_number|room_count} {Suite|room_type} in {Sanjoy Lodge|hotel_name}
+{Suite|room_type} for {7|sys_number|headcount} in {Hotel Lb|hotel_name}
+{2|sys_number|room_count} {Suite|room_type} in {Mumbai|location}
+{Suite|room_type} for {2|sys_number|headcount} in {Amber Garden|hotel_name}
+{villa|room_type} for {2|sys_number|headcount} in {Aarey Guest House|hotel_name}
+{Suite|room_type} for {2|sys_number|headcount} in {Shelter|hotel_name}
+rooms for {2|sys_number|headcount} in {Aarey Guest House|hotel_name}
+{2|sys_number|room_count} {villa|room_type} in {Amber Garden|hotel_name}
+{Sanjoy Lodge|hotel_name} availability of rooms
+rooms for {2|sys_number|headcount} in {Palms Hotel|hotel_name}
+{Triple room|room_type} for {2|sys_number|headcount} in {Pride Hotel|hotel_name}
 find me {2|sys_number|room_count} {villa|room_type} in {Akola|location}
-find me {3|sys_number|room_count} {Suite|room_type} in {Akola|location} for {3|sys_number|headcount}
+find me {3|sys_number|room_count} {Suite|room_type} in {Akola|location} for {3|sys_number|headcount} in {Hotel Lb|hotel_name}
 find me {4|sys_number|room_count} {Triple room|room_type} near {red fort|tourist_attraction} for {3|sys_number|headcount}
 {5|sys_number|room_count} {deluxe suite|room_type} near {qutub minar|tourist_attraction}
-{deluxe suite|room_type} near {qutub minar|tourist_attraction}
+{deluxe suite|room_type} in {Kanak Veg|hotel_name}
 {7|sys_number|room_count} {deluxe suite|room_type} near {qutub minar|tourist_attraction} for {45|sys_number|headcount}
 {deluxe suite|room_type} near {qutub minar|tourist_attraction} for {45|sys_number|headcount}
 What about my accomodation in {Kaushambi|location}
 Stay options in {Umaria|location}
 Can I find any place to stay in {Raigad|location}
 Show me stay options in {Bhagalpur|location}
-Where to stay in {Mau|location}
+Where to stay in {Mau|location} near {qutub minar|tourist_attraction}
 Help me plan my accommodation during my tour to {Washim|location}
 Help me plan my stay at {Jodhpur|location}
+Tell me about {SK Hotel|hotel_name}
+Book {3|sys_number|room_count} in {Aver Hotel|hotel_name}
+Book rooms in {Kanak Veg|hotel_name}
+are rooms available in {Sanjoy Lodge|hotel_name}
+Is {SK Hotel|hotel_name} availaible
+Book a {Suite|room_type} in {Aver Hotel|hotel_name} {Suite|room_type}
+Are {3|sys_number|room_count} {Suite|room_type} available in {Pune|location}
+Book {Aver Hotel|hotel_name} in {Mumbai|location}
+Suggest hotels with {3|sys_number|room_count} 
 Which is the best hotel in {Lohardaga|location}
 Best place to stay in {Buldhana|location}
 Can you tell me about the best place to stay in {Krishna|location}

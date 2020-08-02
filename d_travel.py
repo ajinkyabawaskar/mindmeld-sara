@@ -87,7 +87,7 @@ def send_flights(request, responder):
     try:
         arrival = arrival_entity['value'][0]['value']
         responder.slots['arrival'] = arrival
-        responder.frame['arrival'] = departure
+        responder.frame['arrival'] = arrival
     except:
         responder.slots['arrival'] = "no arrival found"
         responder.frame['arrival'] = "no arrival found"

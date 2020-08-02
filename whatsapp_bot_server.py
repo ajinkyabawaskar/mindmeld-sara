@@ -35,14 +35,28 @@ class WhatsappBotServer:
         def handle_message():  # pylint: disable=unused-variable
             incoming_msg = request.values.get('Body', '').lower()
             resp = MessagingResponse()
-            # creating rest client instance 
-            client = Client(os.environ['TWILIO_ACCOUNT_SID'], os.environ['TWILIO_AUTH_TOKEN'])
             msg = resp.message()
-            response_text = self.conv.say(incoming_msg)[0]
-            image_url = 'https://pbs.twimg.com/profile_images/1274045729170808833/2vT239Ac_400x400.jpg'
-            msg.body(response_text)
-            msg.media_url(image_url)  
-            return str(resp)
+
+            # doing just to skip training dataset later remove and just implement on response_text functionality
+            if incoming_msg == "test media":
+                # creating rest client instance 
+                client = Client(os.environ['TWILIO_ACCOUNT_SID'], os.environ['TWILIO_AUTH_TOKEN'])
+                # this is the Twilio sandbox testing number
+                from_whatsapp_number='whatsapp:+14155238886'
+                # replace this number with your personal WhatsApp Messaging number
+                to_whatsapp_number='whatsapp:+919977216617'
+                # the below image_url will be extracted from responnse_text
+                image_url = 'https://pbs.twimg.com/profile_images/1274045729170808833/2vT239Ac_400x400.jpg'
+
+                message = client.messages.create(body='its your twitter profile right, Yash?',
+                        media_url='https://pbs.twimg.com/profile_images/1274045729170808833/2vT239Ac_400x400.jpg',
+                        from_=from_whatsapp_number,
+                        to=to_whatsapp_number)
+
+            else:
+                response_text = self.conv.say(incoming_msg)[0]
+                msg.body(response_text) 
+                return str(resp)
 
     def run(self, host="localhost", port=7150):
         self.app.run(host=host, port=port)

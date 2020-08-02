@@ -22,9 +22,11 @@ def confirm_action(request, responder):
                 responder.slots['checkin'] = homestays['checkin']
                 responder.slots['checkout'] = homestays['checkout']
                 responder.slots['amount'] = homestays['amount']
+                responder.slots['contact'] = homestays['contact']
+                responder.slots['images'] = ", ".join(homestays['url'])
                 responder.reply("Great! {name} has a {type} property that can accomodate"
                                 " {people} people, and has {amenities}. It is available between"
-                                " {checkin} and {checkout}. Would you like to book for {amount}?")
+                                " {checkin} and {checkout}.\nContact: {contact} Images: {images}. Would you like to book for {amount}?")
                 responder.frame['expecting_homestay_confirmation'] = True
             except:
                 responder.frame['expecting_homestay_preference'] = True
@@ -36,8 +38,9 @@ def confirm_action(request, responder):
                 homestay = responder.frame.get('homestays')
                 responder.slots['name'] = homestay['name']
                 responder.slots['homestay_id'] = homestay['homestay_id']
-                responder.reply("Your homestay with {name} has been confirmed! Find invoice here:"
-                " https://myacademic.space/invoices?homestay_id={homestay_id}B")
+                responder.slots['password'] = homestay['hompasswordestay_id']
+                responder.reply("Your homestay with {name} has been confirmed! Find your password protected invoice here:"
+                " https://myacademic.space/invoices?homestay_id={homestay_id}B and password is {password}")
             except:
                 responder.frame['expecting_homestay_confirmation'] = True
                 responder.reply("Oops! Can you try again?")

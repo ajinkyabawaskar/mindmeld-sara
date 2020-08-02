@@ -120,24 +120,3 @@ def send_flights(request, responder):
         responder.reply("I couldn't check the availability. Please try again after some time.")
 
 
-@app.handle(intent='get_recommendations')
-def send_recommendations(request, responder):
-    try:
-            
-        for entity in request.entities:
-            if entity['type'] == 'experiences':
-                experience = entity
-            if entity['type'] == 'tourist_attractions':
-                tourist_attractions = entity
-        try:
-            responder.slots['exp'] = experience
-        except:
-            responder.slots['exp'] = "No EXP"
-        try:
-            responder.slots['ta'] = tourist_attractions
-        except:
-            responder.slots['ta'] = "No TA"
-        
-        responder.reply('{exp}\n{ta}')
-    except:
-        responder.reply("Recommending..")

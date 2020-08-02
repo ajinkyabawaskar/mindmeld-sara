@@ -2,6 +2,7 @@ import logging
 
 from flask import Flask, request
 from twilio.twiml.messaging_response import MessagingResponse
+from twilio.rest import Client
 
 from mindmeld.components import NaturalLanguageProcessor
 from mindmeld.components.dialogue import Conversation
@@ -34,9 +35,13 @@ class WhatsappBotServer:
         def handle_message():  # pylint: disable=unused-variable
             incoming_msg = request.values.get('Body', '').lower()
             resp = MessagingResponse()
+            # creating rest client instance 
+            client = Client(os.environ['TWILIO_ACCOUNT_SID'], os.environ['TWILIO_AUTH_TOKEN'])
             msg = resp.message()
             response_text = self.conv.say(incoming_msg)[0]
+            image_url = 'https://pbs.twimg.com/profile_images/1274045729170808833/2vT239Ac_400x400.jpg'
             msg.body(response_text)
+            msg.media_url(image_url)  
             return str(resp)
 
     def run(self, host="localhost", port=7150):

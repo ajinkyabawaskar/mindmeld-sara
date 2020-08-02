@@ -38,7 +38,14 @@ def confirm_action(request, responder):
                 homestay = responder.frame.get('homestays')
                 responder.slots['name'] = homestay['name']
                 responder.slots['homestay_id'] = homestay['homestay_id']
-                responder.slots['password'] = homestay['hompasswordestay_id']
+                try:
+                    url = "https://myacademic.space/book-homestay/?apiKey=761b43d33fc96a69e58d0f281eb68742&homestay_id"+homestay['homestay_id']
+                    response = requests.get(url)
+                    if response.status_code == 200:
+                        response = response.json()
+                        responder.slots['password'] = response['password']
+                except:
+                    responder.slots['password'] = 'uyv232bj23nk'
                 responder.reply("Your homestay with {name} has been confirmed! Find your password protected invoice here:"
                 " https://myacademic.space/invoices?homestay_id={homestay_id}B and password is {password}")
             except:

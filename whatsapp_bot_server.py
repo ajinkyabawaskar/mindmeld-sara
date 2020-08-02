@@ -9,7 +9,7 @@ from mindmeld.components import NaturalLanguageProcessor
 from mindmeld.components.dialogue import Conversation
 from mindmeld import configure_logs
 
-
+client = Client(os.environ['TWILIO_ACCOUNT_SID'], os.environ['TWILIO_AUTH_TOKEN'])
 class WhatsappBotServer:
     """
     A sample server class for Whatsapp integration with any MindMeld application
@@ -32,6 +32,12 @@ class WhatsappBotServer:
         self.conv = Conversation(nlp=self.nlp, app_path=app_path)
         self.logger = logging.getLogger(__name__)
 
+        if not client:
+            self.client = Client(os.environ['TWILIO_ACCOUNT_SID'], os.environ['TWILIO_AUTH_TOKEN'])
+        else:
+            self.client = client
+
+            
         @self.app.route("/", methods=["POST"])
         def handle_message():  # pylint: disable=unused-variable
             incoming_msg = request.values.get('Body', '').lower()
@@ -42,11 +48,11 @@ class WhatsappBotServer:
             if incoming_msg == "test media":
                 # creating rest client instance
                 try:
-                    try:
-                        client = Client(os.environ['TWILIO_ACCOUNT_SID'], os.environ['TWILIO_AUTH_TOKEN'])
-                    except   
-                        msg.body("client nai bani")                            
-                        return str(resp)   
+                    # try:
+                    #     client = Client(os.environ['TWILIO_ACCOUNT_SID'], os.environ['TWILIO_AUTH_TOKEN'])
+                    # except   
+                    #     msg.body("client nai bani")                            
+                    #     return str(resp)   
                     # this is the Twilio sandbox testing number
                     from_whatsapp_number='whatsapp:+14155238886'
                     # replace this number with your personal WhatsApp Messaging number
@@ -62,7 +68,7 @@ class WhatsappBotServer:
                     except:
                         msg.body("msg me dikkat hai kuch toh!")                            
                         return str(resp)                     
-                                     
+
                     msg.body("did everything but no reply")                            
                     return str(resp)                                                           
                 except:

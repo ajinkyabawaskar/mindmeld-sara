@@ -119,10 +119,6 @@ def send_flights(request, responder):
     else:
         responder.reply("I couldn't check the availability. Please try again after some time.")
 
-    # except:
-    #     responder.slots['response'] = "no data found"
-        #  source, destination, flight_class, seats, arrival, departure
-    # responder.reply("{response}")
 
 @app.handle(intent='get_recommendations')
 def send_recommendations(request, responder):

@@ -34,6 +34,7 @@ Aurangabad
 Aurangabad
 Azamgarh
 Badgam
+Badrinath
 Bagalkot
 Bageshwar
 Bagpat
@@ -312,6 +313,7 @@ Katihar
 Katni
 Kausani
 Kaushambi
+Kedarnath
 Kendrapara
 Kendujhar (keonjhar)
 Khagaria

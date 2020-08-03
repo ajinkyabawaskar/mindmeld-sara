@@ -1,3 +1,6 @@
+hotels
+check hotels
+find hotels
 Can you find me a {highest rated|homestay_filters} hotel in {Nawada|location}
 Any place to stay in {Hoshangabad|location}
 {New Star Hotel|hotel} in {Nabarangpur|location}
@@ -59,174 +62,385 @@ What about homestay in {Kishanganj|location}
 Is there anyone offering homestay in {Dharwad|location}
 Is there anyone willing to provide  home stay in {Khagaria|location}
 Home stay in {Boudh (Bauda)|location}
-Anyone offering homestay in {Sirmaur|location}
-Places to stay in {Aurangabad|location}
-{hottest|homestay_filters}  luxury hotel in {Jammu|location}
-Which is the {most recently visited|homestay_filters}  luxury hotel in {Solan|location}
-{top|homestay_filters}  budget hotel in {Kota|location} 
-Which is the {lowest rated|homestay_filters}  budget hotel in {Sri Muktsar Sahib|location} 
-Find some hotels in {old classic|homestay_filters}  areas of {Yadgir|location}
-Recommend me a good hotel in {Ashok Nagar|location}
-Recommend me a nice place to stay in {West Singhbhum|location}
-Recommend me a place to stay in {Sahibganj|location}
-Suggest a good hotel in {Sant Kabir Nagar|location}
 Suggest me a good hotel in {Khammam|location}
-Suggest me some good places to stay in {Tirap|location}
-Suggest me some accomodation options in {Badgam|location}
-Suggest a good luxury hotel in {Neemuch|location}
-Suggest me a good luxury hotel in {Kakinada|location}
-Which hotel do you recommend to stay in {East Garo Hills|location}
-Which is the {lowest rated|homestay_filters}  hotel in {Sonitpur|location}
-Which hotel do you recommend me to stay in {Balangir|location}
-Give me a list of affordable hotels in {Erode|location} 
-Give me list of luxury hotels in {South Tripura|location} 
-Give me some information about five star hotels in {Kakinada|location}
-Give me some information about luxury hotels in {Pithoragarh|location}
-Help me find the {highly rated|homestay_filters}  luxury hotel in {Chhindwara|location} 
-Where to stay in {Mahe|location} from {today|sys_time|checkin} to {saturday|sys_time|checkout}
-Where to stay in {Bhopal|location}
-Help me find a right stay in {Mahoba|location}
-Home stay in {Dewas|location} for {7|sys_number|headcount}
-Can you help me find a place to stay in {Fatehabad|location} for {4|sys_number|headcount}
-Can you help me find a perfect place to stay in {Jamnagar|location} 
-Help me with {2|sys_number|room_count} {villa|room_type} booking in {Reasi |location}
-Can you help me with hotel booking in {Katihar|location} 
-In which hotel should I stay in {Koppal|location}
-{2|sys_number|room_count} {single room|room_type} in {Red Apple Resorts|hotel} at {Nagpur|location} for {3|sys_number|headcount}
-Where is it possible to book rooms at the {hot|homestay_filters}  price in  {Bhandara|location}
+Give me some information about five star hotels in {ahmednagar|location} in {Shri Gayathri-Adilabad|hotel}
+What about homestay in {Kishanganj|location} in {Hotel Raghavendra|hotel}
+Suggest a good hotel in {Sant Kabir Nagar|location} in {Babina Hospitalities Private Limited|hotel}
 Find a {Executive suite|room_type} at {successful|homestay_filters}  price in {Hyderabad|location}
-Find me a {Executive suite|room_type} with {new|homestay_filters}  price and discounts in {Cachar|location}
-Help me find a {Presidential suite|room_type} at {highest grossing|homestay_filters}  price in {Ludhiana|location}
-Help me find a {Standard suite|room_type} with {first|homestay_filters}  price and discounts in {Chandrapur|location}
-Suggest me a {Standard suite|room_type} at {old|homestay_filters}  price in {Farrukhabad|location}
-Suggest me a {penthouse|room_type} with {top grossing|homestay_filters}  price and discount in {Panchkula|location}
-Recommend me a {penthouse|room_type} at {good review|homestay_filters}  price 
-Reccomend me a hotel room with {classic|homestay_filters}  price and discount in {Chamba|location}
 Can you suggest me a good hotel to stay with family in {Kottayam|location} 
-Can you suggest me some budget hotels in {Sangrur|location} for {8|sys_number|headcount}?
-Cheap hotel room in {Solapur|location} from {monday|sys_time|checkin}
-Which hotel should I prefer staying in {Porbandar|location}
-Can you tell me which hotel should I prefer for staying in {Banglore|location} for {20|sys_number|headcount} people
-Can you help me find out a hotel in {Chennai|location} for three people
-Can you help me choose the {most recently visited|homestay_filters}  hotel in {Jaunpur district|location} for {6|sys_number|headcount} people 
-Can you suggest me which hotel should I prefer for staying in {Jind|location} for three people 
-Can you recommend me which hotel should I prefer for staying in {Maharajganj|location} for three people 
- Recommend me some hotel options in {Idukki|location}
-Tell me about {highest rated|homestay_filters}  of all hotels in {Doda|location}
-Please help me find a good hotel in {Palwal|location}
-What about my stay in {Kolar|location} 
-Five star hotel in {Mehsana|location}
-find me a {villa|room_type}
-Hotel with exotic locations in {Tawang|location} 
-Cheap home stay in {Nadia|location}
-Place to stay in {Akola|location}at low price
-{great|homestay_filters}  budget hotel in {Delhi|location}
-Check hotel availability in {Mumbai |location}
-Please check hotel room availability in {Pune |location}
-Provide details about hotels in {Kullu|location}
-Can you check hotel room availability in {Senapati |location}
-How much a stay in {Lucknow|location} cost for {5|sys_number|headcount} from {monday|sys_time|checkin}
-Check reviews of hotels in {Tirupur|location}
-Please let me know about room availability in {Mandla|location} on {25 January|sys_time|checkin}
-Can you help me with hotel room booking in {Mahbubnagar |location}
-Check room availability and price in {Lakhimpur|location}hotels
-Suggest hotels location in the {most successful|homestay_filters}  areas of {Lalitpur|location}
-Check hotel availability and accessibility in {Dadra and Nagar Haveli |location}
-Suggest me some famous hotels in {Serchhip|location}
-Recommend me some famous hotels in {Boudh (Bauda)|location}
-Which is the most famous hotel in {Hanumangarh|location}
-Can you tell me which is the most famous hotel in {Bishnupur|location}
-I want to book {double room|room_type} in {Shiva Guest House|hotel} for {6|sys_number|headcount} persons
-Famous hotels in {Churu|location}
-Most popular hotel in {Shajapur|location}
-Can you suggest me few popular hotels in {Sheopur |location}
-Please suggest me few popular hotels of {Jagatsinghpur|location}
-Recommend me a few popular hotels of {Firozpur |location}
-Which is the most popular place to stay in {Seraikela Kharsawan|location}
-Which is the most popular hotel in {Ashok Nagar|location}
-Finest {Shukrana Resort|hotel} in {Rajkot|location}
-Which is the finest hotel in {Coimbatore|location}
-What five star hotel in {Kishtwar|location}have nice view
-Suggest me some hotels in {Gumla|location}with nice view
-Find me a seven star hotel in {Kohima|location}
-Find me hotel room with nice view in {Warangal|location}
-Can you find me a hotel in {delhi|location}
-Any place to stay in {delhi|location}
-Any hotel in {delhi|location}
-Any lodge in {delhi|location}
-Hotel in {delhi|location}
-Find a hotel for {3|sys_number|headcount}
-Hotels availability on {monday|sys_time|checkin}
-Hotels availability on {monday|sys_time|checkin} to {tuesday|sys_time|checkout}
-Lodge in {delhi|location}?
-What about my accomodation in {delhi|location}
-Stay options in {delhi|location}
-Can I find any place to stay in {delhi|location}
-Show me stay options in {delhi|location}
-Where to stay in {delhi|location}
-Help me plan my accommodation during my tour to {delhi|location}
-Help me plan my stay at {delhi|location}
-Which is the {old|homestay_filters}  hotel in {delhi|location}
-{brand new|homestay_filters}  place to stay in {delhi|location} in {december|sys_time|checkin}
-Can you tell me about the {what's new|homestay_filters}  place to stay in {delhi|location}
-Find  a hotel in {delhi|location}
-Find me a homestay in {delhi|location}
-Find me a homestay in {akola|location}  for {3|sys_number|headcount} people
-Hotel with {best rated|homestay_filters}  in {akola|location}
-Find me a hotel with {new|homestay_filters}  from customer in {akola|location} for for {88|sys_number|headcount}
-What about homestay in {amravati|location}
-Recommend me a place to stay in {agra|location}
-Suggest a good hotel in {agra|location}
-Suggest me a good hotel in {agra|location}
-Suggest me some good places to stay in {agra|location}
-Suggest me some accomodation options in {agra|location}
-Suggest a good luxury hotel in {agra|location} for {3|sys_number|headcount} persons
-Suggest me a good luxury hotel in {agra|location}
-Which hotel do you recommend to stay in {agra|location}
-Which is the {first|homestay_filters}  hotel in {agra|location}
-Which hotel do you recommend me to stay in {agra|location}
-Give me a list of affordable hotels in {ahmednagar|location} 
+Any place to stay in {Hoshangabad|location}
+Which is the {lowest rated|homestay_filters}  budget hotel in {Sri Muktsar Sahib|location} 
+Find me a homestay in {Thrissur|location}  for three people
+Find  a hotel in {Bidar|location}
+hotel hotel hotel hotel hotel
+Is there anyone offering homestay in {Dharwad|location}
+Help me plan my stay at {Jodhpur|location}
+Give me list of luxury hotels in {South Tripura|location}  in {Havngo|hotel}
 Give me list of luxury hotels in {ahmednagar|location} 
-Give me some information about five star hotels in {ahmednagar|location}
-Give me some information about luxury hotels in {ahmednagar|location}
-Help me find the {great|homestay_filters}  luxury hotel in {ahmednagar|location} 
-Where to stay in {ahmednagar|location} for two days
-Where to stay in {ahmednagar|location} {3|sys_number|headcount} people
+Help me plan my stay at {Jodhpur|location}
+hotel hotel hotel hotel hotel
+hotels at {taj mahal|tourist_attraction}
+{red fort|tourist_attraction}
+{deluxe suite|room_type} near {qutub minar|tourist_attraction} in {Sri Mudhaliyar Hotel|hotel}
+Find some hotels in {old classic|homestay_filters}  areas of {Yadgir|location} in {Hotel Shyam Utsav|hotel}
+Can you help me with hotel booking in {Katihar|location} 
 Help me find a right stay in {ahmednagar|location}
-Home stay in {ahmednagar|location}
-Can you help me find a place to stay in {ahmednagar|location}
-Can you help me find a perfect place to stay in {ahmednagar|location} 
-Help me with hotel booking in {ahmednagar |location}
-Can you help me with hotel booking in {ahmednagar|location} 
+Help me find a {villa|room_type} with {classics|homestay_filters}  price and discounts in {aizawl|location} in {Hotel Maruti|hotel}
+{deluxe suite|room_type} near {qutub minar|tourist_attraction} in {Shelter|hotel}
+hotels close to {Taj Mahal|tourist_attraction} in {NOVOTEL-JUHU|hotel}
+Hotel in {delhi|location}
+Find me a hotel with {new|homestay_filters}  from customer in {akola|location} for for {88|sys_number|headcount} in {Viru Hotel-Dhurwamore Gomia|hotel}
+Suggest me a {Standard suite|room_type} at {old|homestay_filters}  price in {Farrukhabad|location}
+Where is it possible to book rooms at the {best-rated|homestay_filters}  price in  {aizawl|location} in {Hotel Buddha|hotel}
+Suggest a good luxury hotel in {Neemuch|location} in {Bon Polashi|hotel}
+Which hotel do you recommend to stay in {agra|location}
+Can you help me find a perfect place to stay in {Jamnagar|location} 
+Find  a hotel in {Bidar|location}
+Help me plan my accommodation during my tour to {Washim|location} in {Ocean Hills Pereira Farms|hotel}
+Where to stay in {Bhopal|location}
+Suggest me some accomodation options in {Badgam|location}
 In which hotel should I stay in {aizawl|location}
-Where is it possible to book rooms at the {best-rated|homestay_filters}  price in  {aizawl|location}
-Find a hotel room at {most recently visited|homestay_filters}  price in {aizawl|location}
-Find me a {single room|room_type} with {most successful|homestay_filters}  price and discounts in {aizawl|location}
-Help me find a {villa|room_type} at {brand new|homestay_filters}  price in {aizawl|location}
-Help me find a {villa|room_type} with {classics|homestay_filters}  price and discounts in {aizawl|location}
-Suggest me a {joint room|room_type} at {best|homestay_filters}  price in {aizawl|location}
-Suggest me a {double room|room_type} with {old classic|homestay_filters}  price and discount in {aizawl|location}
-Recommend me a {mini suite|room_type} at {top|homestay_filters}  price in {aizawl|location}
-Reccomend me a {junior suite|room_type} with {popular|homestay_filters}  price and discount in {aizawl|location}
-Can you suggest me a good hotel to stay with family in {Madurai|location} 
-Can you suggest me some budget hotels in {Viluppuram|location}?
-Cheap {junior suite|room_type} in {Yanam|location} for {3|sys_number|headcount}
-Which hotel should I prefer staying in {Ajitgarh (Mohali)l|location}
-Can you tell me which hotel should I prefer for staying in {Ajitgarh (Mohali)l|location} for {67|sys_number|headcount} people
-Can you help me find out a hotel in {Ajitgarh (Mohali)l|location} for three people
-Can you help me choose the {old classic|homestay_filters}  hotel in {Ajitgarh (Mohali)l|location} for three people 
-Can you suggest me which hotel should I prefer for staying in {Ajitgarh (Mohali)l|location} for {34|sys_number|headcount} people 
-Can you recommend me which hotel should I prefer for staying in {Ajitgarh (Mohali)l|location} for {29|sys_number|headcount} people 
-Recommend me some hotel options in {Ajitgarh (Mohali)l|location}
-Tell me about {best|homestay_filters}  of all hotels in {Ajitgarh (Mohali)l|location} for {2|sys_number|headcount}
-Please help me find a good hotel in {Ajitgarh (Mohali)l|location}for {5|sys_number|headcount}
-What about my stay in {Ajitgarh (Mohali)l|location} 
-Five star hotel in {latur|location}
-Hotel with exotic locations in {latur|location} 
-Cheap home stay in {latur|location}
-Place to stay in {latur|location} at low price
-{best rated|homestay_filters}  budget hotel in {latur|location}
-hotels near {red fort|tourist_attraction}
-hotels close to {Taj Mahal|tourist_attraction}
+Give me a list of affordable hotels in {Erode|location} 
+Find me a homestay in {delhi|location}
+Home stay in {Dewas|location} for {7|sys_number|headcount}
+Where is it possible to book rooms at the {best-rated|homestay_filters}  price in  {aizawl|location} in {Ramulamma Hotel-Neelapalli|hotel}
+Where to stay in {Mahe|location} from {today|sys_time|checkin} to {saturday|sys_time|checkout} in {Tourist Lodge|hotel}
 {villa|room_type} near {Badrinath|tourist_attraction}
-{villa|room_type} near {kedarnath|tourist_attraction} for {2|sys_number|headcount}
+Which is the {first|homestay_filters}  hotel in {agra|location} in {Hotel Ashwin|hotel}
+Tell me about {best|homestay_filters}  of all hotels in {Ajitgarh (Mohali)l|location} for {2|sys_number|headcount}
+Recommend me a good hotel in {Ashok Nagar|location}
+Reccomend me a hotel room with {classic|homestay_filters}  price and discount in {Chamba|location} in {Sundar Hotel Food|hotel}
+Which is the {best rated|homestay_filters} hotel in {Lohardaga|location} in {Hotel Ram Vilas Palace|hotel}
+Check reviews of hotels in {Tirupur|location}
+Recommend me a {penthouse|room_type} at {good review|homestay_filters}  price 
+Can you help me find a perfect place to stay in {ahmednagar|location}  in {Mohamd Sabir Hotel-Mahadev Palav|hotel}
+find me {2|sys_number|room_count} {villa|room_type} in {Akola|location} in {Hotel Shiva Sangam Residency|hotel}
+Can you suggest me a good hotel to stay with family in {Kottayam|location} 
+Can you tell me which hotel should I prefer for staying in {Ajitgarh (Mohali)l|location} for {67|sys_number|headcount} people
+Any lodge in {Mahendragarh|location}
+Cheap {junior suite|room_type} in {Yanam|location} for {3|sys_number|headcount}
+Suggest me a good hotel in {Khammam|location}
+Lodge in {delhi|location}?
+Any place to stay in {Hoshangabad|location}
+Reccomend me a hotel room with {classic|homestay_filters}  price and discount in {Chamba|location} in {Hotel Aditi|hotel}
+Suggest me a good luxury hotel in {agra|location} in {Gaytri Vetetabal|hotel}
+What about my accomodation in {delhi|location} in {Ajanta-Shanti Nagar|hotel}
+Can you suggest me which hotel should I prefer for staying in {Jind|location} for three people  in {Gokul Restaurant|hotel}
+Which hotel do you recommend me to stay in {agra|location}
+Suggest me a good hotel in {Khammam|location}
+Which is the most famous hotel in {Hanumangarh|location}
+Help me find a right stay in {Mahoba|location} in {Kumawat Restaurant Indian|hotel}
+Recommend me some hotel options in {Ajitgarh (Mohali)l|location} in {Sheiks Junction|hotel}
+{best rated|homestay_filters}  budget hotel in {latur|location} in {Hotel Samdareeya Katni|hotel}
+{best rated|homestay_filters}  budget hotel in {latur|location} in {Sai Beach Home|hotel}
+Where to stay in {Bhopal|location}
+Recommend me a {penthouse|room_type} at {good review|homestay_filters}  price 
+Give me some information about five star hotels in {ahmednagar|location} in {Shree Aurobindo Bhawan-Cuttack|hotel}
+Hotel in {delhi|location}
+Give me some information about luxury hotels in {Pithoragarh|location} in {Gem Park-Ooty|hotel}
+Can you tell me which hotel should I prefer for staying in {Ajitgarh (Mohali)l|location} for {67|sys_number|headcount} people
+hotels close to {Taj Mahal|tourist_attraction} in {Hotel Brijeshwari-Kangra|hotel}
+Which hotel should I prefer staying in {Porbandar|location} in {Jogendra Hotel|hotel}
+Can you tell me which hotel should I prefer for staying in {Banglore|location} for {20|sys_number|headcount} people
+Find me a homestay in {Chhatarpur|location} in {Spot on 64941 Awasiya Subhash Hotel|hotel}
+Anyone offering homestay in {Sirmaur|location} in {The Gandharva Retreat|hotel}
+Can I find any place to stay in {delhi|location} in {Sethiya Marriage Garden, Ratlam|hotel}
+Give me list of luxury hotels in {ahmednagar|location} 
+Find me a homestay in {Thrissur|location}  for three people
+Please help me find a good hotel in {Ajitgarh (Mohali)l|location}for {5|sys_number|headcount} in {Ibankordor Jungle Resort|hotel}
+Find me a {Executive suite|room_type} with {new|homestay_filters}  price and discounts in {Cachar|location} in {Hill View Shanti Raj Resort|hotel}
+Which is the most popular hotel in {Ashok Nagar|location} in {Chiru|hotel}
+Can you help me find out a hotel in {Ajitgarh (Mohali)l|location} for three people in {Sai Beach Home|hotel}
+Can you help me find out a hotel in {Ajitgarh (Mohali)l|location} for three people in {Hotel Tithal|hotel}
+Suggest a good luxury hotel in {agra|location} for {3|sys_number|headcount} persons
+Suggest a good luxury hotel in {agra|location} for {3|sys_number|headcount} persons
+find me {2|sys_number|room_count} {villa|room_type} in {Akola|location} in {Hotel Deepraj|hotel}
+Check room availability and price in {Lakhimpur|location}hotels in {Hotel Parida-Modipada|hotel}
+Hotels availability on {monday|sys_time|checkin} to {tuesday|sys_time|checkout} in {Halli Mane|hotel}
+Give me a list of affordable hotels in {ahmednagar|location}  in {Geeta Hotel|hotel}
+Check room availability and price in {Lakhimpur|location}hotels in {Raghu Hotel|hotel}
+Suggest a good hotel in {agra|location}
+Recommend me a place to stay in {agra|location} in {Mawphanlur Traveller�S Nest|hotel}
+Hotel with {best rated|homestay_filters}  in {akola|location}
+Which is the {most recently visited|homestay_filters}  luxury hotel in {Solan|location}
+Suggest a good luxury hotel in {Neemuch|location} in {Hotel Shri Hari|hotel}
+Any place to stay in {delhi|location} in {Countryside Hotel-Ududeniya|hotel}
+Suggest me some good places to stay in {agra|location}
+Suggest me some accomodation options in {agra|location} in {Hotel Santosh|hotel}
+Help me find a {villa|room_type} with {classics|homestay_filters}  price and discounts in {aizawl|location} in {Central Court Hotel|hotel}
+What about my stay in {Ajitgarh (Mohali)l|location} 
+Please help me find a good hotel in {Ajitgarh (Mohali)l|location}for {5|sys_number|headcount} in {Hotel Nova|hotel}
+Which is the {best rated|homestay_filters} hotel in {Lohardaga|location} in {Leipese Canteen|hotel}
+find me {highest rated|homestay_filters}  {4|sys_number|room_count} {Triple room|room_type} near {red fort|tourist_attraction} for {3|sys_number|headcount} in {Hotel Shaheen-Line Mohalla|hotel}
+Check hotel availability and accessibility in {Dadra and Nagar Haveli |location} in {Havngo|hotel}
+Any lodge in {Mahendragarh|location}
+Can you tell me which hotel should I prefer for staying in {Ajitgarh (Mohali)l|location} for {67|sys_number|headcount} people
+find me a {villa|room_type}
+Cheap {junior suite|room_type} in {Yanam|location} for {3|sys_number|headcount}
+Can you help me find a place to stay in {Fatehabad|location} for {4|sys_number|headcount} in {Yelagirikumar|hotel}
+Can you tell me about the {what's new|homestay_filters}  place to stay in {delhi|location}
+{villa|room_type} near {Badrinath|tourist_attraction}
+Please check hotel room availability in {Pune |location}
+Can you tell me which hotel should I prefer for staying in {Banglore|location} for {20|sys_number|headcount} people
+Please check hotel room availability in {Pune |location}
+Suggest me some good places to stay in {Tirap|location} in {Hotel Bhajgovind|hotel}
+Help me plan my stay at {Jodhpur|location}
+Recommend me a place to stay in {agra|location} in {Mahaveer|hotel}
+{top|homestay_filters}  budget hotel in {Kota|location}  in {Holiday Inn Express Hyderabad Hitec City|hotel}
+What about my stay in {Kolar|location} 
+Any place to stay in {delhi|location} in {Babu Hotel|hotel}
+Suggest me some famous hotels in {Serchhip|location}
+find me a {villa|room_type}
+Help me find a {Presidential suite|room_type} at {highest grossing|homestay_filters}  price in {Ludhiana|location}
+Any hotel in {delhi|location}
+Suggest me a {double room|room_type} with {old classic|homestay_filters}  price and discount in {aizawl|location} in {Hotel 8 PM|hotel}
+Recommend me some hotel options in {Ajitgarh (Mohali)l|location} in {Hotel Namnadu|hotel}
+Can you find me a hotel in {delhi|location}
+Any place to stay in {delhi|location} in {Opium|hotel}
+Any hotel in {delhi|location}
+What about my stay in {Ajitgarh (Mohali)l|location} 
+What about my stay in {Ajitgarh (Mohali)l|location} 
+Where to stay in {Bhopal|location}
+Suggest me a good hotel in {agra|location} in {Babar Hotel|hotel}
+Can you suggest me some budget hotels in {Sangrur|location} for {8|sys_number|headcount}? in {Golden City Plaza|hotel}
+Where to stay in {Mahe|location} from {today|sys_time|checkin} to {saturday|sys_time|checkout} in {Hotel LOTUS|hotel}
+In which hotel should I stay in {Koppal|location} in {Hotel Landmark|hotel}
+find me {highest rated|homestay_filters}  {4|sys_number|room_count} {Triple room|room_type} near {red fort|tourist_attraction} for {3|sys_number|headcount} in {Dindigul Sun Biriyani|hotel}
+Check reviews of hotels in {Tirupur|location}
+Please help me find a good hotel in {Ajitgarh (Mohali)l|location}for {5|sys_number|headcount} in {Hotel Blue Diamond|hotel}
+Places to stay in {Aurangabad|location}
+{deluxe suite|room_type} near {qutub minar|tourist_attraction} in {Kahalu'u Collective|hotel}
+Which is the {first|homestay_filters}  hotel in {agra|location} in {Shivan Hotel|hotel}
+Can you suggest me some budget hotels in {Sangrur|location} for {8|sys_number|headcount}? in {Vijay Dhaba|hotel}
+hotels near {red fort|tourist_attraction}
+Help me find a right stay in {ahmednagar|location}
+Can you help me choose the {most recently visited|homestay_filters}  hotel in {Jaunpur district|location} for {6|sys_number|headcount} people 
+Can you recommend me which hotel should I prefer for staying in {Maharajganj|location} for three people 
+Where to stay in {delhi|location} in {Hotel Junior Kuppanna|hotel}
+Which hotel do you recommend me to stay in {agra|location}
+find me {3|sys_number|room_count} {Suite|room_type} in {Akola|location} for {3|sys_number|headcount}
+Check hotel availability in {Mumbai |location} in {Apna Ghar Tiffin Centre|hotel}
+Can I find any place to stay in {Raigad|location}
+Find  a hotel in {Bidar|location}
+I want to book {double room|room_type} in {Shiva Guest House|hotel} for {6|sys_number|headcount} persons
+Which is the most famous hotel in {Hanumangarh|location}
+Hotel with exotic locations in {latur|location} 
+Can you recommend me which hotel should I prefer for staying in {Ajitgarh (Mohali)l|location} for {29|sys_number|headcount} people 
+Cheap home stay in {latur|location} in {Tulshi Sweet & Fast Food|hotel}
+Find me hotel room with nice view in {Warangal|location} in {Jansi Hotel|hotel}
+Can you suggest me some budget hotels in {Sangrur|location} for {8|sys_number|headcount}? in {Bira Muslim Hotel-Patana Sahi|hotel}
+Suggest hotels location in the {most successful|homestay_filters}  areas of {Lalitpur|location}
+Recommend me some famous hotels in {Boudh (Bauda)|location} in {Guru Simar Lodge|hotel}
+Hotel in {delhi|location}
+Which hotel do you recommend to stay in {agra|location}
+Find me a {single room|room_type} with {most successful|homestay_filters}  price and discounts in {aizawl|location} in {Al Haq Laziz Restourant|hotel}
+Find me a homestay in {delhi|location}
+Can you help me find a place to stay in {Fatehabad|location} for {4|sys_number|headcount} in {Hotel Landmark|hotel}
+Can you suggest me some budget hotels in {Viluppuram|location}? in {The Silver Spoon Sangli|hotel}
+Hotels availability on {monday|sys_time|checkin}
+What about homestay in {amravati|location}
+Can you tell me about the {newer|homestay_filters}  place to stay in {Krishna|location} in {Hotel Bapun-Mahanadi|hotel}
+Can I find any place to stay in {delhi|location} in {Reddy Restaurant.|hotel}
+Suggest me a {Standard suite|room_type} at {old|homestay_filters}  price in {Farrukhabad|location}
+Find me a homestay in {Chhatarpur|location} in {Payal Garden|hotel}
+Recommend me some famous hotels in {Boudh (Bauda)|location} in {Hotelchella|hotel}
+Suggest a good hotel in {agra|location}
+Help me plan my accommodation during my tour to {Washim|location} in {Apna Ghar Tiffin Centre|hotel}
+Cheap {junior suite|room_type} in {Yanam|location} for {3|sys_number|headcount}
+Suggest me some good places to stay in {agra|location}
+Please help me find a good hotel in {Ajitgarh (Mohali)l|location}for {5|sys_number|headcount} in {Shankhyan Fast Food at Mini Market Nerchowk|hotel}
+Give me some information about five star hotels in {ahmednagar|location} in {Bhagabati Hotel|hotel}
+Check hotel availability in {Mumbai |location} in {Paika-Khordha|hotel}
+Where to stay in {Mau|location}
+{best rated|homestay_filters}  budget hotel in {latur|location} in {Hotel Green Palace|hotel}
+Recommend me a {mini suite|room_type} at {top|homestay_filters}  price in {aizawl|location}
+Hotel with {best rated|homestay_filters}  in {akola|location}
+Please help me find a good hotel in {Palwal|location} in {New Swagath Hotel-Elepette|hotel}
+Find me hotel room with nice view in {Warangal|location} in {Feroz Cake N Bake|hotel}
+Can you tell me which is the most famous hotel in {Bishnupur|location} in {Mansa Hotel|hotel}
+Help me find a right stay in {ahmednagar|location}
+Which hotel should I prefer staying in {Porbandar|location} in {New Swagath Hotel-Elepette|hotel}
+find me {2|sys_number|room_count} {villa|room_type} in {Akola|location} in {Spot on 66706 Greenland Resort|hotel}
+ Recommend me some hotel options in {Idukki|location} in {Devu's Residency, Thiruvanathapuram|hotel}
+Find  a hotel in {delhi|location} in {Daawat Hotel|hotel}
+Can I find any place to stay in {delhi|location} in {Hotel Daftari Palace|hotel}
+Please help me find a good hotel in {Palwal|location} in {Shekhwati Resort and Bar|hotel}
+Finest {Shukrana Resort|hotel} in {Rajkot|location}
+Can you find me a hotel in {delhi|location}
+{5|sys_number|room_count} {deluxe suite|room_type} near {qutub minar|tourist_attraction}
+Suggest me a good luxury hotel in {Kakinada|location}
+Find me a homestay in {akola|location}  for {3|sys_number|headcount} people in {Kediyoor Hotels Private Limited|hotel}
+Find me hotel room with nice view in {Warangal|location} in {Suriya Hotel-Ratnagiri|hotel}
+Give me some information about five star hotels in {ahmednagar|location} in {Hotel|hotel}
+{villa|room_type} near {kedarnath|tourist_attraction} for {2|sys_number|headcount} in {Rafting|hotel}
+Can you help me find a place to stay in {ahmednagar|location}
+Suggest me a {double room|room_type} with {old classic|homestay_filters}  price and discount in {aizawl|location} in {Appyan|hotel}
+Can you help me choose the {most recently visited|homestay_filters}  hotel in {Jaunpur district|location} for {6|sys_number|headcount} people 
+Which hotel should I prefer staying in {Porbandar|location} in {Ray G Hotel|hotel}
+Find me a hotel with {good review|homestay_filters}  from customer in {Vidisha|location}
+Help me plan my accommodation during my tour to {Washim|location} in {Hotel Sammati|hotel}
+Can you help me find a perfect place to stay in {ahmednagar|location}  in {Bawarchi Tadka Taste Ka|hotel}
+Help me find a right stay in {ahmednagar|location}
+Which hotel should I prefer staying in {Ajitgarh (Mohali)l|location} in {Hotel 100 Petals|hotel}
+Suggest a good luxury hotel in {agra|location} for {3|sys_number|headcount} persons
+Can you help me find a perfect place to stay in {ahmednagar|location}  in {Shreeyantra Tapu Resort Srinagar Garhwal|hotel}
+Suggest me some good places to stay in {agra|location}
+Help me find the {great|homestay_filters}  luxury hotel in {ahmednagar|location}  in {Rafting|hotel}
+{villa|room_type} near {kedarnath|tourist_attraction} for {2|sys_number|headcount} in {Hotel Singh's-S. A. S Nagar|hotel}
+Show me stay options in {delhi|location}
+Can you recommend me which hotel should I prefer for staying in {Ajitgarh (Mohali)l|location} for {29|sys_number|headcount} people 
+Give me a list of affordable hotels in {Erode|location} 
+Suggest me a {double room|room_type} with {old classic|homestay_filters}  price and discount in {aizawl|location} in {Gandhi Poori Vala Gandhi Sweets|hotel}
+Find me hotel room with nice view in {Warangal|location} in {Kanker Palace Heritage|hotel}
+Can you help me choose the {most recently visited|homestay_filters}  hotel in {Jaunpur district|location} for {6|sys_number|headcount} people 
+{top|homestay_filters}  budget hotel in {Kota|location}  in {Mayur Resorts|hotel}
+{2|sys_number|room_count} {single room|room_type} in {Red Apple Resorts|hotel} at {Nagpur|location} for {3|sys_number|headcount}
+Anyone offering homestay in {Sirmaur|location} in {Kediyoor Hotels Private Limited|hotel}
+{7|sys_number|room_count} {deluxe suite|room_type} near {qutub minar|tourist_attraction} for {45|sys_number|headcount}
+Home stay in {Boudh (Bauda)|location}
+Give me a list of affordable hotels in {ahmednagar|location}  in {Shri Sai Palace|hotel}
+Give me some information about luxury hotels in {Pithoragarh|location} in {Guru Simar Lodge|hotel}
+Can you suggest me some budget hotels in {Viluppuram|location}? in {Sky Rooftop Cafe & Restaurant|hotel}
+Hotel with exotic locations in {latur|location} 
+Place to stay in {latur|location} at low price
+Which hotel do you recommend to stay in {East Garo Hills|location} in {Bittu Rajpoot|hotel}
+find me {highest rated|homestay_filters}  {4|sys_number|room_count} {Triple room|room_type} near {red fort|tourist_attraction} for {3|sys_number|headcount} in {Ibankordor Jungle Resort|hotel}
+ Recommend me some hotel options in {Idukki|location} in {Hotel Almond Leaf|hotel}
+Help me plan my accommodation during my tour to {Washim|location} in {Xomotel Sunita Himalayan Paradise, Kausani|hotel}
+Finest {Shukrana Resort|hotel} in {Rajkot|location}
+Cheap {junior suite|room_type} in {Yanam|location} for {3|sys_number|headcount}
+Recommend me some famous hotels in {Boudh (Bauda)|location} in {H.K.Choudhary Paying Guest House|hotel}
+Can you help me find a place to stay in {ahmednagar|location}
+Famous hotels in {Churu|location} in {Hotel Balaji Palace|hotel}
+Can you suggest me a good hotel to stay with family in {Kottayam|location} 
+{great|homestay_filters}  budget hotel in {Delhi|location}
+Can you help me with hotel room booking in {Mahbubnagar |location}
+Suggest me some good places to stay in {Tirap|location} in {Janta Palace|hotel}
+Can I find any place to stay in {delhi|location} in {Hotel Rajatdeep|hotel}
+Hotel with {good reviews|homestay_filters}  in {Tonk|location} in {Rare Eastern Dining|hotel}
+Home stay in {ahmednagar|location} in {Hotel Gulamrg|hotel}
+Can you suggest me which hotel should I prefer for staying in {Jind|location} for three people  in {Goli Vada Pav Plus Zam Zam G.S.Bakery|hotel}
+{deluxe suite|room_type} near {qutub minar|tourist_attraction} for {45|sys_number|headcount} in {Best Mist|hotel}
+Hotel with {best rated|homestay_filters}  in {akola|location}
+Can you help me find a place to stay in {Fatehabad|location} for {4|sys_number|headcount} in {Welcomhotel Vadodara|hotel}
+Which is the {first|homestay_filters}  hotel in {agra|location} in {Hotel City Pride|hotel}
+hotels close to {Taj Mahal|tourist_attraction} in {Verma Hotel-Power Ganj Chowk|hotel}
+Help me find a {Presidential suite|room_type} at {highest grossing|homestay_filters}  price in {Ludhiana|location}
+Can you find me a {highest rated|homestay_filters} hotel in {Nawada|location} in {Grand Mercure Vadodara Surya Palace|hotel}
+Check reviews of hotels in {Tirupur|location}
+Recommend me a few popular hotels of {Firozpur |location} in {Vaishnavi-Sudhagad|hotel}
+Can you help me with hotel booking in {Katihar|location} 
+Find me a homestay in {Thrissur|location}  for three people
+Hotel with exotic locations in {latur|location} 
+Can you help me with hotel booking in {Katihar|location} 
+find me {highest rated|homestay_filters}  {4|sys_number|room_count} {Triple room|room_type} near {red fort|tourist_attraction} for {3|sys_number|headcount} in {Hotel Kalai|hotel}
+Please help me find a good hotel in {Ajitgarh (Mohali)l|location}for {5|sys_number|headcount} in {Subhadra Guest House|hotel}
+Check hotel availability in {Mumbai |location} in {Mon Repos - Kodaikanal|hotel}
+Suggest me some accomodation options in {agra|location} in {Mayura Lodge|hotel}
+Find me a {single room|room_type} with {most successful|homestay_filters}  price and discounts in {aizawl|location} in {Shri Lakshmi Bhavan|hotel}
+Suggest me a good hotel in {agra|location} in {Bamaeri Resort|hotel}
+Help me plan my accommodation during my tour to {Washim|location} in {Hotel Shivneri|hotel}
+Can you tell me about the {what's new|homestay_filters}  place to stay in {delhi|location}
+Please let me know about room availability in {Mandla|location} on {25 January|sys_time|checkin} in {Hotel Punya Bhoomi|hotel}
+Can you tell me which is the most famous hotel in {Bishnupur|location} in {Oyo Rooms RT Nagar Main Road|hotel}
+{2|sys_number|room_count} {single room|room_type} in {Red Apple Resorts|hotel} at {Nagpur|location} for {3|sys_number|headcount}
+Reccomend me a hotel room with {classic|homestay_filters}  price and discount in {Chamba|location} in {Udayam Hotel|hotel}
+Recommend me a {penthouse|room_type} at {good review|homestay_filters}  price 
+Find me hotel room with nice view in {Warangal|location} in {Hotel Quality|hotel}
+Hotels availability on {monday|sys_time|checkin} to {tuesday|sys_time|checkout} in {Akash Kumar|hotel}
+Five star hotel in {Mehsana|location} in {Royal Sangamam|hotel}
+Most popular hotel in {Shajapur|location}
+Help me with {2|sys_number|room_count} {villa|room_type} booking in {Reasi |location} in {Izaut-de-l'H�tel, Occitanie, France|hotel}
+Help me find a right stay in {ahmednagar|location}
+Home stay in {Boudh (Bauda)|location}
+Can you help me choose the {old classic|homestay_filters}  hotel in {Ajitgarh (Mohali)l|location} for three people 
+Which hotel do you recommend me to stay in {agra|location}
+Home stay in {Boudh (Bauda)|location}
+Where to stay in {Mahe|location} from {today|sys_time|checkin} to {saturday|sys_time|checkout} in {Shrilok Heritage Resort & Club|hotel}
+Help me find a {Standard suite|room_type} with {first|homestay_filters}  price and discounts in {Chandrapur|location} in {Ashoka Deluxe Lodge|hotel}
+Check hotel availability and accessibility in {Dadra and Nagar Haveli |location} in {Nordaling Guest House Keylong|hotel}
+Place to stay in {Akola|location}at low price in {Xtaylish King Allu Arjun|hotel}
+{successful|homestay_filters} Hotel in {Vizianagaram|location} in {Abi's Inn|hotel}
+Help me find a {Presidential suite|room_type} at {highest grossing|homestay_filters}  price in {Ludhiana|location}
+Find me a {Executive suite|room_type} with {new|homestay_filters}  price and discounts in {Cachar|location} in {Sanjoy Lodge|hotel}
+Find a hotel room at {most recently visited|homestay_filters}  price in {aizawl|location}
+Suggest me a good luxury hotel in {agra|location} in {Starlit Palace-Zira|hotel}
+Where to stay in {Bhopal|location}
+Can you help me with hotel room booking in {Mahbubnagar |location}
+Which is the {best rated|homestay_filters} hotel in {Lohardaga|location} in {Sri Palaniappa Lodge|hotel}
+Which is the {lowest rated|homestay_filters}  hotel in {Sonitpur|location}
+Check hotel availability and accessibility in {Dadra and Nagar Haveli |location} in {Vijay Dhaba|hotel}
+Find some hotels in {old classic|homestay_filters}  areas of {Yadgir|location} in {Havngo|hotel}
+{deluxe suite|room_type} near {qutub minar|tourist_attraction} for {45|sys_number|headcount} in {Hotel Royal Palace,Mahendergarh|hotel}
+Suggest me a good hotel in {Khammam|location}
+Reccomend me a {junior suite|room_type} with {popular|homestay_filters}  price and discount in {aizawl|location} in {Swathihotel|hotel}
+Find me a hotel with {good review|homestay_filters}  from customer in {Vidisha|location}
+In which hotel should I stay in {Koppal|location} in {Pearl Residency Mandla|hotel}
+find me {highest rated|homestay_filters}  {4|sys_number|room_count} {Triple room|room_type} near {red fort|tourist_attraction} for {3|sys_number|headcount} in {Hotel Mansons Plaza-Aalo|hotel}
+{7|sys_number|room_count} {deluxe suite|room_type} near {qutub minar|tourist_attraction} for {45|sys_number|headcount}
+Please help me find a good hotel in {Ajitgarh (Mohali)l|location}for {5|sys_number|headcount} in {Hotel Atithi|hotel}
+Please let me know about room availability in {Mandla|location} on {25 January|sys_time|checkin} in {Hotel Krishna $ Restaurant|hotel}
+Can you tell me which hotel should I prefer for staying in {Banglore|location} for {20|sys_number|headcount} people
+Hotels availability on {monday|sys_time|checkin} to {tuesday|sys_time|checkout} in {Oyo 66194 Hotel Veggie Aman|hotel}
+Hotel with {best rated|homestay_filters}  in {akola|location}
+Can you help me find out a hotel in {Chennai|location} for three people in {Namesta Hotel|hotel}
+Find me a {Executive suite|room_type} with {new|homestay_filters}  price and discounts in {Cachar|location} in {Gurjar|hotel}
+I want to book {double room|room_type} in {Shiva Guest House|hotel} for {6|sys_number|headcount} persons
+{villa|room_type} near {kedarnath|tourist_attraction} for {2|sys_number|headcount} in {Hotel Gaurav|hotel}
+Cheap hotel room in {Solapur|location} from {monday|sys_time|checkin}
+{villa|room_type} near {Badrinath|tourist_attraction}
+In which hotel should I stay in {aizawl|location}
+Suggest me a {joint room|room_type} at {best|homestay_filters}  price in {aizawl|location}
+Can you find me a hotel in {delhi|location}
+Find me a seven star hotel in {Kohima|location}
+Suggest me a {double room|room_type} with {old classic|homestay_filters}  price and discount in {aizawl|location} in {Standard Room in Badrianth|hotel}
+Where is it possible to book rooms at the {hot|homestay_filters}  price in  {Bhandara|location} in {H.K.Choudhary Paying Guest House|hotel}
+Can you help me find a perfect place to stay in {Jamnagar|location} 
+Cheap home stay in {Nadia|location}
+Suggest me a good hotel in {Khammam|location}
+Which is the most popular place to stay in {Seraikela Kharsawan|location}
+Suggest me some good places to stay in {Tirap|location} in {ROXY|hotel}
+How much a stay in {Lucknow|location} cost for {5|sys_number|headcount} from {monday|sys_time|checkin} in {Hotel Tirupati Lodge-Siroha|hotel}
+{5|sys_number|room_count} {deluxe suite|room_type} near {qutub minar|tourist_attraction}
+Hotel with {good reviews|homestay_filters}  in {Tonk|location} in {Bluebay 02 Bhitarkanika Gupti|hotel}
+Where is it possible to book rooms at the {best-rated|homestay_filters}  price in  {aizawl|location} in {Hotel Utsav Inn|hotel}
+Suggest me a {Standard suite|room_type} at {old|homestay_filters}  price in {Farrukhabad|location}
+Can you suggest me some budget hotels in {Viluppuram|location}? in {Shalimar Restaurant|hotel}
+Home stay in {ahmednagar|location} in {Farmers Hostel|hotel}
+Help me find a {Presidential suite|room_type} at {highest grossing|homestay_filters}  price in {Ludhiana|location}
+Help me find a {Presidential suite|room_type} at {highest grossing|homestay_filters}  price in {Ludhiana|location}
+Which is the most famous hotel in {Hanumangarh|location}
+Where is it possible to book rooms at the {hot|homestay_filters}  price in  {Bhandara|location} in {Shri Maya Hotel-Sindhi Basti|hotel}
+What about my accomodation in {Kaushambi|location}
+{brand new|homestay_filters}  place to stay in {delhi|location} in {december|sys_time|checkin} in {Sant Josef Palana Ghar|hotel}
+Find me a {Executive suite|room_type} with {new|homestay_filters}  price and discounts in {Cachar|location} in {Achi-Shanmugapuram|hotel}
+Give me a list of affordable hotels in {ahmednagar|location}  in {Swathihotel|hotel}
+Find a hotel for {3|sys_number|headcount} in {Hotel Baskar Lodge|hotel}
+Can you help me with hotel booking in {Katihar|location} 
+Suggest me a good luxury hotel in {agra|location} in {Srivani Hotel-Sonarpal|hotel}
+What about my accomodation in {Kaushambi|location}
+{New Star Hotel|hotel} in {Nabarangpur|location} in {The Green Village|hotel}
+Which hotel do you recommend to stay in {agra|location}
+Where to stay in {ahmednagar|location} for two days
+Hotel with exotic locations in {latur|location} 
+Which is the {lowest rated|homestay_filters}  hotel in {Sonitpur|location}
+{top-rated|homestay_filters}  place to stay in {Buldhana|location}
+Home stay in {ahmednagar|location} in {Hotel Tuli International|hotel}
+Where to stay in {Mahe|location} from {today|sys_time|checkin} to {saturday|sys_time|checkout} in {Hotel 100 Petals|hotel}
+What about my accomodation in {delhi|location} in {Shri Maya Hotel-Sindhi Basti|hotel}
+Hotel with exotic locations in {latur|location} 
+Which hotel do you recommend me to stay in {Balangir|location} in {Yadav Line Hotel,Madhepura|hotel}
+ Recommend me some hotel options in {Idukki|location} in {The Olive Restaurant, Bodhgaya|hotel}
+hotels near {red fort|tourist_attraction}
+Help me with hotel booking in {ahmednagar |location}
+Help me with {2|sys_number|room_count} {villa|room_type} booking in {Reasi |location} in {Spot on 66706 Greenland Resort|hotel}
+Can you suggest me which hotel should I prefer for staying in {Ajitgarh (Mohali)l|location} for {34|sys_number|headcount} people  in {Pingara- Veg & Nonveg Multi Cuisine Family Restaurant|hotel}
+What about my stay in {Kolar|location} 
+Cheap home stay in {Nadia|location}
+{successful|homestay_filters} Hotel in {Vizianagaram|location} in {Kannan Hotel|hotel}
+Show me {best reviewed|homestay_filters}  stay options in {Bhagalpur|location} in {Hotel Naidu Grand|hotel}
+What about homestay in {Kishanganj|location} in {Oyo 10162 Home Modern Studio South Goa|hotel}
+Can you help me with hotel booking in {Katihar|location} 
+Where to stay in {delhi|location} in {Hotel Sawdia Palace-Bargarh|hotel}
+Help me with hotel booking in {ahmednagar |location}
+Can you help me with hotel booking in {ahmednagar|location}  in {Hotel Rama|hotel}

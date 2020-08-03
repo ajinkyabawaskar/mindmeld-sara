@@ -18,10 +18,11 @@ def send_recommendations(request, responder):
                 for location in locations['locations']:
                     display = display + '\n'+location['name']+' in '+location['city']+'\nMore: '+location['url']
                 responder.slots['display'] = display
-                responder.reply('{desc}{display}')
+                responder.frame['expecting_action_on_ta'] = True
+                responder.reply('{desc}{display} Where would you like to visit?')
             except:
-                responder.reply('No locations for {experiences}')
+                responder.reply('Oops! I know of no locations for {experiences}. 🤧')
         else:
-            responder.reply("Oops! Something went wrong.")
+            responder.reply("Oops! Something went wrong. 🥵")
     except:
-        responder.reply("There are lots of places worth a visit in India. Try including your interests like shopping, spirituality, yoga, culture or perhaps scuba diving!")
+        responder.reply("There are lots of places worth a visit in India. Try including your interests like shopping, spirituality, yoga, culture or perhaps scuba diving! 🤿")

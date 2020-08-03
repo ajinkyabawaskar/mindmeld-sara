@@ -85,10 +85,10 @@ class WhatsappBotServer:
             for i in range(len(url_list)):
                 # print(url_list[i][-3:])
                 if url_list[i][-3:] == "png" or url_list[i][-3:] == "jpg":
-                    media_url = url_list[i]
+                    extracted_image_url = url_list[i]
             
             msg.body(response_text) 
-            msg.media(media_url)
+            msg.media(extracted_image_url)
             return str(resp)
 
     def run(self, host="localhost", port=7150):

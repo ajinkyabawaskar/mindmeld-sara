@@ -10,7 +10,6 @@ from mindmeld.components import NaturalLanguageProcessor
 from mindmeld.components.dialogue import Conversation
 from mindmeld import configure_logs
 
-# client = Client(os.environ['TWILIO_ACCOUNT_SID'], os.environ['TWILIO_AUTH_TOKEN'])
 class WhatsappBotServer:
     """
     A sample server class for Whatsapp integration with any MindMeld application
@@ -33,46 +32,12 @@ class WhatsappBotServer:
         self.conv = Conversation(nlp=self.nlp, app_path=app_path)
         self.logger = logging.getLogger(__name__)
 
-        # if not client:
-        #     self.client = Client(os.environ['TWILIO_ACCOUNT_SID'], os.environ['TWILIO_AUTH_TOKEN'])
-        # else:
-        #     self.client = client
-
-
         @self.app.route("/", methods=["POST"])
         def handle_message():  # pylint: disable=unused-variable
             incoming_msg = request.values.get('Body', '').lower()
             resp = MessagingResponse()
             msg = resp.message()
 
-            # doing just to skip training dataset later remove and just implement on response_text functionality
-            # if incoming_msg == "test media":
-            #     # creating rest client instance
-            #     try:
-            #         # this is the Twilio sandbox testing number
-            #         from_whatsapp_number='whatsapp:+14155238886'
-            #         # replace this number with your personal WhatsApp Messaging number
-            #         to_whatsapp_number='whatsapp:+919977216617'
-            #         # the below image_url will be extracted from responnse_text
-            #         image_url = 'https://cdn.pixabay.com/photo/2015/03/15/11/34/house-674244_960_720.jpg'
-
-            #         try:
-            #             message = client.messages.create(body='check out this beautiful penthouse',
-            #                     media_url= image_url,
-            #                     from_=from_whatsapp_number,
-            #                     to=to_whatsapp_number)
-            #         except:
-            #             msg.body("msg me dikkat hai kuch toh!")                            
-            #             return str(resp)                     
-
-            #         msg.body("did everything but no reply")                            
-            #         msg.media("https://pbs.twimg.com/profile_images/1274045729170808833/2vT239Ac_400x400.jpg")
-            #         return str(resp)                                                           
-            #     except:
-            #         msg.body("We understood test media but error aa gaya")                    
-            #         return str(resp)
-            # else:
-            # getting 
             response_text = self.conv.say(incoming_msg)[0]
             def extract_URL(response_text): 
                 # defining regular expression to extract url
@@ -86,14 +51,21 @@ class WhatsappBotServer:
             for i in range(len(url_list)):
                 # print(url_list[i][-3:])
                 if url_list[i][-3:] == "png" or url_list[i][-3:] == "jpg":                
-                    extracted_image_url = url_list[i]
+                    extracted_image_url = url_list[i]                
 
             # setting msg body 
-            msg.body(response_text)                     
+            try:            
+                for l in url_list:
+                    if url_list[i][-3:] == "png" or url_list[i][-3:] == "jpg":
+                        response_text = response_text.replace(l,"")      
+            except:
+                pass
+                
+            msg.body(response_text)                                       
             # cheking for media availability
             try:
                 if extracted_image_url != "":
-                    msg.media(extracted_image_url)
+                    msg.media(extracted_image_url)                
             except:
                 msg.body("URL issues")                    
             # returning response ti whatsapp

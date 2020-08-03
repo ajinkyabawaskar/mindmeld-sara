@@ -65,7 +65,7 @@ class WhatsappBotServer:
                         return str(resp)                     
 
                     msg.body("did everything but no reply")                            
-                    # msg.media_url("https://pbs.twimg.com/profile_images/1274045729170808833/2vT239Ac_400x400.jpg")
+                    msg.media("https://pbs.twimg.com/profile_images/1274045729170808833/2vT239Ac_400x400.jpg")
                     return str(resp)                                                           
                 except:
                     msg.body("We understood test media but error aa gaya")                    

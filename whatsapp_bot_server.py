@@ -86,9 +86,16 @@ class WhatsappBotServer:
                 # print(url_list[i][-3:])
                 if url_list[i][-3:] == "png" or url_list[i][-3:] == "jpg":
                     extracted_image_url = url_list[i]
-            
-            msg.body(response_text) 
-            msg.media(extracted_image_url)
+
+            # setting msg body 
+            msg.body(response_text)                     
+            # cheking for media availability
+            try:
+                if extracted_image_url not "":
+                    msg.media(extracted_image_url)
+            except:
+                msg.body("We understood test media but error aa gaya")                    
+            # returning response ti whatsapp
             return str(resp)
 
     def run(self, host="localhost", port=7150):

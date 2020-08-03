@@ -40,6 +40,8 @@ Give me list of luxury hotels in {South Tripura|location}  in {Havngo|hotel}
 Give me list of luxury hotels in {ahmednagar|location} 
 Help me plan my stay at {Jodhpur|location}
 hotel hotel hotel hotel hotel
+hotels at {taj mahal|tourist_attraction}
+{red fort|tourist_attraction}
 {deluxe suite|room_type} near {qutub minar|tourist_attraction} in {Sri Mudhaliyar Hotel|hotel}
 Find some hotels in {old classic|homestay_filters}  areas of {Yadgir|location} in {Hotel Shyam Utsav|hotel}
 Can you help me with hotel booking in {Katihar|location} 

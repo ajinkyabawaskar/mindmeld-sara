@@ -125,8 +125,51 @@ def say_goodbye(request, responder):
         responder.reply('No probs. Would you like to find hotels there?')
     else:
         # Respond with a random selection from one of the canned "goodbye" responses.
-        responder.frame = {}
-        responder.reply(['Bye! 👋', 'Goodbye! 👋', 'Have a nice day. 👋', 'See you later. 👋'])
+        responder.frame['hotel_to_recommended_destination'] = False
+        byes = ['Bye! 👋', 'Alvida! 👋','Sayonara! 👋','Bye! We will be waiting for you! 👋', 'Goodbye! 👋', 'Have a nice day. 👋', 'See you later. 👋']
+        try:
+            if responder.frame.get('destination'):
+                location = responder.frame.get('destination')
+                # fetch and show local businesses here.
+            elif responder.frame.get('recommended_destination'):
+                location = responder.frame.get('recommended_destination')
+                # fetch and show local businesses here.
+            if location:
+                business_url = 'https://myacademic.space/local-business/?apiKey=761b43d33fc96a69e58d0f281eb68742'
+                business_url = business_url + '&location='+location
+                response = requests.get(business_url)
+                if response.status_code == 200:
+                    businesses = response.json()
+                    try:
+                        businesses = businesses[0]
+                        responder.slots['name'] = businesses['name']
+                        responder.slots['address'] = businesses['address']
+                        responder.slots['location'] = businesses['location']
+                        responder.slots['type'] = businesses['type']
+                        responder.slots['products'] = businesses['products']
+                        responder.slots['opens'] = businesses['opens']
+                        responder.slots['closes'] = businesses['closes']
+                        responder.slots['avg_price'] = businesses['amount']
+                        responder.slots['contact'] = businesses['contact']
+                        responder.slots['images'] = businesses['url']                        
+                        responder.frame = {}
+                        responder.reply('Before you go, check out this business by {name}\n'
+                                        '{name} is a {type} sized company that sells {products} '
+                                        'which cost somewhere around {avg_price}. If you happen to visit '
+                                        '{location}, do give them a visit! Their store opens at {opens} and closes by {closes}. '
+                                        'You can contact {name} here {contact}. {images}')
+                    except:
+                        responder.frame = {}
+                        responder.reply(byes)
+                else:
+                    responder.frame = {}
+                    responder.reply(byes)
+            else:
+                responder.frame = {}
+                responder.reply(byes)
+        except:
+            responder.frame = {}
+            responder.reply(byes)
     
 @app.handle(intent='unsupported')
 def say_unsupported(request, responder):

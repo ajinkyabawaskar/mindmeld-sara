@@ -337,7 +337,7 @@ def send_flights_to(request, responder):
                 display = display+'\n'+'⏰ Departs '+a_flight['departure_time'][12:]+' · '+a_flight['airline']+' · ₹ '+str(a_flight['price'])
             responder.slots['flights'] = display
             responder.frame['hotel_to_recommended_destination'] = True
-            responder.reply('✈️ Here you go: {source_airport} - {destination_airport}{flights}\nWould you like to find hotels next?')
+            responder.reply('✈️ Here you go: {source_airport} - {destination_airport}{flights}\n😷 Please take safety precautions as suggested by the local authorities.\nWould you like to find hotels next?')
         else:
             responder.reply("There are no flights available at the given location. Please try again with differnt location.")
     else:

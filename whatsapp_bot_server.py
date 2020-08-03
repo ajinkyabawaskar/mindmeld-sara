@@ -82,19 +82,20 @@ class WhatsappBotServer:
                 return [URL_List[0] for URL_List in url] 
 
             url_list = extract_URL(response_text)
+            extracted_image_url = ""
             for i in range(len(url_list)):
                 # print(url_list[i][-3:])
-                if url_list[i][-3:] == "png" or url_list[i][-3:] == "jpg":
+                if url_list[i][-3:] == "png" or url_list[i][-3:] == "jpg":                
                     extracted_image_url = url_list[i]
 
             # setting msg body 
             msg.body(response_text)                     
             # cheking for media availability
             try:
-                if extracted_image_url not "":
+                if extracted_image_url != "":
                     msg.media(extracted_image_url)
             except:
-                msg.body("We understood test media but error aa gaya")                    
+                msg.body("URL issues")                    
             # returning response ti whatsapp
             return str(resp)
 

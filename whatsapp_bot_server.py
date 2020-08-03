@@ -53,11 +53,11 @@ class WhatsappBotServer:
                     # replace this number with your personal WhatsApp Messaging number
                     to_whatsapp_number='whatsapp:+919977216617'
                     # the below image_url will be extracted from responnse_text
-                    image_url = 'https://pbs.twimg.com/profile_images/1274045729170808833/2vT239Ac_400x400.jpg'
+                    image_url = 'https://cdn.pixabay.com/photo/2015/03/15/11/34/house-674244_960_720.jpg'
 
                     try:
-                        message = client.messages.create(body='its your twitter profile right, Yash?',
-                                media_url='https://pbs.twimg.com/profile_images/1274045729170808833/2vT239Ac_400x400.jpg',
+                        message = client.messages.create(body='check out this beautiful penthouse',
+                                media_url= image_url,
                                 from_=from_whatsapp_number,
                                 to=to_whatsapp_number)
                     except:
@@ -65,8 +65,8 @@ class WhatsappBotServer:
                         return str(resp)                     
 
                     msg.body("did everything but no reply")                            
-                    msg.media_url("https://pbs.twimg.com/profile_images/1274045729170808833/2vT239Ac_400x400.jpg")
-                    return resp                                                           
+                    # msg.media_url("https://pbs.twimg.com/profile_images/1274045729170808833/2vT239Ac_400x400.jpg")
+                    return str(resp)                                                           
                 except:
                     msg.body("We understood test media but error aa gaya")                    
                     return str(resp)
